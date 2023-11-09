@@ -1,0 +1,2452 @@
+[
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0022.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0022-full.png",
+    "description": "Wenn du deinen zweiten Zauber in einer Runde ausspielst, gib deinem <link=vocab.Strongest><style=Vocab>stärksten</style></link> Verbündeten in dieser Runde +8|+8.",
+    "descriptionRaw": "Wenn du deinen zweiten Zauber in einer Runde ausspielst, gib deinem stärksten Verbündeten in dieser Runde +8|+8.",
+    "name": "Geist des Drachen II",
+    "powerCode": "P0022",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0023.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0023-full.png",
+    "description": "+1 Startmana.<br><link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Erschaffe 1 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtiges</style></link> <link=card.self><style=AssociatedCard>Zwillingsdisziplinen</style></link> auf der Hand.",
+    "descriptionRaw": "+1 Startmana.Rundenbeginn: Erschaffe 1 flüchtiges Zwillingsdisziplinen auf der Hand.",
+    "name": "Erweitere deine Sinne",
+    "powerCode": "P0023",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0020.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0020-full.png",
+    "description": "Wenn du deinen zweiten Zauber in einer Runde ausspielst, gib deinem <link=vocab.Strongest><style=Vocab>stärksten</style></link> Verbündeten in dieser Runde +4|+4.",
+    "descriptionRaw": "Wenn du deinen zweiten Zauber in einer Runde ausspielst, gib deinem stärksten Verbündeten in dieser Runde +4|+4.",
+    "name": "Geist des Drachen",
+    "powerCode": "P0020",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0176.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0176-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Erschaffe 1 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtige</style></link> <link=card.self><style=AssociatedCard>Eiserne Entschlossenheit</style></link> auf der Hand. Sie kostet 0.",
+    "descriptionRaw": "Rundenbeginn: Erschaffe 1 flüchtige Eiserne Entschlossenheit auf der Hand. Sie kostet 0.",
+    "name": "Täuschend tödlich II",
+    "powerCode": "P0176",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0174.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0174-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Erschaffe 1 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtige</style></link> <link=card.self><style=AssociatedCard>Eiserne Entschlossenheit</style></link> auf der Hand. Sie kostet 1 weniger.",
+    "descriptionRaw": "Rundenbeginn: Erschaffe 1 flüchtige Eiserne Entschlossenheit auf der Hand. Sie kostet 1 weniger.",
+    "name": "Täuschend tödlich",
+    "powerCode": "P0174",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0175.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0175-full.png",
+    "description": "+1 Startmana.<br>Wenn du in diesem Spiel einen Champion auf die nächste Stufe gebracht hast und wenn Verbündete angreifen, beschwöre 1 angreifende <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>vergängliche</style></link> <link=card.self><style=AssociatedCard>LeBlanc</style></link>.",
+    "descriptionRaw": "+1 Startmana.Wenn du in diesem Spiel einen Champion auf die nächste Stufe gebracht hast und wenn Verbündete angreifen, beschwöre 1 angreifende vergängliche LeBlanc.",
+    "name": "Überall und jedermann",
+    "powerCode": "P0175",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0131.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0131-full.png",
+    "description": "Spielstart: Beschwöre 1 <link=card.self><style=AssociatedCard>Schlafender Felsenbär</style></link>. Verbündete haben +1|+1 und <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Überwältigen</style></link>.",
+    "descriptionRaw": "Spielstart: Beschwöre 1 Schlafender Felsenbär. Verbündete haben +1|+1 und Überwältigen.",
+    "name": "Guten Morgen, Muffel! II",
+    "powerCode": "P0131",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0130.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0130-full.png",
+    "description": "+1 Startmana.<br>Wenn ein verbündetes Wahrzeichen zerstört wird, gewähre Verbündeten +1|+0.",
+    "descriptionRaw": "+1 Startmana.Wenn ein verbündetes Wahrzeichen zerstört wird, gewähre Verbündeten +1|+0.",
+    "name": "Wiederverwerteter Stein",
+    "powerCode": "P0130",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0129.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0129-full.png",
+    "description": "Spielstart: Beschwöre 1 <link=card.self><style=AssociatedCard>Schlafender Felsenbär</style></link>.",
+    "descriptionRaw": "Spielstart: Beschwöre 1 Schlafender Felsenbär.",
+    "name": "Guten Morgen, Muffel!",
+    "powerCode": "P0129",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0149.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0149-full.png",
+    "description": "Verbündete haben „<link=keyword.Daybreak><style=Keyword>Tagesanbruch</style></link> oder wenn du einen anderen <link=keyword.Daybreak><style=Keyword>Tagesanbruch</style></link> aktivierst: Gewähre mir +1|+1“.",
+    "descriptionRaw": "Verbündete haben „Tagesanbruch oder wenn du einen anderen Tagesanbruch aktivierst: Gewähre mir +1|+1“.",
+    "name": "Sonnenenergie II",
+    "powerCode": "P0149",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0148.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0148-full.png",
+    "description": "+1 Startmana.<br>Wenn du einen verbündeten Champion auf die nächste Stufe bringst, erschaffe 1 <link=card.self><style=AssociatedCard>Morgenlicht</style></link> mit 0 Kosten auf der Hand.",
+    "descriptionRaw": "+1 Startmana.Wenn du einen verbündeten Champion auf die nächste Stufe bringst, erschaffe 1 Morgenlicht mit 0 Kosten auf der Hand.",
+    "name": "Lohn der Gläubigkeit",
+    "powerCode": "P0148",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0147.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0147-full.png",
+    "description": "Verbündete haben „<link=keyword.Daybreak><style=Keyword>Tagesanbruch</style></link>: Gewähre mir +1|+1“.",
+    "descriptionRaw": "Verbündete haben „Tagesanbruch: Gewähre mir +1|+1“.",
+    "name": "Sonnenenergie",
+    "powerCode": "P0147",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0208.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0208-full.png",
+    "description": "+1 Startmana.<br><link=card.self><style=AssociatedCard>Thresh</style></link> kostet 1 weniger für jeden Verbündeten, den du in diesem Spiel besiegt hast.",
+    "descriptionRaw": "+1 Startmana.Thresh kostet 1 weniger für jeden Verbündeten, den du in diesem Spiel besiegt hast.",
+    "name": "Lass uns spielen",
+    "powerCode": "P0208",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0207.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0207-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Gewähre einem zufälligen Verbündeten +1|+1 für jeden Verbündeten, der in der letzten Runde gestorben ist.",
+    "descriptionRaw": "Rundenbeginn: Gewähre einem zufälligen Verbündeten +1|+1 für jeden Verbündeten, der in der letzten Runde gestorben ist.",
+    "name": "Genieße die Schreie",
+    "powerCode": "P0207",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0209.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0209-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Gewähre für jeden Verbündeten, der in der letzten Runde gestorben ist, einem zufälligen Verbündeten +1|+1 und die Schlüsselwörter des toten Verbündeten.",
+    "descriptionRaw": "Rundenbeginn: Gewähre für jeden Verbündeten, der in der letzten Runde gestorben ist, einem zufälligen Verbündeten +1|+1 und die Schlüsselwörter des toten Verbündeten.",
+    "name": "Genieße die Schreie II",
+    "powerCode": "P0209",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0032.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0032-full.png",
+    "description": "+1 Startmana.<br>Wenn ein Verbündeter <link=vocab.Strike><style=Vocab>zuschlägt</style></link>, gewähre ihm +1|+0.",
+    "descriptionRaw": "+1 Startmana.Wenn ein Verbündeter zuschlägt, gewähre ihm +1|+0.",
+    "name": "Niemals stumpf",
+    "powerCode": "P0032",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0036.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0036-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: <link=keyword.Stun><sprite name=Stunned><style=Keyword>Betäube</style></link> den <link=vocab.Strongest><style=Vocab>stärksten</style></link> Gegner.",
+    "descriptionRaw": "Rundenbeginn: Betäube den stärksten Gegner.",
+    "name": "Folge dem Wind II",
+    "powerCode": "P0036",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0033.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0033-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Wenn du die Angriffsmarke hast, <link=keyword.Stun><sprite name=Stunned><style=Keyword>betäube</style></link> den <link=vocab.Strongest><style=Vocab>stärksten</style></link> Gegner.",
+    "descriptionRaw": "Rundenbeginn: Wenn du die Angriffsmarke hast, betäube den stärksten Gegner.",
+    "name": "Folge dem Wind",
+    "powerCode": "P0033",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0012.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0012-full.png",
+    "description": "Wenn ein Verbündeter <link=vocab.Strike><style=Vocab>zuschlägt</style></link>, gewähre ihm +2|+2.",
+    "descriptionRaw": "Wenn ein Verbündeter zuschlägt, gewähre ihm +2|+2.",
+    "name": "Die Macht Demacias II",
+    "powerCode": "P0012",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0010.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0010-full.png",
+    "description": "+1 Startmana.<br><link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Erschaffe 1 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtigen</style></link> <link=card.self><style=AssociatedCard>Einzelkampf</style></link> auf der Hand.",
+    "descriptionRaw": "+1 Startmana.Rundenbeginn: Erschaffe 1 flüchtigen Einzelkampf auf der Hand.",
+    "name": "Gerechtigkeit",
+    "powerCode": "P0010",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0008.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0008-full.png",
+    "description": "Wenn ein Verbündeter <link=vocab.Strike><style=Vocab>zuschlägt</style></link>, gewähre ihm +1|+1.",
+    "descriptionRaw": "Wenn ein Verbündeter zuschlägt, gewähre ihm +1|+1.",
+    "name": "Die Macht Demacias",
+    "powerCode": "P0008",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0153.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0153-full.png",
+    "description": "Wenn Verbündete angreifen, verstecke 5 <link=card.self><style=AssociatedCard>Giftige Poffpilze</style></link> im gegnerischen Deck.",
+    "descriptionRaw": "Wenn Verbündete angreifen, verstecke 5 Giftige Poffpilze im gegnerischen Deck.",
+    "name": "Bewaffnet und bereit",
+    "powerCode": "P0153",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0155.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0155-full.png",
+    "description": "Wenn Verbündete angreifen, verstecke 10 <link=card.self><style=AssociatedCard>Giftige Poffpilze</style></link> im gegnerischen Deck.",
+    "descriptionRaw": "Wenn Verbündete angreifen, verstecke 10 Giftige Poffpilze im gegnerischen Deck.",
+    "name": "Bewaffnet und bereit II",
+    "powerCode": "P0155",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0154.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0154-full.png",
+    "description": "+1 Startmana.<br> Wenn dein Gegner eine Karte mit einem oder mehr giftigen Poffpilzen zieht, erschaffe 1 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtigen</style></link> <link=card.self><style=AssociatedCard>Giftpfeil</style></link> auf der Hand. Sein Zaubertempo ist erhöht auf <link=keyword.Burst><sprite name=Burst><style=Keyword>Sofort</style></link>.",
+    "descriptionRaw": "+1 Startmana. Wenn dein Gegner eine Karte mit einem oder mehr giftigen Poffpilzen zieht, erschaffe 1 flüchtigen Giftpfeil auf der Hand. Sein Zaubertempo ist erhöht auf Sofort.",
+    "name": "Schnell zuschlagen",
+    "powerCode": "P0154",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0027.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0027-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Wenn du die Angriffsmarke hast, beschwöre 1 <link=card.self><style=AssociatedCard>Pulveräffchen</style></link>.",
+    "descriptionRaw": "Rundenbeginn: Wenn du die Angriffsmarke hast, beschwöre 1 Pulveräffchen.",
+    "name": "Nichts als Pulveräffchen",
+    "powerCode": "P0027",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0028.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0028-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Beschwöre 1 <link=card.self><style=AssociatedCard>Pulveräffchen</style></link>.",
+    "descriptionRaw": "Rundenbeginn: Beschwöre 1 Pulveräffchen.",
+    "name": "Nichts als Pulveräffchen II",
+    "powerCode": "P0028",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0029.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0029-full.png",
+    "description": "+1 Startmana.<br>Wenn Verbündete angreifen, ziehe eine Einheit.",
+    "descriptionRaw": "+1 Startmana.Wenn Verbündete angreifen, ziehe eine Einheit.",
+    "name": "Meistgesucht",
+    "powerCode": "P0029",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0140.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0140-full.png",
+    "description": "Verbündete haben „<link=keyword.Nightfall><style=Keyword>Nachteinbruch</style></link>: Gewähre mir +2|+0 und <link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>Direktangriff</style></link>. Wenn ich <link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>Direktangriff</style></link> bereits habe, gewähre mir stattdessen <link=keyword.Double Strike><sprite name=DoubleStrike><style=Keyword>Doppelangriff</style></link>“.",
+    "descriptionRaw": "Verbündete haben „Nachteinbruch: Gewähre mir +2|+0 und Direktangriff. Wenn ich Direktangriff bereits habe, gewähre mir stattdessen Doppelangriff“.",
+    "name": "Klinge der Ausgestoßenen II",
+    "powerCode": "P0140",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0139.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0139-full.png",
+    "description": "+1 Startmana. <br> Wenn du in einer Runde deine erste Karte ausspielst, fülle 1 Mana wieder auf. ",
+    "descriptionRaw": "+1 Startmana.  Wenn du in einer Runde deine erste Karte ausspielst, fülle 1 Mana wieder auf. ",
+    "name": "Zwielicht-Opfergabe",
+    "powerCode": "P0139",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0138.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0138-full.png",
+    "description": "Verbündete haben „<link=keyword.Nightfall><style=Keyword>Nachteinbruch</style></link>: Gewähre mir +2|+0“.",
+    "descriptionRaw": "Verbündete haben „Nachteinbruch: Gewähre mir +2|+0“.",
+    "name": "Klinge der Ausgestoßenen",
+    "powerCode": "P0138",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0145.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0145-full.png",
+    "description": "+1 Startmana.<br> Wenn in einem Spiel zum ersten Mal ein Verbündeter einen Gegner tötet und überlebt, erschaffe eine zufällige Ausrüstung der Düsteren auf der Hand. Sie kostet 2 weniger.",
+    "descriptionRaw": "+1 Startmana. Wenn in einem Spiel zum ersten Mal ein Verbündeter einen Gegner tötet und überlebt, erschaffe eine zufällige Ausrüstung der Düsteren auf der Hand. Sie kostet 2 weniger.",
+    "name": "Geeignetes Opfer",
+    "powerCode": "P0145",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0144.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0144-full.png",
+    "description": "Wenn eine verbündete Einheit eine andere Einheit tötet, gib diesem Verbündeten +1|+1 und heile ihn um 2.",
+    "descriptionRaw": "Wenn eine verbündete Einheit eine andere Einheit tötet, gib diesem Verbündeten +1|+1 und heile ihn um 2.",
+    "name": "Essenz ernten",
+    "powerCode": "P0144",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0146.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0146-full.png",
+    "description": "Wenn eine verbündete Einheit eine andere Einheit tötet, gib diesem Verbündeten +2|+2 und heile ihn vollständig. ",
+    "descriptionRaw": "Wenn eine verbündete Einheit eine andere Einheit tötet, gib diesem Verbündeten +2|+2 und heile ihn vollständig. ",
+    "name": "Essenz ernten II",
+    "powerCode": "P0146",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0218.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0218-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Erschaffe 1 <link=card.self><style=AssociatedCard>Finsternis</style></link> mit 0 Kosten auf der Hand.",
+    "descriptionRaw": "Rundenbeginn: Erschaffe 1 Finsternis mit 0 Kosten auf der Hand.",
+    "name": "Ich bin das Böse II",
+    "powerCode": "P0218",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0216.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0216-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Erschaffe 1 <link=card.self><style=AssociatedCard>Finsternis</style></link> auf der Hand oder senke ihre Kosten um 1, wenn du schon eine hast.",
+    "descriptionRaw": "Rundenbeginn: Erschaffe 1 Finsternis auf der Hand oder senke ihre Kosten um 1, wenn du schon eine hast.",
+    "name": "Ich bin das Böse",
+    "powerCode": "P0216",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0217.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0217-full.png",
+    "description": "+1 Startmana.<br>Das Tempo deiner <link=card.self><style=AssociatedCard>Finsternis</style></link> wird auf <link=keyword.Burst><sprite name=Burst><style=Keyword>Sofort</style></link> erhöht.",
+    "descriptionRaw": "+1 Startmana.Das Tempo deiner Finsternis wird auf Sofort erhöht.",
+    "name": "Allmächtig",
+    "powerCode": "P0217",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0003.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0003-full.png",
+    "description": "Wenn du einen Verbündeten mit erhöhten Werten beschwörst, gewähre ihm ein zufälliges Schlüsselwort.",
+    "descriptionRaw": "Wenn du einen Verbündeten mit erhöhten Werten beschwörst, gewähre ihm ein zufälliges Schlüsselwort.",
+    "name": "Segen des Beschützers",
+    "powerCode": "P0003",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0005.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0005-full.png",
+    "description": "+1 Startmana.<br>Wenn du eine Karte mit einer Glocke ziehst, verstecke 1 <link=card.self><style=AssociatedCard>Glocke</style></link> in deinem Deck.",
+    "descriptionRaw": "+1 Startmana.Wenn du eine Karte mit einer Glocke ziehst, verstecke 1 Glocke in deinem Deck.",
+    "name": "Kosmische Präsenz",
+    "powerCode": "P0005",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0004.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0004-full.png",
+    "description": "Wenn du einen Verbündeten mit erhöhten Werten beschwörst, gewähre ihm zwei zufällige Schlüsselwörter.",
+    "descriptionRaw": "Wenn du einen Verbündeten mit erhöhten Werten beschwörst, gewähre ihm zwei zufällige Schlüsselwörter.",
+    "name": "Segen des Beschützers II",
+    "powerCode": "P0004",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0184.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0184-full.png",
+    "description": "+1 Startmana.<br><link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Gewähre deinem <link=vocab.Strongest><style=Vocab>stärksten</style></link> Gegner -1|-0.",
+    "descriptionRaw": "+1 Startmana.Rundenbeginn: Gewähre deinem stärksten Gegner -1|-0.",
+    "name": "Shurimanische Bewahrung",
+    "powerCode": "P0184",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0185.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0185-full.png",
+    "description": "<link=vocab.RoundEnd><style=Vocab>Rundenende</style></link>: Gewähre deinem <link=vocab.Strongest><style=Vocab>stärksten</style></link> Verbündeten +2|+2 für jede Einheit, die du in dieser Runde <link=vocab.Slay><style=Vocab>besiegt</style></link> hast. Sobald du 10+ Einheiten <link=vocab.Slay><style=Vocab>besiegt</style></link> hast, <link=vocab.SunDiscRestore><style=Vocab>erneuere die Sonnenscheibe</style></link>.",
+    "descriptionRaw": "Rundenende: Gewähre deinem stärksten Verbündeten +2|+2 für jede Einheit, die du in dieser Runde besiegt hast. Sobald du 10+ Einheiten besiegt hast, erneuere die Sonnenscheibe.",
+    "name": "Segen der Aufgestiegenen II",
+    "powerCode": "P0185",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0183.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0183-full.png",
+    "description": "<link=vocab.RoundEnd><style=Vocab>Rundenende</style></link>: Gewähre deinem <link=vocab.Strongest><style=Vocab>stärksten</style></link> Verbündeten +1|+1 für jede Einheit, die du in dieser Runde <link=vocab.Slay><style=Vocab>besiegt</style></link> hast.",
+    "descriptionRaw": "Rundenende: Gewähre deinem stärksten Verbündeten +1|+1 für jede Einheit, die du in dieser Runde besiegt hast.",
+    "name": "Segen der Aufgestiegenen",
+    "powerCode": "P0183",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0320.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0320-full.png",
+    "description": "Kopiere die ersten 2 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtigen</style></link> Einheiten oder Zauber, die du in einer Runde ausspielst.",
+    "descriptionRaw": "Kopiere die ersten 2 flüchtigen Einheiten oder Zauber, die du in einer Runde ausspielst.",
+    "name": "Zügellose Freude II",
+    "powerCode": "P0320",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0318.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0318-full.png",
+    "description": "Kopiere die erste <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtige</style></link> Einheit oder den ersten <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtigen</style></link> Zauber, den du in einer Runde ausspielst.",
+    "descriptionRaw": "Kopiere die erste flüchtige Einheit oder den ersten flüchtigen Zauber, den du in einer Runde ausspielst.",
+    "name": "Zügellose Freude",
+    "powerCode": "P0318",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0319.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0319-full.png",
+    "description": "+1 Startmana.<br>Erschaffe eine Kopie der ersten 2 Karten, die du in einer Runde abwirfst, in deinem Deck und ziehe dann zum nächsten <link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link> für jede abgeworfene Karte 1 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtige</style></link> Karte.",
+    "descriptionRaw": "+1 Startmana.Erschaffe eine Kopie der ersten 2 Karten, die du in einer Runde abwirfst, in deinem Deck und ziehe dann zum nächsten Rundenbeginn für jede abgeworfene Karte 1 flüchtige Karte.",
+    "name": "Wasseraufbereitung",
+    "powerCode": "P0319",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0007.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0007-full.png",
+    "description": "Wenn du in einer Runde zum ersten Mal einen Verbündeten beschwörst, gewähre ihm +2|+0.",
+    "descriptionRaw": "Wenn du in einer Runde zum ersten Mal einen Verbündeten beschwörst, gewähre ihm +2|+0.",
+    "name": "Noxianische Macht",
+    "powerCode": "P0007",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0009.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0009-full.png",
+    "description": "Wenn du in einer Runde zum ersten Mal einen Verbündeten beschwörst, gewähre ihm +4|+0 und <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Überwältigen</style></link>.",
+    "descriptionRaw": "Wenn du in einer Runde zum ersten Mal einen Verbündeten beschwörst, gewähre ihm +4|+0 und Überwältigen.",
+    "name": "Noxianische Macht II",
+    "powerCode": "P0009",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0006.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0006-full.png",
+    "description": "+1 Startmana.<br>Wenn du in einer Runde zum ersten Mal mit 15+ Gesamtstärke angreifst, <link=vocab.Rally><style=Vocab>mobilisiere</style></link> dich.",
+    "descriptionRaw": "+1 Startmana.Wenn du in einer Runde zum ersten Mal mit 15+ Gesamtstärke angreifst, mobilisiere dich.",
+    "name": "Schlagt eine Bresche",
+    "powerCode": "P0006",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0178.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0178-full.png",
+    "description": "+1 Startmana.<br><link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: <link=vocab.Flow><style=Vocab>Fluss</style></link>: Gib deinem <link=vocab.Strongest><style=Vocab>stärksten</style></link> Verbündeten in dieser Runde <link=keyword.Elusive><sprite name=Elusive><style=Keyword>Ungreifbar</style></link>.",
+    "descriptionRaw": "+1 Startmana.Rundenbeginn: Fluss: Gib deinem stärksten Verbündeten in dieser Runde Ungreifbar.",
+    "name": "Emai",
+    "powerCode": "P0178",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0179.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0179-full.png",
+    "description": "Wenn du einen nicht-<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtigen</style></link> Zauber ausspielst, erschaffe 1 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtiges</style></link> <link=card.self><style=AssociatedCard>Zwillingsdisziplinen</style></link> mit 1 Kosten auf der Hand.<br><link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: <link=vocab.Flow><style=Vocab>Fluss</style></link>: Gewähre Verbündeten +1|+1.",
+    "descriptionRaw": "Wenn du einen nicht-flüchtigen Zauber ausspielst, erschaffe 1 flüchtiges Zwillingsdisziplinen mit 1 Kosten auf der Hand.Rundenbeginn: Fluss: Gewähre Verbündeten +1|+1.",
+    "name": "Körper und Geist II",
+    "powerCode": "P0179",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0177.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0177-full.png",
+    "description": "Wenn du einen nicht-<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtigen</style></link> Zauber ausspielst, erschaffe 1 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtiges</style></link> <link=card.self><style=AssociatedCard>Zwillingsdisziplinen</style></link> mit 1 Kosten auf der Hand.",
+    "descriptionRaw": "Wenn du einen nicht-flüchtigen Zauber ausspielst, erschaffe 1 flüchtiges Zwillingsdisziplinen mit 1 Kosten auf der Hand.",
+    "name": "Körper und Geist",
+    "powerCode": "P0177",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0030.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0030-full.png",
+    "description": "+1 Startmana.<br>Spielstart: Ziehe 2 Karten, die 2 oder weniger kosten.",
+    "descriptionRaw": "+1 Startmana.Spielstart: Ziehe 2 Karten, die 2 oder weniger kosten.",
+    "name": "Piltovers Rückgrat",
+    "powerCode": "P0030",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0031.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0031-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Gewähre deinem <link=vocab.Strongest><style=Vocab>stärksten</style></link> Verbündeten +0|+1 und <link=keyword.Impact><sprite name=Impact><style=Keyword>Einschlag</style></link>.",
+    "descriptionRaw": "Rundenbeginn: Gewähre deinem stärksten Verbündeten +0|+1 und Einschlag.",
+    "name": "Erbarmungslose Schläge",
+    "powerCode": "P0031",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0034.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0034-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Gewähre deinem <link=vocab.Strongest><style=Vocab>stärksten</style></link> Verbündeten +0|+2 und zweimal <link=keyword.Impact><sprite name=Impact><style=Keyword>Einschlag</style></link>.",
+    "descriptionRaw": "Rundenbeginn: Gewähre deinem stärksten Verbündeten +0|+2 und zweimal Einschlag.",
+    "name": "Erbarmungslose Schläge II",
+    "powerCode": "P0034",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0025.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0025-full.png",
+    "description": "+1 Startmana.<br>Wenn du 6+ Mana für Zauber eingesetzt hast, erschaffe eine <link=card.self><style=AssociatedCard>Goldene Ägide</style></link> mit 0 Kosten auf der Hand. <style=Variable></style>",
+    "descriptionRaw": "+1 Startmana.Wenn du 6+ Mana für Zauber eingesetzt hast, erschaffe eine Goldene Ägide mit 0 Kosten auf der Hand. ",
+    "name": "Ich gehe an meine Grenzen",
+    "powerCode": "P0025",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0024.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0024-full.png",
+    "description": "Wenn du in einer Runde zum ersten Mal einen Zauber ausspielst, fülle dein Mana in Höhe seiner Kosten wieder auf.",
+    "descriptionRaw": "Wenn du in einer Runde zum ersten Mal einen Zauber ausspielst, fülle dein Mana in Höhe seiner Kosten wieder auf.",
+    "name": "Erleuchte den Weg II",
+    "powerCode": "P0024",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0026.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0026-full.png",
+    "description": "Wenn du in einer Runde zum ersten Mal einen Zauber ausspielst, fülle dein Zaubermana in Höhe seiner Kosten wieder auf.",
+    "descriptionRaw": "Wenn du in einer Runde zum ersten Mal einen Zauber ausspielst, fülle dein Zaubermana in Höhe seiner Kosten wieder auf.",
+    "name": "Erleuchte den Weg",
+    "powerCode": "P0026",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0215.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0215-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Wenn du die Angriffsmarke und weniger als 2 Ausrüstungen auf der Hand hast, erschaffe 1 <link=card.self><style=AssociatedCard>Goldener Pfannenwender</style></link>. Gewähre ihm ein zufälliges Schlüsselwort.",
+    "descriptionRaw": "Rundenbeginn: Wenn du die Angriffsmarke und weniger als 2 Ausrüstungen auf der Hand hast, erschaffe 1 Goldener Pfannenwender. Gewähre ihm ein zufälliges Schlüsselwort.",
+    "name": "Er muss doch irgendwas bewirken … II",
+    "powerCode": "P0215",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0213.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0213-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Wenn du die Angriffsmarke und weniger als 2 Ausrüstungen auf der Hand hast, erschaffe 1 <link=card.self><style=AssociatedCard>Goldener Pfannenwender</style></link>.",
+    "descriptionRaw": "Rundenbeginn: Wenn du die Angriffsmarke und weniger als 2 Ausrüstungen auf der Hand hast, erschaffe 1 Goldener Pfannenwender.",
+    "name": "Er muss doch irgendwas bewirken …",
+    "powerCode": "P0213",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0214.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0214-full.png",
+    "description": "+1 Startmana.<br>Wenn ein Verbündeter <link=vocab.Equip><style=Vocab>ausgerüstet</style></link> wird, gib ihm in dieser Runde <link=keyword.Scout><sprite name=Scout><style=Keyword>Späher</style></link>.",
+    "descriptionRaw": "+1 Startmana.Wenn ein Verbündeter ausgerüstet wird, gib ihm in dieser Runde Späher.",
+    "name": "Jägerin der Nacht",
+    "powerCode": "P0214",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0011.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0011-full.png",
+    "description": "Wenn Verbündete angreifen, aktiviere <link=vocab.Spawn><style=Vocab>Krakenruf</style></link> (1).",
+    "descriptionRaw": "Wenn Verbündete angreifen, aktiviere Krakenruf (1).",
+    "name": "Prophetin einer alten Göttin",
+    "powerCode": "P0011",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0013.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0013-full.png",
+    "description": "Wenn Verbündete angreifen, aktiviere <link=vocab.Spawn><style=Vocab>Krakenruf</style></link> (3).",
+    "descriptionRaw": "Wenn Verbündete angreifen, aktiviere Krakenruf (3).",
+    "name": "Prophetin einer alten Göttin II",
+    "powerCode": "P0013",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0014.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0014-full.png",
+    "description": "+1 Startmana.<br><link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Belege den <link=keyword.Weakest><style=Keyword>schwächsten</style></link> Gegner mit <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Verletzlich</style></link>.",
+    "descriptionRaw": "+1 Startmana.Rundenbeginn: Belege den schwächsten Gegner mit Verletzlich.",
+    "name": "Seelenprüfung",
+    "powerCode": "P0014",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0317.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0317-full.png",
+    "description": "Wenn du eine Karte mit verringerten Kosten ausspielst, senke die Kosten der 2 obersten Karten deines Decks um 1.",
+    "descriptionRaw": "Wenn du eine Karte mit verringerten Kosten ausspielst, senke die Kosten der 2 obersten Karten deines Decks um 1.",
+    "name": "Durch den Wind II",
+    "powerCode": "P0317",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0316.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0316-full.png",
+    "description": "+1 Startmana.<br>Wenn du eine Karte mit verringerten Kosten ausspielst, gewähre dem schwächsten Verbündeten +1|+1.",
+    "descriptionRaw": "+1 Startmana.Wenn du eine Karte mit verringerten Kosten ausspielst, gewähre dem schwächsten Verbündeten +1|+1.",
+    "name": "Auge des Sturms",
+    "powerCode": "P0316",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0315.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0315-full.png",
+    "description": "Wenn du eine Karte mit verringerten Kosten ausspielst, senke die Kosten der obersten Karte deines Decks um 1.",
+    "descriptionRaw": "Wenn du eine Karte mit verringerten Kosten ausspielst, senke die Kosten der obersten Karte deines Decks um 1.",
+    "name": "Durch den Wind",
+    "powerCode": "P0315",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0197.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0197-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Wenn Verbündete 4+ einzigartige Schlüsselwörter haben, gewähre Verbündeten +2|+2. <style=Variable></style>",
+    "descriptionRaw": "Rundenbeginn: Wenn Verbündete 4+ einzigartige Schlüsselwörter haben, gewähre Verbündeten +2|+2. ",
+    "name": "Stärke durch Zusammenhalt II",
+    "powerCode": "P0197",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0195.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0195-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Wenn Verbündete 4+ einzigartige Schlüsselwörter haben, gewähre Verbündeten +1|+1. <style=Variable></style>",
+    "descriptionRaw": "Rundenbeginn: Wenn Verbündete 4+ einzigartige Schlüsselwörter haben, gewähre Verbündeten +1|+1. ",
+    "name": "Gemeinsam sind wir stark",
+    "powerCode": "P0195",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0196.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0196-full.png",
+    "description": "+1 Startmana.<br><link=vocab.RoundEnd><style=Vocab>Rundenende</style></link>: Wenn ein Verbündeter in dieser Runde gestorben ist, gewähre deinem <link=keyword.Weakest><style=Keyword>schwächsten</style></link> Verbündeten +1|+1 und ein zufälliges Schlüsselwort, das deine Verbündeten nicht haben.",
+    "descriptionRaw": "+1 Startmana.Rundenende: Wenn ein Verbündeter in dieser Runde gestorben ist, gewähre deinem schwächsten Verbündeten +1|+1 und ein zufälliges Schlüsselwort, das deine Verbündeten nicht haben.",
+    "name": "Für den König!",
+    "powerCode": "P0196",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0160.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0160-full.png",
+    "description": "+1 Startmana.<br>Deine erschaffenen Karten kosten 1 weniger.",
+    "descriptionRaw": "+1 Startmana.Deine erschaffenen Karten kosten 1 weniger.",
+    "name": "Z-Antrieb-Resonanz",
+    "powerCode": "P0160",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0161.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0161-full.png",
+    "description": "Wenn du eine Einheit in einer Prophezeiung siehst, gewähre ihr +2|+2 und ein zufälliges Schlüsselwort.",
+    "descriptionRaw": "Wenn du eine Einheit in einer Prophezeiung siehst, gewähre ihr +2|+2 und ein zufälliges Schlüsselwort.",
+    "name": "Verzweigte Möglichkeiten II",
+    "powerCode": "P0161",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0159.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0159-full.png",
+    "description": "Wenn du eine Einheit in einer Prophezeiung siehst, gewähre ihr +1|+1.",
+    "descriptionRaw": "Wenn du eine Einheit in einer Prophezeiung siehst, gewähre ihr +1|+1.",
+    "name": "Verzweigte Möglichkeiten",
+    "powerCode": "P0159",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0169.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0169-full.png",
+    "description": "+1 Startmana.<br>Wenn du die Angriffsmarke erhältst, erschaffe 1 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtigen</style></link> <link=card.self><style=AssociatedCard>Faustkampf</style></link> auf der Hand.",
+    "descriptionRaw": "+1 Startmana.Wenn du die Angriffsmarke erhältst, erschaffe 1 flüchtigen Faustkampf auf der Hand.",
+    "name": "Bei den Fischen schlafen",
+    "powerCode": "P0169",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0170.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0170-full.png",
+    "description": "Wenn du Mana wieder auffüllst, gib Verbündeten in dieser Runde +1|+0 und verursache 1 Schaden an allen Gegnern.",
+    "descriptionRaw": "Wenn du Mana wieder auffüllst, gib Verbündeten in dieser Runde +1|+0 und verursache 1 Schaden an allen Gegnern.",
+    "name": "Ausschlaggebend II",
+    "powerCode": "P0170",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0168.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0168-full.png",
+    "description": "Wenn du Mana wieder auffüllst, gib Verbündeten in dieser Runde +1|+0.",
+    "descriptionRaw": "Wenn du Mana wieder auffüllst, gib Verbündeten in dieser Runde +1|+0.",
+    "name": "Ausschlaggebend",
+    "powerCode": "P0168",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0142.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0142-full.png",
+    "description": "+1 Startmana.<br>Wenn ein <link=vocab.Equip><style=Vocab>ausgerüsteter</style></link> Verbündeter stirbt, ziehe 1.",
+    "descriptionRaw": "+1 Startmana.Wenn ein ausgerüsteter Verbündeter stirbt, ziehe 1.",
+    "name": "Unerbittlicher Angriff",
+    "powerCode": "P0142",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0143.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0143-full.png",
+    "description": "Verbündete haben „<link=vocab.Attack><style=Vocab>Angriff</style></link>: Gewähre mir +1|+1. Wenn ich <link=vocab.Equip><style=Vocab>ausgerüstet</style></link> bin, gewähre außerdem meiner Ausrüstung +2|+0“.",
+    "descriptionRaw": "Verbündete haben „Angriff: Gewähre mir +1|+1. Wenn ich ausgerüstet bin, gewähre außerdem meiner Ausrüstung +2|+0“.",
+    "name": "Letztes Licht von Icathia II",
+    "powerCode": "P0143",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0141.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0141-full.png",
+    "description": "Verbündete haben „<link=vocab.Attack><style=Vocab>Angriff</style></link>: Gewähre mir +1|+0. Wenn ich <link=vocab.Equip><style=Vocab>ausgerüstet</style></link> bin, gewähre außerdem meiner Ausrüstung +1|+0“.",
+    "descriptionRaw": "Verbündete haben „Angriff: Gewähre mir +1|+0. Wenn ich ausgerüstet bin, gewähre außerdem meiner Ausrüstung +1|+0“.",
+    "name": "Letztes Licht von Icathia",
+    "powerCode": "P0141",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0016.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0016-full.png",
+    "description": "Erschaffe für jeden 4. ausgespielten <link=keyword.Fast><sprite name=Fast><style=Keyword>Schnell</style></link>zauber, <link=keyword.Slow><sprite name=Slow><style=Keyword>langsamen</style></link> Zauber oder <link=keyword.Skill><sprite name=SkillMark><style=Keyword>Fertigkeit</style></link> 1 <link=card.self><style=AssociatedCard>Gefesseltes Publikum</style></link> auf Hand. <style=Variable></style>",
+    "descriptionRaw": "Erschaffe für jeden 4. ausgespielten Schnellzauber, langsamen Zauber oder Fertigkeit 1 Gefesseltes Publikum auf Hand. ",
+    "name": "Schönheit des Todes",
+    "powerCode": "P0016",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0019.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0019-full.png",
+    "description": "Erschaffe für jeden 4. ausgespielten <link=keyword.Fast><sprite name=Fast><style=Keyword>Schnell</style></link>zauber, <link=keyword.Slow><sprite name=Slow><style=Keyword>langsamen</style></link> Zauber oder <link=keyword.Skill><sprite name=SkillMark><style=Keyword>Fertigkeit</style></link> 1 <link=card.self><style=AssociatedCard>Gefesseltes Publikum</style></link> mit 0 Kosten auf Hand. <style=Variable></style>",
+    "descriptionRaw": "Erschaffe für jeden 4. ausgespielten Schnellzauber, langsamen Zauber oder Fertigkeit 1 Gefesseltes Publikum mit 0 Kosten auf Hand. ",
+    "name": "Schönheit des Todes II",
+    "powerCode": "P0019",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0015.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0015-full.png",
+    "description": "+1 Startmana.<br>Wenn ein Verbündeter eine Fertigkeit ausspielt, gewähre ihm +1|+1.",
+    "descriptionRaw": "+1 Startmana.Wenn ein Verbündeter eine Fertigkeit ausspielt, gewähre ihm +1|+1.",
+    "name": "Die Bühne bereiten",
+    "powerCode": "P0015",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0122.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0122-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Beschwöre 1 <link=card.self><style=AssociatedCard>Gespenstische Band</style></link>.",
+    "descriptionRaw": "Rundenbeginn: Beschwöre 1 Gespenstische Band.",
+    "name": "Liederfetzen II",
+    "powerCode": "P0122",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0121.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0121-full.png",
+    "description": "+1 Startmana.<br>Wenn dein Angreifer außen links Stärke durch <link=keyword.Hallowed><sprite name=Hallowed><style=Keyword>Geweiht</style></link> erhält, erhält sie der Angreifer zu seiner Rechten ebenfalls.",
+    "descriptionRaw": "+1 Startmana.Wenn dein Angreifer außen links Stärke durch Geweiht erhält, erhält sie der Angreifer zu seiner Rechten ebenfalls.",
+    "name": "Nadelarbeit",
+    "powerCode": "P0121",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0120.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0120-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Wenn du nicht die Angriffsmarke hast, beschwöre 1 <link=card.self><style=AssociatedCard>Gespenstische Band</style></link>.",
+    "descriptionRaw": "Rundenbeginn: Wenn du nicht die Angriffsmarke hast, beschwöre 1 Gespenstische Band.",
+    "name": "Liederfetzen",
+    "powerCode": "P0120",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0151.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0151-full.png",
+    "description": "+1 Startmana.<br>Wenn du eine Einheit <link=keyword.Capture><sprite name=Capture><style=Keyword>festhältst</style></link>, erschaffe eine Kopie von ihr auf der Hand. Sie kostet 1 weniger.",
+    "descriptionRaw": "+1 Startmana.Wenn du eine Einheit festhältst, erschaffe eine Kopie von ihr auf der Hand. Sie kostet 1 weniger.",
+    "name": "Langzeitvertrag",
+    "powerCode": "P0151",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0150.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0150-full.png",
+    "description": "Wenn ein Verbündeter Schaden überlebt, gewähre ihm +1|+1.",
+    "descriptionRaw": "Wenn ein Verbündeter Schaden überlebt, gewähre ihm +1|+1.",
+    "name": "Unersättliches Verlangen",
+    "powerCode": "P0150",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0152.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0152-full.png",
+    "description": "Wenn ein Verbündeter Schaden überlebt, gewähre ihm +2|+2.",
+    "descriptionRaw": "Wenn ein Verbündeter Schaden überlebt, gewähre ihm +2|+2.",
+    "name": "Unersättliches Verlangen II",
+    "powerCode": "P0152",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0180.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0180-full.png",
+    "description": "Wenn du einen Zauber ausspielst, erhalte 1 Zaubermana.",
+    "descriptionRaw": "Wenn du einen Zauber ausspielst, erhalte 1 Zaubermana.",
+    "name": "Der Strömung hingeben",
+    "powerCode": "P0180",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0182.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0182-full.png",
+    "description": "Wenn du einen Zauber ausspielst, erhalte 1 Zaubermana. Wenn es dein vierter Zauber in dieser Runde ist, kopiere ihn auf dieselben Ziele.",
+    "descriptionRaw": "Wenn du einen Zauber ausspielst, erhalte 1 Zaubermana. Wenn es dein vierter Zauber in dieser Runde ist, kopiere ihn auf dieselben Ziele.",
+    "name": "Der Strömung hingeben II",
+    "powerCode": "P0182",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0181.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0181-full.png",
+    "description": "+1 Startmana.<br>Spielstart: Ziehe einen Zauber.",
+    "descriptionRaw": "+1 Startmana.Spielstart: Ziehe einen Zauber.",
+    "name": "Wogende Fluten",
+    "powerCode": "P0181",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0164.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0164-full.png",
+    "description": "Wenn Verbündete angreifen, gewähre verbündeten <link=card.self><style=AssociatedCard>Jungspinnen</style></link> überall +1|+0 und die positiven Schlüsselwörter von verbündeten Champions.",
+    "descriptionRaw": "Wenn Verbündete angreifen, gewähre verbündeten Jungspinnen überall +1|+0 und die positiven Schlüsselwörter von verbündeten Champions.",
+    "name": "Spinnenkönigin II",
+    "powerCode": "P0164",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0163.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0163-full.png",
+    "description": "+1 Startmana.<br><link=vocab.RoundEnd><style=Vocab>Rundenende</style></link>: Wenn ein Verbündeter in dieser Runde gestorben ist, beschwöre 1 <link=card.self><style=AssociatedCard>Jungspinne</style></link>.",
+    "descriptionRaw": "+1 Startmana.Rundenende: Wenn ein Verbündeter in dieser Runde gestorben ist, beschwöre 1 Jungspinne.",
+    "name": "Ins Netz gegangen",
+    "powerCode": "P0163",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0162.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0162-full.png",
+    "description": "Wenn Verbündete angreifen, gewähre verbündeten <link=card.self><style=AssociatedCard>Jungspinnen</style></link> überall +1|+0.",
+    "descriptionRaw": "Wenn Verbündete angreifen, gewähre verbündeten Jungspinnen überall +1|+0.",
+    "name": "Spinnenkönigin",
+    "powerCode": "P0162",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0200.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0200-full.png",
+    "description": "Spielstart: Gewähre 4 zufälligen Verbündeten „Seefahrertäuschung“. Wenn du die Angriffsmarke erhältst, gewähre es zwei weiteren. Ziehe 1.",
+    "descriptionRaw": "Spielstart: Gewähre 4 zufälligen Verbündeten „Seefahrertäuschung“. Wenn du die Angriffsmarke erhältst, gewähre es zwei weiteren. Ziehe 1.",
+    "name": "Geisterhafter Tauchgang II",
+    "powerCode": "P0200",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0198.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0198-full.png",
+    "description": "Spielstart: Gewähre 2 zufälligen Verbündeten „Seefahrertäuschung“. Wenn du die Angriffsmarke erhältst, gewähre es einem weiteren. Ziehe 1.",
+    "descriptionRaw": "Spielstart: Gewähre 2 zufälligen Verbündeten „Seefahrertäuschung“. Wenn du die Angriffsmarke erhältst, gewähre es einem weiteren. Ziehe 1.",
+    "name": "Geisterhafter Tauchgang",
+    "powerCode": "P0198",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0199.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0199-full.png",
+    "description": "+1 Startmana.<br>Wenn ein Verbündeter stirbt, erschaffe eine zufällige Einheit mit „Lauern“ in deinem Deck, die 1 mehr kostet, und gewähre ihr +1|+1.",
+    "descriptionRaw": "+1 Startmana.Wenn ein Verbündeter stirbt, erschaffe eine zufällige Einheit mit „Lauern“ in deinem Deck, die 1 mehr kostet, und gewähre ihr +1|+1.",
+    "name": "Gabe der Ertrunkenen",
+    "powerCode": "P0199",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0136.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0136-full.png",
+    "description": "+1 Startmana.<br>Wenn ein Verbündeter eine Einheit mit 0 Stärke tötet, gewähre ihm +1|+1.",
+    "descriptionRaw": "+1 Startmana.Wenn ein Verbündeter eine Einheit mit 0 Stärke tötet, gewähre ihm +1|+1.",
+    "name": "Stärke der Avarosa",
+    "powerCode": "P0136",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0135.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0135-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Wenn du die Angriffsmarke hast, <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>friere</style></link> den <link=vocab.Strongest><style=Vocab>stärksten</style></link> Gegner ein und mache ihn in dieser Runde <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>verletzlich</style></link>.",
+    "descriptionRaw": "Rundenbeginn: Wenn du die Angriffsmarke hast, friere den stärksten Gegner ein und mache ihn in dieser Runde verletzlich.",
+    "name": "Frostschuss",
+    "powerCode": "P0135",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0137.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0137-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>Friere</style></link> den <link=vocab.Strongest><style=Vocab>stärksten</style></link> Gegner ein und mache ihn in dieser Runde <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>verletzlich</style></link>.",
+    "descriptionRaw": "Rundenbeginn: Friere den stärksten Gegner ein und mache ihn in dieser Runde verletzlich.",
+    "name": "Frostschuss II",
+    "powerCode": "P0137",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0157.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0157-full.png",
+    "description": "+1 Startmana.<br>Spielstart: Erschaffe 2 zufällige Ausrüstungen der Düsteren auf der Hand.",
+    "descriptionRaw": "+1 Startmana.Spielstart: Erschaffe 2 zufällige Ausrüstungen der Düsteren auf der Hand.",
+    "name": "Besessene Waffe",
+    "powerCode": "P0157",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0156.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0156-full.png",
+    "description": "Wenn ein <link=vocab.Equip><style=Vocab>ausgerüsteter</style></link> Verbündeter <link=vocab.Strike><style=Vocab>zuschlägt</style></link>, senke die Kosten einer zufälligen Karte auf der Hand um 1.",
+    "descriptionRaw": "Wenn ein ausgerüsteter Verbündeter zuschlägt, senke die Kosten einer zufälligen Karte auf der Hand um 1.",
+    "name": "Infernalische Ketten",
+    "powerCode": "P0156",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0158.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0158-full.png",
+    "description": "Wenn ein <link=vocab.Equip><style=Vocab>ausgerüsteter</style></link> Verbündeter <link=vocab.Strike><style=Vocab>zuschlägt</style></link>, senke die Kosten einer zufälligen Karte auf der Hand um 2.",
+    "descriptionRaw": "Wenn ein ausgerüsteter Verbündeter zuschlägt, senke die Kosten einer zufälligen Karte auf der Hand um 2.",
+    "name": "Infernalische Ketten II",
+    "powerCode": "P0158",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0194.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0194-full.png",
+    "description": "Spielstart: Beschwöre <link=card.self><style=AssociatedCard>Ornns Schmiede</style></link>. Wenn du in einer Runde zum ersten Mal <link=vocab.Forge><style=Vocab>schmiedest</style></link>, <link=vocab.Forge><style=Vocab>schmiede</style></link> erneut. ",
+    "descriptionRaw": "Spielstart: Beschwöre Ornns Schmiede. Wenn du in einer Runde zum ersten Mal schmiedest, schmiede erneut. ",
+    "name": "Süße Einsamkeit II",
+    "powerCode": "P0194",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0192.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0192-full.png",
+    "description": "Spielstart: Beschwöre <link=card.self><style=AssociatedCard>Ornns Schmiede</style></link>.",
+    "descriptionRaw": "Spielstart: Beschwöre Ornns Schmiede.",
+    "name": "Süße Einsamkeit",
+    "powerCode": "P0192",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0193.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0193-full.png",
+    "description": "+1 Startmana.<br>Wenn du zum ersten Mal einen Verbündeten oder eine Ausrüstung mit 4+ Kosten ausspielst, <link=vocab.Manifest><style=Vocab>manifestiere</style></link> eine Ausrüstung und senke ihre Kosten um 2. ",
+    "descriptionRaw": "+1 Startmana.Wenn du zum ersten Mal einen Verbündeten oder eine Ausrüstung mit 4+ Kosten ausspielst, manifestiere eine Ausrüstung und senke ihre Kosten um 2. ",
+    "name": "Das ist von mir",
+    "powerCode": "P0193",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0188.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0188-full.png",
+    "description": "Der erste Verbündete, den du in einer Runde ausspielst und der eine andere Unterart als andere Verbündete hat, kostet 2 weniger.",
+    "descriptionRaw": "Der erste Verbündete, den du in einer Runde ausspielst und der eine andere Unterart als andere Verbündete hat, kostet 2 weniger.",
+    "name": "Harmonie der Wildnis II",
+    "powerCode": "P0188",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0187.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0187-full.png",
+    "description": "+1 Startmana.<br>Spielstart: Gewähre jedem Verbündeten mit einer Unterart in deinem Deck <link=keyword.Impact><sprite name=Impact><style=Keyword>Einschlag</style></link>. Andernfalls wird er ein Gestaltwandler.",
+    "descriptionRaw": "+1 Startmana.Spielstart: Gewähre jedem Verbündeten mit einer Unterart in deinem Deck Einschlag. Andernfalls wird er ein Gestaltwandler.",
+    "name": "Eindeutig nicht Neeko",
+    "powerCode": "P0187",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0186.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0186-full.png",
+    "description": "Der erste Verbündete, den du in einer Runde ausspielst und der eine andere Unterart als andere Verbündete hat, kostet 1 weniger.",
+    "descriptionRaw": "Der erste Verbündete, den du in einer Runde ausspielst und der eine andere Unterart als andere Verbündete hat, kostet 1 weniger.",
+    "name": "Harmonie der Wildnis",
+    "powerCode": "P0186",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0021.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0021-full.png",
+    "description": "Wenn du eine Karte ausspielst oder abwirfst, verursache 1 Schaden am gegnerischen Nexus und an einem zufälligen Gegner.",
+    "descriptionRaw": "Wenn du eine Karte ausspielst oder abwirfst, verursache 1 Schaden am gegnerischen Nexus und an einem zufälligen Gegner.",
+    "name": "Was kann schon passieren? II",
+    "powerCode": "P0021",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0017.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0017-full.png",
+    "description": "+1 Startmana.<br>Wenn du einen Champion auf die nächste Stufe bringst, erschaffe 1 <link=card.self><style=AssociatedCard>Super-Mega-Todesrakete!</style></link> auf der Hand.",
+    "descriptionRaw": "+1 Startmana.Wenn du einen Champion auf die nächste Stufe bringst, erschaffe 1 Super-Mega-Todesrakete! auf der Hand.",
+    "name": "Chaos stiften",
+    "powerCode": "P0017",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0018.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0018-full.png",
+    "description": "Wenn du eine Karte ausspielst oder abwirfst, verursache 1 Schaden am gegnerischen Nexus.",
+    "descriptionRaw": "Wenn du eine Karte ausspielst oder abwirfst, verursache 1 Schaden am gegnerischen Nexus.",
+    "name": "Was kann schon passieren?",
+    "powerCode": "P0018",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0171.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0171-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Beschwöre 1 <link=card.self><style=AssociatedCard>Beute</style></link>. Wenn du bereits eine hast, gewähre stattdessen deiner <link=card.self><style=AssociatedCard>Beute</style></link> „<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>Letzter Wunsch</style></link>: Verursache 1 Schaden am gegnerischen Nexus“.",
+    "descriptionRaw": "Rundenbeginn: Beschwöre 1 Beute. Wenn du bereits eine hast, gewähre stattdessen deiner Beute „Letzter Wunsch: Verursache 1 Schaden am gegnerischen Nexus“.",
+    "name": "Asche zu Asche",
+    "powerCode": "P0171",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0173.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0173-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Beschwöre 1 <link=card.self><style=AssociatedCard>Beute</style></link>. Wenn du bereits eine hast, gewähre stattdessen deiner <link=card.self><style=AssociatedCard>Beute</style></link> „<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>Letzter Wunsch</style></link>: Verursache 2 Schaden am gegnerischen Nexus“.",
+    "descriptionRaw": "Rundenbeginn: Beschwöre 1 Beute. Wenn du bereits eine hast, gewähre stattdessen deiner Beute „Letzter Wunsch: Verursache 2 Schaden am gegnerischen Nexus“.",
+    "name": "Asche zu Asche II",
+    "powerCode": "P0173",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0172.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0172-full.png",
+    "description": "+1 Startmana.<br><link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Erschaffe 1 <link=card.self><style=AssociatedCard>Spirituelle Reise</style></link> auf der Hand. Wenn du bereits eine hast, senke ihre Kosten um 2.",
+    "descriptionRaw": "+1 Startmana.Rundenbeginn: Erschaffe 1 Spirituelle Reise auf der Hand. Wenn du bereits eine hast, senke ihre Kosten um 2.",
+    "name": "Kreislauf des Todes",
+    "powerCode": "P0172",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0322.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0322-full.png",
+    "description": "+1 Startmana.<br>Wenn du einen <link=vocab.Titanic><style=Vocab>titanischen</style></link> Verbündeten beschwörst, <link=vocab.Strike><style=Vocab>schlägt</style></link> er den <link=keyword.Weakest><style=Keyword>schwächsten</style></link> Gegner.",
+    "descriptionRaw": "+1 Startmana.Wenn du einen titanischen Verbündeten beschwörst, schlägt er den schwächsten Gegner.",
+    "name": "Himmelsbrecher",
+    "powerCode": "P0322",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0321.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0321-full.png",
+    "description": "Wenn du eine Einheit besiegst, beschwöre 1 <link=card.self><style=AssociatedCard>Siegel des Sturms</style></link>.",
+    "descriptionRaw": "Wenn du eine Einheit besiegst, beschwöre 1 Siegel des Sturms.",
+    "name": "Unterirdischer Donner",
+    "powerCode": "P0321",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0323.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0323-full.png",
+    "description": "Wenn du eine Einheit besiegst, beschwöre 2 <link=card.self><style=AssociatedCard>Siegel des Sturms</style></link>.",
+    "descriptionRaw": "Wenn du eine Einheit besiegst, beschwöre 2 Siegel des Sturms.",
+    "name": "Unterirdischer Donner II",
+    "powerCode": "P0323",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0167.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0167-full.png",
+    "description": "<link=vocab.RoundEnd><style=Vocab>Rundenende</style></link>: Wenn du in dieser Runde Schaden am gegnerischen Nexus verursacht hast, gewähre deinen Verbündeten zweimal <link=keyword.Impact><sprite name=Impact><style=Keyword>Einschlag</style></link>.",
+    "descriptionRaw": "Rundenende: Wenn du in dieser Runde Schaden am gegnerischen Nexus verursacht hast, gewähre deinen Verbündeten zweimal Einschlag.",
+    "name": "Toberei II",
+    "powerCode": "P0167",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0166.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0166-full.png",
+    "description": "+1 Startmana.<br><link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Erschaffe 1 <link=card.self><style=AssociatedCard>Prügel</style></link> auf der Hand. Wenn du schon einen hast, senke seine Kosten um 1.",
+    "descriptionRaw": "+1 Startmana.Rundenbeginn: Erschaffe 1 Prügel auf der Hand. Wenn du schon einen hast, senke seine Kosten um 1.",
+    "name": "Das innere Tier",
+    "powerCode": "P0166",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0165.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0165-full.png",
+    "description": "<link=vocab.RoundEnd><style=Vocab>Rundenende</style></link>: Wenn du in dieser Runde Schaden am gegnerischen Nexus verursacht hast, gewähre deinen Verbündeten <link=keyword.Impact><sprite name=Impact><style=Keyword>Einschlag</style></link>.",
+    "descriptionRaw": "Rundenende: Wenn du in dieser Runde Schaden am gegnerischen Nexus verursacht hast, gewähre deinen Verbündeten Einschlag.",
+    "name": "Toberei",
+    "powerCode": "P0165",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0210.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0210-full.png",
+    "description": "Immer wenn du in einer Runde zum ersten Mal einen Verbündeten mit einem Einzelziel-Zauber anvisierst, kopiere ihn auf deinen <link=vocab.Strongest><style=Vocab>stärksten</style></link> Verbündeten.",
+    "descriptionRaw": "Immer wenn du in einer Runde zum ersten Mal einen Verbündeten mit einem Einzelziel-Zauber anvisierst, kopiere ihn auf deinen stärksten Verbündeten.",
+    "name": "Verdorbener Segen",
+    "powerCode": "P0210",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0212.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0212-full.png",
+    "description": "Wenn du einen Verbündeten mit einem Einzelziel-Zauber anvisierst, kopiere ihn auf deinen <link=vocab.Strongest><style=Vocab>stärksten</style></link> Verbündeten.",
+    "descriptionRaw": "Wenn du einen Verbündeten mit einem Einzelziel-Zauber anvisierst, kopiere ihn auf deinen stärksten Verbündeten.",
+    "name": "Verdorbener Segen II",
+    "powerCode": "P0212",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0211.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0211-full.png",
+    "description": "+1 Startmana.<br><link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Senke die Kosten eines Zaubers in deinem Deck um 1, erschaffe dann eine <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtige</style></link> Kopie davon auf der Hand.",
+    "descriptionRaw": "+1 Startmana.Rundenbeginn: Senke die Kosten eines Zaubers in deinem Deck um 1, erschaffe dann eine flüchtige Kopie davon auf der Hand.",
+    "name": "Geschenk der Verderbnis",
+    "powerCode": "P0211",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0204.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0204-full.png",
+    "description": "Gewähre Verbündeten +1|+1, nachdem du in einer Runde 6+ Mana ausgegeben hast. <style=Variable></style>",
+    "descriptionRaw": "Gewähre Verbündeten +1|+1, nachdem du in einer Runde 6+ Mana ausgegeben hast. ",
+    "name": "Knackende Knöchel",
+    "powerCode": "P0204",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0205.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0205-full.png",
+    "description": "+1 Startmana.<br><link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Erschaffe 1 <link=card.self><style=AssociatedCard>Münze</style></link> auf der Hand.",
+    "descriptionRaw": "+1 Startmana.Rundenbeginn: Erschaffe 1 Münze auf der Hand.",
+    "name": "Setze auf Sett",
+    "powerCode": "P0205",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0206.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0206-full.png",
+    "description": "Gewähre Verbündeten +2|+2, nachdem du in einer Runde 6+ Mana ausgegeben hast. <style=Variable></style><br>Nachdem du in einer Runde 12+ Mana ausgegeben hast, <link=vocab.Rally><style=Vocab>mobilisiere</style></link> dich. <style=Variable></style>",
+    "descriptionRaw": "Gewähre Verbündeten +2|+2, nachdem du in einer Runde 6+ Mana ausgegeben hast. Nachdem du in einer Runde 12+ Mana ausgegeben hast, mobilisiere dich. ",
+    "name": "Knackende Knöchel II",
+    "powerCode": "P0206",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0191.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0191-full.png",
+    "description": "Wenn sich ein Verbündeter verwandelt, gewähre ihm +1|+1 und <link=keyword.Impact><sprite name=Impact><style=Keyword>Einschlag</style></link>. Wenn es das erste Mal in einer Runde ist, beschwöre eine exakte <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>vergängliche</style></link> Kopie von ihm.",
+    "descriptionRaw": "Wenn sich ein Verbündeter verwandelt, gewähre ihm +1|+1 und Einschlag. Wenn es das erste Mal in einer Runde ist, beschwöre eine exakte vergängliche Kopie von ihm.",
+    "name": "Natürliche Selektion II",
+    "powerCode": "P0191",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0189.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0189-full.png",
+    "description": "Wenn sich ein Verbündeter verwandelt, gewähre ihm +1|+1 und <link=keyword.Impact><sprite name=Impact><style=Keyword>Einschlag</style></link>.",
+    "descriptionRaw": "Wenn sich ein Verbündeter verwandelt, gewähre ihm +1|+1 und Einschlag.",
+    "name": "Natürliche Selektion",
+    "powerCode": "P0189",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0190.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0190-full.png",
+    "description": "+1 Startmana.<br>Wenn du die Angriffsmarke erhältst, erschaffe 1 <link=card.self><style=AssociatedCard>Clevere Camouflage</style></link> auf der Hand.",
+    "descriptionRaw": "+1 Startmana.Wenn du die Angriffsmarke erhältst, erschaffe 1 Clevere Camouflage auf der Hand.",
+    "name": "Das grausamste Spiel",
+    "powerCode": "P0190",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0202.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0202-full.png",
+    "description": "+1 Startmana.<br>Wenn du in einer Runde deine dritte Karte ausspielst, gewähre Verbündeten +1|+1. <style=Variable></style>",
+    "descriptionRaw": "+1 Startmana.Wenn du in einer Runde deine dritte Karte ausspielst, gewähre Verbündeten +1|+1. ",
+    "name": "Zeig’s ihnen",
+    "powerCode": "P0202",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0201.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0201-full.png",
+    "description": "Wenn du in einer Runde das erste Mal Schaden am gegnerischen Nexus verursachst, kostet die nächste Karte, die du ausspielst, 1 weniger.",
+    "descriptionRaw": "Wenn du in einer Runde das erste Mal Schaden am gegnerischen Nexus verursachst, kostet die nächste Karte, die du ausspielst, 1 weniger.",
+    "name": "Hol dir dein Kopfgeld",
+    "powerCode": "P0201",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0203.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0203-full.png",
+    "description": "Wenn du in einer Runde das erste Mal Schaden am gegnerischen Nexus verursachst, kostet die nächste Karte, die du ausspielst, 3 weniger.",
+    "descriptionRaw": "Wenn du in einer Runde das erste Mal Schaden am gegnerischen Nexus verursachst, kostet die nächste Karte, die du ausspielst, 3 weniger.",
+    "name": "Hol dir dein Kopfgeld II",
+    "powerCode": "P0203",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0133.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0133-full.png",
+    "description": "+1 Startmana.<br>Spielstart: Beschwöre zwei zufällige Poros mit 1 Kosten.",
+    "descriptionRaw": "+1 Startmana.Spielstart: Beschwöre zwei zufällige Poros mit 1 Kosten.",
+    "name": "So viele Freunde",
+    "powerCode": "P0133",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0134.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0134-full.png",
+    "description": "Verbündete haben <link=keyword.Fated><sprite name=Fated><style=Keyword>Auserwählt</style></link>. Wenn du einen <link=keyword.Fated><sprite name=Fated><style=Keyword>auserwählten</style></link> Verbündeten anvisierst, gewähre ihm zusätzlich +1|+1.",
+    "descriptionRaw": "Verbündete haben Auserwählt. Wenn du einen auserwählten Verbündeten anvisierst, gewähre ihm zusätzlich +1|+1.",
+    "name": "Wir schaffen das II",
+    "powerCode": "P0134",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0132.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0132-full.png",
+    "description": "Verbündete haben <link=keyword.Fated><sprite name=Fated><style=Keyword>Auserwählt</style></link>.",
+    "descriptionRaw": "Verbündete haben Auserwählt.",
+    "name": "Wir schaffen das",
+    "powerCode": "P0132",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0332.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0332-full.png",
+    "description": "Wenn du eine Einheit ausspielst, verdopple ihre Werte. Wenn sie Aurelion Sol ist, wirke <link=card.self><style=AssociatedCard>Einsturz des Himmels</style></link> auf all deine erbärmlichen Gegner.",
+    "descriptionRaw": "Wenn du eine Einheit ausspielst, verdopple ihre Werte. Wenn sie Aurelion Sol ist, wirke Einsturz des Himmels auf all deine erbärmlichen Gegner.",
+    "name": "Gebündeltes Licht",
+    "powerCode": "P0332",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0330.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0330-full.png",
+    "description": "+1 Startmana.<br>Großzügig gewähre ich all deinen erschaffenen Karten einen seltenen oder epischen Gegenstand.",
+    "descriptionRaw": "+1 Startmana.Großzügig gewähre ich all deinen erschaffenen Karten einen seltenen oder epischen Gegenstand.",
+    "name": "Kosmischer Schöpfer",
+    "powerCode": "P0330",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0329.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0329-full.png",
+    "description": "Wenn du eine erschaffene Karte ausspielst, senke die Kosten von verbündeten Champions <link=vocab.Everywhere><style=Vocab>überall</style></link> um 1. Wenn du einen Champion ausspielst, steigt er eine Stufe auf. Gern geschehen.",
+    "descriptionRaw": "Wenn du eine erschaffene Karte ausspielst, senke die Kosten von verbündeten Champions überall um 1. Wenn du einen Champion ausspielst, steigt er eine Stufe auf. Gern geschehen.",
+    "name": "Astrale Strahlen",
+    "powerCode": "P0329",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0331.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0331-full.png",
+    "description": "Wenn du eine erschaffene Karte ausspielst, senke die Kosten von verbündeten Champions <link=vocab.Everywhere><style=Vocab>überall</style></link> um 2. Wenn du einen Champion ausspielst, steigt er eine Stufe auf. Gern geschehen.",
+    "descriptionRaw": "Wenn du eine erschaffene Karte ausspielst, senke die Kosten von verbündeten Champions überall um 2. Wenn du einen Champion ausspielst, steigt er eine Stufe auf. Gern geschehen.",
+    "name": "Astrale Strahlen II",
+    "powerCode": "P0331",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0002.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0002-full.png",
+    "description": "+1 Startmana.<br><link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Erschaffe 1 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtige</style></link> <link=card.self><style=AssociatedCard>Intrige</style></link> auf der Hand.",
+    "descriptionRaw": "+1 Startmana.Rundenbeginn: Erschaffe 1 flüchtige Intrige auf der Hand.",
+    "name": "Verspielter Trick",
+    "powerCode": "P0002",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0001.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0001-full.png",
+    "description": "Deine Zauber und Fertigkeiten verursachen 2 Schaden zusätzlich.",
+    "descriptionRaw": "Deine Zauber und Fertigkeiten verursachen 2 Schaden zusätzlich.",
+    "name": "Pyromanie II",
+    "powerCode": "P0001",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0000.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0000-full.png",
+    "description": "Deine Zauber und Fertigkeiten verursachen 1 Schaden zusätzlich.",
+    "descriptionRaw": "Deine Zauber und Fertigkeiten verursachen 1 Schaden zusätzlich.",
+    "name": "Pyromanie",
+    "powerCode": "P0000",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0302.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0302-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Der <link=vocab.Foe><style=Vocab>Feind</style></link> beschwört einen zufälligen Poro mit 1 Kosten.",
+    "descriptionRaw": "Rundenbeginn: Der Feind beschwört einen zufälligen Poro mit 1 Kosten.",
+    "name": "Kleine Freunde",
+    "powerCode": "P0302",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0268.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0268-full.png",
+    "description": "Wenn eine der Einheiten des <link=vocab.Foe><style=Vocab>Feindes</style></link> <link=vocab.Strike><style=Vocab>zuschlägt</style></link>, gewähre ihr +1|+1.",
+    "descriptionRaw": "Wenn eine der Einheiten des Feindes zuschlägt, gewähre ihr +1|+1.",
+    "name": "Die Macht Demacias",
+    "powerCode": "P0268",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0118.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0118-full.png",
+    "description": "Wenn du einen Verbündeten mit einem Einzelziel-Zauber anvisierst, kopiere ihn auf deinen <link=keyword.Weakest><style=Keyword>schwächsten</style></link> Verbündeten.",
+    "descriptionRaw": "Wenn du einen Verbündeten mit einem Einzelziel-Zauber anvisierst, kopiere ihn auf deinen schwächsten Verbündeten.",
+    "name": "Jeder kriegt was ab",
+    "powerCode": "P0118",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0082.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0082-full.png",
+    "description": "Verbündete haben „Angriff: Erhöhe meine Stärke auf den Wert meines Lebens.“",
+    "descriptionRaw": "Verbündete haben „Angriff: Erhöhe meine Stärke auf den Wert meines Lebens.“",
+    "name": "Streitlust",
+    "powerCode": "P0082",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0037.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0037-full.png",
+    "description": "<link=vocab.RoundEnd><style=Vocab>Rundenende</style></link>: Gewähre ALLEN Einheiten +2|+0.",
+    "descriptionRaw": "Rundenende: Gewähre ALLEN Einheiten +2|+0.",
+    "name": "Die Nation über alles",
+    "powerCode": "P0037",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0038.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0038-full.png",
+    "description": "Verbündete haben +3|+3, <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Überwältigen</style></link> und <link=keyword.Reckless><sprite name=Reckless><style=Keyword>Abwehrunfähig</style></link>.",
+    "descriptionRaw": "Verbündete haben +3|+3, Überwältigen und Abwehrunfähig.",
+    "name": "Unaufhaltsame Wucht",
+    "powerCode": "P0038",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0231.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0231-full.png",
+    "description": "Wenn ein BELIEBIGER Spieler eine Einheit beschwört, setze ihr Leben auf 1.",
+    "descriptionRaw": "Wenn ein BELIEBIGER Spieler eine Einheit beschwört, setze ihr Leben auf 1.",
+    "name": "Sterbliche Male",
+    "powerCode": "P0231",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0045.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0045-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Beschwöre ein <link=card.self><style=AssociatedCard>Kaustisches Fass</style></link>.",
+    "descriptionRaw": "Rundenbeginn: Beschwöre ein Kaustisches Fass.",
+    "name": "Stetiger Nachschub",
+    "powerCode": "P0045",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0040.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0040-full.png",
+    "description": "ALLE Zauber kosten 6.",
+    "descriptionRaw": "ALLE Zauber kosten 6.",
+    "name": "Präsenz des Petrizits",
+    "powerCode": "P0040",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0044.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0044-full.png",
+    "description": "<link=vocab.RoundEnd><style=Vocab>Rundenende</style></link>: Töte ALLE verletzten Einheiten.",
+    "descriptionRaw": "Rundenende: Töte ALLE verletzten Einheiten.",
+    "name": "Gnadentod",
+    "powerCode": "P0044",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0046.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0046-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Lasse ALLE Einheiten <link=vocab.Silence><style=Vocab>verstummen</style></link>.",
+    "descriptionRaw": "Rundenbeginn: Lasse ALLE Einheiten verstummen.",
+    "name": "Inquisition",
+    "powerCode": "P0046",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0229.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0229-full.png",
+    "description": "Runde 1: Erhalte einen temporären Manastein.",
+    "descriptionRaw": "Runde 1: Erhalte einen temporären Manastein.",
+    "name": "Stärke",
+    "powerCode": "P0229",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0035.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0035-full.png",
+    "description": "Verbündete haben +2|+2.<br><link=vocab.RoundEnd><style=Vocab>Rundenende</style></link>: Verursache 2 Schaden an allen Verbündeten.",
+    "descriptionRaw": "Verbündete haben +2|+2.Rundenende: Verursache 2 Schaden an allen Verbündeten.",
+    "name": "Wilde Kämpfe",
+    "powerCode": "P0035",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0042.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0042-full.png",
+    "description": "ALLE Einheiten haben <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Verletzlich</style></link>.",
+    "descriptionRaw": "ALLE Einheiten haben Verletzlich.",
+    "name": "Wellen der Besorgnis",
+    "powerCode": "P0042",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0233.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0233-full.png",
+    "description": "Spielstart: Mische 3 Kopien von <link=card.self><style=AssociatedCard>Die Zerstörung</style></link> in die Decks ALLER Spieler. Sie kosten 0.",
+    "descriptionRaw": "Spielstart: Mische 3 Kopien von Die Zerstörung in die Decks ALLER Spieler. Sie kosten 0.",
+    "name": "Die Inseln erinnern sich",
+    "powerCode": "P0233",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0049.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0049-full.png",
+    "description": "Spielstart: ALLE Spieler beschwören 2 <link=card.self><style=AssociatedCard>Küstenverteidiger</style></link>.",
+    "descriptionRaw": "Spielstart: ALLE Spieler beschwören 2 Küstenverteidiger.",
+    "name": "Küstenchaos",
+    "powerCode": "P0049",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0225.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0225-full.png",
+    "description": "ALLE Einheiten haben <link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>Bedrohlich</style></link> und -1|-0.",
+    "descriptionRaw": "ALLE Einheiten haben Bedrohlich und -1|-0.",
+    "name": "Die Baccai-Abschreckung",
+    "powerCode": "P0225",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0039.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0039-full.png",
+    "description": "ALLE Einheiten haben <link=keyword.Formidable><sprite name=Formidable><style=Keyword>Formidabel</style></link>.",
+    "descriptionRaw": "ALLE Einheiten haben Formidabel.",
+    "name": "Belebte Rüstung",
+    "powerCode": "P0039",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0232.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0232-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Erschaffe ein zufälliges <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtiges</style></link> Wahrzeichen mit <link=keyword.Countdown><style=Keyword>Countdown</style></link> auf der Hand. Wenn du ein Wahrzeichen mit <link=keyword.Countdown><style=Keyword>Countdown</style></link> beschwörst, <link=vocab.Advance><style=Vocab>zähle</style></link> es um 2 herunter.",
+    "descriptionRaw": "Rundenbeginn: Erschaffe ein zufälliges flüchtiges Wahrzeichen mit Countdown auf der Hand. Wenn du ein Wahrzeichen mit Countdown beschwörst, zähle es um 2 herunter.",
+    "name": "Unwille der Aufgestiegenen",
+    "powerCode": "P0232",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0228.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0228-full.png",
+    "description": "Erhöhe dein maximales Leben um 5.",
+    "descriptionRaw": "Erhöhe dein maximales Leben um 5.",
+    "name": "Leben",
+    "powerCode": "P0228",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0052.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0052-full.png",
+    "description": "Spielstart: ALLE Spieler beschwören 2 <link=card.self><style=AssociatedCard>Wummenschmiedinnen</style></link>.",
+    "descriptionRaw": "Spielstart: ALLE Spieler beschwören 2 Wummenschmiedinnen.",
+    "name": "Wettrüsten",
+    "powerCode": "P0052",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0048.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0048-full.png",
+    "description": "Deine Zauber kosten 2 weniger. Deine Einheiten kosten 1 mehr.",
+    "descriptionRaw": "Deine Zauber kosten 2 weniger. Deine Einheiten kosten 1 mehr.",
+    "name": "Der Preis des Fortschritts",
+    "powerCode": "P0048",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0226.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0226-full.png",
+    "description": "Spielstart: Beschwöre 1 <link=card.self><style=AssociatedCard>Vergrabene Sonnenscheibe</style></link> und erschaffe einen Renekton, Azir oder Nasus auf der Hand.",
+    "descriptionRaw": "Spielstart: Beschwöre 1 Vergrabene Sonnenscheibe und erschaffe einen Renekton, Azir oder Nasus auf der Hand.",
+    "name": "Die Wüste hält stand",
+    "powerCode": "P0226",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0230.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0230-full.png",
+    "description": "Spielstart: Ziehe 1.",
+    "descriptionRaw": "Spielstart: Ziehe 1.",
+    "name": "Wissen",
+    "powerCode": "P0230",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0041.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0041-full.png",
+    "description": "Alle Karten kosten 2 weniger.",
+    "descriptionRaw": "Alle Karten kosten 2 weniger.",
+    "name": "Naturmagie",
+    "powerCode": "P0041",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0043.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0043-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Gewähre einer zufälligen Karte auf deiner Hand einen zufälligen Gegenstand.",
+    "descriptionRaw": "Rundenbeginn: Gewähre einer zufälligen Karte auf deiner Hand einen zufälligen Gegenstand.",
+    "name": "Hausregeln",
+    "powerCode": "P0043",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0047.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0047-full.png",
+    "description": "Deine Zauber sind <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtig</style></link>. Wenn du einen Zauber ausspielst, der nicht <link=card.self><style=AssociatedCard>Finales Funkeln</style></link> ist, erschaffe 1 <link=card.self><style=AssociatedCard>Finales Funkeln</style></link> auf der Hand.",
+    "descriptionRaw": "Deine Zauber sind flüchtig. Wenn du einen Zauber ausspielst, der nicht Finales Funkeln ist, erschaffe 1 Finales Funkeln auf der Hand.",
+    "name": "Erlaubnis des Magiesuchenden",
+    "powerCode": "P0047",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0235.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0235-full.png",
+    "description": "Spielstart: ALLE Spieler beschwören 1 <link=card.self><style=AssociatedCard>Phantomtäuscherin</style></link> mit 0|10.",
+    "descriptionRaw": "Spielstart: ALLE Spieler beschwören 1 Phantomtäuscherin mit 0|10.",
+    "name": "Lachend sterben",
+    "powerCode": "P0235",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0050.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0050-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: <link=keyword.Stun><sprite name=Stunned><style=Keyword>Betäube</style></link> die <link=vocab.Strongest><style=Vocab>stärkste</style></link> und <link=keyword.Weakest><style=Keyword>schwächste</style></link> Einheit.",
+    "descriptionRaw": "Rundenbeginn: Betäube die stärkste und schwächste Einheit.",
+    "name": "Nicht so schnell",
+    "powerCode": "P0050",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0227.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0227-full.png",
+    "description": "Wenn du einen Champion auf die nächste Stufe bringst, werfen ALLE Spieler ihre Hand ab.",
+    "descriptionRaw": "Wenn du einen Champion auf die nächste Stufe bringst, werfen ALLE Spieler ihre Hand ab.",
+    "name": "Preis des Aufstiegs",
+    "powerCode": "P0227",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0051.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0051-full.png",
+    "description": "Spielstart: ALLE Spieler beschwören 3 <link=card.self><style=AssociatedCard>Goldene Narwale</style></link>.",
+    "descriptionRaw": "Spielstart: ALLE Spieler beschwören 3 Goldene Narwale.",
+    "name": "Segen des Narwals",
+    "powerCode": "P0051",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0234.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0234-full.png",
+    "description": "ALLE Zauber kosten 1 weniger. ALLE Einheiten haben <link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>Zauberschild</style></link>.",
+    "descriptionRaw": "ALLE Zauber kosten 1 weniger. ALLE Einheiten haben Zauberschild.",
+    "name": "Überreste von Helia",
+    "powerCode": "P0234",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0061.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0061-full.png",
+    "description": "Spielstart: Beschwöre 1 <link=card.self><style=AssociatedCard>Verdeckter Polizeiagent</style></link>.",
+    "descriptionRaw": "Spielstart: Beschwöre 1 Verdeckter Polizeiagent.",
+    "name": "Polizeiverstärkung",
+    "powerCode": "P0061",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0055.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0055-full.png",
+    "description": "Gegner haben <nobr>-1|-0.</nobr>",
+    "descriptionRaw": "Gegner haben -1|-0.",
+    "name": "Entwaffnet",
+    "powerCode": "P0055",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0063.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0063-full.png",
+    "description": "Wenn du einen Verbündeten beschwörst, verursache 1 Schaden am gegnerischen Nexus.",
+    "descriptionRaw": "Wenn du einen Verbündeten beschwörst, verursache 1 Schaden am gegnerischen Nexus.",
+    "name": "Explosiver Auftritt",
+    "powerCode": "P0063",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0062.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0062-full.png",
+    "description": "Wenn du einen Champion beschwörst, beschwöre eine exakte <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>vergängliche</style></link> Kopie von ihm.",
+    "descriptionRaw": "Wenn du einen Champion beschwörst, beschwöre eine exakte vergängliche Kopie von ihm.",
+    "name": "Stabilisieren",
+    "powerCode": "P0062",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0064.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0064-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: <link=keyword.Stun><sprite name=Stunned><style=Keyword>Betäube</style></link> den stärksten Gegner.",
+    "descriptionRaw": "Rundenbeginn: Betäube den stärksten Gegner.",
+    "name": "Keine Bewegung!",
+    "powerCode": "P0064",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0059.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0059-full.png",
+    "description": "Wenn du einen Zauber ausspielst, verursache 1 Schaden am gegnerischen Nexus.",
+    "descriptionRaw": "Wenn du einen Zauber ausspielst, verursache 1 Schaden am gegnerischen Nexus.",
+    "name": "Zauberschlag",
+    "powerCode": "P0059",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0056.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0056-full.png",
+    "description": "Von dir gezogene Karten kosten in dieser Runde 1 weniger.",
+    "descriptionRaw": "Von dir gezogene Karten kosten in dieser Runde 1 weniger.",
+    "name": "Schnellzug",
+    "powerCode": "P0056",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0065.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0065-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Mache den schwächsten Gegner in dieser Runde <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>verletzlich</style></link>.",
+    "descriptionRaw": "Rundenbeginn: Mache den schwächsten Gegner in dieser Runde verletzlich.",
+    "name": "Im Visier",
+    "powerCode": "P0065",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0053.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0053-full.png",
+    "description": "Spielstart: Beschwöre 2 <link=card.self><style=AssociatedCard>Experimentierfreudiger Tüftler</style></link>.",
+    "descriptionRaw": "Spielstart: Beschwöre 2 Experimentierfreudiger Tüftler.",
+    "name": "Ausgetüftelt",
+    "powerCode": "P0053",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0058.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0058-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Gib deinem <link=keyword.Weakest><style=Keyword>schwächsten</style></link> Verbündeten in dieser Runde +3|+3.",
+    "descriptionRaw": "Rundenbeginn: Gib deinem schwächsten Verbündeten in dieser Runde +3|+3.",
+    "name": "Aufpäppeln",
+    "powerCode": "P0058",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0054.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0054-full.png",
+    "description": "Verbündete haben +1|+0.",
+    "descriptionRaw": "Verbündete haben +1|+0.",
+    "name": "Wiedervereint",
+    "powerCode": "P0054",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0060.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0060-full.png",
+    "description": "Spielstart: Erschaffe 3 <link=card.self><style=AssociatedCard>Chronobrüche</style></link> in deinem Deck.",
+    "descriptionRaw": "Spielstart: Erschaffe 3 Chronobrüche in deinem Deck.",
+    "name": "Zurücksetzen",
+    "powerCode": "P0060",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0057.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0057-full.png",
+    "description": "Spielstart: Beschwöre 1 <link=card.self><style=AssociatedCard>Hextech-Observatorium</style></link>.",
+    "descriptionRaw": "Spielstart: Beschwöre 1 Hextech-Observatorium.",
+    "name": "Alternative Energiequelle",
+    "powerCode": "P0057",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0113.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0113-full.png",
+    "description": "Deine Zauber kosten 1 weniger.",
+    "descriptionRaw": "Deine Zauber kosten 1 weniger.",
+    "name": "Zauberchaos",
+    "powerCode": "P0113",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0081.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0081-full.png",
+    "description": "Wenn du einen Verbündeten beschwörst, gib ihm in dieser Runde <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Herausforderer</style></link>.",
+    "descriptionRaw": "Wenn du einen Verbündeten beschwörst, gib ihm in dieser Runde Herausforderer.",
+    "name": "Duellant",
+    "powerCode": "P0081",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0109.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0109-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Beschwöre einen zufälligen Poro mit 1 Kosten.",
+    "descriptionRaw": "Rundenbeginn: Beschwöre einen zufälligen Poro mit 1 Kosten.",
+    "name": "Kleine Freunde",
+    "powerCode": "P0109",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0067.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0067-full.png",
+    "description": "Spielstart: Erhalte einen Manastein.",
+    "descriptionRaw": "Spielstart: Erhalte einen Manastein.",
+    "name": "Manafluss",
+    "powerCode": "P0067",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0100.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0100-full.png",
+    "description": "Spielstart: Beschwöre 2 <link=card.self><style=AssociatedCard>Grenzposten der Vorhut</style></link>.",
+    "descriptionRaw": "Spielstart: Beschwöre 2 Grenzposten der Vorhut.",
+    "name": "Grenzposten der Vorhut",
+    "powerCode": "P0100",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0076.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0076-full.png",
+    "description": "Spielstart: Mische 10 Stufe-2-Champions in dein Deck. Sie kosten 1 weniger.",
+    "descriptionRaw": "Spielstart: Mische 10 Stufe-2-Champions in dein Deck. Sie kosten 1 weniger.",
+    "name": "Stufenaufstieg",
+    "powerCode": "P0076",
+    "rarity": "LEGENDÄR",
+    "rarityRef": "Legendary"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0084.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0084-full.png",
+    "description": "Deine erschaffenen Karten kosten 1 weniger.",
+    "descriptionRaw": "Deine erschaffenen Karten kosten 1 weniger.",
+    "name": "Abgedrehte Inspiration",
+    "powerCode": "P0084",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0103.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0103-full.png",
+    "description": "Spielstart: Erschaffe 4 <link=card.self><style=AssociatedCard>Zeitbomben</style></link> in deinem Deck.",
+    "descriptionRaw": "Spielstart: Erschaffe 4 Zeitbomben in deinem Deck.",
+    "name": "Uhrmacher",
+    "powerCode": "P0103",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0086.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0086-full.png",
+    "description": "Verbündete haben „Angriff: Erhöhe mein Leben auf den Wert meiner Stärke.“",
+    "descriptionRaw": "Verbündete haben „Angriff: Erhöhe mein Leben auf den Wert meiner Stärke.“",
+    "name": "Die beste Verteidigung …",
+    "powerCode": "P0086",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0327.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0327-full.png",
+    "description": "Wenn du eine Einheit mit 8 Angriff, Leben oder Kosten beschwörst, gewähre ihr +8|+8.",
+    "descriptionRaw": "Wenn du eine Einheit mit 8 Angriff, Leben oder Kosten beschwörst, gewähre ihr +8|+8.",
+    "name": "Titanischer Sog",
+    "powerCode": "P0327",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0326.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0326-full.png",
+    "description": "Deine Zauber und Fertigkeiten verursachen 2 Schaden zusätzlich.",
+    "descriptionRaw": "Deine Zauber und Fertigkeiten verursachen 2 Schaden zusätzlich.",
+    "name": "Elementare Winde",
+    "powerCode": "P0326",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0324.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0324-full.png",
+    "description": "Wenn du einen Zauber ausspielst, heile dich um 1. Wenn er elementar war, heile dich um 2.",
+    "descriptionRaw": "Wenn du einen Zauber ausspielst, heile dich um 1. Wenn er elementar war, heile dich um 2.",
+    "name": "Urumi-Schild",
+    "powerCode": "P0324",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0325.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0325-full.png",
+    "description": "Rundenbeginn: Senke die Kosten von Zaubern auf der Hand um 1.",
+    "descriptionRaw": "Rundenbeginn: Senke die Kosten von Zaubern auf der Hand um 1.",
+    "name": "Mystische Meditation",
+    "powerCode": "P0325",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0108.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0108-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Erschaffe 1 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtige</style></link> <link=card.self><style=AssociatedCard>Instinktive Vorahnung</style></link> auf der Hand.",
+    "descriptionRaw": "Rundenbeginn: Erschaffe 1 flüchtige Instinktive Vorahnung auf der Hand.",
+    "name": "Instinktive Sinne",
+    "powerCode": "P0108",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0085.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0085-full.png",
+    "description": "Wenn du Schaden am gegnerischen Nexus verursachst, gewähre dem obersten Verbündeten in deinem Deck +1|+1.",
+    "descriptionRaw": "Wenn du Schaden am gegnerischen Nexus verursachst, gewähre dem obersten Verbündeten in deinem Deck +1|+1.",
+    "name": "Plündertrupp",
+    "powerCode": "P0085",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0105.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0105-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Ziehe 1 Karte und gib ihr <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtig</style></link>.<br>Wenn du eine Karte abwirfst, mische eine Kopie von ihr in dein Deck.",
+    "descriptionRaw": "Rundenbeginn: Ziehe 1 Karte und gib ihr flüchtig.Wenn du eine Karte abwirfst, mische eine Kopie von ihr in dein Deck.",
+    "name": "Schneller Handel",
+    "powerCode": "P0105",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0072.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0072-full.png",
+    "description": "Verbündete <link=vocab.Everywhere><style=Vocab>überall</style></link>, die 3 oder weniger kosten, gehören zum Typ „Lauernd“ und haben <link=keyword.Lurker><sprite name=Lurker><style=Keyword>Lauern</style></link>.",
+    "descriptionRaw": "Verbündete überall, die 3 oder weniger kosten, gehören zum Typ „Lauernd“ und haben Lauern.",
+    "name": "Auf der Lauer",
+    "powerCode": "P0072",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0087.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0087-full.png",
+    "description": "Wenn du eine Karte ziehst, gib Verbündeten in dieser Runde +1|+0.",
+    "descriptionRaw": "Wenn du eine Karte ziehst, gib Verbündeten in dieser Runde +1|+0.",
+    "name": "Höhere Bildung",
+    "powerCode": "P0087",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0099.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0099-full.png",
+    "description": "Spielstart: Heile deinen Nexus um 10.",
+    "descriptionRaw": "Spielstart: Heile deinen Nexus um 10.",
+    "name": "Unsterblichkeit",
+    "powerCode": "P0099",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0069.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0069-full.png",
+    "description": "Wenn du einen Verbündeten mit 5+ Stärke beschwörst, <link=vocab.Strike><style=Vocab>schlägt</style></link> er den <link=keyword.Weakest><style=Keyword>schwächsten</style></link> Gegner.",
+    "descriptionRaw": "Wenn du einen Verbündeten mit 5+ Stärke beschwörst, schlägt er den schwächsten Gegner.",
+    "name": "Trifarianische Macht",
+    "powerCode": "P0069",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0221.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0221-full.png",
+    "description": "Spielstart: Beschwöre 1 <link=card.self><style=AssociatedCard>Gefrorener Diener</style></link>. Setze den <link=keyword.Countdown><style=Keyword>Countdown</style></link> auf 5.",
+    "descriptionRaw": "Spielstart: Beschwöre 1 Gefrorener Diener. Setze den Countdown auf 5.",
+    "name": "Unheimliche Prophezeiung",
+    "powerCode": "P0221",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0078.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0078-full.png",
+    "description": "<link=vocab.RoundEnd><style=Vocab>Rundenende</style></link>: Gewähre Verbündeten +1|+1.",
+    "descriptionRaw": "Rundenende: Gewähre Verbündeten +1|+1.",
+    "name": "Überwältigende Macht",
+    "powerCode": "P0078",
+    "rarity": "LEGENDÄR",
+    "rarityRef": "Legendary"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0117.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0117-full.png",
+    "description": "Wenn du einen Verbündeten beschwörst, gib ihm in dieser Runde +1|+1.",
+    "descriptionRaw": "Wenn du einen Verbündeten beschwörst, gib ihm in dieser Runde +1|+1.",
+    "name": "Kein Entrinnen",
+    "powerCode": "P0117",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0074.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0074-full.png",
+    "description": "Kopiere die erste Karte, die du in einem Zug spielst.",
+    "descriptionRaw": "Kopiere die erste Karte, die du in einem Zug spielst.",
+    "name": "Duplizieren",
+    "powerCode": "P0074",
+    "rarity": "LEGENDÄR",
+    "rarityRef": "Legendary"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0077.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0077-full.png",
+    "description": "Spielstart: Füge für dieses Spiel jeder Karte in deinem Deck einen zufälligen Gegenstand hinzu.",
+    "descriptionRaw": "Spielstart: Füge für dieses Spiel jeder Karte in deinem Deck einen zufälligen Gegenstand hinzu.",
+    "name": "Instabiles Inventar",
+    "powerCode": "P0077",
+    "rarity": "LEGENDÄR",
+    "rarityRef": "Legendary"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0222.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0222-full.png",
+    "description": "Die erste Karte, die du in einer Runde ausspielst, kostet 1 weniger pro 20 Karten, die zu Beginn in deinem Deck waren.",
+    "descriptionRaw": "Die erste Karte, die du in einer Runde ausspielst, kostet 1 weniger pro 20 Karten, die zu Beginn in deinem Deck waren.",
+    "name": "Gute Karten",
+    "powerCode": "P0222",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0101.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0101-full.png",
+    "description": "Spielstart: Beschwöre eine Einheit mit 2 Kosten aus deinem Deck.",
+    "descriptionRaw": "Spielstart: Beschwöre eine Einheit mit 2 Kosten aus deinem Deck.",
+    "name": "Rasanter Start",
+    "powerCode": "P0101",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0091.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0091-full.png",
+    "description": "Wenn du einen Verbündeten beschwörst, gewähre ihm <link=keyword.Fury><sprite name=Fury><style=Keyword>Zorn</style></link>. Er ist ein Drache.",
+    "descriptionRaw": "Wenn du einen Verbündeten beschwörst, gewähre ihm Zorn. Er ist ein Drache.",
+    "name": "Zorn des Drachen",
+    "powerCode": "P0091",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0106.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0106-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Erschaffe 1 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtiges</style></link> <link=card.self><style=AssociatedCard>Fälschungen</style></link> mit 0 Kosten auf der Hand.",
+    "descriptionRaw": "Rundenbeginn: Erschaffe 1 flüchtiges Fälschungen mit 0 Kosten auf der Hand.",
+    "name": "Fälschungsmanufaktur",
+    "powerCode": "P0106",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0114.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0114-full.png",
+    "description": "Wenn du einen langsamen Zauber ausspielst, kopiere ihn auf dieselben Ziele.",
+    "descriptionRaw": "Wenn du einen langsamen Zauber ausspielst, kopiere ihn auf dieselben Ziele.",
+    "name": "Langsam aber sicher",
+    "powerCode": "P0114",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0079.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0079-full.png",
+    "description": "Wenn Verbündete angreifen, <link=keyword.Nab><style=Keyword>klaue</style></link> 1.",
+    "descriptionRaw": "Wenn Verbündete angreifen, klaue 1.",
+    "name": "Lange Finger machen",
+    "powerCode": "P0079",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0102.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0102-full.png",
+    "description": "<link=vocab.RoundEnd><style=Vocab>Rundenende</style></link>: Senke die Kosten der teuersten Karte auf der Hand um 1.",
+    "descriptionRaw": "Rundenende: Senke die Kosten der teuersten Karte auf der Hand um 1.",
+    "name": "Darf es etwas weniger sein?",
+    "powerCode": "P0102",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0098.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0098-full.png",
+    "description": "Spielstart: Beschwöre 1 <link=card.self><style=AssociatedCard>Energischer Schüler</style></link>.",
+    "descriptionRaw": "Spielstart: Beschwöre 1 Energischer Schüler.",
+    "name": "Neuer Schüler",
+    "powerCode": "P0098",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0104.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0104-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Erschaffe 1 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtiges</style></link> <link=card.self><style=AssociatedCard>Auf Messers Schneide</style></link> auf der Hand.",
+    "descriptionRaw": "Rundenbeginn: Erschaffe 1 flüchtiges Auf Messers Schneide auf der Hand.",
+    "name": "Tanzende Klingen",
+    "powerCode": "P0104",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0097.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0097-full.png",
+    "description": "Spielstart: Ziehe 2.",
+    "descriptionRaw": "Spielstart: Ziehe 2.",
+    "name": "Flexible Strategie",
+    "powerCode": "P0097",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0093.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0093-full.png",
+    "description": "Verbündete Buffs (außer Barriere) sind permanent.",
+    "descriptionRaw": "Verbündete Buffs (außer Barriere) sind permanent.",
+    "name": "Nicht zu bremsen",
+    "powerCode": "P0093",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0071.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0071-full.png",
+    "description": "Verbündete haben <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Überwältigen</style></link>.",
+    "descriptionRaw": "Verbündete haben Überwältigen.",
+    "name": "Zermalmen",
+    "powerCode": "P0071",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0112.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0112-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: <link=vocab.Rally><style=Vocab>Mobilisiere</style></link> dich.",
+    "descriptionRaw": "Rundenbeginn: Mobilisiere dich.",
+    "name": "Dominanz",
+    "powerCode": "P0112",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0073.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0073-full.png",
+    "description": "Du erhältst nach jedem Kampf zusätzlich 200 Gold.",
+    "descriptionRaw": "Du erhältst nach jedem Kampf zusätzlich 200 Gold.",
+    "name": "Unbegrenzter Reichtum",
+    "powerCode": "P0073",
+    "rarity": "LEGENDÄR",
+    "rarityRef": "Legendary"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0083.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0083-full.png",
+    "description": "Wenn du einem Gegner Schaden zufügst, verringere seine Stärke um den verursachten Schaden.",
+    "descriptionRaw": "Wenn du einem Gegner Schaden zufügst, verringere seine Stärke um den verursachten Schaden.",
+    "name": "Schwächender Schlag",
+    "powerCode": "P0083",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0119.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0119-full.png",
+    "description": "Wenn du die Angriffsmarke erhältst, beschwöre 1 <link=card.self><style=AssociatedCard>Sprössling</style></link>.",
+    "descriptionRaw": "Wenn du die Angriffsmarke erhältst, beschwöre 1 Sprössling.",
+    "name": "Rache der Natur",
+    "powerCode": "P0119",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0224.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0224-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Erschaffe 1 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtiges</style></link> <link=card.self><style=AssociatedCard>Zeit und Hingabe</style></link> auf der Hand.",
+    "descriptionRaw": "Rundenbeginn: Erschaffe 1 flüchtiges Zeit und Hingabe auf der Hand.",
+    "name": "Die Gunst des Handwerkers",
+    "powerCode": "P0224",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0096.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0096-full.png",
+    "description": "Spielstart: Beschwöre 1 <link=card.self><style=AssociatedCard>Podium des Imperators</style></link>.",
+    "descriptionRaw": "Spielstart: Beschwöre 1 Podium des Imperators.",
+    "name": "Der Sitz der Macht",
+    "powerCode": "P0096",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0094.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0094-full.png",
+    "description": "Erhöhe dein maximales Leben um 10.",
+    "descriptionRaw": "Erhöhe dein maximales Leben um 10.",
+    "name": "Vitalität",
+    "powerCode": "P0094",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0111.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0111-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Fülle dein Zaubermana wieder auf.",
+    "descriptionRaw": "Rundenbeginn: Fülle dein Zaubermana wieder auf.",
+    "name": "Hexerei",
+    "powerCode": "P0111",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0223.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0223-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Erschaffe auf der Hand eine <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtige</style></link> Kopie der letzten nicht-<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>flüchtigen</style></link> Karte, die du ausgespielt hast.",
+    "descriptionRaw": "Rundenbeginn: Erschaffe auf der Hand eine flüchtige Kopie der letzten nicht-flüchtigen Karte, die du ausgespielt hast.",
+    "name": "Memory-Spiel",
+    "powerCode": "P0223",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0080.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0080-full.png",
+    "description": "Wenn dein Nexus das erste Mal in einem Spiel unter 0 Leben fallen würde, heile ihn um 30 und gewähre Verbündeten <link=vocab.Everywhere><style=Vocab>überall</style></link> +1|+1.",
+    "descriptionRaw": "Wenn dein Nexus das erste Mal in einem Spiel unter 0 Leben fallen würde, heile ihn um 30 und gewähre Verbündeten überall +1|+1.",
+    "name": "Unbeugsame Entschlossenheit",
+    "powerCode": "P0080",
+    "rarity": "LEGENDÄR",
+    "rarityRef": "Legendary"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0070.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0070-full.png",
+    "description": "(Für die ersten 3 Kämpfe) Spielstart: Erhalte einen Manastein.",
+    "descriptionRaw": "(Für die ersten 3 Kämpfe) Spielstart: Erhalte einen Manastein.",
+    "name": "Instabiler Manafluss",
+    "powerCode": "P0070",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0110.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0110-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Gewähre dem <link=keyword.Weakest><style=Keyword>schwächsten</style></link> Verbündeten +1|+1. ",
+    "descriptionRaw": "Rundenbeginn: Gewähre dem schwächsten Verbündeten +1|+1. ",
+    "name": "Kampftraining",
+    "powerCode": "P0110",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0090.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0090-full.png",
+    "description": "Verbündete haben für jedes ihrer Schlüsselwörter +1|+1.",
+    "descriptionRaw": "Verbündete haben für jedes ihrer Schlüsselwörter +1|+1.",
+    "name": "Evolution",
+    "powerCode": "P0090",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0075.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0075-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: Erhalte einen Manastein.",
+    "descriptionRaw": "Rundenbeginn: Erhalte einen Manastein.",
+    "name": "Perfektionierter Manafluss",
+    "powerCode": "P0075",
+    "rarity": "LEGENDÄR",
+    "rarityRef": "Legendary"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0115.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0115-full.png",
+    "description": "Wenn du einen Verbündeten beschwörst, gewähre allen Verbündeten seine Schlüsselwörter.",
+    "descriptionRaw": "Wenn du einen Verbündeten beschwörst, gewähre allen Verbündeten seine Schlüsselwörter.",
+    "name": "Nächstenliebe",
+    "powerCode": "P0115",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0220.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0220-full.png",
+    "description": "Spielstart: Erschaffe eine zufällige Ausrüstung auf der Hand. Sie kostet 2 weniger.",
+    "descriptionRaw": "Spielstart: Erschaffe eine zufällige Ausrüstung auf der Hand. Sie kostet 2 weniger.",
+    "name": "Extrem vorbereitet",
+    "powerCode": "P0220",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0089.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0089-full.png",
+    "description": "Wenn ein Verbündeter Schaden überlebt, gewähre ihm +1|+1.",
+    "descriptionRaw": "Wenn ein Verbündeter Schaden überlebt, gewähre ihm +1|+1.",
+    "name": "Durchhaltevermögen",
+    "powerCode": "P0089",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0219.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0219-full.png",
+    "description": "Wenn zum ersten Mal ein Verbündeter stirbt, beschwöre 1 <link=card.self><style=AssociatedCard>Verfluchtes Grab</style></link>.",
+    "descriptionRaw": "Wenn zum ersten Mal ein Verbündeter stirbt, beschwöre 1 Verfluchtes Grab.",
+    "name": "Verwehrtes Weiterziehen",
+    "powerCode": "P0219",
+    "rarity": "GEWÖHNLICH",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0107.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0107-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Rundenbeginn</style></link>: <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>Friere</style></link> den stärksten Gegner in dieser Runde ein.",
+    "descriptionRaw": "Rundenbeginn: Friere den stärksten Gegner in dieser Runde ein.",
+    "name": "Auf Abstand halten",
+    "powerCode": "P0107",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0068.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0068-full.png",
+    "description": "Wenn du einen Verbündeten mit 1 Kosten beschwörst, gewähre ihm +2|+2.",
+    "descriptionRaw": "Wenn du einen Verbündeten mit 1 Kosten beschwörst, gewähre ihm +2|+2.",
+    "name": "Yipps Genialität",
+    "powerCode": "P0068",
+    "rarity": "EPISCH",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0116.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/de_de/img/powers/P0116-full.png",
+    "description": "Wenn du einen Verbündeten beschwörst, gewähre ihm ein zufälliges Schlüsselwort.",
+    "descriptionRaw": "Wenn du einen Verbündeten beschwörst, gewähre ihm ein zufälliges Schlüsselwort.",
+    "name": "Willkommensgeschenke",
+    "powerCode": "P0116",
+    "rarity": "SELTEN",
+    "rarityRef": "Rare"
+  }
+]
