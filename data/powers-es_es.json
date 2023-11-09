@@ -1,0 +1,2452 @@
+[
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0022.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0022-full.png",
+    "description": "Cuando lances el segundo hechizo en una misma ronda, tu aliado <link=vocab.Strongest><style=Vocab>más fuerte</style></link> obtiene +8|+8 esta ronda.",
+    "descriptionRaw": "Cuando lances el segundo hechizo en una misma ronda, tu aliado más fuerte obtiene +8|+8 esta ronda.",
+    "name": "Espíritu del dragón II",
+    "powerCode": "P0022",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0023.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0023-full.png",
+    "description": "+1 de maná inicial.<br><link=vocab.RoundStart><style=Vocab>Comienzo de ronda:</style></link> Crea 1 <link=card.self><style=AssociatedCard>Disciplinas gemelas</style></link> Fugaz en la mano.",
+    "descriptionRaw": "+1 de maná inicial.Comienzo de ronda: Crea 1 Disciplinas gemelas Fugaz en la mano.",
+    "name": "Expande tus sentidos",
+    "powerCode": "P0023",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0020.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0020-full.png",
+    "description": "Cuando lances el segundo hechizo en una misma ronda, tu aliado <link=vocab.Strongest><style=Vocab>más fuerte</style></link> obtiene +4|+4 esta ronda.",
+    "descriptionRaw": "Cuando lances el segundo hechizo en una misma ronda, tu aliado más fuerte obtiene +4|+4 esta ronda.",
+    "name": "Espíritu del dragón",
+    "powerCode": "P0020",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0176.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0176-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Crea 1 <link=card.self><style=AssociatedCard>Determinación inquebrantable</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> en la mano. Cuesta 0.",
+    "descriptionRaw": "Comienzo de ronda: Crea 1 Determinación inquebrantable Fugaz en la mano. Cuesta 0.",
+    "name": "Engañosamente letal II",
+    "powerCode": "P0176",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0174.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0174-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Crea 1 <link=card.self><style=AssociatedCard>Determinación inquebrantable</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> en la mano. Cuesta 1 menos.",
+    "descriptionRaw": "Comienzo de ronda: Crea 1 Determinación inquebrantable Fugaz en la mano. Cuesta 1 menos.",
+    "name": "Engañosamente letal",
+    "powerCode": "P0174",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0175.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0175-full.png",
+    "description": "+1 de maná inicial.<br> Si has subido de nivel a un campeón durante la partida, cuando los aliados atacan, invoca 1 <link=card.self><style=AssociatedCard>LeBlanc</style></link> <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Endeble</style></link> en ataque.",
+    "descriptionRaw": "+1 de maná inicial. Si has subido de nivel a un campeón durante la partida, cuando los aliados atacan, invoca 1 LeBlanc Endeble en ataque.",
+    "name": "En todas partes y para todos",
+    "powerCode": "P0175",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0131.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0131-full.png",
+    "description": "Comienzo de partida: Invoca 1 <link=card.self><style=AssociatedCard>Oso rocoso hibernando</style></link>. Los aliados obtienen +1|+1 y <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Abrumar</style></link>.",
+    "descriptionRaw": "Comienzo de partida: Invoca 1 Oso rocoso hibernando. Los aliados obtienen +1|+1 y Abrumar.",
+    "name": "Buenos días, gruñón II",
+    "powerCode": "P0131",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0130.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0130-full.png",
+    "description": "+1 de maná inicial.<br>Cuando se destruye un hito aliado, otorga +1|+0 a los aliados.",
+    "descriptionRaw": "+1 de maná inicial.Cuando se destruye un hito aliado, otorga +1|+0 a los aliados.",
+    "name": "Roca reciclada",
+    "powerCode": "P0130",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0129.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0129-full.png",
+    "description": "Comienzo de partida: Invoca 1 <link=card.self><style=AssociatedCard>Oso rocoso hibernando</style></link>.",
+    "descriptionRaw": "Comienzo de partida: Invoca 1 Oso rocoso hibernando.",
+    "name": "Buenos días, gruñón",
+    "powerCode": "P0129",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0149.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0149-full.png",
+    "description": "Los aliados tienen \"<link=keyword.Daybreak><style=Keyword>Amanecer</style></link> o cuando activas otra carta con <link=keyword.Daybreak><style=Keyword>Amanecer</style></link>: Consigo +1|+1\".",
+    "descriptionRaw": "Los aliados tienen \"Amanecer o cuando activas otra carta con Amanecer: Consigo +1|+1\".",
+    "name": "Poder solar II",
+    "powerCode": "P0149",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0148.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0148-full.png",
+    "description": "+1 de maná inicial.<br>Cuando un campeón aliado sube de nivel, crea 1 <link=card.self><style=AssociatedCard>Luz del alba</style></link> en la mano. Cuesta 0.",
+    "descriptionRaw": "+1 de maná inicial.Cuando un campeón aliado sube de nivel, crea 1 Luz del alba en la mano. Cuesta 0.",
+    "name": "Recompensa de la devoción",
+    "powerCode": "P0148",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0147.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0147-full.png",
+    "description": "Los aliados tienen \"<link=keyword.Daybreak><style=Keyword>Amanecer</style></link>: Consigo +1|+1\".",
+    "descriptionRaw": "Los aliados tienen \"Amanecer: Consigo +1|+1\".",
+    "name": "Poder solar",
+    "powerCode": "P0147",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0208.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0208-full.png",
+    "description": "+1 de maná inicial.<br><link=card.self><style=AssociatedCard>Thresh</style></link> cuesta 1 menos por cada aliado que hayas asesinado en esta partida.",
+    "descriptionRaw": "+1 de maná inicial.Thresh cuesta 1 menos por cada aliado que hayas asesinado en esta partida.",
+    "name": "¡Sal a jugar!",
+    "powerCode": "P0208",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0207.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0207-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Por cada aliado que haya muerto en la ronda anterior, otorga +1|+1 a un aliado aleatorio.",
+    "descriptionRaw": "Comienzo de ronda: Por cada aliado que haya muerto en la ronda anterior, otorga +1|+1 a un aliado aleatorio.",
+    "name": "Saborea los gritos",
+    "powerCode": "P0207",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0209.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0209-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Por cada aliado que haya muerto en la ronda anterior, otorga +1|+1 y las palabras clave de los aliados muertos a un aliado aleatorio.",
+    "descriptionRaw": "Comienzo de ronda: Por cada aliado que haya muerto en la ronda anterior, otorga +1|+1 y las palabras clave de los aliados muertos a un aliado aleatorio.",
+    "name": "Saborea los gritos II",
+    "powerCode": "P0209",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0032.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0032-full.png",
+    "description": "+1 de maná inicial.<br>Cuando un aliado <link=vocab.Strike><style=Vocab>golpea</style></link>, obtiene +1|+0.",
+    "descriptionRaw": "+1 de maná inicial.Cuando un aliado golpea, obtiene +1|+0.",
+    "name": "Siempre afilado",
+    "powerCode": "P0032",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0036.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0036-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: <link=keyword.Stun><sprite name=Stunned><style=Keyword>Aturde</style></link> al enemigo <link=vocab.Strongest><style=Vocab>más fuerte</style></link>.",
+    "descriptionRaw": "Comienzo de ronda: Aturde al enemigo más fuerte.",
+    "name": "Tras el viento II",
+    "powerCode": "P0036",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0033.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0033-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Si tienes la ficha de ataque, <link=keyword.Stun><sprite name=Stunned><style=Keyword>aturde</style></link> al enemigo <link=vocab.Strongest><style=Vocab>más fuerte</style></link>.",
+    "descriptionRaw": "Comienzo de ronda: Si tienes la ficha de ataque, aturde al enemigo más fuerte.",
+    "name": "Tras el viento",
+    "powerCode": "P0033",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0012.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0012-full.png",
+    "description": "Cuando un aliado <link=vocab.Strike><style=Vocab>golpea</style></link>, obtiene +2|+2.",
+    "descriptionRaw": "Cuando un aliado golpea, obtiene +2|+2.",
+    "name": "Poder demaciano II",
+    "powerCode": "P0012",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0010.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0010-full.png",
+    "description": "+1 de maná inicial.<br><link=vocab.RoundStart><style=Vocab>Comienzo de ronda:</style></link> Crea 1 <link=card.self><style=AssociatedCard>Combate único</style></link> Fugaz en la mano.",
+    "descriptionRaw": "+1 de maná inicial.Comienzo de ronda: Crea 1 Combate único Fugaz en la mano.",
+    "name": "Justicia",
+    "powerCode": "P0010",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0008.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0008-full.png",
+    "description": "Cuando un aliado <link=vocab.Strike><style=Vocab>golpea</style></link>, obtiene +1|+1.",
+    "descriptionRaw": "Cuando un aliado golpea, obtiene +1|+1.",
+    "name": "Poder demaciano",
+    "powerCode": "P0008",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0153.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0153-full.png",
+    "description": "Cuando los aliados atacan, coloca 5 <link=card.self><style=AssociatedCard>Boletus venenosos</style></link> en el mazo enemigo.",
+    "descriptionRaw": "Cuando los aliados atacan, coloca 5 Boletus venenosos en el mazo enemigo.",
+    "name": "Armado y preparado",
+    "powerCode": "P0153",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0155.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0155-full.png",
+    "description": "Cuando los aliados atacan, coloca 10 <link=card.self><style=AssociatedCard>Boletus venenosos</style></link> en el mazo enemigo.",
+    "descriptionRaw": "Cuando los aliados atacan, coloca 10 Boletus venenosos en el mazo enemigo.",
+    "name": "Armado y preparado II",
+    "powerCode": "P0155",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0154.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0154-full.png",
+    "description": "+1 de maná inicial.<br> Cuando tu oponente roba una carta con un Boletus venenoso o más, crea 1 <link=card.self><style=AssociatedCard>Dardo venenoso</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> en la mano. La velocidad es de <link=keyword.Burst><sprite name=Burst><style=Keyword>Ráfaga</style></link>.",
+    "descriptionRaw": "+1 de maná inicial. Cuando tu oponente roba una carta con un Boletus venenoso o más, crea 1 Dardo venenoso Fugaz en la mano. La velocidad es de Ráfaga.",
+    "name": "Golpea con rapidez",
+    "powerCode": "P0154",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0027.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0027-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Si tienes la ficha de ataque, invoca 1 <link=card.self><style=AssociatedCard>Mono de la pólvora</style></link>.",
+    "descriptionRaw": "Comienzo de ronda: Si tienes la ficha de ataque, invoca 1 Mono de la pólvora.",
+    "name": "No son más que simples grumetes",
+    "powerCode": "P0027",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0028.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0028-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Invoca 1 <link=card.self><style=AssociatedCard>Mono de la pólvora</style></link>.",
+    "descriptionRaw": "Comienzo de ronda: Invoca 1 Mono de la pólvora.",
+    "name": "No son más que simples grumetes II",
+    "powerCode": "P0028",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0029.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0029-full.png",
+    "description": "+1 de maná inicial.<br>Cuando los aliados atacan, roba una unidad.",
+    "descriptionRaw": "+1 de maná inicial.Cuando los aliados atacan, roba una unidad.",
+    "name": "La más buscada",
+    "powerCode": "P0029",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0140.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0140-full.png",
+    "description": "Los aliados tienen \"<link=keyword.Nightfall><style=Keyword>Anochecer</style></link>: Consigo +2|+0 y <link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>Ataque rápido</style></link>. Si ya tengo <link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>Ataque rápido</style></link>, consigo <link=keyword.Double Strike><sprite name=DoubleStrike><style=Keyword>Ataque doble</style></link>\".",
+    "descriptionRaw": "Los aliados tienen \"Anochecer: Consigo +2|+0 y Ataque rápido. Si ya tengo Ataque rápido, consigo Ataque doble\".",
+    "name": "Hoja del paria II",
+    "powerCode": "P0140",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0139.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0139-full.png",
+    "description": "+1 de maná inicial.<br>Al jugar tu primera carta en cada ronda, recuperas 1 de maná. ",
+    "descriptionRaw": "+1 de maná inicial.Al jugar tu primera carta en cada ronda, recuperas 1 de maná. ",
+    "name": "Ofrenda del crepúsculo",
+    "powerCode": "P0139",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0138.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0138-full.png",
+    "description": "Los aliados tienen \"<link=keyword.Nightfall><style=Keyword>Anochecer</style></link>: Consigo +2|+0\".",
+    "descriptionRaw": "Los aliados tienen \"Anochecer: Consigo +2|+0\".",
+    "name": "Hoja del paria",
+    "powerCode": "P0138",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0145.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0145-full.png",
+    "description": "+1 de maná inicial.<br>En cada partida, la primera vez que un aliado asesine a un enemigo y sobreviva, crea un equipamiento de los Oscuros aleatorio en la mano. Cuesta 2 menos.",
+    "descriptionRaw": "+1 de maná inicial.En cada partida, la primera vez que un aliado asesine a un enemigo y sobreviva, crea un equipamiento de los Oscuros aleatorio en la mano. Cuesta 2 menos.",
+    "name": "Huésped apto",
+    "powerCode": "P0145",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0144.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0144-full.png",
+    "description": "Cuando una unidad aliada asesina a otra unidad, consigue +1|+1 y se cura 2 de vida.",
+    "descriptionRaw": "Cuando una unidad aliada asesina a otra unidad, consigue +1|+1 y se cura 2 de vida.",
+    "name": "Cosechar esencia",
+    "powerCode": "P0144",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0146.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0146-full.png",
+    "description": "Cuando una unidad aliada asesina a otra unidad, consigue +2|+2 y se cura por completo. ",
+    "descriptionRaw": "Cuando una unidad aliada asesina a otra unidad, consigue +2|+2 y se cura por completo. ",
+    "name": "Cosechar esencia II",
+    "powerCode": "P0146",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0218.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0218-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Crea 1 <link=card.self><style=AssociatedCard>Oscuridad</style></link> que cuesta 0 en la mano.",
+    "descriptionRaw": "Comienzo de ronda: Crea 1 Oscuridad que cuesta 0 en la mano.",
+    "name": "Soy malvado II",
+    "powerCode": "P0218",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0216.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0216-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Crea 1 <link=card.self><style=AssociatedCard>Oscuridad</style></link> en la mano o, si ya tienes una copia, reduce su coste a 1.",
+    "descriptionRaw": "Comienzo de ronda: Crea 1 Oscuridad en la mano o, si ya tienes una copia, reduce su coste a 1.",
+    "name": "Soy malvado",
+    "powerCode": "P0216",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0217.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0217-full.png",
+    "description": "+1 de maná inicial.<br>Tu <link=card.self><style=AssociatedCard>Oscuridad</style></link> se acelera y es una <link=keyword.Burst><sprite name=Burst><style=Keyword>Ráfaga</style></link>.",
+    "descriptionRaw": "+1 de maná inicial.Tu Oscuridad se acelera y es una Ráfaga.",
+    "name": "Omnipotente",
+    "powerCode": "P0217",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0003.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0003-full.png",
+    "description": "Cuando invocas a un aliado con estadísticas mejoradas, obtiene una palabra clave aleatoria.",
+    "descriptionRaw": "Cuando invocas a un aliado con estadísticas mejoradas, obtiene una palabra clave aleatoria.",
+    "name": "Bendición del guardián",
+    "powerCode": "P0003",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0005.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0005-full.png",
+    "description": "+1 de maná inicial.<br>Cuando robas una carta con campanas, se coloca 1 <link=card.self><style=AssociatedCard>Campana</style></link> en tu mazo.",
+    "descriptionRaw": "+1 de maná inicial.Cuando robas una carta con campanas, se coloca 1 Campana en tu mazo.",
+    "name": "Presencia cósmica",
+    "powerCode": "P0005",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0004.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0004-full.png",
+    "description": "Cuando invocas a un aliado con estadísticas mejoradas, obtiene dos palabras clave aleatorias.",
+    "descriptionRaw": "Cuando invocas a un aliado con estadísticas mejoradas, obtiene dos palabras clave aleatorias.",
+    "name": "Bendición del guardián II",
+    "powerCode": "P0004",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0184.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0184-full.png",
+    "description": "+1 de maná inicial.<br><link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Otorga -1|-0 al enemigo <link=vocab.Strongest><style=Vocab>más fuerte</style></link>.",
+    "descriptionRaw": "+1 de maná inicial.Comienzo de ronda: Otorga -1|-0 al enemigo más fuerte.",
+    "name": "Conservación shurimana",
+    "powerCode": "P0184",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0185.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0185-full.png",
+    "description": "<link=vocab.RoundEnd><style=Vocab>Fin de ronda</style></link>: Otorga +2|+2 a tu aliado <link=vocab.Strongest><style=Vocab>más fuerte</style></link> por cada unidad que hayas <link=vocab.Slay><style=Vocab>asesinado</style></link> esta ronda. Una vez hayas <link=vocab.Slay><style=Vocab>asesinado</style></link> a 10 o más unidades, <link=vocab.SunDiscRestore><style=Vocab>Restaura el disco solar</style></link>.",
+    "descriptionRaw": "Fin de ronda: Otorga +2|+2 a tu aliado más fuerte por cada unidad que hayas asesinado esta ronda. Una vez hayas asesinado a 10 o más unidades, Restaura el disco solar.",
+    "name": "La bendición del Ascendido II",
+    "powerCode": "P0185",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0183.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0183-full.png",
+    "description": "<link=vocab.RoundEnd><style=Vocab>Fin de ronda</style></link>: Otorga +1|+1 a tu aliado <link=vocab.Strongest><style=Vocab>más fuerte</style></link> por cada unidad que hayas <link=vocab.Slay><style=Vocab>asesinado</style></link> esta ronda.",
+    "descriptionRaw": "Fin de ronda: Otorga +1|+1 a tu aliado más fuerte por cada unidad que hayas asesinado esta ronda.",
+    "name": "La bendición del Ascendido",
+    "powerCode": "P0183",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0320.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0320-full.png",
+    "description": "Cada ronda, copia las 2 primeras unidades o hechizos <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaces</style></link> que juegues.",
+    "descriptionRaw": "Cada ronda, copia las 2 primeras unidades o hechizos Fugaces que juegues.",
+    "name": "Alegría incesante II",
+    "powerCode": "P0320",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0318.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0318-full.png",
+    "description": "Cada ronda, copia la primera unidad o hechizo <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> que juegues.",
+    "descriptionRaw": "Cada ronda, copia la primera unidad o hechizo Fugaz que juegues.",
+    "name": "Alegría incesante",
+    "powerCode": "P0318",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0319.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0319-full.png",
+    "description": "+1 de maná inicial.<br>Crea una copia en tu mazo de las 2 primeras cartas que te descartes cada ronda, después roba 1 carta <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> en el siguiente <link=vocab.RoundStart><style=Vocab>comienzo de ronda</style></link> por cada una.",
+    "descriptionRaw": "+1 de maná inicial.Crea una copia en tu mazo de las 2 primeras cartas que te descartes cada ronda, después roba 1 carta Fugaz en el siguiente comienzo de ronda por cada una.",
+    "name": "Depuradora",
+    "powerCode": "P0319",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0007.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0007-full.png",
+    "description": "La primera vez que invocas a un aliado en cada ronda, obtiene +2|+0.",
+    "descriptionRaw": "La primera vez que invocas a un aliado en cada ronda, obtiene +2|+0.",
+    "name": "Poder noxiano",
+    "powerCode": "P0007",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0009.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0009-full.png",
+    "description": "La primera vez que invocas a un aliado en cada ronda, obtiene +4|+0 y <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Abrumar</style></link>.",
+    "descriptionRaw": "La primera vez que invocas a un aliado en cada ronda, obtiene +4|+0 y Abrumar.",
+    "name": "Poder noxiano II",
+    "powerCode": "P0009",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0006.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0006-full.png",
+    "description": "+1 de maná inicial.<br>La primera vez que atacas con 15 o más de poder en total en cada ronda, <link=vocab.Rally><style=Vocab>prepara el ataque</style></link>.",
+    "descriptionRaw": "+1 de maná inicial.La primera vez que atacas con 15 o más de poder en total en cada ronda, prepara el ataque.",
+    "name": "Ábrete paso",
+    "powerCode": "P0006",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0178.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0178-full.png",
+    "description": "+1 de maná inicial.<br><link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: <link=vocab.Flow><style=Vocab>Fluir</style></link>: Tu aliado <link=vocab.Strongest><style=Vocab>más fuerte</style></link> obtiene <link=keyword.Elusive><sprite name=Elusive><style=Keyword>Elusión</style></link> esta ronda.",
+    "descriptionRaw": "+1 de maná inicial.Comienzo de ronda: Fluir: Tu aliado más fuerte obtiene Elusión esta ronda.",
+    "name": "Emai",
+    "powerCode": "P0178",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0179.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0179-full.png",
+    "description": "Cuando juegas un hechizo que no sea <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link>, crea 1 <link=card.self><style=AssociatedCard>Disciplinas gemelas</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> de coste 1 en la mano. <br><link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: <link=vocab.Flow><style=Vocab>Fluir</style></link>: Otorga +1|+1 a los aliados.",
+    "descriptionRaw": "Cuando juegas un hechizo que no sea Fugaz, crea 1 Disciplinas gemelas Fugaz de coste 1 en la mano. Comienzo de ronda: Fluir: Otorga +1|+1 a los aliados.",
+    "name": "Cuerpo y mente II",
+    "powerCode": "P0179",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0177.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0177-full.png",
+    "description": "Cuando juegas un hechizo que no sea <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link>, crea 1 <link=card.self><style=AssociatedCard>Disciplinas gemelas</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> de coste 1 en la mano.",
+    "descriptionRaw": "Cuando juegas un hechizo que no sea Fugaz, crea 1 Disciplinas gemelas Fugaz de coste 1 en la mano.",
+    "name": "Cuerpo y mente",
+    "powerCode": "P0177",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0030.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0030-full.png",
+    "description": "+1 de maná inicial.<br>Comienzo de partida: Roba 2 cartas de coste 2 o inferior.",
+    "descriptionRaw": "+1 de maná inicial.Comienzo de partida: Roba 2 cartas de coste 2 o inferior.",
+    "name": "El orgullo de Piltover",
+    "powerCode": "P0030",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0031.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0031-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Otorga +0|+1 e <link=keyword.Impact><sprite name=Impact><style=Keyword>Impacto</style></link> a tu aliado <link=vocab.Strongest><style=Vocab>más fuerte</style></link>.",
+    "descriptionRaw": "Comienzo de ronda: Otorga +0|+1 e Impacto a tu aliado más fuerte.",
+    "name": "Fuerza implacable",
+    "powerCode": "P0031",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0034.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0034-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Otorga +0|+2 e <link=keyword.Impact><sprite name=Impact><style=Keyword>Impacto</style></link> a tu aliado <link=vocab.Strongest><style=Vocab>más fuerte</style></link> dos veces.",
+    "descriptionRaw": "Comienzo de ronda: Otorga +0|+2 e Impacto a tu aliado más fuerte dos veces.",
+    "name": "Fuerza implacable II",
+    "powerCode": "P0034",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0025.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0025-full.png",
+    "description": "+1 de maná inicial.<br>Cuando gastas 6 o más de maná de hechizos, crea 1 <link=card.self><style=AssociatedCard>Protección áurea</style></link> de coste 0 en la mano. <style=Variable></style>",
+    "descriptionRaw": "+1 de maná inicial.Cuando gastas 6 o más de maná de hechizos, crea 1 Protección áurea de coste 0 en la mano. ",
+    "name": "Superando mis límites",
+    "powerCode": "P0025",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0024.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0024-full.png",
+    "description": "La primera vez que lanzas un hechizo en cada ronda, recuperas el maná equivalente a su coste.",
+    "descriptionRaw": "La primera vez que lanzas un hechizo en cada ronda, recuperas el maná equivalente a su coste.",
+    "name": "Iluminando el camino II",
+    "powerCode": "P0024",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0026.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0026-full.png",
+    "description": "La primera vez que lanzas un hechizo en cada ronda, recuperas el maná de hechizos equivalente a su coste.",
+    "descriptionRaw": "La primera vez que lanzas un hechizo en cada ronda, recuperas el maná de hechizos equivalente a su coste.",
+    "name": "Iluminando el camino",
+    "powerCode": "P0026",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0215.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0215-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Si tienes la ficha de ataque y menos de 2 equipamientos en la mano, crea 1 <link=card.self><style=AssociatedCard>Espátula dorada</style></link>. Obtiene una palabra clave aleatoria.",
+    "descriptionRaw": "Comienzo de ronda: Si tienes la ficha de ataque y menos de 2 equipamientos en la mano, crea 1 Espátula dorada. Obtiene una palabra clave aleatoria.",
+    "name": "Tiene que servir para algo... II",
+    "powerCode": "P0215",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0213.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0213-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Si tienes la ficha de ataque y menos de 2 equipamientos en la mano, crea 1 <link=card.self><style=AssociatedCard>Espátula dorada</style></link>.",
+    "descriptionRaw": "Comienzo de ronda: Si tienes la ficha de ataque y menos de 2 equipamientos en la mano, crea 1 Espátula dorada.",
+    "name": "Tiene que servir para algo...",
+    "powerCode": "P0213",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0214.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0214-full.png",
+    "description": "+1 de maná inicial.<br> Cuando un aliado está <link=vocab.Equip><style=Vocab>equipado</style></link>, consigue <link=keyword.Scout><sprite name=Scout><style=Keyword>Vigía</style></link> esta ronda.",
+    "descriptionRaw": "+1 de maná inicial. Cuando un aliado está equipado, consigue Vigía esta ronda.",
+    "name": "Cazadora noctívaga",
+    "powerCode": "P0214",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0011.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0011-full.png",
+    "description": "Cuando los aliados atacan, <link=vocab.Spawn><style=Vocab>engendra</style></link> 1.",
+    "descriptionRaw": "Cuando los aliados atacan, engendra 1.",
+    "name": "Profeta de un dios antiguo",
+    "powerCode": "P0011",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0013.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0013-full.png",
+    "description": "Cuando los aliados atacan, <link=vocab.Spawn><style=Vocab>engendra</style></link> 3.",
+    "descriptionRaw": "Cuando los aliados atacan, engendra 3.",
+    "name": "Profeta de un dios antiguo II",
+    "powerCode": "P0013",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0014.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0014-full.png",
+    "description": "+1 de maná inicial.<br><link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Otorga <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Vulnerable</style></link> al enemigo <link=keyword.Weakest><style=Keyword>más débil</style></link>.",
+    "descriptionRaw": "+1 de maná inicial.Comienzo de ronda: Otorga Vulnerable al enemigo más débil.",
+    "name": "Prueba de espíritu",
+    "powerCode": "P0014",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0317.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0317-full.png",
+    "description": "Cuando juegas una carta con coste reducido, reduce el coste de las 2 primeras cartas de tu mazo en 1.",
+    "descriptionRaw": "Cuando juegas una carta con coste reducido, reduce el coste de las 2 primeras cartas de tu mazo en 1.",
+    "name": "¿Estás al corriente? II",
+    "powerCode": "P0317",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0316.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0316-full.png",
+    "description": "+1 de maná inicial.<br>Cuando juegas una carta con coste reducido, otorga +1|+1 al aliado más débil.",
+    "descriptionRaw": "+1 de maná inicial.Cuando juegas una carta con coste reducido, otorga +1|+1 al aliado más débil.",
+    "name": "Ojo de la tormenta",
+    "powerCode": "P0316",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0315.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0315-full.png",
+    "description": "Cuando juegas una carta con coste reducido, reduce el coste de la primera carta de tu mazo en 1.",
+    "descriptionRaw": "Cuando juegas una carta con coste reducido, reduce el coste de la primera carta de tu mazo en 1.",
+    "name": "¿Estás al corriente?",
+    "powerCode": "P0315",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0197.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0197-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Si los aliados tienen 4 o más palabras clave únicas, obtienen +2|+2. <style=Variable></style>",
+    "descriptionRaw": "Comienzo de ronda: Si los aliados tienen 4 o más palabras clave únicas, obtienen +2|+2. ",
+    "name": "La unión hace la fuerza II",
+    "powerCode": "P0197",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0195.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0195-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Si los aliados tienen 4 o más palabras clave únicas, obtienen +1|+1. <style=Variable></style>",
+    "descriptionRaw": "Comienzo de ronda: Si los aliados tienen 4 o más palabras clave únicas, obtienen +1|+1. ",
+    "name": "La unión hace la fuerza",
+    "powerCode": "P0195",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0196.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0196-full.png",
+    "description": "+1 de maná inicial.<br><link=vocab.RoundEnd><style=Vocab>Final de ronda</style></link>: Si un aliado muere esta ronda, otorga a tu aliado <link=keyword.Weakest><style=Keyword>más débil</style></link> +1|+1 y una palabra clave aleatoria que no tengan tus aliados.",
+    "descriptionRaw": "+1 de maná inicial.Final de ronda: Si un aliado muere esta ronda, otorga a tu aliado más débil +1|+1 y una palabra clave aleatoria que no tengan tus aliados.",
+    "name": "¡Por el rey!",
+    "powerCode": "P0196",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0160.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0160-full.png",
+    "description": "+1 de maná inicial.<br>Las cartas que crees cuestan 1 menos.",
+    "descriptionRaw": "+1 de maná inicial.Las cartas que crees cuestan 1 menos.",
+    "name": "Resonancia Z",
+    "powerCode": "P0160",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0161.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0161-full.png",
+    "description": "Cuando ves a una unidad en una predicción, esta consigue +2|+2 y una palabra clave aleatoria.",
+    "descriptionRaw": "Cuando ves a una unidad en una predicción, esta consigue +2|+2 y una palabra clave aleatoria.",
+    "name": "Sinfín de posibilidades II",
+    "powerCode": "P0161",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0159.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0159-full.png",
+    "description": "Cuando ves a una unidad en una predicción, esta consigue +1|+1.",
+    "descriptionRaw": "Cuando ves a una unidad en una predicción, esta consigue +1|+1.",
+    "name": "Sinfín de posibilidades",
+    "powerCode": "P0159",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0169.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0169-full.png",
+    "description": "+1 de maná inicial.<br>Cuando consigues la ficha de ataque, crea 1 <link=card.self><style=AssociatedCard>Premio de la lucha</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> en la mano.",
+    "descriptionRaw": "+1 de maná inicial.Cuando consigues la ficha de ataque, crea 1 Premio de la lucha Fugaz en la mano.",
+    "name": "Durmiendo con peces",
+    "powerCode": "P0169",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0170.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0170-full.png",
+    "description": "Cuando recuperas maná, concede a los aliados +1|+0 esta ronda y inflige 1 de daño a los enemigos.",
+    "descriptionRaw": "Cuando recuperas maná, concede a los aliados +1|+0 esta ronda y inflige 1 de daño a los enemigos.",
+    "name": "Balanza a tu favor II",
+    "powerCode": "P0170",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0168.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0168-full.png",
+    "description": "Cuando recuperas maná, concede a los aliados +1|+0 esta ronda.",
+    "descriptionRaw": "Cuando recuperas maná, concede a los aliados +1|+0 esta ronda.",
+    "name": "Balanza a tu favor",
+    "powerCode": "P0168",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0142.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0142-full.png",
+    "description": "+1 de maná inicial.<br>Cuando un aliado <link=vocab.Equip><style=Vocab>equipado</style></link> muere, roba 1 carta.",
+    "descriptionRaw": "+1 de maná inicial.Cuando un aliado equipado muere, roba 1 carta.",
+    "name": "Asalto implacable",
+    "powerCode": "P0142",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0143.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0143-full.png",
+    "description": "Los aliados tienen \"<link=vocab.Attack><style=Vocab>Atacar</style></link>: Consigo +1|+1. Si estoy <link=vocab.Equip><style=Vocab>equipado</style></link>, otorga a mi equipo +2|+0\".",
+    "descriptionRaw": "Los aliados tienen \"Atacar: Consigo +1|+1. Si estoy equipado, otorga a mi equipo +2|+0\".",
+    "name": "Última luz de Icathia II",
+    "powerCode": "P0143",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0141.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0141-full.png",
+    "description": "Los aliados tienen \"<link=vocab.Attack><style=Vocab>Atacar</style></link>: Consigo +1|+0. Si estoy <link=vocab.Equip><style=Vocab>equipado</style></link>, otorga a mi equipo +1|+0\".",
+    "descriptionRaw": "Los aliados tienen \"Atacar: Consigo +1|+0. Si estoy equipado, otorga a mi equipo +1|+0\".",
+    "name": "Última luz de Icathia",
+    "powerCode": "P0141",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0016.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0016-full.png",
+    "description": "Por cada cuatro hechizos <link=keyword.Fast><sprite name=Fast><style=Keyword>veloces</style></link>, hechizos <link=keyword.Slow><sprite name=Slow><style=Keyword>lentos</style></link> o <link=keyword.Skill><sprite name=SkillMark><style=Keyword>habilidades</style></link> que lances, crea 1 <link=card.self><style=AssociatedCard>Público entregado</style></link> en la mano. <style=Variable></style>",
+    "descriptionRaw": "Por cada cuatro hechizos veloces, hechizos lentos o habilidades que lances, crea 1 Público entregado en la mano. ",
+    "name": "Belleza en la muerte",
+    "powerCode": "P0016",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0019.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0019-full.png",
+    "description": "Por cada cuatro hechizos <link=keyword.Fast><sprite name=Fast><style=Keyword>veloces</style></link>, hechizos <link=keyword.Slow><sprite name=Slow><style=Keyword>lentos</style></link> o <link=keyword.Skill><sprite name=SkillMark><style=Keyword>habilidades</style></link> que lances, crea 1 <link=card.self><style=AssociatedCard>Público entregado</style></link> de coste 0 en la mano. <style=Variable></style>",
+    "descriptionRaw": "Por cada cuatro hechizos veloces, hechizos lentos o habilidades que lances, crea 1 Público entregado de coste 0 en la mano. ",
+    "name": "Belleza en la muerte II",
+    "powerCode": "P0019",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0015.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0015-full.png",
+    "description": "+1 de maná inicial.<br>Cuando un aliado juega una habilidad, obtiene +1|+1.",
+    "descriptionRaw": "+1 de maná inicial.Cuando un aliado juega una habilidad, obtiene +1|+1.",
+    "name": "Preparando el escenario",
+    "powerCode": "P0015",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0122.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0122-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Invoca 1 <link=card.self><style=AssociatedCard>Banda espantosa</style></link>.",
+    "descriptionRaw": "Comienzo de ronda: Invoca 1 Banda espantosa.",
+    "name": "Retazos de canción II",
+    "powerCode": "P0122",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0121.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0121-full.png",
+    "description": "+1 de maná inicial.<br>Cuando tu atacante más a la izquierda obtiene poder de <link=keyword.Hallowed><sprite name=Hallowed><style=Keyword>Consagrar</style></link>, también lo hace el de su derecha.",
+    "descriptionRaw": "+1 de maná inicial.Cuando tu atacante más a la izquierda obtiene poder de Consagrar, también lo hace el de su derecha.",
+    "name": "Costura",
+    "powerCode": "P0121",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0120.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0120-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Si no tienes la ficha de ataque, invoca 1 <link=card.self><style=AssociatedCard>Banda espantosa</style></link>.",
+    "descriptionRaw": "Comienzo de ronda: Si no tienes la ficha de ataque, invoca 1 Banda espantosa.",
+    "name": "Retazos de canción",
+    "powerCode": "P0120",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0151.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0151-full.png",
+    "description": "+1 de maná inicial.<br>Cuando <link=keyword.Capture><sprite name=Capture><style=Keyword>capturas</style></link> una unidad, crea una copia en la mano. Cuesta 1 menos.",
+    "descriptionRaw": "+1 de maná inicial.Cuando capturas una unidad, crea una copia en la mano. Cuesta 1 menos.",
+    "name": "Contrato a largo plazo",
+    "powerCode": "P0151",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0150.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0150-full.png",
+    "description": "Cuando un aliado sobrevive tras recibir daño, recibe +1|+1.",
+    "descriptionRaw": "Cuando un aliado sobrevive tras recibir daño, recibe +1|+1.",
+    "name": "Hambre de castigo",
+    "powerCode": "P0150",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0152.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0152-full.png",
+    "description": "Cuando un aliado sobrevive tras recibir daño, recibe +2|+2.",
+    "descriptionRaw": "Cuando un aliado sobrevive tras recibir daño, recibe +2|+2.",
+    "name": "Hambre de castigo II",
+    "powerCode": "P0152",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0180.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0180-full.png",
+    "description": "Cuando juegas un hechizo, gana 1 de maná de hechizos.",
+    "descriptionRaw": "Cuando juegas un hechizo, gana 1 de maná de hechizos.",
+    "name": "Déjate llevar por la corriente",
+    "powerCode": "P0180",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0182.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0182-full.png",
+    "description": "Cuando juegas un hechizo, gana 1 de maná de hechizos. Si es tu cuarto hechizo esta ronda, lo copias con los mismos objetivos.",
+    "descriptionRaw": "Cuando juegas un hechizo, gana 1 de maná de hechizos. Si es tu cuarto hechizo esta ronda, lo copias con los mismos objetivos.",
+    "name": "Déjate llevar por la corriente II",
+    "powerCode": "P0182",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0181.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0181-full.png",
+    "description": "+1 de maná inicial.<br>Comienzo de partida: Roba un hechizo.",
+    "descriptionRaw": "+1 de maná inicial.Comienzo de partida: Roba un hechizo.",
+    "name": "Invoca la marea",
+    "powerCode": "P0181",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0164.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0164-full.png",
+    "description": "Cuando los aliados atacan, otorga +1|+0 a las <link=card.self><style=AssociatedCard>Crías de araña</style></link> aliadas y las palabras clave positivas de los campeones aliados, estén donde estén.",
+    "descriptionRaw": "Cuando los aliados atacan, otorga +1|+0 a las Crías de araña aliadas y las palabras clave positivas de los campeones aliados, estén donde estén.",
+    "name": "Reina de las arañas II",
+    "powerCode": "P0164",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0163.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0163-full.png",
+    "description": "+1 de maná inicial.<br><link=vocab.RoundEnd><style=Vocab>Final de ronda</style></link>: Si un aliado muere esta ronda, invoca 1 <link=card.self><style=AssociatedCard>Cría de araña</style></link>.",
+    "descriptionRaw": "+1 de maná inicial.Final de ronda: Si un aliado muere esta ronda, invoca 1 Cría de araña.",
+    "name": "Atrapados en la telaraña",
+    "powerCode": "P0163",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0162.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0162-full.png",
+    "description": "Cuando los aliados atacan, otorga +1|+0 a las <link=card.self><style=AssociatedCard>Crías de araña</style></link> aliadas estén donde estén.",
+    "descriptionRaw": "Cuando los aliados atacan, otorga +1|+0 a las Crías de araña aliadas estén donde estén.",
+    "name": "Reina de las arañas",
+    "powerCode": "P0162",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0200.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0200-full.png",
+    "description": "Comienzo de partida: Otorga \"Ardid del marinero\" a 4 aliados aleatorios. Cuando obtienes la ficha de ataque, otórgaselo a 2 aliados más. Roba 1.",
+    "descriptionRaw": "Comienzo de partida: Otorga \"Ardid del marinero\" a 4 aliados aleatorios. Cuando obtienes la ficha de ataque, otórgaselo a 2 aliados más. Roba 1.",
+    "name": "Inmersión espectromarina II",
+    "powerCode": "P0200",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0198.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0198-full.png",
+    "description": "Comienzo de partida: Otorga \"Ardid del marinero\" a 2 aliados aleatorios. Cuando obtienes la ficha de ataque, otórgaselo a 1 aliado más. Roba 1.",
+    "descriptionRaw": "Comienzo de partida: Otorga \"Ardid del marinero\" a 2 aliados aleatorios. Cuando obtienes la ficha de ataque, otórgaselo a 1 aliado más. Roba 1.",
+    "name": "Inmersión espectromarina",
+    "powerCode": "P0198",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0199.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0199-full.png",
+    "description": "+1 de maná inicial.<br>Cuando un aliado muere, crea 1 acechante aleatorio en tu mazo que cuesta 1 más y le otorga +1|+1.",
+    "descriptionRaw": "+1 de maná inicial.Cuando un aliado muere, crea 1 acechante aleatorio en tu mazo que cuesta 1 más y le otorga +1|+1.",
+    "name": "Bendición de los ahogados",
+    "powerCode": "P0199",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0136.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0136-full.png",
+    "description": "+1 de maná inicial.<br>Cuando un aliado asesina a una unidad con 0 de poder, otorga +1|+1 a tu aliado.",
+    "descriptionRaw": "+1 de maná inicial.Cuando un aliado asesina a una unidad con 0 de poder, otorga +1|+1 a tu aliado.",
+    "name": "Espíritu avarosano",
+    "powerCode": "P0136",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0135.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0135-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Si tienes la ficha de ataque, aplica <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>Escarchar</style></link> al enemigo <link=vocab.Strongest><style=Vocab>más fuerte</style></link> y otórgale <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Vulnerable</style></link> esta ronda.",
+    "descriptionRaw": "Comienzo de ronda: Si tienes la ficha de ataque, aplica Escarchar al enemigo más fuerte y otórgale Vulnerable esta ronda.",
+    "name": "Tiro congelador",
+    "powerCode": "P0135",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0137.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0137-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Aplica <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>Escarchar</style></link> al enemigo <link=vocab.Strongest><style=Vocab>más fuerte</style></link> y otórgale <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Vulnerable</style></link> esta ronda.",
+    "descriptionRaw": "Comienzo de ronda: Aplica Escarchar al enemigo más fuerte y otórgale Vulnerable esta ronda.",
+    "name": "Tiro congelador II",
+    "powerCode": "P0137",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0157.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0157-full.png",
+    "description": "+1 de maná inicial.<br>Comienzo de partida: Crea 2 equipamientos de los Oscuros aleatorios en la mano.",
+    "descriptionRaw": "+1 de maná inicial.Comienzo de partida: Crea 2 equipamientos de los Oscuros aleatorios en la mano.",
+    "name": "Arma corrupta",
+    "powerCode": "P0157",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0156.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0156-full.png",
+    "description": "Cuando un aliado <link=vocab.Equip><style=Vocab>equipado</style></link> <link=vocab.Strike><style=Vocab>golpea</style></link>, reduce en 1 el coste de una carta aleatoria de la mano.",
+    "descriptionRaw": "Cuando un aliado equipado golpea, reduce en 1 el coste de una carta aleatoria de la mano.",
+    "name": "Cadenas infernales",
+    "powerCode": "P0156",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0158.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0158-full.png",
+    "description": "Cuando un aliado <link=vocab.Equip><style=Vocab>equipado</style></link> <link=vocab.Strike><style=Vocab>golpea</style></link>, reduce en 2 el coste de una carta aleatoria de la mano.",
+    "descriptionRaw": "Cuando un aliado equipado golpea, reduce en 2 el coste de una carta aleatoria de la mano.",
+    "name": "Cadenas infernales II",
+    "powerCode": "P0158",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0194.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0194-full.png",
+    "description": "Comienzo de partida: Invoca 1 <link=card.self><style=AssociatedCard>Forja de Ornn</style></link>. La primera vez que <link=vocab.Forge><style=Vocab>forjes</style></link> en cada ronda, vuelves a <link=vocab.Forge><style=Vocab>forjar</style></link>. ",
+    "descriptionRaw": "Comienzo de partida: Invoca 1 Forja de Ornn. La primera vez que forjes en cada ronda, vuelves a forjar. ",
+    "name": "Dulce soledad II",
+    "powerCode": "P0194",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0192.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0192-full.png",
+    "description": "Comienzo de partida: Invoca 1 <link=card.self><style=AssociatedCard>Forja de Ornn</style></link>.",
+    "descriptionRaw": "Comienzo de partida: Invoca 1 Forja de Ornn.",
+    "name": "Dulce soledad",
+    "powerCode": "P0192",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0193.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0193-full.png",
+    "description": "+1 de maná inicial.<br>La primera vez que juegues a un aliado o un equipamiento que cueste 4 o más de maná, <link=vocab.Manifest><style=Vocab>manifiestas</style></link> un equipamiento y reduces su coste en 2. ",
+    "descriptionRaw": "+1 de maná inicial.La primera vez que juegues a un aliado o un equipamiento que cueste 4 o más de maná, manifiestas un equipamiento y reduces su coste en 2. ",
+    "name": "Lo he hecho yo",
+    "powerCode": "P0193",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0188.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0188-full.png",
+    "description": "Cada ronda, el primer aliado que juegas con un subtipo diferente al de otros aliados cuesta 2 menos.",
+    "descriptionRaw": "Cada ronda, el primer aliado que juegas con un subtipo diferente al de otros aliados cuesta 2 menos.",
+    "name": "Armonía de lo salvaje II",
+    "powerCode": "P0188",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0187.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0187-full.png",
+    "description": "+1 de maná inicial.<br>Comienzo de partida: Por cada aliado en tu mazo que tenga un subtipo, obtiene <link=keyword.Impact><sprite name=Impact><style=Keyword>Impacto</style></link>. Si no, se convierte en Cambiaformas.",
+    "descriptionRaw": "+1 de maná inicial.Comienzo de partida: Por cada aliado en tu mazo que tenga un subtipo, obtiene Impacto. Si no, se convierte en Cambiaformas.",
+    "name": "Esta no es Neeko",
+    "powerCode": "P0187",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0186.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0186-full.png",
+    "description": "Cada ronda, el primer aliado que juegas con un subtipo diferente al de otros aliados cuesta 1 menos.",
+    "descriptionRaw": "Cada ronda, el primer aliado que juegas con un subtipo diferente al de otros aliados cuesta 1 menos.",
+    "name": "Armonía de lo salvaje",
+    "powerCode": "P0186",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0021.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0021-full.png",
+    "description": "Cuando juegas o descartas una carta, inflige 1 de daño al nexo enemigo y 1 de daño a un enemigo aleatorio.",
+    "descriptionRaw": "Cuando juegas o descartas una carta, inflige 1 de daño al nexo enemigo y 1 de daño a un enemigo aleatorio.",
+    "name": "¿Qué es lo peor que podría pasar? II",
+    "powerCode": "P0021",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0017.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0017-full.png",
+    "description": "+1 de maná inicial.<br>Cuando un campeón sube de nivel, crea 1 <link=card.self><style=AssociatedCard>¡Supermegacohete mortal!</style></link> en la mano.",
+    "descriptionRaw": "+1 de maná inicial.Cuando un campeón sube de nivel, crea 1 ¡Supermegacohete mortal! en la mano.",
+    "name": "Causar estragos",
+    "powerCode": "P0017",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0018.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0018-full.png",
+    "description": "Cuando juegas o descartas una carta, inflige 1 de daño al nexo enemigo.",
+    "descriptionRaw": "Cuando juegas o descartas una carta, inflige 1 de daño al nexo enemigo.",
+    "name": "¿Qué es lo peor que podría pasar?",
+    "powerCode": "P0018",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0171.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0171-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Invoca 1 <link=card.self><style=AssociatedCard>La presa</style></link>. Si ya tienes una copia, en su lugar, otorga a tu <link=card.self><style=AssociatedCard>La presa</style></link> \"<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>Último aliento</style></link>: Inflige 1 de daño al nexo enemigo\".",
+    "descriptionRaw": "Comienzo de ronda: Invoca 1 La presa. Si ya tienes una copia, en su lugar, otorga a tu La presa \"Último aliento: Inflige 1 de daño al nexo enemigo\".",
+    "name": "Polvo al polvo",
+    "powerCode": "P0171",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0173.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0173-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Invoca 1 <link=card.self><style=AssociatedCard>La presa</style></link>. Si ya tienes una copia, en su lugar, otorga a tu <link=card.self><style=AssociatedCard>La presa</style></link> \"<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>Último aliento</style></link>: Inflige 2 de daño al nexo enemigo\".",
+    "descriptionRaw": "Comienzo de ronda: Invoca 1 La presa. Si ya tienes una copia, en su lugar, otorga a tu La presa \"Último aliento: Inflige 2 de daño al nexo enemigo\".",
+    "name": "Polvo al polvo II",
+    "powerCode": "P0173",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0172.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0172-full.png",
+    "description": "+1 de maná inicial.<br><link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Crea 1 <link=card.self><style=AssociatedCard>Viaje espiritual</style></link> en la mano. Si ya tienes una copia, reduce su coste en 2.",
+    "descriptionRaw": "+1 de maná inicial.Comienzo de ronda: Crea 1 Viaje espiritual en la mano. Si ya tienes una copia, reduce su coste en 2.",
+    "name": "Círculo mortal",
+    "powerCode": "P0172",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0322.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0322-full.png",
+    "description": "+1 de maná inicial.<br>Cuando invocas a un aliado <link=vocab.Titanic><style=Vocab>titánico</style></link>, <link=vocab.Strike><style=Vocab>golpea</style></link> al enemigo <link=keyword.Weakest><style=Keyword>más débil</style></link>.",
+    "descriptionRaw": "+1 de maná inicial.Cuando invocas a un aliado titánico, golpea al enemigo más débil.",
+    "name": "Rompecielos",
+    "powerCode": "P0322",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0321.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0321-full.png",
+    "description": "Cuando asesinas a una unidad, invoca 1 <link=card.self><style=AssociatedCard>Sello de la tormenta</style></link>.",
+    "descriptionRaw": "Cuando asesinas a una unidad, invoca 1 Sello de la tormenta.",
+    "name": "Trueno subterráneo",
+    "powerCode": "P0321",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0323.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0323-full.png",
+    "description": "Cuando asesinas a una unidad, invoca 2 <link=card.self><style=AssociatedCard>Sello de la tormenta</style></link>.",
+    "descriptionRaw": "Cuando asesinas a una unidad, invoca 2 Sello de la tormenta.",
+    "name": "Trueno subterráneo II",
+    "powerCode": "P0323",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0167.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0167-full.png",
+    "description": "<link=vocab.RoundEnd><style=Vocab>Fin de ronda</style></link>: Si has infligido daño al nexo enemigo esta ronda, otorga <link=keyword.Impact><sprite name=Impact><style=Keyword>Impacto</style></link> a tus aliados dos veces.",
+    "descriptionRaw": "Fin de ronda: Si has infligido daño al nexo enemigo esta ronda, otorga Impacto a tus aliados dos veces.",
+    "name": "Ataque de furia II",
+    "powerCode": "P0167",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0166.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0166-full.png",
+    "description": "+1 de maná inicial.<br><link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Crea 1 <link=card.self><style=AssociatedCard>Golpazo</style></link> en la mano. Si ya tienes una copia, reduce su coste en 1.",
+    "descriptionRaw": "+1 de maná inicial.Comienzo de ronda: Crea 1 Golpazo en la mano. Si ya tienes una copia, reduce su coste en 1.",
+    "name": "Bestia interior",
+    "powerCode": "P0166",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0165.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0165-full.png",
+    "description": "<link=vocab.RoundEnd><style=Vocab>Fin de ronda</style></link>: Si has infligido daño al nexo enemigo esta ronda, otorga <link=keyword.Impact><sprite name=Impact><style=Keyword>Impacto</style></link> a tus aliados.",
+    "descriptionRaw": "Fin de ronda: Si has infligido daño al nexo enemigo esta ronda, otorga Impacto a tus aliados.",
+    "name": "Ataque de furia",
+    "powerCode": "P0165",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0210.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0210-full.png",
+    "description": "La primera vez de cada ronda que seleccionas como objetivo a un aliado con un hechizo de un solo objetivo, se lo aplicas también a tu aliado <link=vocab.Strongest><style=Vocab>más fuerte</style></link>.",
+    "descriptionRaw": "La primera vez de cada ronda que seleccionas como objetivo a un aliado con un hechizo de un solo objetivo, se lo aplicas también a tu aliado más fuerte.",
+    "name": "Bendición maldita",
+    "powerCode": "P0210",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0212.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0212-full.png",
+    "description": "Cuando seleccionas como objetivo a un aliado con un hechizo de un solo objetivo, se lo aplicas también a tu aliado <link=vocab.Strongest><style=Vocab>más fuerte</style></link>.",
+    "descriptionRaw": "Cuando seleccionas como objetivo a un aliado con un hechizo de un solo objetivo, se lo aplicas también a tu aliado más fuerte.",
+    "name": "Bendición maldita II",
+    "powerCode": "P0212",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0211.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0211-full.png",
+    "description": "+1 de maná inicial.<br><link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Reduce el coste de un hechizo de tu mazo en 1 y, después, crea una copia <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> exacta en la mano.",
+    "descriptionRaw": "+1 de maná inicial.Comienzo de ronda: Reduce el coste de un hechizo de tu mazo en 1 y, después, crea una copia Fugaz exacta en la mano.",
+    "name": "Don de la corrupción",
+    "powerCode": "P0211",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0204.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0204-full.png",
+    "description": "Tras gastar 6 o más de maná en cada ronda, otorga a los aliados +1|+1. <style=Variable></style>",
+    "descriptionRaw": "Tras gastar 6 o más de maná en cada ronda, otorga a los aliados +1|+1. ",
+    "name": "Nudillos listos",
+    "powerCode": "P0204",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0205.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0205-full.png",
+    "description": "+1 de maná inicial.<br><link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Crea 1 <link=card.self><style=AssociatedCard>Moneda</style></link> en la mano.",
+    "descriptionRaw": "+1 de maná inicial.Comienzo de ronda: Crea 1 Moneda en la mano.",
+    "name": "Apuesta por Sett",
+    "powerCode": "P0205",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0206.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0206-full.png",
+    "description": "Tras gastar 6 o más de maná en cada ronda, otorga a los aliados +2|+2. <style=Variable></style><br>Tras gastar 12 o más de maná en cada ronda, <link=vocab.Rally><style=Vocab>prepara el ataque</style></link>. <style=Variable></style>",
+    "descriptionRaw": "Tras gastar 6 o más de maná en cada ronda, otorga a los aliados +2|+2. Tras gastar 12 o más de maná en cada ronda, prepara el ataque. ",
+    "name": "Nudillos Listos II",
+    "powerCode": "P0206",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0191.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0191-full.png",
+    "description": "Cuando un aliado se transforma, obtiene +1|+1 e <link=keyword.Impact><sprite name=Impact><style=Keyword>Impacto</style></link>. Si es la primera vez esta ronda, invoca una copia <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Endeble</style></link> e idéntica del mismo.",
+    "descriptionRaw": "Cuando un aliado se transforma, obtiene +1|+1 e Impacto. Si es la primera vez esta ronda, invoca una copia Endeble e idéntica del mismo.",
+    "name": "Ley del más fuerte II",
+    "powerCode": "P0191",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0189.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0189-full.png",
+    "description": "Cuando un aliado se transforma, obtiene +1|+1 e <link=keyword.Impact><sprite name=Impact><style=Keyword>Impacto</style></link>.",
+    "descriptionRaw": "Cuando un aliado se transforma, obtiene +1|+1 e Impacto.",
+    "name": "Ley del más fuerte",
+    "powerCode": "P0189",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0190.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0190-full.png",
+    "description": "+1 de maná inicial.<br>Cuando consigues la ficha de ataque, crea 1 <link=card.self><style=AssociatedCard>Camuflaje ingenioso</style></link> en la mano.",
+    "descriptionRaw": "+1 de maná inicial.Cuando consigues la ficha de ataque, crea 1 Camuflaje ingenioso en la mano.",
+    "name": "El juego más peligroso",
+    "powerCode": "P0190",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0202.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0202-full.png",
+    "description": "+1 de maná inicial.<br>Al jugar la tercera carta en cada ronda, otorgas +1|+1 a tus aliados. <style=Variable></style>",
+    "descriptionRaw": "+1 de maná inicial.Al jugar la tercera carta en cada ronda, otorgas +1|+1 a tus aliados. ",
+    "name": "Con estilo",
+    "powerCode": "P0202",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0201.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0201-full.png",
+    "description": "En cada ronda, tras la primera vez que inflijas daño al nexo enemigo, la próxima carta que juegues cuesta 1 menos.",
+    "descriptionRaw": "En cada ronda, tras la primera vez que inflijas daño al nexo enemigo, la próxima carta que juegues cuesta 1 menos.",
+    "name": "A por el botín",
+    "powerCode": "P0201",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0203.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0203-full.png",
+    "description": "En cada ronda, la primera vez que inflijas daño al nexo enemigo, la próxima carta que juegues cuesta 3 menos.",
+    "descriptionRaw": "En cada ronda, la primera vez que inflijas daño al nexo enemigo, la próxima carta que juegues cuesta 3 menos.",
+    "name": "A por el botín II",
+    "powerCode": "P0203",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0133.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0133-full.png",
+    "description": "+1 de maná inicial.<br>Comienzo de partida: Invoca dos poros aleatorios de coste 1.",
+    "descriptionRaw": "+1 de maná inicial.Comienzo de partida: Invoca dos poros aleatorios de coste 1.",
+    "name": "Cuántos amigos",
+    "powerCode": "P0133",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0134.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0134-full.png",
+    "description": "Los aliados obtienen <link=keyword.Fated><sprite name=Fated><style=Keyword>Destino</style></link>. Cuando seleccionas como objetivo a un aliado con <link=keyword.Fated><sprite name=Fated><style=Keyword>Destino</style></link>, recibe +1|+1 adicional.",
+    "descriptionRaw": "Los aliados obtienen Destino. Cuando seleccionas como objetivo a un aliado con Destino, recibe +1|+1 adicional.",
+    "name": "Podemos con ello II",
+    "powerCode": "P0134",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0132.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0132-full.png",
+    "description": "Los aliados obtienen <link=keyword.Fated><sprite name=Fated><style=Keyword>Destino</style></link>.",
+    "descriptionRaw": "Los aliados obtienen Destino.",
+    "name": "Podemos con ello",
+    "powerCode": "P0132",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0332.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0332-full.png",
+    "description": "Cuando juegas una unidad, duplica sus estadísticas. Si es Aurelion Sol, usa <link=card.self><style=AssociatedCard>Se hunden los cielos</style></link> contra tus patéticos enemigos.",
+    "descriptionRaw": "Cuando juegas una unidad, duplica sus estadísticas. Si es Aurelion Sol, usa Se hunden los cielos contra tus patéticos enemigos.",
+    "name": "Soplo de luz",
+    "powerCode": "P0332",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0330.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0330-full.png",
+    "description": "+1 de maná inicial.<br>Otorgo un objeto raro o épico a todas tus cartas creadas.",
+    "descriptionRaw": "+1 de maná inicial.Otorgo un objeto raro o épico a todas tus cartas creadas.",
+    "name": "Creador cósmico",
+    "powerCode": "P0330",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0329.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0329-full.png",
+    "description": "Cuando juegas una carta creada, reduce el coste de los campeones aliados en 1 <link=vocab.Everywhere><style=Vocab>estén donde estén</style></link>. Cuando juegas un campeón, sube de nivel. De nada.",
+    "descriptionRaw": "Cuando juegas una carta creada, reduce el coste de los campeones aliados en 1 estén donde estén. Cuando juegas un campeón, sube de nivel. De nada.",
+    "name": "Esplendor astral",
+    "powerCode": "P0329",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0331.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0331-full.png",
+    "description": "Cuando juegas una carta creada, reduce el coste de los campeones aliados en 2 <link=vocab.Everywhere><style=Vocab>estén donde estén</style></link>. Cuando juegas un campeón, sube de nivel. De nada.",
+    "descriptionRaw": "Cuando juegas una carta creada, reduce el coste de los campeones aliados en 2 estén donde estén. Cuando juegas un campeón, sube de nivel. De nada.",
+    "name": "Esplendor astral II",
+    "powerCode": "P0331",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0002.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0002-full.png",
+    "description": "+1 de maná inicial.<br><link=vocab.RoundStart><style=Vocab>Comienzo de ronda:</style></link> Crea 1 <link=card.self><style=AssociatedCard>Astucia</style></link> Fugaz en la mano.",
+    "descriptionRaw": "+1 de maná inicial.Comienzo de ronda: Crea 1 Astucia Fugaz en la mano.",
+    "name": "Broma pesada",
+    "powerCode": "P0002",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0001.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0001-full.png",
+    "description": "Tus hechizos y habilidades infligen 2 de daño adicional.",
+    "descriptionRaw": "Tus hechizos y habilidades infligen 2 de daño adicional.",
+    "name": "Piromanía II",
+    "powerCode": "P0001",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0000.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0000-full.png",
+    "description": "Tus hechizos y habilidades infligen 1 de daño adicional.",
+    "descriptionRaw": "Tus hechizos y habilidades infligen 1 de daño adicional.",
+    "name": "Piromanía",
+    "powerCode": "P0000",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0302.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0302-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: El <link=vocab.Foe><style=Vocab>rival</style></link> invoca un poro aleatorio de coste 1.",
+    "descriptionRaw": "Comienzo de ronda: El rival invoca un poro aleatorio de coste 1.",
+    "name": "Amiguitos",
+    "powerCode": "P0302",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0268.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0268-full.png",
+    "description": "Cuando una de las unidades del <link=vocab.Foe><style=Vocab>rival</style></link> <link=vocab.Strike><style=Vocab>golpea</style></link>, obtiene +1|+1.",
+    "descriptionRaw": "Cuando una de las unidades del rival golpea, obtiene +1|+1.",
+    "name": "Poder demaciano",
+    "powerCode": "P0268",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0118.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0118-full.png",
+    "description": "Cuando seleccionas como objetivo a un aliado con un hechizo de un solo objetivo, se lo aplicas también a tu aliado <link=keyword.Weakest><style=Keyword>más débil</style></link>.",
+    "descriptionRaw": "Cuando seleccionas como objetivo a un aliado con un hechizo de un solo objetivo, se lo aplicas también a tu aliado más débil.",
+    "name": "Compartir es vencer",
+    "powerCode": "P0118",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0082.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0082-full.png",
+    "description": "Los aliados tienen \"Ataque: Mi poder aumenta hasta coincidir con mi vida\".",
+    "descriptionRaw": "Los aliados tienen \"Ataque: Mi poder aumenta hasta coincidir con mi vida\".",
+    "name": "Coraje",
+    "powerCode": "P0082",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0037.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0037-full.png",
+    "description": "<link=vocab.RoundEnd><style=Vocab>Fin de ronda</style></link>: Otorga +2|+0 a todas las unidades.",
+    "descriptionRaw": "Fin de ronda: Otorga +2|+0 a todas las unidades.",
+    "name": "El imperio ante todo",
+    "powerCode": "P0037",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0038.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0038-full.png",
+    "description": "Los aliados tienen +3|+3, <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Abrumar</style></link> y <link=keyword.Reckless><sprite name=Reckless><style=Keyword>No pueden bloquear</style></link>.",
+    "descriptionRaw": "Los aliados tienen +3|+3, Abrumar y No pueden bloquear.",
+    "name": "Fuerza imparable",
+    "powerCode": "P0038",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0231.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0231-full.png",
+    "description": "Cuando cualquier jugador invoca a una unidad, reduce su vida a 1.",
+    "descriptionRaw": "Cuando cualquier jugador invoca a una unidad, reduce su vida a 1.",
+    "name": "Marcas mortales",
+    "powerCode": "P0231",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0045.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0045-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Invoca 1 <link=card.self><style=AssociatedCard>Barril cáustico</style></link>.",
+    "descriptionRaw": "Comienzo de ronda: Invoca 1 Barril cáustico.",
+    "name": "Suministro constante",
+    "powerCode": "P0045",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0040.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0040-full.png",
+    "description": "Todos los hechizos cuestan 6.",
+    "descriptionRaw": "Todos los hechizos cuestan 6.",
+    "name": "Presencia de petricita",
+    "powerCode": "P0040",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0044.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0044-full.png",
+    "description": "<link=vocab.RoundEnd><style=Vocab>Fin de ronda</style></link>: Todas las unidades dañadas mueren.",
+    "descriptionRaw": "Fin de ronda: Todas las unidades dañadas mueren.",
+    "name": "Muerte piadosa",
+    "powerCode": "P0044",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0046.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0046-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: <link=vocab.Silence><style=Vocab>Silencia</style></link> a todas las unidades.",
+    "descriptionRaw": "Comienzo de ronda: Silencia a todas las unidades.",
+    "name": "Inquisición",
+    "powerCode": "P0046",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0229.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0229-full.png",
+    "description": "Ronda 1: Consigues una gema de maná temporal.",
+    "descriptionRaw": "Ronda 1: Consigues una gema de maná temporal.",
+    "name": "Poder",
+    "powerCode": "P0229",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0035.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0035-full.png",
+    "description": "Los aliados tienen +2|+2.<br><link=vocab.RoundEnd><style=Vocab>Fin de ronda</style></link>: Inflige 2 de daño a todos los aliados.",
+    "descriptionRaw": "Los aliados tienen +2|+2.Fin de ronda: Inflige 2 de daño a todos los aliados.",
+    "name": "Lucha frenética",
+    "powerCode": "P0035",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0042.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0042-full.png",
+    "description": "Todas las unidades tienen <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Vulnerable</style></link>.",
+    "descriptionRaw": "Todas las unidades tienen Vulnerable.",
+    "name": "Olas de preocupación",
+    "powerCode": "P0042",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0233.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0233-full.png",
+    "description": "Comienzo de partida: Añade 3 copias de <link=card.self><style=AssociatedCard>La Ruina</style></link> a todos los mazos. Cuestan 0.",
+    "descriptionRaw": "Comienzo de partida: Añade 3 copias de La Ruina a todos los mazos. Cuestan 0.",
+    "name": "Las Islas recuerdan",
+    "powerCode": "P0233",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0049.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0049-full.png",
+    "description": "Comienzo de partida: Todos los jugadores invocan 2 <link=card.self><style=AssociatedCard>Defensores de la costa</style></link>.",
+    "descriptionRaw": "Comienzo de partida: Todos los jugadores invocan 2 Defensores de la costa.",
+    "name": "Caos costero",
+    "powerCode": "P0049",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0225.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0225-full.png",
+    "description": "Todas las unidades obtienen <link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>Temible</style></link> y -1|-0.",
+    "descriptionRaw": "Todas las unidades obtienen Temible y -1|-0.",
+    "name": "La disuasión de los Baccai",
+    "powerCode": "P0225",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0039.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0039-full.png",
+    "description": "Todas las unidades tienen <link=keyword.Formidable><sprite name=Formidable><style=Keyword>Formidable</style></link>.",
+    "descriptionRaw": "Todas las unidades tienen Formidable.",
+    "name": "Armadura animada",
+    "powerCode": "P0039",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0232.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0232-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Crea 1 hito <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> con <link=keyword.Countdown><style=Keyword>Cuenta atrás</style></link> en tu mano. Cuando invoques un hito con <link=keyword.Countdown><style=Keyword>Cuenta atrás</style></link>, <link=vocab.Advance><style=Vocab>avanza</style></link> su cuenta atrás 2 rondas.",
+    "descriptionRaw": "Comienzo de ronda: Crea 1 hito Fugaz con Cuenta atrás en tu mano. Cuando invoques un hito con Cuenta atrás, avanza su cuenta atrás 2 rondas.",
+    "name": "Indignación ascendente",
+    "powerCode": "P0232",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0228.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0228-full.png",
+    "description": "Aumenta tu vida máxima en 5.",
+    "descriptionRaw": "Aumenta tu vida máxima en 5.",
+    "name": "Vida",
+    "powerCode": "P0228",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0052.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0052-full.png",
+    "description": "Comienzo de partida: Todos los jugadores invocan 2 <link=card.self><style=AssociatedCard>Forjadoras temerarias</style></link>.",
+    "descriptionRaw": "Comienzo de partida: Todos los jugadores invocan 2 Forjadoras temerarias.",
+    "name": "Carrera armamentística",
+    "powerCode": "P0052",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0048.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0048-full.png",
+    "description": "Tus hechizos cuestan 2 menos. Tus unidades cuestan 1 más.",
+    "descriptionRaw": "Tus hechizos cuestan 2 menos. Tus unidades cuestan 1 más.",
+    "name": "El precio del progreso",
+    "powerCode": "P0048",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0226.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0226-full.png",
+    "description": "Comienzo de partida: Invoca 1 <link=card.self><style=AssociatedCard>Disco solar enterrado</style></link> y crea 1 copia de Renekton, Azir o Nasus en la mano.",
+    "descriptionRaw": "Comienzo de partida: Invoca 1 Disco solar enterrado y crea 1 copia de Renekton, Azir o Nasus en la mano.",
+    "name": "El desierto perdura",
+    "powerCode": "P0226",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0230.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0230-full.png",
+    "description": "Comienzo de partida: Roba 1.",
+    "descriptionRaw": "Comienzo de partida: Roba 1.",
+    "name": "Conocimientos",
+    "powerCode": "P0230",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0041.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0041-full.png",
+    "description": "Todas las cartas cuestan 2 menos.",
+    "descriptionRaw": "Todas las cartas cuestan 2 menos.",
+    "name": "Magia natural",
+    "powerCode": "P0041",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0043.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0043-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Otorga un objeto aleatorio a una carta aleatoria de tu mano.",
+    "descriptionRaw": "Comienzo de ronda: Otorga un objeto aleatorio a una carta aleatoria de tu mano.",
+    "name": "Reglas de la casa",
+    "powerCode": "P0043",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0047.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0047-full.png",
+    "description": "Tus hechizos son <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaces</style></link>. Cuando lanzas un hechizo que no sea <link=card.self><style=AssociatedCard>Chispa final</style></link>, crea 1 <link=card.self><style=AssociatedCard>Chispa final</style></link> en la mano.",
+    "descriptionRaw": "Tus hechizos son Fugaces. Cuando lanzas un hechizo que no sea Chispa final, crea 1 Chispa final en la mano.",
+    "name": "Autorización de los cazadores de magos",
+    "powerCode": "P0047",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0235.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0235-full.png",
+    "description": "Comienzo de partida: Todos los jugadores invocan 1 <link=card.self><style=AssociatedCard>Bromista espectral</style></link> 0|10.",
+    "descriptionRaw": "Comienzo de partida: Todos los jugadores invocan 1 Bromista espectral 0|10.",
+    "name": "La última carcajada",
+    "powerCode": "P0235",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0050.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0050-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: <link=keyword.Stun><sprite name=Stunned><style=Keyword>Aturde</style></link> a la unidad <link=vocab.Strongest><style=Vocab>más fuerte</style></link> y a la <link=keyword.Weakest><style=Keyword>más débil</style></link>.",
+    "descriptionRaw": "Comienzo de ronda: Aturde a la unidad más fuerte y a la más débil.",
+    "name": "¡No tan rápido!",
+    "powerCode": "P0050",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0227.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0227-full.png",
+    "description": "Cuando subes de nivel a un campeón, todos los jugadores descartan sus manos.",
+    "descriptionRaw": "Cuando subes de nivel a un campeón, todos los jugadores descartan sus manos.",
+    "name": "El coste de la ascensión",
+    "powerCode": "P0227",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0051.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0051-full.png",
+    "description": "Comienzo de partida: Todos los jugadores invocan 3 <link=card.self><style=AssociatedCard>Narvales dorados</style></link>.",
+    "descriptionRaw": "Comienzo de partida: Todos los jugadores invocan 3 Narvales dorados.",
+    "name": "Bendición del narval",
+    "powerCode": "P0051",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0234.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0234-full.png",
+    "description": "Todos los hechizos cuestan 1 menos. Todas las unidades obtienen <link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>Escudo de hechizos</style></link>.",
+    "descriptionRaw": "Todos los hechizos cuestan 1 menos. Todas las unidades obtienen Escudo de hechizos.",
+    "name": "Vestigio de Helia",
+    "powerCode": "P0234",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0061.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0061-full.png",
+    "description": "Comienzo de partida: Invoca 1 <link=card.self><style=AssociatedCard>Agente encubierto</style></link>.",
+    "descriptionRaw": "Comienzo de partida: Invoca 1 Agente encubierto.",
+    "name": "Agente de refuerzo",
+    "powerCode": "P0061",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0055.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0055-full.png",
+    "description": "Los enemigos tienen <nobr>-1|-0.</nobr>",
+    "descriptionRaw": "Los enemigos tienen -1|-0.",
+    "name": "Desarmado",
+    "powerCode": "P0055",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0063.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0063-full.png",
+    "description": "Cuando invoques un aliado, inflige 1 de daño al nexo enemigo.",
+    "descriptionRaw": "Cuando invoques un aliado, inflige 1 de daño al nexo enemigo.",
+    "name": "Entrada explosiva",
+    "powerCode": "P0063",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0062.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0062-full.png",
+    "description": "Cuando invoques a un campeón, invoca una copia exacta <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Endeble</style></link> de él.",
+    "descriptionRaw": "Cuando invoques a un campeón, invoca una copia exacta Endeble de él.",
+    "name": "Estabilizar",
+    "powerCode": "P0062",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0064.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0064-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: <link=keyword.Stun><sprite name=Stunned><style=Keyword>Aturde</style></link> al enemigo más fuerte.",
+    "descriptionRaw": "Comienzo de ronda: Aturde al enemigo más fuerte.",
+    "name": "¡Alto!",
+    "powerCode": "P0064",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0059.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0059-full.png",
+    "description": "Cuando lanzas un hechizo, inflige 1 de daño al nexo enemigo.",
+    "descriptionRaw": "Cuando lanzas un hechizo, inflige 1 de daño al nexo enemigo.",
+    "name": "Quemadura de hechizos",
+    "powerCode": "P0059",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0056.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0056-full.png",
+    "description": "Las cartas que robas cuestan 1 menos esta ronda.",
+    "descriptionRaw": "Las cartas que robas cuestan 1 menos esta ronda.",
+    "name": "Robo rápido",
+    "powerCode": "P0056",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0065.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0065-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Aplica <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Vulnerable</style></link> al enemigo más débil esta ronda.",
+    "descriptionRaw": "Comienzo de ronda: Aplica Vulnerable al enemigo más débil esta ronda.",
+    "name": "En mi punto de mira",
+    "powerCode": "P0065",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0053.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0053-full.png",
+    "description": "Comienzo de partida: Invoca 2 <link=card.self><style=AssociatedCard>Cabezalata armado</style></link>.",
+    "descriptionRaw": "Comienzo de partida: Invoca 2 Cabezalata armado.",
+    "name": "A toda máquina",
+    "powerCode": "P0053",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0058.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0058-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Concede +3|+3 al aliado <link=keyword.Weakest><style=Keyword>más débil</style></link> esta ronda.",
+    "descriptionRaw": "Comienzo de ronda: Concede +3|+3 al aliado más débil esta ronda.",
+    "name": "Unas mejoras",
+    "powerCode": "P0058",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0054.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0054-full.png",
+    "description": "Los aliados obtienen +1|+0.",
+    "descriptionRaw": "Los aliados obtienen +1|+0.",
+    "name": "Reunido",
+    "powerCode": "P0054",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0060.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0060-full.png",
+    "description": "Comienzo de partida: Crea 3 <link=card.self><style=AssociatedCard>Fisuras temporales</style></link> en tu mazo.",
+    "descriptionRaw": "Comienzo de partida: Crea 3 Fisuras temporales en tu mazo.",
+    "name": "Restablecer",
+    "powerCode": "P0060",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0057.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0057-full.png",
+    "description": "Comienzo de partida: Invoca 1 <link=card.self><style=AssociatedCard>Observatorio hextech</style></link>.",
+    "descriptionRaw": "Comienzo de partida: Invoca 1 Observatorio hextech.",
+    "name": "Fuente de energía alternativa",
+    "powerCode": "P0057",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0113.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0113-full.png",
+    "description": "Tus hechizos cuestan 1 menos.",
+    "descriptionRaw": "Tus hechizos cuestan 1 menos.",
+    "name": "Lanzahechizos",
+    "powerCode": "P0113",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0081.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0081-full.png",
+    "description": "Cuando se invoca a un aliado, consigue <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Contendiente</style></link> esta ronda.",
+    "descriptionRaw": "Cuando se invoca a un aliado, consigue Contendiente esta ronda.",
+    "name": "Duelista",
+    "powerCode": "P0081",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0109.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0109-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Invoca 1 poro aleatorio de coste 1.",
+    "descriptionRaw": "Comienzo de ronda: Invoca 1 poro aleatorio de coste 1.",
+    "name": "Amiguitos",
+    "powerCode": "P0109",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0067.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0067-full.png",
+    "description": "Comienzo de partida: Obtienes una gema de maná.",
+    "descriptionRaw": "Comienzo de partida: Obtienes una gema de maná.",
+    "name": "Flujo de maná",
+    "powerCode": "P0067",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0100.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0100-full.png",
+    "description": "Comienzo de partida: Invoca 2 <link=card.self><style=AssociatedCard>Centinelas de la Vanguardia</style></link>.",
+    "descriptionRaw": "Comienzo de partida: Invoca 2 Centinelas de la Vanguardia.",
+    "name": "Centinela de la Vanguardia",
+    "powerCode": "P0100",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0076.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0076-full.png",
+    "description": "Comienzo de partida: Baraja 10 campeones de nivel 2 en tu mazo. Cuestan 1 menos.",
+    "descriptionRaw": "Comienzo de partida: Baraja 10 campeones de nivel 2 en tu mazo. Cuestan 1 menos.",
+    "name": "Subida de nivel",
+    "powerCode": "P0076",
+    "rarity": "LEGENDARIA",
+    "rarityRef": "Legendary"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0084.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0084-full.png",
+    "description": "Las cartas que crees cuestan 1 menos.",
+    "descriptionRaw": "Las cartas que crees cuestan 1 menos.",
+    "name": "Inspiración desatada",
+    "powerCode": "P0084",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0103.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0103-full.png",
+    "description": "Comienzo de partida: Crea 4 <link=card.self><style=AssociatedCard>Bombas de relojería</style></link> en tu mazo.",
+    "descriptionRaw": "Comienzo de partida: Crea 4 Bombas de relojería en tu mazo.",
+    "name": "Contrarreloj",
+    "powerCode": "P0103",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0086.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0086-full.png",
+    "description": "Los aliados tienen \"Ataque: Mi vida aumenta hasta coincidir con mi poder\".",
+    "descriptionRaw": "Los aliados tienen \"Ataque: Mi vida aumenta hasta coincidir con mi poder\".",
+    "name": "La mejor defensa...",
+    "powerCode": "P0086",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0327.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0327-full.png",
+    "description": "Cuando invocas una unidad con 8 de ataque, vida o coste, obtiene +8|+8.",
+    "descriptionRaw": "Cuando invocas una unidad con 8 de ataque, vida o coste, obtiene +8|+8.",
+    "name": "Despertar titánico",
+    "powerCode": "P0327",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0326.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0326-full.png",
+    "description": "Tus hechizos y habilidades infligen 2 de daño adicional.",
+    "descriptionRaw": "Tus hechizos y habilidades infligen 2 de daño adicional.",
+    "name": "Vientos elementales",
+    "powerCode": "P0326",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0324.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0324-full.png",
+    "description": "Cuando juegas un hechizo, se cura 1 de vida. Si era elemental, se cura 2 de vida.",
+    "descriptionRaw": "Cuando juegas un hechizo, se cura 1 de vida. Si era elemental, se cura 2 de vida.",
+    "name": "Escudo de Urumi",
+    "powerCode": "P0324",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0325.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0325-full.png",
+    "description": "Comienzo de ronda: Reduce en 1 el coste de los hechizos en tu mano.",
+    "descriptionRaw": "Comienzo de ronda: Reduce en 1 el coste de los hechizos en tu mano.",
+    "name": "Meditación mística",
+    "powerCode": "P0325",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0108.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0108-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Crea 1 <link=card.self><style=AssociatedCard>Premonición salvaje</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> en la mano.",
+    "descriptionRaw": "Comienzo de ronda: Crea 1 Premonición salvaje Fugaz en la mano.",
+    "name": "Instintos salvajes",
+    "powerCode": "P0108",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0085.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0085-full.png",
+    "description": "Cuando infliges daño al nexo enemigo, se otorga +1|+1 al aliado de más arriba del mazo.",
+    "descriptionRaw": "Cuando infliges daño al nexo enemigo, se otorga +1|+1 al aliado de más arriba del mazo.",
+    "name": "Festival del saqueo",
+    "powerCode": "P0085",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0105.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0105-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Roba 1 carta que recibe <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link>.<br>Cuando descartas una carta, crea una copia en el mazo.",
+    "descriptionRaw": "Comienzo de ronda: Roba 1 carta que recibe Fugaz.Cuando descartas una carta, crea una copia en el mazo.",
+    "name": "Trato rápido",
+    "powerCode": "P0105",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0072.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0072-full.png",
+    "description": "Los aliados que cuesten 3 o menos, <link=vocab.Everywhere><style=Vocab>estén donde estén</style></link>, tienen <link=keyword.Lurker><sprite name=Lurker><style=Keyword>Acechar</style></link> y cuentan como unidades acechantes.",
+    "descriptionRaw": "Los aliados que cuesten 3 o menos, estén donde estén, tienen Acechar y cuentan como unidades acechantes.",
+    "name": "A la espera",
+    "powerCode": "P0072",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0087.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0087-full.png",
+    "description": "Cuando robas una carta, los aliados consiguen +1|+0 esta ronda.",
+    "descriptionRaw": "Cuando robas una carta, los aliados consiguen +1|+0 esta ronda.",
+    "name": "Educación superior",
+    "powerCode": "P0087",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0099.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0099-full.png",
+    "description": "Comienzo de partida: Cura 10 de vida a tu nexo.",
+    "descriptionRaw": "Comienzo de partida: Cura 10 de vida a tu nexo.",
+    "name": "Inmortalidad",
+    "powerCode": "P0099",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0069.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0069-full.png",
+    "description": "Cuando invocas a un aliado con 5 o más de poder, <link=vocab.Strike><style=Vocab>golpea</style></link> al enemigo <link=keyword.Weakest><style=Keyword>más débil</style></link>.",
+    "descriptionRaw": "Cuando invocas a un aliado con 5 o más de poder, golpea al enemigo más débil.",
+    "name": "Pericia trifariana",
+    "powerCode": "P0069",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0221.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0221-full.png",
+    "description": "Comienzo de partida: Invoca 1 <link=card.self><style=AssociatedCard>Siervo helado</style></link>. Establece su <link=keyword.Countdown><style=Keyword>Cuenta atrás</style></link> en 5.",
+    "descriptionRaw": "Comienzo de partida: Invoca 1 Siervo helado. Establece su Cuenta atrás en 5.",
+    "name": "Profecía desalentadora",
+    "powerCode": "P0221",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0078.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0078-full.png",
+    "description": "<link=vocab.RoundEnd><style=Vocab>Fin de ronda</style></link>: Otorga a los aliados +1|+1.",
+    "descriptionRaw": "Fin de ronda: Otorga a los aliados +1|+1.",
+    "name": "Poder aplastante",
+    "powerCode": "P0078",
+    "rarity": "LEGENDARIA",
+    "rarityRef": "Legendary"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0117.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0117-full.png",
+    "description": "Cuando se invoca a un aliado, consigue +1|+1 esta ronda.",
+    "descriptionRaw": "Cuando se invoca a un aliado, consigue +1|+1 esta ronda.",
+    "name": "A por ellos",
+    "powerCode": "P0117",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0074.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0074-full.png",
+    "description": "Copia la primera carta que has jugado cada turno.",
+    "descriptionRaw": "Copia la primera carta que has jugado cada turno.",
+    "name": "Duplicar",
+    "powerCode": "P0074",
+    "rarity": "LEGENDARIA",
+    "rarityRef": "Legendary"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0077.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0077-full.png",
+    "description": "Comienzo de partida: Añade un objeto al azar a cada carta de tu mazo durante esta partida.",
+    "descriptionRaw": "Comienzo de partida: Añade un objeto al azar a cada carta de tu mazo durante esta partida.",
+    "name": "Inventario inestable",
+    "powerCode": "P0077",
+    "rarity": "LEGENDARIA",
+    "rarityRef": "Legendary"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0222.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0222-full.png",
+    "description": "La primera carta que juegues cada ronda cuesta 1 menos por cada 20 cartas que tuviera tu mazo inicial.",
+    "descriptionRaw": "La primera carta que juegues cada ronda cuesta 1 menos por cada 20 cartas que tuviera tu mazo inicial.",
+    "name": "Cartas al ataque",
+    "powerCode": "P0222",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0101.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0101-full.png",
+    "description": "Comienzo de partida: Invoca una unidad de coste 2 de tu mazo.",
+    "descriptionRaw": "Comienzo de partida: Invoca una unidad de coste 2 de tu mazo.",
+    "name": "Se abren las puertas",
+    "powerCode": "P0101",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0091.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0091-full.png",
+    "description": "Cuando invocas a un aliado, le otorga <link=keyword.Fury><sprite name=Fury><style=Keyword>Furia</style></link>. Se considera un dragón.",
+    "descriptionRaw": "Cuando invocas a un aliado, le otorga Furia. Se considera un dragón.",
+    "name": "Ira del dragón",
+    "powerCode": "P0091",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0106.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0106-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Crea 1 <link=card.self><style=AssociatedCard>Copias falsificadas</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> de coste 0 en la mano.",
+    "descriptionRaw": "Comienzo de ronda: Crea 1 Copias falsificadas Fugaz de coste 0 en la mano.",
+    "name": "Copias falsificadas",
+    "powerCode": "P0106",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0114.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0114-full.png",
+    "description": "Cuando lanzas un hechizo lento, vuelve a lanzarse a los mismos objetivos.",
+    "descriptionRaw": "Cuando lanzas un hechizo lento, vuelve a lanzarse a los mismos objetivos.",
+    "name": "Sin prisa pero sin pausa",
+    "powerCode": "P0114",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0079.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0079-full.png",
+    "description": "Cuando los aliados atacan, <link=keyword.Nab><style=Keyword>birlas</style></link> 1.",
+    "descriptionRaw": "Cuando los aliados atacan, birlas 1.",
+    "name": "Dedos pringosos",
+    "powerCode": "P0079",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0102.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0102-full.png",
+    "description": "<link=vocab.RoundEnd><style=Vocab>Fin de ronda</style></link>: Reduce en 1 el coste de la carta más cara que tengas en la mano.",
+    "descriptionRaw": "Fin de ronda: Reduce en 1 el coste de la carta más cara que tengas en la mano.",
+    "name": "Descuento de contrabando",
+    "powerCode": "P0102",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0098.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0098-full.png",
+    "description": "Comienzo de partida: Invoca 1 <link=card.self><style=AssociatedCard>Estudiante peleón</style></link>.",
+    "descriptionRaw": "Comienzo de partida: Invoca 1 Estudiante peleón.",
+    "name": "Nuevo alumno",
+    "powerCode": "P0098",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0104.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0104-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Crea 1 <link=card.self><style=AssociatedCard>Filo de la cuchilla</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> en la mano.",
+    "descriptionRaw": "Comienzo de ronda: Crea 1 Filo de la cuchilla Fugaz en la mano.",
+    "name": "Hojas rebotantes",
+    "powerCode": "P0104",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0097.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0097-full.png",
+    "description": "Comienzo de partida: Roba 2.",
+    "descriptionRaw": "Comienzo de partida: Roba 2.",
+    "name": "Estrategia flexible",
+    "powerCode": "P0097",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0093.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0093-full.png",
+    "description": "Las mejoras aliadas (menos Barrera) son permanentes.",
+    "descriptionRaw": "Las mejoras aliadas (menos Barrera) son permanentes.",
+    "name": "Que no pare",
+    "powerCode": "P0093",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0071.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0071-full.png",
+    "description": "Los aliados obtienen <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Abrumar</style></link>.",
+    "descriptionRaw": "Los aliados obtienen Abrumar.",
+    "name": "Aplastar",
+    "powerCode": "P0071",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0112.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0112-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: <link=vocab.Rally><style=Vocab>Al ataque</style></link>.",
+    "descriptionRaw": "Comienzo de ronda: Al ataque.",
+    "name": "Dominación",
+    "powerCode": "P0112",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0073.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0073-full.png",
+    "description": "Consigue 200 monedas de oro adicionales tras cada encuentro.",
+    "descriptionRaw": "Consigue 200 monedas de oro adicionales tras cada encuentro.",
+    "name": "Riqueza infinita",
+    "powerCode": "P0073",
+    "rarity": "LEGENDARIA",
+    "rarityRef": "Legendary"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0083.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0083-full.png",
+    "description": "Cuando infliges daño a un enemigo, su poder se reduce a una cantidad equivalente al daño infligido.",
+    "descriptionRaw": "Cuando infliges daño a un enemigo, su poder se reduce a una cantidad equivalente al daño infligido.",
+    "name": "Impacto debilitante",
+    "powerCode": "P0083",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0119.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0119-full.png",
+    "description": "Cuando consigas la ficha de ataque, invoca 1 <link=card.self><style=AssociatedCard>Pimpollo</style></link>.",
+    "descriptionRaw": "Cuando consigas la ficha de ataque, invoca 1 Pimpollo.",
+    "name": "La venganza de la naturaleza",
+    "powerCode": "P0119",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0224.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0224-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Crea 1 <link=card.self><style=AssociatedCard>Tiempo y esmero</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> en la mano.",
+    "descriptionRaw": "Comienzo de ronda: Crea 1 Tiempo y esmero Fugaz en la mano.",
+    "name": "Favor del artesano",
+    "powerCode": "P0224",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0096.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0096-full.png",
+    "description": "Comienzo de partida: Invoca 1 <link=card.self><style=AssociatedCard>Estrado del emperador</style></link>.",
+    "descriptionRaw": "Comienzo de partida: Invoca 1 Estrado del emperador.",
+    "name": "Trono de poder",
+    "powerCode": "P0096",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0094.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0094-full.png",
+    "description": "Aumenta tu vida máxima en 10.",
+    "descriptionRaw": "Aumenta tu vida máxima en 10.",
+    "name": "Vitalidad",
+    "powerCode": "P0094",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0111.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0111-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Recarga tu maná de hechizos.",
+    "descriptionRaw": "Comienzo de ronda: Recarga tu maná de hechizos.",
+    "name": "Brujería",
+    "powerCode": "P0111",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0223.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0223-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Crea en la mano una copia <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> de una carta no <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> que hayas jugado.",
+    "descriptionRaw": "Comienzo de ronda: Crea en la mano una copia Fugaz de una carta no Fugaz que hayas jugado.",
+    "name": "Juego de memoria",
+    "powerCode": "P0223",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0080.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0080-full.png",
+    "description": "La primera vez que tu nexo se vaya a morir en cada partida, lo cura 30 de vida y otorga +1|+1 a los aliados <link=vocab.Everywhere><style=Vocab>estén donde estén</style></link>.",
+    "descriptionRaw": "La primera vez que tu nexo se vaya a morir en cada partida, lo cura 30 de vida y otorga +1|+1 a los aliados estén donde estén.",
+    "name": "Determinación inquebrantable",
+    "powerCode": "P0080",
+    "rarity": "LEGENDARIA",
+    "rarityRef": "Legendary"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0070.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0070-full.png",
+    "description": "(Durante las 3 primeras batallas) Comienzo de partida: Obtienes una gema de maná.",
+    "descriptionRaw": "(Durante las 3 primeras batallas) Comienzo de partida: Obtienes una gema de maná.",
+    "name": "Flujo de maná inestable",
+    "powerCode": "P0070",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0110.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0110-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Otorga +1|+1 al aliado <link=keyword.Weakest><style=Keyword>más débil</style></link>. ",
+    "descriptionRaw": "Comienzo de ronda: Otorga +1|+1 al aliado más débil. ",
+    "name": "Entrenamiento de combate",
+    "powerCode": "P0110",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0090.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0090-full.png",
+    "description": "Los aliados tienen +1|+1 por cada palabra clave.",
+    "descriptionRaw": "Los aliados tienen +1|+1 por cada palabra clave.",
+    "name": "Evolución",
+    "powerCode": "P0090",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0075.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0075-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Obtienes una gema de maná.",
+    "descriptionRaw": "Comienzo de ronda: Obtienes una gema de maná.",
+    "name": "Flujo de maná perfeccionado",
+    "powerCode": "P0075",
+    "rarity": "LEGENDARIA",
+    "rarityRef": "Legendary"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0115.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0115-full.png",
+    "description": "Cuando invocas a un aliado, les otorgas sus palabras clave a todos los aliados.",
+    "descriptionRaw": "Cuando invocas a un aliado, les otorgas sus palabras clave a todos los aliados.",
+    "name": "Compartir es vivir",
+    "powerCode": "P0115",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0220.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0220-full.png",
+    "description": "Comienzo de partida: Crea un equipamiento aleatorio en la mano. Cuesta 2 menos.",
+    "descriptionRaw": "Comienzo de partida: Crea un equipamiento aleatorio en la mano. Cuesta 2 menos.",
+    "name": "Sobrepreparación",
+    "powerCode": "P0220",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0089.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0089-full.png",
+    "description": "Cuando un aliado sobrevive tras recibir daño, recibe +1|+1.",
+    "descriptionRaw": "Cuando un aliado sobrevive tras recibir daño, recibe +1|+1.",
+    "name": "Resistencia",
+    "powerCode": "P0089",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0219.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0219-full.png",
+    "description": "Cuando un aliado muere por primera vez, invoca 1 <link=card.self><style=AssociatedCard>Tumba embrujada</style></link>.",
+    "descriptionRaw": "Cuando un aliado muere por primera vez, invoca 1 Tumba embrujada.",
+    "name": "El más allá prohibido",
+    "powerCode": "P0219",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0107.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0107-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Aplica <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>Escarchar</style></link> al enemigo más fuerte esta ronda.",
+    "descriptionRaw": "Comienzo de ronda: Aplica Escarchar al enemigo más fuerte esta ronda.",
+    "name": "A raya",
+    "powerCode": "P0107",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0068.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0068-full.png",
+    "description": "Cuando invocas un aliado de coste 1, le otorga +2|+2.",
+    "descriptionRaw": "Cuando invocas un aliado de coste 1, le otorga +2|+2.",
+    "name": "El genio de Yipp",
+    "powerCode": "P0068",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0116.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/es_es/img/powers/P0116-full.png",
+    "description": "Cuando invocas a un aliado, obtiene una palabra clave aleatoria.",
+    "descriptionRaw": "Cuando invocas a un aliado, obtiene una palabra clave aleatoria.",
+    "name": "Regalo de bienvenida",
+    "powerCode": "P0116",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  }
+]
