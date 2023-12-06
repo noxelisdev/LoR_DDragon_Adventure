@@ -1,7 +1,7 @@
 [
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0014.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0014-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0014.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0014-full.png",
     "description": "召喚時、このユニットの攻撃力と体力を2倍にする。",
     "descriptionRaw": "召喚時、このユニットの攻撃力と体力を2倍にする。",
     "name": "ブラック クリーバー",
@@ -10,8 +10,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0118.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0118-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0118.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0118-full.png",
     "description": "このラウンド中に引いたカード1枚につき、コストが1減少する。",
     "descriptionRaw": "このラウンド中に引いたカード1枚につき、コストが1減少する。",
     "name": "パワーリフ",
@@ -20,8 +20,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0115.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0115-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0115.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0115-full.png",
     "description": "コスト-2 & <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>フリーティング</style></link>",
     "descriptionRaw": "コスト-2 & フリーティング",
     "name": "アンティアップ",
@@ -30,8 +30,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0119.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0119-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0119.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0119-full.png",
     "description": "手札に「流撃」を1枚生成する。",
     "descriptionRaw": "手札に「流撃」を1枚生成する。",
     "name": "ウルミ",
@@ -40,8 +40,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0112.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0112-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0112.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0112-full.png",
     "description": "<link=keyword.Augment><sprite name=Augment><style=Keyword>オーグメント</style></link>。このユニットは「テック」になる。",
     "descriptionRaw": "オーグメント。このユニットは「テック」になる。",
     "name": "技術革新",
@@ -50,8 +50,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0120.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0120-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0120.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0120-full.png",
     "description": "ユニットを1枚引く。",
     "descriptionRaw": "ユニットを1枚引く。",
     "name": "英雄の呼び声",
@@ -60,8 +60,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0116.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0116-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0116.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0116-full.png",
     "description": "敵のネクサスに3ダメージを与える。",
     "descriptionRaw": "敵のネクサスに3ダメージを与える。",
     "name": "炎の目覚め",
@@ -70,8 +70,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0122.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0122-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0122.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0122-full.png",
     "description": "召喚時、このユニットを8|8まで成長させる。",
     "descriptionRaw": "召喚時、このユニットを8|8まで成長させる。",
     "name": "とってもおおきくなぁれ！",
@@ -80,8 +80,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0121.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0121-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0121.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0121-full.png",
     "description": "<link=vocab.Titanic><style=Vocab>タイタン</style></link>のユニットを1枚選定し、<link=card.self><style=AssociatedCard>嵐の紋章</style></link>を2枚召喚する。",
     "descriptionRaw": "タイタンのユニットを1枚選定し、嵐の紋章を2枚召喚する。",
     "name": "嵐の呼び声",
@@ -90,8 +90,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0113.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0113-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0113.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0113-full.png",
     "description": "+1|+0 & <link=keyword.Brash><sprite name=Brash><style=Keyword>ブラッシュ</style></link>",
     "descriptionRaw": "+1|+0 & ブラッシュ",
     "name": "コーラルクラッシュガントレット",
@@ -100,8 +100,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0002.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0002-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0002.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0002-full.png",
     "description": "<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>フリーティング</style></link>",
     "descriptionRaw": "フリーティング",
     "name": "呪いの小石",
@@ -110,8 +110,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0005.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0005-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0005.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0005-full.png",
     "description": "-1|-0",
     "descriptionRaw": "-1|-0",
     "name": "錆びた剣",
@@ -120,8 +120,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0001.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0001-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0001.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0001-full.png",
     "description": "ブロック不可",
     "descriptionRaw": "ブロック不可",
     "name": "錆びた鎧",
@@ -130,8 +130,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0003.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0003-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0003.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0003-full.png",
     "description": "<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>エフェメラル</style></link>",
     "descriptionRaw": "エフェメラル",
     "name": "呪いのマント",
@@ -140,8 +140,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0004.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0004-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0004.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0004-full.png",
     "description": "コスト+1",
     "descriptionRaw": "コスト+1",
     "name": "期限切れのマナポーション",
@@ -150,8 +150,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0038.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0038-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0038.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0038-full.png",
     "description": "+0|+2",
     "descriptionRaw": "+0|+2",
     "name": "ジャイアント ベルト",
@@ -160,8 +160,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0068.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0068-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0068.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0068-full.png",
     "description": "召喚時、<link=vocab.Strongest><style=Vocab>最も強い</style></link>敵を<link=keyword.Capture><sprite name=Capture><style=Keyword>拘束</style></link>する。",
     "descriptionRaw": "召喚時、最も強い敵を拘束する。",
     "name": "アイスボーン ガントレット",
@@ -170,8 +170,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0032.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0032-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0032.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0032-full.png",
     "description": "召喚時、ランダムなコスト1の「ポロ」を1体召喚する。",
     "descriptionRaw": "召喚時、ランダムなコスト1の「ポロ」を1体召喚する。",
     "name": "ポロのおやつ",
@@ -180,8 +180,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0007.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0007-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0007.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0007-full.png",
     "description": "<link=keyword.Challenger><sprite name=Challenger><style=Keyword>チャレンジャー</style></link>",
     "descriptionRaw": "チャレンジャー",
     "name": "スカーミッシュ セイバー",
@@ -190,8 +190,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0049.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0049-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0049.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0049-full.png",
     "description": "スペルをプレイする時、このカードのコストを1減少させる。",
     "descriptionRaw": "スペルをプレイする時、このカードのコストを1減少させる。",
     "name": "メイジの手引書",
@@ -200,8 +200,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0078.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0078-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0078.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0078-full.png",
     "description": "召喚時、カードを1枚引く。",
     "descriptionRaw": "召喚時、カードを1枚引く。",
     "name": "賢者の石",
@@ -210,8 +210,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0072.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0072-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0072.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0072-full.png",
     "description": "<link=keyword.Support><style=Keyword>サポート</style></link>: このラウンド中、このユニットがサポートする味方に+1|+1とこのユニットのキーワードを付与する。",
     "descriptionRaw": "サポート: このラウンド中、このユニットがサポートする味方に+1|+1とこのユニットのキーワードを付与する。",
     "name": "絆のバックラー",
@@ -220,8 +220,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0104.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0104-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0104.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0104-full.png",
     "description": "<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>クイックアタック</style></link>",
     "descriptionRaw": "クイックアタック",
     "name": "ジール",
@@ -230,8 +230,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0094.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0094-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0094.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0094-full.png",
     "description": "空のマナジェムを1個獲得する。",
     "descriptionRaw": "空のマナジェムを1個獲得する。",
     "name": "サファイアクリスタル",
@@ -240,8 +240,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0009.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0009-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0009.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0009-full.png",
     "description": "<link=vocab.Attack><style=Vocab>アタック</style></link>: カードを1枚<link=keyword.Nab><style=Keyword>強奪</style></link>する。",
     "descriptionRaw": "アタック: カードを1枚強奪する。",
     "name": "盗人の道具",
@@ -250,8 +250,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0034.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0034-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0034.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0034-full.png",
     "description": "<link=vocab.Attack><style=Vocab>アタック</style></link>: 敵のデッキに<link=card.self><style=AssociatedCard>毒キノコ</style></link>を5個設置する。",
     "descriptionRaw": "アタック: 敵のデッキに毒キノコを5個設置する。",
     "name": "スペシャルデリバリー",
@@ -260,8 +260,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0058.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0058-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0058.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0058-full.png",
     "description": "カードを1枚引く。",
     "descriptionRaw": "カードを1枚引く。",
     "name": "スキル エリクサー",
@@ -270,8 +270,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0025.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0025-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0025.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0025-full.png",
     "description": "破壊される時、このカードのコピーを手札に1枚生成する。",
     "descriptionRaw": "破壊される時、このカードのコピーを手札に1枚生成する。",
     "name": "神髄の瞳",
@@ -280,8 +280,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0059.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0059-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0059.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0059-full.png",
     "description": "<link=keyword.Invoke><style=Keyword>招来</style></link>する。",
     "descriptionRaw": "招来する。",
     "name": "キラキラじゃない星図",
@@ -290,8 +290,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0111.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0111-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0111.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0111-full.png",
     "description": "ストライク: カードを1枚引く。",
     "descriptionRaw": "ストライク: カードを1枚引く。",
     "name": "魅惑のルアー",
@@ -300,8 +300,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0092.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0092-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0092.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0092-full.png",
     "description": "<link=card.self><style=AssociatedCard>マイティーポロ</style></link>を1体召喚する。",
     "descriptionRaw": "マイティーポロを1体召喚する。",
     "name": "偉丈夫の口髭",
@@ -310,8 +310,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0012.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0012-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0012.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0012-full.png",
     "description": "召喚時、<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>エフェメラル</style></link>を持つこのユニットのコピーを1体召喚する。",
     "descriptionRaw": "召喚時、エフェメラルを持つこのユニットのコピーを1体召喚する。",
     "name": "シャドウ トーテム",
@@ -320,8 +320,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0051.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0051-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0051.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0051-full.png",
     "description": "同じ対象にこのスペルをコピーする。",
     "descriptionRaw": "同じ対象にこのスペルをコピーする。",
     "name": "ソーサリー エリクサー",
@@ -330,8 +330,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0033.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0033-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0033.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0033-full.png",
     "description": "召喚時、このユニットのコピーを1体召喚する。",
     "descriptionRaw": "召喚時、このユニットのコピーを1体召喚する。",
     "name": "ジ＝ロット ポータル",
@@ -340,8 +340,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0109.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0109-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0109.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0109-full.png",
     "description": "「皇帝のデッキ」からランダムなカードを手札に1枚生成する。",
     "descriptionRaw": "「皇帝のデッキ」からランダムなカードを手札に1枚生成する。",
     "name": "皇帝の下賜品",
@@ -350,8 +350,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0011.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0011-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0011.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0011-full.png",
     "description": "コストが最も高い味方チャンピオンのコストの分だけ、このカードのコストを減少させる。",
     "descriptionRaw": "コストが最も高い味方チャンピオンのコストの分だけ、このカードのコストを減少させる。",
     "name": "ヘクステック プロトベルト01",
@@ -360,8 +360,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0044.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0044-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0044.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0044-full.png",
     "description": "+3|+3",
     "descriptionRaw": "+3|+3",
     "name": "巨人の斧",
@@ -370,8 +370,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0031.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0031-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0031.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0031-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>ラウンド開始時</style></link>: このラウンド中、追加のマナジェムを1つ獲得する。",
     "descriptionRaw": "ラウンド開始時: このラウンド中、追加のマナジェムを1つ獲得する。",
     "name": "分点のクリスタル",
@@ -380,8 +380,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0041.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0041-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0041.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0041-full.png",
     "description": "+2|+0",
     "descriptionRaw": "+2|+0",
     "name": "ピッケル",
@@ -390,8 +390,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0045.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0045-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0045.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0045-full.png",
     "description": "+3|+1",
     "descriptionRaw": "+3|+1",
     "name": "巨像の槌",
@@ -400,8 +400,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0082.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0082-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0082.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0082-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>ラウンド開始時</style></link>: このラウンド中、追加のマナジェムを1つ獲得する。",
     "descriptionRaw": "ラウンド開始時: このラウンド中、追加のマナジェムを1つ獲得する。",
     "name": "クリスタル配達",
@@ -410,8 +410,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0028.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0028-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0028.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0028-full.png",
     "description": "召喚時または破壊される時、あなたの地域からこのカードと同じコストのフォロワーを1体召喚する。",
     "descriptionRaw": "召喚時または破壊される時、あなたの地域からこのカードと同じコストのフォロワーを1体召喚する。",
     "name": "ウォッチャーの瞳",
@@ -420,8 +420,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0108.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0108-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0108.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0108-full.png",
     "description": "<link=keyword.Burst><sprite name=Burst><style=Keyword>バースト</style></link>",
     "descriptionRaw": "バースト",
     "name": "ストップウォッチ",
@@ -430,8 +430,8 @@
     "rarityRef": "Special"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0013.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0013-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0013.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0013-full.png",
     "description": "<link=keyword.Elusive><sprite name=Elusive><style=Keyword>イルーシブ</style></link>",
     "descriptionRaw": "イルーシブ",
     "name": "忍者足袋",
@@ -440,8 +440,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0074.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0074-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0074.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0074-full.png",
     "description": "召喚時、このカードのコストと同じ分だけネクサスの体力を回復する。",
     "descriptionRaw": "召喚時、このカードのコストと同じ分だけネクサスの体力を回復する。",
     "name": "ヴァンパイア セプター",
@@ -450,8 +450,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0105.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0105-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0105.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0105-full.png",
     "description": "<link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>リジェネレーション</style></link>",
     "descriptionRaw": "リジェネレーション",
     "name": "再生の珠",
@@ -460,8 +460,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0030.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0030-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0030.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0030-full.png",
     "description": "召喚時または破壊される時、<link=vocab.Strongest><style=Vocab>最も強い</style></link>味方に+1|+1を付与する。",
     "descriptionRaw": "召喚時または破壊される時、最も強い味方に+1|+1を付与する。",
     "name": "力の標",
@@ -470,8 +470,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0053.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0053-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0053.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0053-full.png",
     "description": "チャンピオンを1枚引く。",
     "descriptionRaw": "チャンピオンを1枚引く。",
     "name": "英雄の角笛",
@@ -480,8 +480,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0021.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0021-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0021.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0021-full.png",
     "description": "召喚時、<link=vocab.Strongest><style=Vocab>最も強い</style></link>敵を<link=keyword.Capture><sprite name=Capture><style=Keyword>拘束</style></link>する。",
     "descriptionRaw": "召喚時、最も強い敵を拘束する。",
     "name": "お宝発見",
@@ -490,8 +490,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0062.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0062-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0062.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0062-full.png",
     "description": "このカードのコストと同じ分だけネクサスの体力を回復する。",
     "descriptionRaw": "このカードのコストと同じ分だけネクサスの体力を回復する。",
     "name": "体力ポーション",
@@ -500,8 +500,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0057.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0057-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0057.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0057-full.png",
     "description": "コスト-2",
     "descriptionRaw": "コスト-2",
     "name": "女神の涙",
@@ -510,8 +510,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0015.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0015-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0015.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0015-full.png",
     "description": "召喚時、<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>フリーティング</style></link>を持つこのユニットのコピーを手札に1枚生成する。",
     "descriptionRaw": "召喚時、フリーティングを持つこのユニットのコピーを手札に1枚生成する。",
     "name": "精霊石",
@@ -520,8 +520,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0056.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0056-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0056.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0056-full.png",
     "description": "コスト-3",
     "descriptionRaw": "コスト-3",
     "name": "調和の聖杯",
@@ -530,8 +530,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0055.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0055-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0055.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0055-full.png",
     "description": "コスト-1",
     "descriptionRaw": "コスト-1",
     "name": "マナ ポーション",
@@ -540,8 +540,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0008.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0008-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0008.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0008-full.png",
     "description": "召喚時、このユニットに<link=keyword.Barrier><sprite name=Barrier><style=Keyword>バリア</style></link>を付与する。",
     "descriptionRaw": "召喚時、このユニットにバリアを付与する。",
     "name": "ソラリのロケット",
@@ -550,8 +550,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0093.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0093-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0093.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0093-full.png",
     "description": "同じコストのランダムなチャンピオンを1体召喚する。",
     "descriptionRaw": "同じコストのランダムなチャンピオンを1体召喚する。",
     "name": "サモナーストーン",
@@ -560,8 +560,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0047.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0047-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0047.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0047-full.png",
     "description": "<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>クイックアタック</style></link>",
     "descriptionRaw": "クイックアタック",
     "name": "スピード クロス",
@@ -570,8 +570,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0107.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0107-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0107.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0107-full.png",
     "description": "スペルをプレイする時、装備者に+1|+1を付与する。",
     "descriptionRaw": "スペルをプレイする時、装備者に+1|+1を付与する。",
     "name": "エッセンス リーバー",
@@ -580,8 +580,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0006.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0006-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0006.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0006-full.png",
     "description": "ゲーム開始時: 手札にない場合、このカードを引く。",
     "descriptionRaw": "ゲーム開始時: 手札にない場合、このカードを引く。",
     "name": "ファーサイト オルタレーション",
@@ -590,8 +590,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0081.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0081-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0081.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0081-full.png",
     "description": "ラウンド終了時: このカードのコストを1減少させる。",
     "descriptionRaw": "ラウンド終了時: このカードのコストを1減少させる。",
     "name": "倍速ウォッチ",
@@ -600,8 +600,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0070.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0070-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0070.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0070-full.png",
     "description": "<link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>スペルシールド</style></link>",
     "descriptionRaw": "スペルシールド",
     "name": "厄除けのお守り",
@@ -610,8 +610,18 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0064.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0064-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0126.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0126-full.png",
+    "description": "<link=keyword.Fated><sprite name=Fated><style=Keyword>フェイト</style></link>。このユニットは「妖精」になる。",
+    "descriptionRaw": "フェイト。このユニットは「妖精」になる。",
+    "name": "妖精の贈り物",
+    "itemCode": "I0126",
+    "rarity": "コモン",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0064.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0064-full.png",
     "description": "このカードのコピーを2枚デッキに混ぜる。それらのコストは1である。",
     "descriptionRaw": "このカードのコピーを2枚デッキに混ぜる。それらのコストは1である。",
     "name": "ペテン師デッキ",
@@ -620,8 +630,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0080.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0080-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0080.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0080-full.png",
     "description": "<link=vocab.RoundEnd><style=Vocab>ラウンド終了時</style></link>: このユニットに1ダメージを与え、+2|+0を付与する。",
     "descriptionRaw": "ラウンド終了時: このユニットに1ダメージを与え、+2|+0を付与する。",
     "name": "ブラッドレター ヴェール",
@@ -630,8 +640,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0040.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0040-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0040.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0040-full.png",
     "description": "+2|+2",
     "descriptionRaw": "+2|+2",
     "name": "ファージ",
@@ -640,8 +650,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0037.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0037-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0037.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0037-full.png",
     "description": "+1|+1",
     "descriptionRaw": "+1|+1",
     "name": "スタッズ レザージャケット",
@@ -650,8 +660,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0042.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0042-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0042.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0042-full.png",
     "description": "+1|+3",
     "descriptionRaw": "+1|+3",
     "name": "サベッジ シールド",
@@ -660,8 +670,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0017.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0017-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0017.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0017-full.png",
     "description": "<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>フィアサム</style></link>",
     "descriptionRaw": "フィアサム",
     "name": "セレイテッド ダーク",
@@ -670,8 +680,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0046.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0046-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0046.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0046-full.png",
     "description": "<link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>リジェネレーション</style></link>",
     "descriptionRaw": "リジェネレーション",
     "name": "満腹レーション",
@@ -680,8 +690,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0073.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0073-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0073.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0073-full.png",
     "description": "+2|+2&召喚時、このユニットと<link=vocab.Strongest><style=Vocab>最も強い</style></link>敵が互いに<link=vocab.Strike><style=Vocab>ストライク</style></link>する。",
     "descriptionRaw": "+2|+2&召喚時、このユニットと最も強い敵が互いにストライクする。",
     "name": "清算人の印",
@@ -690,8 +700,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0026.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0026-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0026.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0026-full.png",
     "description": "<link=vocab.Countdown><style=Vocab>カウントダウン</style></link>3: このカードのコストの倍にあたるダメージを敵のネクサスに与える。",
     "descriptionRaw": "カウントダウン3: このカードのコストの倍にあたるダメージを敵のネクサスに与える。",
     "name": "錬金術師の発火装置",
@@ -700,8 +710,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0085.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0085-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0085.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0085-full.png",
     "description": "デッキの一番上の味方に+1|+1を付与する。",
     "descriptionRaw": "デッキの一番上の味方に+1|+1を付与する。",
     "name": "ハンドセンサー",
@@ -710,8 +720,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0089.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0089-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0089.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0089-full.png",
     "description": "デッキの一番上の味方に+6|+6を付与する。",
     "descriptionRaw": "デッキの一番上の味方に+6|+6を付与する。",
     "name": "タイタンセンサー",
@@ -720,8 +730,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0097.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0097-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0097.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0097-full.png",
     "description": "<link=keyword.Challenger><sprite name=Challenger><style=Keyword>チャレンジャー</style></link>",
     "descriptionRaw": "チャレンジャー",
     "name": "ビルジウォーター カトラス",
@@ -730,8 +740,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0069.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0069-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0069.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0069-full.png",
     "description": "<link=vocab.Play><style=Vocab>プレイ</style></link>: このユニットがトークンなしでアタックを開始する。",
     "descriptionRaw": "プレイ: このユニットがトークンなしでアタックを開始する。",
     "name": "クイック ブレード",
@@ -740,8 +750,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0043.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0043-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0043.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0043-full.png",
     "description": "+3|+3されるがエフェメラル",
     "descriptionRaw": "+3|+3されるがエフェメラル",
     "name": "呪いの刻印",
@@ -750,8 +760,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0019.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0019-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0019.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0019-full.png",
     "description": "+1|+1、<link=keyword.Fury><sprite name=Fury><style=Keyword>フューリー</style></link>、このユニットは「ドラゴン」である。",
     "descriptionRaw": "+1|+1、フューリー、このユニットは「ドラゴン」である。",
     "name": "龍の牙",
@@ -760,8 +770,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0095.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0095-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0095.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0095-full.png",
     "description": "ゲーム開始時: このカードに<link=card.self><style=AssociatedCard>不思議なポータル</style></link>を1個設置する。",
     "descriptionRaw": "ゲーム開始時: このカードに不思議なポータルを1個設置する。",
     "name": "ノラのお茶",
@@ -770,8 +780,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0067.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0067-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0067.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0067-full.png",
     "description": "スペルをプレイする時、このユニットに+1|+1を付与する。",
     "descriptionRaw": "スペルをプレイする時、このユニットに+1|+1を付与する。",
     "name": "専心のクリスタル",
@@ -780,8 +790,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0065.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0065-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0065.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0065-full.png",
     "description": "<link=vocab.Predict><style=Vocab>先見</style></link>する。",
     "descriptionRaw": "先見する。",
     "name": "オラクル レンズ",
@@ -790,8 +800,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0050.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0050-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0050.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0050-full.png",
     "description": "<link=keyword.Scout><sprite name=Scout><style=Keyword>スカウト</style></link>",
     "descriptionRaw": "スカウト",
     "name": "ハンター マチェット",
@@ -800,8 +810,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0090.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0090-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0090.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0090-full.png",
     "description": "ダメージ+4",
     "descriptionRaw": "ダメージ+4",
     "name": "猛進の紋章 III",
@@ -810,8 +820,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0091.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0091-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0091.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0091-full.png",
     "description": "ダメージ+2",
     "descriptionRaw": "ダメージ+2",
     "name": "猛進の紋章 II",
@@ -820,8 +830,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0088.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0088-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0088.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0088-full.png",
     "description": "ダメージ+1",
     "descriptionRaw": "ダメージ+1",
     "name": "猛進の紋章 I",
@@ -830,8 +840,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0075.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0075-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0075.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0075-full.png",
     "description": "コスト-1",
     "descriptionRaw": "コスト-1",
     "name": "エンシェント コイン",
@@ -840,8 +850,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0054.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0054-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0054.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0054-full.png",
     "description": "このカードのコストは0である。このカードの元のコストと同じ分だけあなたのネクサスにダメージを与える。",
     "descriptionRaw": "このカードのコストは0である。このカードの元のコストと同じ分だけあなたのネクサスにダメージを与える。",
     "name": "鮮血のプリズム",
@@ -850,8 +860,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0079.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0079-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0079.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0079-full.png",
     "description": "コスト-2",
     "descriptionRaw": "コスト-2",
     "name": "ノマドのメダル",
@@ -860,8 +870,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0039.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0039-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0039.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0039-full.png",
     "description": "<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>オーバーパワー</style></link>",
     "descriptionRaw": "オーバーパワー",
     "name": "グレートクラブ",
@@ -870,8 +880,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0106.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0106-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0106.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0106-full.png",
     "description": "<link=keyword.Scout><sprite name=Scout><style=Keyword>スカウト</style></link>",
     "descriptionRaw": "スカウト",
     "name": "ファントム ダンサー",
@@ -880,8 +890,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0083.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0083-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0083.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0083-full.png",
     "description": "このゲーム中、<link=vocab.Strongest><style=Vocab>最も強い</style></link>味方にランダムなコモンアイテムを1個付与する。",
     "descriptionRaw": "このゲーム中、最も強い味方にランダムなコモンアイテムを1個付与する。",
     "name": "ヘクステック製造機 I",
@@ -890,8 +900,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0027.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0027-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0027.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0027-full.png",
     "description": "召喚時または破壊される時、このカードのコストと同じ分だけ、ネクサスの体力を回復する。",
     "descriptionRaw": "召喚時または破壊される時、このカードのコストと同じ分だけ、ネクサスの体力を回復する。",
     "name": "クリスタル ブレーサー",
@@ -900,8 +910,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0071.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0071-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0071.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0071-full.png",
     "description": "<link=keyword.Support><style=Keyword>サポート</style></link>: このユニットがサポートする味方に+1|+1を付与する。",
     "descriptionRaw": "サポート: このユニットがサポートする味方に+1|+1を付与する。",
     "name": "ターゴンの腕輪",
@@ -910,8 +920,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0035.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0035-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0035.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0035-full.png",
     "description": "+1|+1、<link=keyword.Lurker><sprite name=Lurker><style=Keyword>潜伏</style></link>、このユニットは「潜伏者」である。",
     "descriptionRaw": "+1|+1、潜伏、このユニットは「潜伏者」である。",
     "name": "船乗りの計略",
@@ -920,8 +930,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0061.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0061-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0061.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0061-full.png",
     "description": "<link=keyword.Plunder><style=Keyword>追撃</style></link>: このカードのコストが3減少する。",
     "descriptionRaw": "追撃: このカードのコストが3減少する。",
     "name": "フォビドゥン アイドル",
@@ -930,8 +940,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0110.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0110-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0110.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0110-full.png",
     "description": "このユニットのコストは1、基本ステータスは1|1である。また、このユニットは「ポロ」である。",
     "descriptionRaw": "このユニットのコストは1、基本ステータスは1|1である。また、このユニットは「ポロ」である。",
     "name": "ポロの綿毛",
@@ -940,8 +950,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0000.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0000-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0000.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0000-full.png",
     "description": "デッキの一番上の味方に+3|+3を付与する。",
     "descriptionRaw": "デッキの一番上の味方に+3|+3を付与する。",
     "name": "アーデント センサー",
@@ -950,8 +960,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0016.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0016-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0016.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0016-full.png",
     "description": "召喚時、敵のデッキの上から8枚目までに<link=card.self><style=AssociatedCard>フラッシュボム</style></link>を4個設置する。",
     "descriptionRaw": "召喚時、敵のデッキの上から8枚目までにフラッシュボムを4個設置する。",
     "name": "フラッシュボムバッグ",
@@ -960,8 +970,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0029.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0029-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0029.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0029-full.png",
     "description": "すべての敵に<nobr>-1|-0</nobr>を付与する。",
     "descriptionRaw": "すべての敵に-1|-0を付与する。",
     "name": "悲愴の彫像",
@@ -970,8 +980,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0066.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0066-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0066.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0066-full.png",
     "description": "ランダムなコスト1の<nobr>「ポロ」</nobr>を1体召喚する。",
     "descriptionRaw": "ランダムなコスト1の「ポロ」を1体召喚する。",
     "name": "ポロのおやつ",
@@ -980,8 +990,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0096.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0096-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0096.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0096-full.png",
     "description": "<link=vocab.Attack><style=Vocab>アタック</style></link>: 装備者に+1|+1を付与する。",
     "descriptionRaw": "アタック: 装備者に+1|+1を付与する。",
     "name": "シーン",
@@ -990,8 +1000,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0010.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0010-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0010.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0010-full.png",
     "description": "<link=keyword.Deep><sprite name=Deep><style=Keyword>ディープ</style></link>、このユニットは「海獣」である。",
     "descriptionRaw": "ディープ、このユニットは「海獣」である。",
     "name": "潜水ヘルメット",
@@ -1000,8 +1010,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0087.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0087-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0087.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0087-full.png",
     "description": "このゲーム中、<link=vocab.Strongest><style=Vocab>最も強い</style></link>味方にランダムなエピックアイテムを1個付与する。",
     "descriptionRaw": "このゲーム中、最も強い味方にランダムなエピックアイテムを1個付与する。",
     "name": "ヘクステック製造機 III",
@@ -1010,8 +1020,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0024.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0024-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0024.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0024-full.png",
     "description": "召喚時、カードを1枚引く。",
     "descriptionRaw": "召喚時、カードを1枚引く。",
     "name": "スキル エリクサー",
@@ -1020,8 +1030,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0018.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0018-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0018.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0018-full.png",
     "description": "召喚時、このカードのカウントを1<link=vocab.Advance><style=Vocab>進行</style></link>させる。",
     "descriptionRaw": "召喚時、このカードのカウントを1進行させる。",
     "name": "ストップウォッチ",
@@ -1030,8 +1040,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0077.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0077-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0077.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0077-full.png",
     "description": "召喚時、このユニットのコストに等しいマナを回復する。",
     "descriptionRaw": "召喚時、このユニットのコストに等しいマナを回復する。",
     "name": "マナ デポジット",
@@ -1040,8 +1050,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0036.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0036-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0036.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0036-full.png",
     "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>ラストブレス</style></link>: <link=vocab.Rally><style=Vocab>奮起</style></link>する。",
     "descriptionRaw": "ラストブレス: 奮起する。",
     "name": "奮起の旗印",
@@ -1050,8 +1060,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0052.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0052-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0052.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0052-full.png",
     "description": "50%の確率で、このカードのコピーを手札に1枚生成する。このラウンド中、そのコピーのコストは0である。",
     "descriptionRaw": "50%の確率で、このカードのコピーを手札に1枚生成する。このラウンド中、そのコピーのコストは0である。",
     "name": "ダブリング ダイス",
@@ -1060,8 +1070,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0084.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0084-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0084.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0084-full.png",
     "description": "このラウンド中、すべての味方に+1|+1を付与する。",
     "descriptionRaw": "このラウンド中、すべての味方に+1|+1を付与する。",
     "name": "戦旗",
@@ -1070,8 +1080,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0060.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0060-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0060.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0060-full.png",
     "description": "あなたの地域からこのカードと同じコストのフォロワーを1体召喚する。",
     "descriptionRaw": "あなたの地域からこのカードと同じコストのフォロワーを1体召喚する。",
     "name": "召集の灯火",
@@ -1080,8 +1090,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0076.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0076-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0076.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0076-full.png",
     "description": "<link=keyword.Tough><sprite name=Tough><style=Keyword>タフ</style></link>",
     "descriptionRaw": "タフ",
     "name": "チェイン ベスト",
@@ -1090,8 +1100,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0063.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0063-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0063.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0063-full.png",
     "description": "このカードと同じ地域のカードを1枚<link=vocab.Manifest><style=Vocab>選定</style></link>する。",
     "descriptionRaw": "このカードと同じ地域のカードを1枚選定する。",
     "name": "ヨードル ポータル",
@@ -1100,8 +1110,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0086.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0086-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0086.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0086-full.png",
     "description": "このゲーム中、<link=vocab.Strongest><style=Vocab>最も強い</style></link>味方にランダムなレアアイテムを1個付与する。",
     "descriptionRaw": "このゲーム中、最も強い味方にランダムなレアアイテムを1個付与する。",
     "name": "ヘクステック製造機 II",
@@ -1110,8 +1120,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0048.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ja_jp/img/items/I0048-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0048.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ja_jp/img/items/I0048-full.png",
     "description": "+3|+3されるが、コストが1増加する。",
     "descriptionRaw": "+3|+3されるが、コストが1増加する。",
     "name": "光輝のプレートアーマー",
