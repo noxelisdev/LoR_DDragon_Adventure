@@ -1,7 +1,7 @@
 [
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0022.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0022-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0022.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0022-full.png",
     "description": "한 라운드에 두 번째 주문을 사용하면 이 라운드에 <nobr><link=vocab.Strongest><style=Vocab>최강</style></link>인 아군에게</nobr> +8|+8을 <nobr>일시 부여합니다.</nobr>",
     "descriptionRaw": "한 라운드에 두 번째 주문을 사용하면 이 라운드에 최강인 아군에게 +8|+8을 일시 부여합니다.",
     "name": "용의 영혼 II",
@@ -10,8 +10,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0023.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0023-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0023.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0023-full.png",
     "description": "시작 마나 +1<br><link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 손에 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> <nobr><link=card.self><style=AssociatedCard>양면의 규율</style></link></nobr> 1장을 생성합니다.",
     "descriptionRaw": "시작 마나 +1라운드 시작: 손에 일회용 양면의 규율 1장을 생성합니다.",
     "name": "감각을 넓히시오",
@@ -20,8 +20,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0020.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0020-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0020.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0020-full.png",
     "description": "한 라운드에 두 번째 주문을 사용하면 이 라운드에 <nobr><link=vocab.Strongest><style=Vocab>최강</style></link>인 아군에게</nobr> +4|+4를 <nobr>일시 부여합니다.</nobr>",
     "descriptionRaw": "한 라운드에 두 번째 주문을 사용하면 이 라운드에 최강인 아군에게 +4|+4를 일시 부여합니다.",
     "name": "용의 영혼",
@@ -30,8 +30,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0176.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0176-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0176.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0176-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 손에 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> <link=card.self><style=AssociatedCard>예리한 결의</style></link> 1장을 생성합니다. 이 카드는 비용이 0입니다.",
     "descriptionRaw": "라운드 시작: 손에 일회용 예리한 결의 1장을 생성합니다. 이 카드는 비용이 0입니다.",
     "name": "현혹의 비수 II",
@@ -40,8 +40,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0174.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0174-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0174.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0174-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 손에 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> <link=card.self><style=AssociatedCard>예리한 결의</style></link> 1장을 생성합니다. 이 카드의 비용이 1 감소합니다.",
     "descriptionRaw": "라운드 시작: 손에 일회용 예리한 결의 1장을 생성합니다. 이 카드의 비용이 1 감소합니다.",
     "name": "현혹의 비수",
@@ -50,8 +50,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0175.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0175-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0175.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0175-full.png",
     "description": "시작 마나 +1<br>이 게임에서 챔피언을 레벨 업시켰으면 아군이 공격 시 공격 준비 상태인 <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>하루살이</style></link> <link=card.self><style=AssociatedCard>르블랑</style></link> 하나를 소환합니다.",
     "descriptionRaw": "시작 마나 +1이 게임에서 챔피언을 레벨 업시켰으면 아군이 공격 시 공격 준비 상태인 하루살이 르블랑 하나를 소환합니다.",
     "name": "어디든, 누구든",
@@ -60,8 +60,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0131.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0131-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0131.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0131-full.png",
     "description": "게임 시작: <link=card.self><style=AssociatedCard>잠든 바위곰</style></link> 하나를 소환합니다. 모든 아군이 +1|+1과 <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>압도</style></link> 효과를 가집니다.",
     "descriptionRaw": "게임 시작: 잠든 바위곰 하나를 소환합니다. 모든 아군이 +1|+1과 압도 효과를 가집니다.",
     "name": "바위곰아, 좋은 아침 II",
@@ -70,8 +70,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0130.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0130-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0130.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0130-full.png",
     "description": "시작 마나 +1.<br>아군 명소가 파괴될 때 모든 아군이 +1|+0을 얻습니다.",
     "descriptionRaw": "시작 마나 +1.아군 명소가 파괴될 때 모든 아군이 +1|+0을 얻습니다.",
     "name": "재생한 돌",
@@ -80,8 +80,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0129.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0129-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0129.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0129-full.png",
     "description": "게임 시작: <link=card.self><style=AssociatedCard>잠든 바위곰</style></link> 하나를 소환합니다.",
     "descriptionRaw": "게임 시작: 잠든 바위곰 하나를 소환합니다.",
     "name": "바위곰아, 좋은 아침",
@@ -90,8 +90,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0149.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0149-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0149.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0149-full.png",
     "description": "모든 아군이 \"<link=keyword.Daybreak><style=Keyword>해오름</style></link> 또는 다른 카드의 <link=keyword.Daybreak><style=Keyword>해오름</style></link> 효과 발동: +1|+1을 얻습니다.\" 효과를 가집니다.",
     "descriptionRaw": "모든 아군이 \"해오름 또는 다른 카드의 해오름 효과 발동: +1|+1을 얻습니다.\" 효과를 가집니다.",
     "name": "태양의 힘 II",
@@ -100,8 +100,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0148.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0148-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0148.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0148-full.png",
     "description": "시작 마나 +1<br>아군 챔피언을 레벨 업하면 손에 <link=card.self><style=AssociatedCard>여명의 광채</style></link> 1장을 생성합니다. <nobr>이 카드는</nobr> 비용이 0입니다.",
     "descriptionRaw": "시작 마나 +1아군 챔피언을 레벨 업하면 손에 여명의 광채 1장을 생성합니다. 이 카드는 비용이 0입니다.",
     "name": "독실함의 보상",
@@ -110,8 +110,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0147.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0147-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0147.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0147-full.png",
     "description": "모든 아군이 \"<link=keyword.Daybreak><style=Keyword>해오름</style></link>: +1|+1을 얻습니다.\" 효과를 가집니다.",
     "descriptionRaw": "모든 아군이 \"해오름: +1|+1을 얻습니다.\" 효과를 가집니다.",
     "name": "태양의 힘",
@@ -120,38 +120,68 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0208.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0208-full.png",
-    "description": "시작 마나 +1<br>이 게임에서 내가 처치한 아군 하나당 <link=card.self><style=AssociatedCard>쓰레쉬</style></link>의 비용이 1 감소합니다.",
-    "descriptionRaw": "시작 마나 +1이 게임에서 내가 처치한 아군 하나당 쓰레쉬의 비용이 1 감소합니다.",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0208.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0208-full.png",
+    "description": "시작 마나 +1<br>이 게임에서 사망한 아군 하나당 <link=card.self><style=AssociatedCard>쓰레쉬</style></link>의 비용이 1 감소합니다.",
+    "descriptionRaw": "시작 마나 +1이 게임에서 사망한 아군 하나당 쓰레쉬의 비용이 1 감소합니다.",
     "name": "이리 나와, 놀아보자!",
     "powerCode": "P0208",
     "rarity": "서사급",
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0207.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0207-full.png",
-    "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 이전 라운드에 사망한 아군 하나당 무작위 아군 하나에게 +1|+1을 부여합니다.",
-    "descriptionRaw": "라운드 시작: 이전 라운드에 사망한 아군 하나당 무작위 아군 하나에게 +1|+1을 부여합니다.",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0207.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0207-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 이전 라운드에 사망한 아군 하나당 무작위 아군 하나에게 +1|+1 및 사망한 아군의 모든 키워드를 부여합니다.",
+    "descriptionRaw": "라운드 시작: 이전 라운드에 사망한 아군 하나당 무작위 아군 하나에게 +1|+1 및 사망한 아군의 모든 키워드를 부여합니다.",
     "name": "비명을 음미하다",
     "powerCode": "P0207",
     "rarity": "희귀급",
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0209.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0209-full.png",
-    "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 이전 라운드에 사망한 아군 하나마다 무작위 아군에게 +1|+1과 사망한 아군의 키워드를 부여합니다.",
-    "descriptionRaw": "라운드 시작: 이전 라운드에 사망한 아군 하나마다 무작위 아군에게 +1|+1과 사망한 아군의 키워드를 부여합니다.",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0209.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0209-full.png",
+    "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 이전 라운드에 사망한 유닛 하나당 무작위 아군 하나에게 +1|+1 및 사망한 유닛의 모든 키워드를 부여합니다.",
+    "descriptionRaw": "라운드 시작: 이전 라운드에 사망한 유닛 하나당 무작위 아군 하나에게 +1|+1 및 사망한 유닛의 모든 키워드를 부여합니다.",
     "name": "비명을 음미하다 II",
     "powerCode": "P0209",
     "rarity": "서사급",
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0032.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0032-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0367.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0367-full.png",
+    "description": "시작 마나 +1<br>라운드 종료: 적이 손에 든 저주 1장당 <link=keyword.Curse><sprite name=Curse><style=Keyword>저주</style></link>받은 적에게 피해를 2 입히고 적 넥서스에 피해를 1 입힙니다.",
+    "descriptionRaw": "시작 마나 +1라운드 종료: 적이 손에 든 저주 1장당 저주받은 적에게 피해를 2 입히고 적 넥서스에 피해를 1 입힙니다.",
+    "name": "짓누르는 죄책감",
+    "powerCode": "P0367",
+    "rarity": "서사급",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0366.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0366-full.png",
+    "description": "적을 대상으로 지정하면 해당 적에게 <style=Variable></style> <link=keyword.Curse><sprite name=Curse><style=Keyword>저주</style></link>를 겁니다.",
+    "descriptionRaw": "적을 대상으로 지정하면 해당 적에게  저주를 겁니다.",
+    "name": "묶인 날개",
+    "powerCode": "P0366",
+    "rarity": "희귀급",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0368.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0368-full.png",
+    "description": "적을 대상으로 지정하면 해당 적에게 <style=Variable></style> <link=keyword.Curse><sprite name=Curse><style=Keyword>저주</style></link>를 겁니다.<br>적 저주의 비용을 <link=vocab.Everywhere><style=Vocab>어디에 있든</style></link> 1 증가시킵니다.",
+    "descriptionRaw": "적을 대상으로 지정하면 해당 적에게  저주를 겁니다.적 저주의 비용을 어디에 있든 1 증가시킵니다.",
+    "name": "묶인 날개 II",
+    "powerCode": "P0368",
+    "rarity": "서사급",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0032.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0032-full.png",
     "description": "시작 마나 +1<br>아군이 <link=vocab.Strike><style=Vocab>타격</style></link>하면 해당 아군에게 +1|+0을 부여합니다.",
     "descriptionRaw": "시작 마나 +1아군이 타격하면 해당 아군에게 +1|+0을 부여합니다.",
     "name": "쉴 틈 없이",
@@ -160,8 +190,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0036.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0036-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0036.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0036-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: <link=vocab.Strongest><style=Vocab>최강</style></link>인 적을 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시킵니다.",
     "descriptionRaw": "라운드 시작: 최강인 적을 기절시킵니다.",
     "name": "바람을 따라 II",
@@ -170,8 +200,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0033.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0033-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0033.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0033-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 공격 토큰이 있으면 <link=vocab.Strongest><style=Vocab>최강</style></link>인 적을 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시킵니다.",
     "descriptionRaw": "라운드 시작: 공격 토큰이 있으면 최강인 적을 기절시킵니다.",
     "name": "바람을 따라",
@@ -180,8 +210,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0012.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0012-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0012.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0012-full.png",
     "description": "아군이 <link=vocab.Strike><style=Vocab>타격</style></link>하면 해당 아군에게 +2|+2를 부여합니다.",
     "descriptionRaw": "아군이 타격하면 해당 아군에게 +2|+2를 부여합니다.",
     "name": "데마시아의 힘 II",
@@ -190,8 +220,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0010.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0010-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0010.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0010-full.png",
     "description": "시작 마나 +1<br><link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 손에 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> <nobr><link=card.self><style=AssociatedCard>일대일 결투</style></link></nobr> 1장을 생성합니다.",
     "descriptionRaw": "시작 마나 +1라운드 시작: 손에 일회용 일대일 결투 1장을 생성합니다.",
     "name": "정의",
@@ -200,8 +230,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0008.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0008-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0008.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0008-full.png",
     "description": "아군이 <link=vocab.Strike><style=Vocab>타격</style></link>하면 해당 아군에게 +1|+1을 부여합니다.",
     "descriptionRaw": "아군이 타격하면 해당 아군에게 +1|+1을 부여합니다.",
     "name": "데마시아의 힘",
@@ -210,8 +240,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0153.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0153-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0153.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0153-full.png",
     "description": "아군이 공격 시 적 덱에 <link=card.self><style=AssociatedCard>독버섯</style></link> 다섯을 설치합니다.",
     "descriptionRaw": "아군이 공격 시 적 덱에 독버섯 다섯을 설치합니다.",
     "name": "전투 준비 완료",
@@ -220,8 +250,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0155.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0155-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0155.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0155-full.png",
     "description": "아군이 공격 시 적 덱에 <link=card.self><style=AssociatedCard>독버섯</style></link> 열을 설치합니다.",
     "descriptionRaw": "아군이 공격 시 적 덱에 독버섯 열을 설치합니다.",
     "name": "전투 준비 완료 II",
@@ -230,8 +260,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0154.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0154-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0154.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0154-full.png",
     "description": "시작 마나 +1<br>상대가 독버섯 하나 이상이 설치된 카드를 뽑으면 손에 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> <link=card.self><style=AssociatedCard>독화살</style></link> 1장을 생성합니다. 해당 카드는 <nobr><link=keyword.Burst><sprite name=Burst><style=Keyword>즉발</style></link> 주문입니다.</nobr>",
     "descriptionRaw": "시작 마나 +1상대가 독버섯 하나 이상이 설치된 카드를 뽑으면 손에 일회용 독화살 1장을 생성합니다. 해당 카드는 즉발 주문입니다.",
     "name": "재빠른 타격",
@@ -240,8 +270,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0027.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0027-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0027.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0027-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 공격 토큰이 있으면 <nobr><link=card.self><style=AssociatedCard>화약 나르는 원숭이</style></link></nobr> 하나를 소환합니다.",
     "descriptionRaw": "라운드 시작: 공격 토큰이 있으면 화약 나르는 원숭이 하나를 소환합니다.",
     "name": "화약 나르는 원숭이들뿐",
@@ -250,8 +280,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0028.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0028-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0028.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0028-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: <link=card.self><style=AssociatedCard>화약 나르는 원숭이</style></link> 하나를 소환합니다.",
     "descriptionRaw": "라운드 시작: 화약 나르는 원숭이 하나를 소환합니다.",
     "name": "화약 나르는 원숭이들뿐 II",
@@ -260,8 +290,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0029.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0029-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0029.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0029-full.png",
     "description": "시작 마나 +1<br>아군이 공격 시 유닛 하나를 뽑습니다.",
     "descriptionRaw": "시작 마나 +1아군이 공격 시 유닛 하나를 뽑습니다.",
     "name": "지명 수배자",
@@ -270,8 +300,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0140.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0140-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0140.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0140-full.png",
     "description": "모든 아군이 \"<link=keyword.Nightfall><style=Keyword>어스름</style></link>: +2|+0 및 <link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>선제공격</style></link> 효과를 얻습니다. 이미 <link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>선제공격</style></link> 효과를 가지고 있다면 대신 <link=keyword.Double Strike><sprite name=DoubleStrike><style=Keyword>추가 공격</style></link> 효과를 얻습니다.\" 효과를 가집니다.",
     "descriptionRaw": "모든 아군이 \"어스름: +2|+0 및 선제공격 효과를 얻습니다. 이미 선제공격 효과를 가지고 있다면 대신 추가 공격 효과를 얻습니다.\" 효과를 가집니다.",
     "name": "추방자의 검 II",
@@ -280,8 +310,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0139.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0139-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0139.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0139-full.png",
     "description": "시작 마나 +1<br>라운드마다 처음으로 카드를 사용하면 마나를 1 회복합니다. ",
     "descriptionRaw": "시작 마나 +1라운드마다 처음으로 카드를 사용하면 마나를 1 회복합니다. ",
     "name": "황혼의 제물",
@@ -290,8 +320,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0138.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0138-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0138.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0138-full.png",
     "description": "모든 아군이 \"<link=keyword.Nightfall><style=Keyword>어스름</style></link>: +2|+0을 얻습니다.\" 효과를 가집니다.",
     "descriptionRaw": "모든 아군이 \"어스름: +2|+0을 얻습니다.\" 효과를 가집니다.",
     "name": "추방자의 검",
@@ -300,8 +330,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0145.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0145-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0145.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0145-full.png",
     "description": "시작 마나 +1<br>게임마다 처음으로 아군이 적을 처치하고 생존하면 손에 무작위 다르킨 장비를 생성합니다. 비용이 2 감소합니다.",
     "descriptionRaw": "시작 마나 +1게임마다 처음으로 아군이 적을 처치하고 생존하면 손에 무작위 다르킨 장비를 생성합니다. 비용이 2 감소합니다.",
     "name": "적합한 주인",
@@ -310,8 +340,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0144.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0144-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0144.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0144-full.png",
     "description": "아군 유닛이 다른 유닛을 처치하면 <nobr>해당 아군에게</nobr> +1|+1을 부여하고 체력을 2 회복합니다.",
     "descriptionRaw": "아군 유닛이 다른 유닛을 처치하면 해당 아군에게 +1|+1을 부여하고 체력을 2 회복합니다.",
     "name": "정수 수확",
@@ -320,8 +350,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0146.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0146-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0146.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0146-full.png",
     "description": "아군 유닛이 다른 유닛을 처치하면 <nobr>해당 아군에게</nobr> +2|+2를 부여하고 체력을 전부 회복합니다. ",
     "descriptionRaw": "아군 유닛이 다른 유닛을 처치하면 해당 아군에게 +2|+2를 부여하고 체력을 전부 회복합니다. ",
     "name": "정수 수확 II",
@@ -330,8 +360,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0218.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0218-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0218.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0218-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 손에 비용이 0인 <link=card.self><style=AssociatedCard>어둠</style></link> 1장을 생성합니다.",
     "descriptionRaw": "라운드 시작: 손에 비용이 0인 어둠 1장을 생성합니다.",
     "name": "나는 악이다 II",
@@ -340,8 +370,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0216.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0216-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0216.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0216-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 손에 <link=card.self><style=AssociatedCard>어둠</style></link> 1장을 생성하거나 이미 보유 중이면 대신 비용을 1 감소시킵니다.",
     "descriptionRaw": "라운드 시작: 손에 어둠 1장을 생성하거나 이미 보유 중이면 대신 비용을 1 감소시킵니다.",
     "name": "나는 악이다",
@@ -350,8 +380,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0217.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0217-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0217.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0217-full.png",
     "description": "시작 마나 +1<br><link=card.self><style=AssociatedCard>어둠</style></link> 1장이 <link=keyword.Burst><sprite name=Burst><style=Keyword>즉발</style></link>로 가속합니다.",
     "descriptionRaw": "시작 마나 +1어둠 1장이 즉발로 가속합니다.",
     "name": "전지전능",
@@ -360,8 +390,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0003.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0003-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0003.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0003-full.png",
     "description": "능력치가 강화된 아군을 소환하면 해당 아군에게 무작위 키워드 하나를 부여합니다.",
     "descriptionRaw": "능력치가 강화된 아군을 소환하면 해당 아군에게 무작위 키워드 하나를 부여합니다.",
     "name": "수호자의 축복",
@@ -370,8 +400,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0005.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0005-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0005.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0005-full.png",
     "description": "시작 마나 +1<br>고대의 종이 있는 카드 1장을 뽑으면 내 덱에 <link=card.self><style=AssociatedCard>고대의 종</style></link> 하나를 설치합니다.",
     "descriptionRaw": "시작 마나 +1고대의 종이 있는 카드 1장을 뽑으면 내 덱에 고대의 종 하나를 설치합니다.",
     "name": "우주의 존재",
@@ -380,8 +410,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0004.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0004-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0004.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0004-full.png",
     "description": "능력치가 강화된 아군을 소환하면 해당 아군에게 무작위 키워드 둘을 부여합니다.",
     "descriptionRaw": "능력치가 강화된 아군을 소환하면 해당 아군에게 무작위 키워드 둘을 부여합니다.",
     "name": "수호자의 축복 II",
@@ -390,8 +420,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0184.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0184-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0184.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0184-full.png",
     "description": "시작 마나 +1<br><link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: <link=vocab.Strongest><style=Vocab>최강</style></link>인 적에게 <nobr>-1|-0을</nobr> 부여합니다.",
     "descriptionRaw": "시작 마나 +1라운드 시작: 최강인 적에게 -1|-0을 부여합니다.",
     "name": "슈리마 보전",
@@ -400,8 +430,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0185.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0185-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0185.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0185-full.png",
     "description": "<link=vocab.RoundEnd><style=Vocab>라운드 종료</style></link>: 이 라운드에 <link=vocab.Slay><style=Vocab>살해</style></link>한 유닛 하나당 <link=vocab.Strongest><style=Vocab>최강</style></link>인 아군에게 +2|+2를 부여합니다. 유닛을 열 이상 <link=vocab.Slay><style=Vocab>살해</style></link>했으면 <link=vocab.SunDiscRestore><style=Vocab>태양 원판을 복원합니다</style></link>.",
     "descriptionRaw": "라운드 종료: 이 라운드에 살해한 유닛 하나당 최강인 아군에게 +2|+2를 부여합니다. 유닛을 열 이상 살해했으면 태양 원판을 복원합니다.",
     "name": "초월체의 축복 II",
@@ -410,8 +440,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0183.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0183-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0183.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0183-full.png",
     "description": "<link=vocab.RoundEnd><style=Vocab>라운드 종료</style></link>: 이 라운드에 <link=vocab.Slay><style=Vocab>살해</style></link>한 유닛 하나당 <link=vocab.Strongest><style=Vocab>최강</style></link>인 아군에게 +1|+1을 부여합니다.",
     "descriptionRaw": "라운드 종료: 이 라운드에 살해한 유닛 하나당 최강인 아군에게 +1|+1을 부여합니다.",
     "name": "초월체의 축복",
@@ -420,8 +450,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0320.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0320-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0320.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0320-full.png",
     "description": "라운드마다 처음으로 사용하는 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> 유닛이나 주문 2장을 복사합니다.",
     "descriptionRaw": "라운드마다 처음으로 사용하는 일회용 유닛이나 주문 2장을 복사합니다.",
     "name": "해방된 기쁨 II",
@@ -430,8 +460,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0318.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0318-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0318.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0318-full.png",
     "description": "라운드마다 처음으로 사용하는 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> 유닛이나 주문을 복사합니다.",
     "descriptionRaw": "라운드마다 처음으로 사용하는 일회용 유닛이나 주문을 복사합니다.",
     "name": "해방된 기쁨",
@@ -440,8 +470,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0319.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0319-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0319.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0319-full.png",
     "description": "시작 마나 +1<br>내 덱에 라운드마다 처음으로 버린 카드 2장의 복사본을 생성하고, 다음 <link=vocab.RoundStart><style=Vocab>라운드 시작</style></link> 시 버린 카드 1장당 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> 카드를 1장 뽑습니다.",
     "descriptionRaw": "시작 마나 +1내 덱에 라운드마다 처음으로 버린 카드 2장의 복사본을 생성하고, 다음 라운드 시작 시 버린 카드 1장당 일회용 카드를 1장 뽑습니다.",
     "name": "수자원 재활용",
@@ -450,8 +480,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0007.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0007-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0007.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0007-full.png",
     "description": "라운드마다 처음으로 아군을 소환하면 <nobr>해당 아군에게</nobr> +2|+0을 부여합니다.",
     "descriptionRaw": "라운드마다 처음으로 아군을 소환하면 해당 아군에게 +2|+0을 부여합니다.",
     "name": "녹서스의 힘",
@@ -460,8 +490,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0009.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0009-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0009.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0009-full.png",
     "description": "라운드마다 처음으로 아군을 소환하면 <nobr>해당 아군에게</nobr> +4|+0 및 <nobr><link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>압도</style></link> 효과를</nobr> 부여합니다.",
     "descriptionRaw": "라운드마다 처음으로 아군을 소환하면 해당 아군에게 +4|+0 및 압도 효과를 부여합니다.",
     "name": "녹서스의 힘 II",
@@ -470,8 +500,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0006.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0006-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0006.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0006-full.png",
     "description": "시작 마나 +1<br>라운드마다 처음으로 공격한 모든 아군의 <nobr>총 공격력이</nobr> 15 이상이라면 <link=vocab.Rally><style=Vocab>결집</style></link>합니다.",
     "descriptionRaw": "시작 마나 +1라운드마다 처음으로 공격한 모든 아군의 총 공격력이 15 이상이라면 결집합니다.",
     "name": "경로 개척",
@@ -480,8 +510,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0178.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0178-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0178.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0178-full.png",
     "description": "시작 마나 +1<br><link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: <link=vocab.Flow><style=Vocab>흐름</style></link>: 이 라운드에 <link=vocab.Strongest><style=Vocab>최강</style></link>인 아군에게 <link=keyword.Elusive><sprite name=Elusive><style=Keyword>포착 불가</style></link> 효과를 <nobr>일시 부여합니다.</nobr>",
     "descriptionRaw": "시작 마나 +1라운드 시작: 흐름: 이 라운드에 최강인 아군에게 포착 불가 효과를 일시 부여합니다.",
     "name": "에마이",
@@ -490,8 +520,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0179.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0179-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0179.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0179-full.png",
     "description": "<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link>이 아닌 주문을 사용하면 손에 비용이 1인 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> <nobr><link=card.self><style=AssociatedCard>양면의 규율</style></link></nobr> 1장을 생성합니다.<br><link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: <link=vocab.Flow><style=Vocab>흐름</style></link>: 아군 모두에게 +1|+1을 부여합니다.",
     "descriptionRaw": "일회용이 아닌 주문을 사용하면 손에 비용이 1인 일회용 양면의 규율 1장을 생성합니다.라운드 시작: 흐름: 아군 모두에게 +1|+1을 부여합니다.",
     "name": "정신과 육체 II",
@@ -500,8 +530,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0177.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0177-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0177.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0177-full.png",
     "description": "<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link>이 아닌 주문을 사용하면 손에 비용이 1인 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> <nobr><link=card.self><style=AssociatedCard>양면의 규율</style></link></nobr> 1장을 생성합니다.",
     "descriptionRaw": "일회용이 아닌 주문을 사용하면 손에 비용이 1인 일회용 양면의 규율 1장을 생성합니다.",
     "name": "정신과 육체",
@@ -510,8 +540,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0030.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0030-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0030.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0030-full.png",
     "description": "시작 마나 +1<br>게임 시작: 비용이 2 이하인 카드 2장을 뽑습니다.",
     "descriptionRaw": "시작 마나 +1게임 시작: 비용이 2 이하인 카드 2장을 뽑습니다.",
     "name": "필트오버의 수호자",
@@ -520,8 +550,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0031.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0031-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0031.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0031-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: <link=vocab.Strongest><style=Vocab>최강</style></link>인 아군에게 +0|+1 및 <nobr><link=keyword.Impact><sprite name=Impact><style=Keyword>여파</style></link> 효과를</nobr> 부여합니다.",
     "descriptionRaw": "라운드 시작: 최강인 아군에게 +0|+1 및 여파 효과를 부여합니다.",
     "name": "끈질긴 힘",
@@ -530,8 +560,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0034.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0034-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0034.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0034-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: <link=vocab.Strongest><style=Vocab>최강</style></link>인 아군에게 +0|+2 및 <nobr><link=keyword.Impact><sprite name=Impact><style=Keyword>여파</style></link> 효과</nobr> 2를 부여합니다.",
     "descriptionRaw": "라운드 시작: 최강인 아군에게 +0|+2 및 여파 효과 2를 부여합니다.",
     "name": "끈질긴 힘 II",
@@ -540,8 +570,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0025.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0025-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0025.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0025-full.png",
     "description": "시작 마나 +1<br>주문에 6마나 이상을 사용하면 손에 <nobr>비용이 0인</nobr> <link=card.self><style=AssociatedCard>황금빛 방패</style></link> 1장을 생성합니다. <style=Variable></style>",
     "descriptionRaw": "시작 마나 +1주문에 6마나 이상을 사용하면 손에 비용이 0인 황금빛 방패 1장을 생성합니다. ",
     "name": "한계 돌파",
@@ -550,8 +580,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0024.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0024-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0024.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0024-full.png",
     "description": "라운드마다 처음으로 주문 카드를 사용하면 카드의 비용만큼 마나를 회복합니다.",
     "descriptionRaw": "라운드마다 처음으로 주문 카드를 사용하면 카드의 비용만큼 마나를 회복합니다.",
     "name": "길 밝히기 II",
@@ -560,8 +590,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0026.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0026-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0026.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0026-full.png",
     "description": "라운드마다 처음으로 주문 카드를 사용하면 카드의 비용까지 주문 마나를 회복합니다.",
     "descriptionRaw": "라운드마다 처음으로 주문 카드를 사용하면 카드의 비용까지 주문 마나를 회복합니다.",
     "name": "길 밝히기",
@@ -570,8 +600,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0215.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0215-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0215.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0215-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 공격 토큰이 있고 <nobr>손에 있는</nobr> 장비가 2개 미만이라면 <nobr><link=card.self><style=AssociatedCard>황금 뒤집개</style></link></nobr> 하나를 생성하고 <nobr>무작위 키워드</nobr> 하나를 부여합니다.",
     "descriptionRaw": "라운드 시작: 공격 토큰이 있고 손에 있는 장비가 2개 미만이라면 황금 뒤집개 하나를 생성하고 무작위 키워드 하나를 부여합니다.",
     "name": "무슨 쓸모가 <nobr>있을 텐데... II</nobr>",
@@ -580,8 +610,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0213.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0213-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0213.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0213-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 공격 토큰이 있고 <nobr>손에 있는</nobr> 장비가 2개 미만이라면 <nobr><link=card.self><style=AssociatedCard>황금 뒤집개</style></link></nobr> 하나를 생성합니다.",
     "descriptionRaw": "라운드 시작: 공격 토큰이 있고 손에 있는 장비가 2개 미만이라면 황금 뒤집개 하나를 생성합니다.",
     "name": "무슨 쓸모가 <nobr>있을 텐데...</nobr>",
@@ -590,8 +620,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0214.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0214-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0214.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0214-full.png",
     "description": "시작 마나 +1<br>아군이 <link=vocab.Equip><style=Vocab>장착</style></link>하면 이 라운드에 <nobr><link=keyword.Scout><sprite name=Scout><style=Keyword>정찰</style></link> 효과를</nobr> 일시 부여합니다.",
     "descriptionRaw": "시작 마나 +1아군이 장착하면 이 라운드에 정찰 효과를 일시 부여합니다.",
     "name": "어둠 사냥꾼",
@@ -600,8 +630,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0011.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0011-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0011.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0011-full.png",
     "description": "아군이 공격 시 <link=vocab.Spawn><style=Vocab>촉수 소환</style></link>을 1회 합니다.",
     "descriptionRaw": "아군이 공격 시 촉수 소환을 1회 합니다.",
     "name": "고대신의 예언자",
@@ -610,8 +640,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0013.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0013-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0013.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0013-full.png",
     "description": "아군이 공격 시 <link=vocab.Spawn><style=Vocab>촉수 소환</style></link>을 3회 합니다.",
     "descriptionRaw": "아군이 공격 시 촉수 소환을 3회 합니다.",
     "name": "고대신의 예언자 II",
@@ -620,8 +650,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0014.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0014-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0014.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0014-full.png",
     "description": "시작 마나 +1<br><link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: <link=keyword.Weakest><style=Keyword>최약</style></link>인 적을 <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>약점 노출</style></link> 상태로 만듭니다.",
     "descriptionRaw": "시작 마나 +1라운드 시작: 최약인 적을 약점 노출 상태로 만듭니다.",
     "name": "영혼의 시험",
@@ -630,8 +660,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0317.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0317-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0317.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0317-full.png",
     "description": "비용이 감소된 카드를 사용하면 내 덱의 맨 위에 있는 카드 2장의 비용을 1 감소시킵니다.",
     "descriptionRaw": "비용이 감소된 카드를 사용하면 내 덱의 맨 위에 있는 카드 2장의 비용을 1 감소시킵니다.",
     "name": "상승 기류 II",
@@ -640,8 +670,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0316.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0316-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0316.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0316-full.png",
     "description": "시작 마나 +1<br>비용이 감소된 카드를 사용하면 최약인 아군에게 +1|+1을 부여합니다.",
     "descriptionRaw": "시작 마나 +1비용이 감소된 카드를 사용하면 최약인 아군에게 +1|+1을 부여합니다.",
     "name": "폭풍의 눈",
@@ -650,8 +680,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0315.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0315-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0315.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0315-full.png",
     "description": "비용이 감소된 카드를 사용하면 내 덱의 맨 위에 있는 카드의 비용을 1 감소시킵니다.",
     "descriptionRaw": "비용이 감소된 카드를 사용하면 내 덱의 맨 위에 있는 카드의 비용을 1 감소시킵니다.",
     "name": "상승 기류",
@@ -660,8 +690,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0197.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0197-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0197.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0197-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 아군이 보유한 키워드가 4개 이상이면 모든 아군에게 +2|+2를 부여합니다. <style=Variable></style>",
     "descriptionRaw": "라운드 시작: 아군이 보유한 키워드가 4개 이상이면 모든 아군에게 +2|+2를 부여합니다. ",
     "name": "협동의 힘 II",
@@ -670,8 +700,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0195.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0195-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0195.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0195-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 아군이 보유한 키워드가 4개 이상이면 모든 아군에게 +1|+1을 부여합니다. <style=Variable></style>",
     "descriptionRaw": "라운드 시작: 아군이 보유한 키워드가 4개 이상이면 모든 아군에게 +1|+1을 부여합니다. ",
     "name": "협동의 힘",
@@ -680,8 +710,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0196.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0196-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0196.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0196-full.png",
     "description": "시작 마나 +1<br><link=vocab.RoundEnd><style=Vocab>라운드 종료</style></link>: 이 라운드에 아군이 사망했으면 <link=keyword.Weakest><style=Keyword>최약</style></link>인 아군에게 +1|+1 및 지니고 있지 않은 무작위 키워드를 부여합니다.",
     "descriptionRaw": "시작 마나 +1라운드 종료: 이 라운드에 아군이 사망했으면 최약인 아군에게 +1|+1 및 지니고 있지 않은 무작위 키워드를 부여합니다.",
     "name": "국왕 폐하를 위하여!",
@@ -690,8 +720,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0160.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0160-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0160.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0160-full.png",
     "description": "시작 마나 +1<br>생성된 카드의 비용이 1 감소합니다.",
     "descriptionRaw": "시작 마나 +1생성된 카드의 비용이 1 감소합니다.",
     "name": "Z 드라이브 공진",
@@ -700,8 +730,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0161.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0161-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0161.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0161-full.png",
     "description": "예언에서 유닛을 발견하면 해당 유닛에게 +2|+2 및 무작위 키워드 하나를 부여합니다.",
     "descriptionRaw": "예언에서 유닛을 발견하면 해당 유닛에게 +2|+2 및 무작위 키워드 하나를 부여합니다.",
     "name": "가능성의 갈래 II",
@@ -710,8 +740,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0159.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0159-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0159.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0159-full.png",
     "description": "예언에서 유닛을 발견하면 해당 유닛에게 +1|+1을 부여합니다.",
     "descriptionRaw": "예언에서 유닛을 발견하면 해당 유닛에게 +1|+1을 부여합니다.",
     "name": "가능성의 갈래",
@@ -720,8 +750,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0169.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0169-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0169.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0169-full.png",
     "description": "시작 마나 +1<br>공격 토큰을 얻으면 손에 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> <link=card.self><style=AssociatedCard>내기 결투</style></link> 1장을 생성합니다.",
     "descriptionRaw": "시작 마나 +1공격 토큰을 얻으면 손에 일회용 내기 결투 1장을 생성합니다.",
     "name": "물고기와의 동침",
@@ -730,8 +760,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0170.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0170-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0170.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0170-full.png",
     "description": "마나를 회복하면 이 라운드에 모든 아군에게 +1|+0을 일시 부여하고 모든 적에게 피해를 1 입힙니다.",
     "descriptionRaw": "마나를 회복하면 이 라운드에 모든 아군에게 +1|+0을 일시 부여하고 모든 적에게 피해를 1 입힙니다.",
     "name": "상황을 바꾸다 II",
@@ -740,8 +770,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0168.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0168-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0168.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0168-full.png",
     "description": "마나를 회복하면 이 라운드에 모든 아군에게 +1|+0을 일시 부여합니다.",
     "descriptionRaw": "마나를 회복하면 이 라운드에 모든 아군에게 +1|+0을 일시 부여합니다.",
     "name": "상황을 바꾸다",
@@ -750,8 +780,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0142.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0142-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0142.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0142-full.png",
     "description": "시작 마나 +1<br><link=vocab.Equip><style=Vocab>장착</style></link>한 아군이 사망하면 카드 1장을 뽑습니다.",
     "descriptionRaw": "시작 마나 +1장착한 아군이 사망하면 카드 1장을 뽑습니다.",
     "name": "가차없는 맹공",
@@ -760,8 +790,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0143.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0143-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0143.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0143-full.png",
     "description": "모든 아군이 \"<link=vocab.Attack><style=Vocab>공격</style></link>: +1|+1을 얻습니다. <link=vocab.Equip><style=Vocab>장착</style></link>한 상태라면 장비에 +2|+0을 부여합니다.\" 효과를 가집니다.",
     "descriptionRaw": "모든 아군이 \"공격: +1|+1을 얻습니다. 장착한 상태라면 장비에 +2|+0을 부여합니다.\" 효과를 가집니다.",
     "name": "이케시아의 마지막 불빛 II",
@@ -770,8 +800,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0141.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0141-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0141.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0141-full.png",
     "description": "모든 아군이 \"<link=vocab.Attack><style=Vocab>공격</style></link>: +1|+0을 얻습니다. <link=vocab.Equip><style=Vocab>장착</style></link>한 상태라면 장비에 +1|+0을 부여합니다.\" 효과를 가집니다.",
     "descriptionRaw": "모든 아군이 \"공격: +1|+0을 얻습니다. 장착한 상태라면 장비에 +1|+0을 부여합니다.\" 효과를 가집니다.",
     "name": "이케시아의 마지막 불빛",
@@ -780,8 +810,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0016.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0016-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0016.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0016-full.png",
     "description": "<link=keyword.Fast><sprite name=Fast><style=Keyword>신속</style></link> 주문, <link=keyword.Slow><sprite name=Slow><style=Keyword>집중</style></link> 주문 또는 <link=keyword.Skill><sprite name=SkillMark><style=Keyword>스킬</style></link>을 4번 사용할 때마다 손에 <link=card.self><style=AssociatedCard>강제 관람</style></link> 1장을 생성합니다. <style=Variable></style>",
     "descriptionRaw": "신속 주문, 집중 주문 또는 스킬을 4번 사용할 때마다 손에 강제 관람 1장을 생성합니다. ",
     "name": "죽음의 미학",
@@ -790,8 +820,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0019.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0019-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0019.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0019-full.png",
     "description": "<link=keyword.Fast><sprite name=Fast><style=Keyword>신속</style></link> 주문, <link=keyword.Slow><sprite name=Slow><style=Keyword>집중</style></link> 주문 또는 <link=keyword.Skill><sprite name=SkillMark><style=Keyword>스킬</style></link>을 4번 사용할 때마다 손에 비용이 0인 <nobr><link=card.self><style=AssociatedCard>강제 관람</style></link></nobr> 1장을 생성합니다. <style=Variable></style>",
     "descriptionRaw": "신속 주문, 집중 주문 또는 스킬을 4번 사용할 때마다 손에 비용이 0인 강제 관람 1장을 생성합니다. ",
     "name": "죽음의 미학 II",
@@ -800,8 +830,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0015.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0015-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0015.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0015-full.png",
     "description": "시작 마나 +1<br>아군이 스킬을 사용하면 해당 아군에게 +1|+1을 부여합니다.",
     "descriptionRaw": "시작 마나 +1아군이 스킬을 사용하면 해당 아군에게 +1|+1을 부여합니다.",
     "name": "무대 준비",
@@ -810,8 +840,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0122.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0122-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0122.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0122-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: <link=card.self><style=AssociatedCard>유령 악단</style></link> 하나를 소환합니다.",
     "descriptionRaw": "라운드 시작: 유령 악단 하나를 소환합니다.",
     "name": "노랫가락 II",
@@ -820,8 +850,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0121.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0121-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0121.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0121-full.png",
     "description": "시작 마나 +1.<br>가장 왼쪽의 공격 유닛이 <link=keyword.Hallowed><sprite name=Hallowed><style=Keyword>신성</style></link>으로 공격력을 얻으면 <nobr>해당 유닛의</nobr> 오른쪽에 있는 <nobr>공격 유닛도</nobr> 함께 얻습니다.",
     "descriptionRaw": "시작 마나 +1.가장 왼쪽의 공격 유닛이 신성으로 공격력을 얻으면 해당 유닛의 오른쪽에 있는 공격 유닛도 함께 얻습니다.",
     "name": "바느질",
@@ -830,8 +860,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0120.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0120-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0120.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0120-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 공격 토큰이 없으면 <nobr><link=card.self><style=AssociatedCard>유령 악단</style></link> 하나를</nobr> 소환합니다.",
     "descriptionRaw": "라운드 시작: 공격 토큰이 없으면 유령 악단 하나를 소환합니다.",
     "name": "노랫가락",
@@ -840,8 +870,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0151.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0151-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0151.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0151-full.png",
     "description": "시작 마나 +1<br>유닛 하나를 <link=keyword.Capture><sprite name=Capture><style=Keyword>구속</style></link>하면 손에 복사본을 생성합니다. 해당 카드의 비용이 <nobr>1 감소합니다.</nobr>",
     "descriptionRaw": "시작 마나 +1유닛 하나를 구속하면 손에 복사본을 생성합니다. 해당 카드의 비용이 1 감소합니다.",
     "name": "장기 계약",
@@ -850,8 +880,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0150.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0150-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0150.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0150-full.png",
     "description": "아군이 피해를 버티고 생존하면 <nobr>해당 아군에게</nobr> +1|+1을 부여합니다.",
     "descriptionRaw": "아군이 피해를 버티고 생존하면 해당 아군에게 +1|+1을 부여합니다.",
     "name": "형벌 애호가",
@@ -860,8 +890,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0152.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0152-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0152.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0152-full.png",
     "description": "아군이 피해를 버티고 생존하면 <nobr>해당 아군에게</nobr> +2|+2를 부여합니다.",
     "descriptionRaw": "아군이 피해를 버티고 생존하면 해당 아군에게 +2|+2를 부여합니다.",
     "name": "형벌 애호가 II",
@@ -870,8 +900,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0180.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0180-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0180.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0180-full.png",
     "description": "주문을 사용하면 주문 마나를 1 회복합니다.",
     "descriptionRaw": "주문을 사용하면 주문 마나를 1 회복합니다.",
     "name": "파도를 견디세요",
@@ -880,8 +910,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0182.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0182-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0182.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0182-full.png",
     "description": "주문을 사용하면 주문 마나를 1 회복합니다. 라운드마다 네 번째로 주문을 사용하면 같은 주문을 한 번 더 사용합니다.",
     "descriptionRaw": "주문을 사용하면 주문 마나를 1 회복합니다. 라운드마다 네 번째로 주문을 사용하면 같은 주문을 한 번 더 사용합니다.",
     "name": "파도를 견디세요 II",
@@ -890,8 +920,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0181.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0181-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0181.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0181-full.png",
     "description": "시작 마나 +1<br>게임 시작: 주문 카드 1장을 뽑습니다.",
     "descriptionRaw": "시작 마나 +1게임 시작: 주문 카드 1장을 뽑습니다.",
     "name": "파도 소환",
@@ -900,8 +930,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0164.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0164-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0164.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0164-full.png",
     "description": "아군이 공격 시 아군 <link=card.self><style=AssociatedCard>새끼거미</style></link> 모두에게 어디에 있든 +1|+0 및 아군 챔피언의 이로운 키워드를 부여합니다.",
     "descriptionRaw": "아군이 공격 시 아군 새끼거미 모두에게 어디에 있든 +1|+0 및 아군 챔피언의 이로운 키워드를 부여합니다.",
     "name": "거미 여왕 II",
@@ -910,8 +940,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0163.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0163-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0163.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0163-full.png",
     "description": "시작 마나 +1<br><link=vocab.RoundEnd><style=Vocab>라운드 종료</style></link>: 이 라운드에 아군이 사망했으면 <link=card.self><style=AssociatedCard>새끼거미</style></link> 하나를 소환합니다.",
     "descriptionRaw": "시작 마나 +1라운드 종료: 이 라운드에 아군이 사망했으면 새끼거미 하나를 소환합니다.",
     "name": "거미줄의 희생양",
@@ -920,8 +950,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0162.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0162-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0162.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0162-full.png",
     "description": "아군이 공격 시 아군 <link=card.self><style=AssociatedCard>새끼거미</style></link> 모두에게 어디에 있든 +1|+0을 부여합니다.",
     "descriptionRaw": "아군이 공격 시 아군 새끼거미 모두에게 어디에 있든 +1|+0을 부여합니다.",
     "name": "거미 여왕",
@@ -930,8 +960,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0200.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0200-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0200.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0200-full.png",
     "description": "게임 시작: 무작위 아군 넷에게 \"선원의 책략\"을 부여합니다. 공격 토큰을 얻으면 추가로 무작위 아군 둘에게 부여합니다. <nobr>카드 1장을</nobr> 뽑습니다.",
     "descriptionRaw": "게임 시작: 무작위 아군 넷에게 \"선원의 책략\"을 부여합니다. 공격 토큰을 얻으면 추가로 무작위 아군 둘에게 부여합니다. 카드 1장을 뽑습니다.",
     "name": "유령 잠수 II",
@@ -940,8 +970,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0198.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0198-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0198.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0198-full.png",
     "description": "게임 시작: 무작위 아군 둘에게 \"선원의 책략\"을 부여합니다. 공격 토큰을 얻으면 추가로 무작위 아군 하나에게 부여합니다. 카드 1장을 뽑습니다.",
     "descriptionRaw": "게임 시작: 무작위 아군 둘에게 \"선원의 책략\"을 부여합니다. 공격 토큰을 얻으면 추가로 무작위 아군 하나에게 부여합니다. 카드 1장을 뽑습니다.",
     "name": "유령 잠수",
@@ -950,8 +980,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0199.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0199-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0199.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0199-full.png",
     "description": "시작 마나 +1<br>아군이 사망하면 비용이 1 더 높은 무작위 잠복자 하나를 덱에 생성하고 +1|+1을 부여합니다.",
     "descriptionRaw": "시작 마나 +1아군이 사망하면 비용이 1 더 높은 무작위 잠복자 하나를 덱에 생성하고 +1|+1을 부여합니다.",
     "name": "가라앉은 자들의 축복",
@@ -960,8 +990,38 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0136.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0136-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0364.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0364-full.png",
+    "description": "시작 마나 +1<br>아군을 부활시키면 해당 아군에게 +2|+0 및 <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>압도</style></link> 효과를 부여합니다.",
+    "descriptionRaw": "시작 마나 +1아군을 부활시키면 해당 아군에게 +2|+0 및 압도 효과를 부여합니다.",
+    "name": "세 번의 삶",
+    "powerCode": "P0364",
+    "rarity": "서사급",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0363.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0363-full.png",
+    "description": "라운드 시작: 공격 토큰이 있으면 손에 비용이 2인 <link=card.self><style=AssociatedCard>불멸</style></link> 1장을 생성하거나 이미 보유 중이면 비용을 1 감소시킵니다.",
+    "descriptionRaw": "라운드 시작: 공격 토큰이 있으면 손에 비용이 2인 불멸 1장을 생성하거나 이미 보유 중이면 비용을 1 감소시킵니다.",
+    "name": "두 번의 죽음",
+    "powerCode": "P0363",
+    "rarity": "희귀급",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0365.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0365-full.png",
+    "description": "라운드 시작: 손에 비용이 2인 <link=card.self><style=AssociatedCard>불멸</style></link> 1장을 생성하거나 이미 보유 중이면 비용을 1 감소시킵니다.",
+    "descriptionRaw": "라운드 시작: 손에 비용이 2인 불멸 1장을 생성하거나 이미 보유 중이면 비용을 1 감소시킵니다.",
+    "name": "두 번의 죽음 II",
+    "powerCode": "P0365",
+    "rarity": "서사급",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0136.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0136-full.png",
     "description": "시작 마나 +1<br>아군이 공격력이 0인 유닛을 처치하면 <nobr>해당 아군에게</nobr> +1|+1을 부여합니다.",
     "descriptionRaw": "시작 마나 +1아군이 공격력이 0인 유닛을 처치하면 해당 아군에게 +1|+1을 부여합니다.",
     "name": "아바로사 영혼",
@@ -970,8 +1030,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0135.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0135-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0135.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0135-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 공격 토큰이 있으면 <nobr>이 라운드에</nobr> 적의 <link=vocab.Strongest><style=Vocab>최강</style></link>인 유닛 하나를 <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>동상</style></link>에 <nobr>걸리게 하고</nobr> <nobr><link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>약점 노출</style></link> 상태로</nobr> 만듭니다.",
     "descriptionRaw": "라운드 시작: 공격 토큰이 있으면 이 라운드에 적의 최강인 유닛 하나를 동상에 걸리게 하고 약점 노출 상태로 만듭니다.",
     "name": "서리 화살",
@@ -980,8 +1040,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0137.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0137-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0137.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0137-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 이 라운드에 적의 <link=vocab.Strongest><style=Vocab>최강</style></link>인 유닛 하나를 <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>동상</style></link>에 걸리게 하고 <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>약점 노출</style></link> 상태로 만듭니다.",
     "descriptionRaw": "라운드 시작: 이 라운드에 적의 최강인 유닛 하나를 동상에 걸리게 하고 약점 노출 상태로 만듭니다.",
     "name": "서리 화살 II",
@@ -990,8 +1050,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0157.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0157-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0157.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0157-full.png",
     "description": "시작 마나 +1<br>게임 시작: 손에 무작위 다르킨 장비 둘을 생성합니다.",
     "descriptionRaw": "시작 마나 +1게임 시작: 손에 무작위 다르킨 장비 둘을 생성합니다.",
     "name": "타락한 무기",
@@ -1000,8 +1060,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0156.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0156-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0156.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0156-full.png",
     "description": "<link=vocab.Equip><style=Vocab>장착</style></link>한 아군이 <link=vocab.Strike><style=Vocab>타격</style></link>하면 손에 든 무작위 카드 1장의 비용을 <nobr>1 감소시킵니다.</nobr>",
     "descriptionRaw": "장착한 아군이 타격하면 손에 든 무작위 카드 1장의 비용을 1 감소시킵니다.",
     "name": "지옥 사슬",
@@ -1010,8 +1070,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0158.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0158-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0158.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0158-full.png",
     "description": "<link=vocab.Equip><style=Vocab>장착</style></link>한 아군이 <link=vocab.Strike><style=Vocab>타격</style></link>하면 손에 든 무작위 카드 1장의 비용을 <nobr>2 감소시킵니다.</nobr>",
     "descriptionRaw": "장착한 아군이 타격하면 손에 든 무작위 카드 1장의 비용을 2 감소시킵니다.",
     "name": "지옥 사슬 II",
@@ -1020,8 +1080,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0194.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0194-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0194.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0194-full.png",
     "description": "게임 시작: <link=card.self><style=AssociatedCard>오른의 대장간</style></link> 하나를 소환합니다. 라운드마다 처음으로 <link=vocab.Forge><style=Vocab>단련</style></link>하면 다시 <link=vocab.Forge><style=Vocab>단련</style></link>합니다. ",
     "descriptionRaw": "게임 시작: 오른의 대장간 하나를 소환합니다. 라운드마다 처음으로 단련하면 다시 단련합니다. ",
     "name": "달콤한 고독 II",
@@ -1030,8 +1090,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0192.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0192-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0192.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0192-full.png",
     "description": "게임 시작: <link=card.self><style=AssociatedCard>오른의 대장간</style></link> 하나를 소환합니다.",
     "descriptionRaw": "게임 시작: 오른의 대장간 하나를 소환합니다.",
     "name": "달콤한 고독",
@@ -1040,8 +1100,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0193.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0193-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0193.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0193-full.png",
     "description": "시작 마나 +1<br>처음으로 비용이 4 이상인 아군 또는 장비를 사용했다면 장비 하나를 <link=vocab.Manifest><style=Vocab>시현</style></link>하고 비용을 2 감소시킵니다.",
     "descriptionRaw": "시작 마나 +1처음으로 비용이 4 이상인 아군 또는 장비를 사용했다면 장비 하나를 시현하고 비용을 2 감소시킵니다.",
     "name": "내 작품이다",
@@ -1050,8 +1110,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0188.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0188-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0188.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0188-full.png",
     "description": "라운드마다 처음으로 사용하는 전장에 있는 아군과 종족이 다른 아군의 비용이 2 감소합니다.",
     "descriptionRaw": "라운드마다 처음으로 사용하는 전장에 있는 아군과 종족이 다른 아군의 비용이 2 감소합니다.",
     "name": "야생의 조화 II",
@@ -1060,8 +1120,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0187.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0187-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0187.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0187-full.png",
     "description": "시작 마나 +1<br>게임 시작: 내 덱에 있는 아군 중 종족에 속한 아군에게 <link=keyword.Impact><sprite name=Impact><style=Keyword>여파</style></link> 효과를 부여합니다. 종족이 없는 아군은 형상변환자가 됩니다.",
     "descriptionRaw": "시작 마나 +1게임 시작: 내 덱에 있는 아군 중 종족에 속한 아군에게 여파 효과를 부여합니다. 종족이 없는 아군은 형상변환자가 됩니다.",
     "name": "나 니코 아니다",
@@ -1070,8 +1130,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0186.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0186-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0186.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0186-full.png",
     "description": "라운드마다 처음으로 사용하는 전장에 있는 아군과 종족이 다른 아군의 비용이 1 감소합니다.",
     "descriptionRaw": "라운드마다 처음으로 사용하는 전장에 있는 아군과 종족이 다른 아군의 비용이 1 감소합니다.",
     "name": "야생의 조화",
@@ -1080,8 +1140,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0021.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0021-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0021.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0021-full.png",
     "description": "카드 1장을 사용하거나 버리면 <nobr>적 넥서스에</nobr> 피해를 1, 무작위 <nobr>적 유닛</nobr> 하나에 피해를 <nobr>1 입힙니다.</nobr>",
     "descriptionRaw": "카드 1장을 사용하거나 버리면 적 넥서스에 피해를 1, 무작위 적 유닛 하나에 피해를 1 입힙니다.",
     "name": "죽기밖에 더하겠어? II",
@@ -1090,8 +1150,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0017.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0017-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0017.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0017-full.png",
     "description": "시작 마나 +1<br>챔피언을 레벨 업하면 손에 <nobr><link=card.self><style=AssociatedCard>초강력 초토화 로켓!</style></link></nobr> 1장을 생성합니다.",
     "descriptionRaw": "시작 마나 +1챔피언을 레벨 업하면 손에 초강력 초토화 로켓! 1장을 생성합니다.",
     "name": "난장판 벌이기",
@@ -1100,8 +1160,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0018.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0018-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0018.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0018-full.png",
     "description": "카드 1장을 사용하거나 버리면 <nobr>적 넥서스에</nobr> <nobr>피해를 1 입힙니다.</nobr>",
     "descriptionRaw": "카드 1장을 사용하거나 버리면 적 넥서스에 피해를 1 입힙니다.",
     "name": "죽기밖에 더하겠어?",
@@ -1110,8 +1170,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0171.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0171-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0171.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0171-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: <link=card.self><style=AssociatedCard>사냥감</style></link> 하나를 소환합니다. <nobr>이미 소환된 상태면</nobr> <link=card.self><style=AssociatedCard>사냥감</style></link> 유닛에게 <nobr>\"<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>최후의 숨결</style></link>:</nobr> 적 넥서스에 피해를 <nobr>1 입힙니다.\"</nobr> 효과를 부여합니다.",
     "descriptionRaw": "라운드 시작: 사냥감 하나를 소환합니다. 이미 소환된 상태면 사냥감 유닛에게 \"최후의 숨결: 적 넥서스에 피해를 1 입힙니다.\" 효과를 부여합니다.",
     "name": "잿빛 회귀",
@@ -1120,8 +1180,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0173.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0173-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0173.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0173-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: <link=card.self><style=AssociatedCard>사냥감</style></link> 하나를 소환합니다. <nobr>이미 소환된 상태면</nobr> <link=card.self><style=AssociatedCard>사냥감</style></link> 유닛에게 <nobr>\"<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>최후의 숨결</style></link>:</nobr> 적 넥서스에 피해를 <nobr>2 입힙니다.\"</nobr> 효과를 부여합니다.",
     "descriptionRaw": "라운드 시작: 사냥감 하나를 소환합니다. 이미 소환된 상태면 사냥감 유닛에게 \"최후의 숨결: 적 넥서스에 피해를 2 입힙니다.\" 효과를 부여합니다.",
     "name": "잿빛 회귀 II",
@@ -1130,8 +1190,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0172.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0172-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0172.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0172-full.png",
     "description": "시작 마나 +1<br><link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 손에 <link=card.self><style=AssociatedCard>영혼의 여정</style></link> 1장을 생성하거나 이미 보유 중이면 <nobr>비용을 2 감소시킵니다.",
     "descriptionRaw": "시작 마나 +1라운드 시작: 손에 영혼의 여정 1장을 생성하거나 이미 보유 중이면 비용을 2 감소시킵니다.",
     "name": "죽음의 원",
@@ -1140,8 +1200,38 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0322.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0322-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0360.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0360-full.png",
+    "description": "기본 비용이 6 이상인 아군의 비용이 1 감소합니다.",
+    "descriptionRaw": "기본 비용이 6 이상인 아군의 비용이 1 감소합니다.",
+    "name": "고룡",
+    "powerCode": "P0360",
+    "rarity": "희귀급",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0362.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0362-full.png",
+    "description": "기본 비용이 6 이상인 아군의 비용이 2 감소합니다.",
+    "descriptionRaw": "기본 비용이 6 이상인 아군의 비용이 2 감소합니다.",
+    "name": "고룡 II",
+    "powerCode": "P0362",
+    "rarity": "서사급",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0361.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0361-full.png",
+    "description": "시작 마나 +1<br>기본 비용이 6 이상인 아군을 사용하면 해당 아군에게 무작위 용의 은혜 하나를 사용합니다.",
+    "descriptionRaw": "시작 마나 +1기본 비용이 6 이상인 아군을 사용하면 해당 아군에게 무작위 용의 은혜 하나를 사용합니다.",
+    "name": "드래곤의 성위",
+    "powerCode": "P0361",
+    "rarity": "서사급",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0322.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0322-full.png",
     "description": "시작 마나 +1<br><link=vocab.Titanic><style=Vocab>거대</style></link> 아군을 소환하면 해당 아군이 <link=keyword.Weakest><style=Keyword>최약</style></link>인 적을 <link=vocab.Strike><style=Vocab>타격</style></link>합니다.",
     "descriptionRaw": "시작 마나 +1거대 아군을 소환하면 해당 아군이 최약인 적을 타격합니다.",
     "name": "천공 분열",
@@ -1150,8 +1240,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0321.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0321-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0321.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0321-full.png",
     "description": "유닛을 살해하면 <link=card.self><style=AssociatedCard>폭풍의 인장</style></link> 하나를 소환합니다.",
     "descriptionRaw": "유닛을 살해하면 폭풍의 인장 하나를 소환합니다.",
     "name": "지면 아래의 천둥",
@@ -1160,8 +1250,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0323.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0323-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0323.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0323-full.png",
     "description": "유닛을 살해하면 <link=card.self><style=AssociatedCard>폭풍의 인장</style></link> 둘을 소환합니다.",
     "descriptionRaw": "유닛을 살해하면 폭풍의 인장 둘을 소환합니다.",
     "name": "지면 아래의 천둥 II",
@@ -1170,8 +1260,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0167.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0167-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0167.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0167-full.png",
     "description": "<link=vocab.RoundEnd><style=Vocab>라운드 종료</style></link>: 내가 이 라운드에 <nobr>적 넥서스에</nobr> 피해를 입혔으면 <nobr>아군 유닛들에게</nobr> <nobr><link=keyword.Impact><sprite name=Impact><style=Keyword>여파</style></link> 효과</nobr> 2를 부여합니다.",
     "descriptionRaw": "라운드 종료: 내가 이 라운드에 적 넥서스에 피해를 입혔으면 아군 유닛들에게 여파 효과 2를 부여합니다.",
     "name": "격분 II",
@@ -1180,8 +1270,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0166.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0166-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0166.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0166-full.png",
     "description": "시작 마나 +1<br><link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 손에 <link=card.self><style=AssociatedCard>쿵쾅</style></link> 1장을 생성하거나 이미 보유 중이면 <nobr>비용을 1 감소시킵니다.</nobr>",
     "descriptionRaw": "시작 마나 +1라운드 시작: 손에 쿵쾅 1장을 생성하거나 이미 보유 중이면 비용을 1 감소시킵니다.",
     "name": "내면의 맹수",
@@ -1190,8 +1280,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0165.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0165-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0165.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0165-full.png",
     "description": "<link=vocab.RoundEnd><style=Vocab>라운드 종료</style></link>: 내가 이 라운드에 <nobr>적 넥서스에</nobr> 피해를 입혔으면 <nobr>아군 유닛들에게</nobr> <nobr><link=keyword.Impact><sprite name=Impact><style=Keyword>여파</style></link> 효과를</nobr> 부여합니다.",
     "descriptionRaw": "라운드 종료: 내가 이 라운드에 적 넥서스에 피해를 입혔으면 아군 유닛들에게 여파 효과를 부여합니다.",
     "name": "격분",
@@ -1200,8 +1290,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0210.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0210-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0210.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0210-full.png",
     "description": "라운드마다 처음으로 아군에게 <nobr>단일 대상</nobr> 주문을 사용하면 <link=vocab.Strongest><style=Vocab>최강</style></link>인 아군에게도 똑같이 적용됩니다.",
     "descriptionRaw": "라운드마다 처음으로 아군에게 단일 대상 주문을 사용하면 최강인 아군에게도 똑같이 적용됩니다.",
     "name": "역병의 축복",
@@ -1210,8 +1300,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0212.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0212-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0212.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0212-full.png",
     "description": "아군에게 단일 대상 주문을 사용하면 <link=vocab.Strongest><style=Vocab>최강</style></link>인 아군에게도 똑같이 적용됩니다.",
     "descriptionRaw": "아군에게 단일 대상 주문을 사용하면 최강인 아군에게도 똑같이 적용됩니다.",
     "name": "역병의 축복 II",
@@ -1220,8 +1310,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0211.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0211-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0211.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0211-full.png",
     "description": "시작 마나 +1<br><link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 덱에 있는 주문의 비용을 <nobr>1 감소시키고</nobr> 똑같은 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> 복사본을 손에 생성합니다.",
     "descriptionRaw": "시작 마나 +1라운드 시작: 덱에 있는 주문의 비용을 1 감소시키고 똑같은 일회용 복사본을 손에 생성합니다.",
     "name": "타락의 선물",
@@ -1230,8 +1320,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0204.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0204-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0204.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0204-full.png",
     "description": "라운드마다 처음으로 마나를 6 이상 사용하면 모든 아군에게 +1|+1을 부여합니다. <style=Variable></style>",
     "descriptionRaw": "라운드마다 처음으로 마나를 6 이상 사용하면 모든 아군에게 +1|+1을 부여합니다. ",
     "name": "주먹 꽉 쥐어",
@@ -1240,8 +1330,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0205.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0205-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0205.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0205-full.png",
     "description": "시작 마나 +1<br><link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 손에 <link=card.self><style=AssociatedCard>동전</style></link> 1장을 생성합니다.",
     "descriptionRaw": "시작 마나 +1라운드 시작: 손에 동전 1장을 생성합니다.",
     "name": "세트에게 걸어라",
@@ -1250,8 +1340,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0206.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0206-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0206.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0206-full.png",
     "description": "라운드마다 처음으로 마나를 6 이상 사용하면 모든 아군에게 +2|+2를 부여합니다. <style=Variable></style><br>라운드마다 처음으로 마나를 12 이상 사용하면 <link=vocab.Rally><style=Vocab>결집</style></link>합니다. <style=Variable></style>",
     "descriptionRaw": "라운드마다 처음으로 마나를 6 이상 사용하면 모든 아군에게 +2|+2를 부여합니다. 라운드마다 처음으로 마나를 12 이상 사용하면 결집합니다. ",
     "name": "주먹 꽉 쥐어 II",
@@ -1260,8 +1350,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0191.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0191-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0191.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0191-full.png",
     "description": "아군이 변신하면 해당 아군에게 +1|+1 및 <link=keyword.Impact><sprite name=Impact><style=Keyword>여파</style></link> 효과를 부여합니다. 이번 라운드에 처음으로 변신한 경우, 해당 아군과 똑같은 복사본을 <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>하루살이</style></link> 상태로 소환합니다.",
     "descriptionRaw": "아군이 변신하면 해당 아군에게 +1|+1 및 여파 효과를 부여합니다. 이번 라운드에 처음으로 변신한 경우, 해당 아군과 똑같은 복사본을 하루살이 상태로 소환합니다.",
     "name": "적자생존 II",
@@ -1270,8 +1360,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0189.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0189-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0189.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0189-full.png",
     "description": "아군이 변신하면 해당 아군에게 +1|+1 및 <link=keyword.Impact><sprite name=Impact><style=Keyword>여파</style></link> 효과를 부여합니다.",
     "descriptionRaw": "아군이 변신하면 해당 아군에게 +1|+1 및 여파 효과를 부여합니다.",
     "name": "적자생존",
@@ -1280,8 +1370,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0190.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0190-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0190.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0190-full.png",
     "description": "시작 마나 +1<br>공격 토큰을 얻으면 손에 <link=card.self><style=AssociatedCard>영리한 위장</style></link> 1장을 생성합니다.",
     "descriptionRaw": "시작 마나 +1공격 토큰을 얻으면 손에 영리한 위장 1장을 생성합니다.",
     "name": "가장 위험한 사냥감",
@@ -1290,8 +1380,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0202.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0202-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0202.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0202-full.png",
     "description": "시작 마나 +1<br>라운드마다 세 번째로 카드를 사용하면 모든 아군에게 +1|+1을 부여합니다. <style=Variable></style>",
     "descriptionRaw": "시작 마나 +1라운드마다 세 번째로 카드를 사용하면 모든 아군에게 +1|+1을 부여합니다. ",
     "name": "스타일을 담아 적에게",
@@ -1300,8 +1390,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0201.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0201-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0201.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0201-full.png",
     "description": "라운드마다 처음으로 적 넥서스에 피해를 입히면 다음으로 사용하는 카드의 비용이 1 감소합니다.",
     "descriptionRaw": "라운드마다 처음으로 적 넥서스에 피해를 입히면 다음으로 사용하는 카드의 비용이 1 감소합니다.",
     "name": "현상금 획득",
@@ -1310,8 +1400,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0203.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0203-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0203.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0203-full.png",
     "description": "라운드마다 처음으로 적 넥서스에 피해를 입히면 다음으로 사용하는 카드의 비용이 3 감소합니다.",
     "descriptionRaw": "라운드마다 처음으로 적 넥서스에 피해를 입히면 다음으로 사용하는 카드의 비용이 3 감소합니다.",
     "name": "현상금 획득 II",
@@ -1320,8 +1410,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0133.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0133-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0133.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0133-full.png",
     "description": "시작 마나 +1<br>게임 시작: 비용이 1인 무작위 포로 둘을 소환합니다.",
     "descriptionRaw": "시작 마나 +1게임 시작: 비용이 1인 무작위 포로 둘을 소환합니다.",
     "name": "수많은 친구",
@@ -1330,8 +1420,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0134.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0134-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0134.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0134-full.png",
     "description": "모든 아군이 <link=keyword.Fated><sprite name=Fated><style=Keyword>운명</style></link> 효과를 가집니다. <link=keyword.Fated><sprite name=Fated><style=Keyword>운명</style></link> 효과를 지닌 아군을 대상으로 지정하면 추가로 +1|+1을 부여합니다.",
     "descriptionRaw": "모든 아군이 운명 효과를 가집니다. 운명 효과를 지닌 아군을 대상으로 지정하면 추가로 +1|+1을 부여합니다.",
     "name": "할 수 있어 II",
@@ -1340,8 +1430,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0132.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0132-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0132.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0132-full.png",
     "description": "모든 아군이 <link=keyword.Fated><sprite name=Fated><style=Keyword>운명</style></link> 효과를 가집니다.",
     "descriptionRaw": "모든 아군이 운명 효과를 가집니다.",
     "name": "할 수 있어",
@@ -1350,8 +1440,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0332.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0332-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0332.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0332-full.png",
     "description": "유닛을 사용하면 능력치를 두 배로 늘립니다. 사용한 카드가 아우렐리온 솔이면 <link=card.self><style=AssociatedCard>천상 강림</style></link>을 사용합니다.",
     "descriptionRaw": "유닛을 사용하면 능력치를 두 배로 늘립니다. 사용한 카드가 아우렐리온 솔이면 천상 강림을 사용합니다.",
     "name": "빛의 숨결",
@@ -1360,8 +1450,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0330.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0330-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0330.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0330-full.png",
     "description": "시작 마나 +1<br>내 모든 생성된 카드에 희귀급 또는 서사급 아이템을 부여합니다.",
     "descriptionRaw": "시작 마나 +1내 모든 생성된 카드에 희귀급 또는 서사급 아이템을 부여합니다.",
     "name": "우주의 창조자",
@@ -1370,8 +1460,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0329.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0329-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0329.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0329-full.png",
     "description": "생성된 카드를 사용하면 아군 챔피언의 비용을 <link=vocab.Everywhere><style=Vocab>어디에 있든</style></link> 1 감소시킵니다. 챔피언을 사용하면 해당 챔피언이 레벨 업합니다.",
     "descriptionRaw": "생성된 카드를 사용하면 아군 챔피언의 비용을 어디에 있든 1 감소시킵니다. 챔피언을 사용하면 해당 챔피언이 레벨 업합니다.",
     "name": "별의 광휘",
@@ -1380,8 +1470,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0331.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0331-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0331.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0331-full.png",
     "description": "생성된 카드를 사용하면 아군 챔피언의 비용을 <link=vocab.Everywhere><style=Vocab>어디에 있든</style></link> 2 감소시킵니다. 챔피언을 사용하면 해당 챔피언이 레벨 업합니다.",
     "descriptionRaw": "생성된 카드를 사용하면 아군 챔피언의 비용을 어디에 있든 2 감소시킵니다. 챔피언을 사용하면 해당 챔피언이 레벨 업합니다.",
     "name": "별의 광휘 II",
@@ -1390,8 +1480,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0002.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0002-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0002.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0002-full.png",
     "description": "시작 마나 +1<br><link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 손에 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> <link=card.self><style=AssociatedCard>책략</style></link> 1장을 생성합니다.",
     "descriptionRaw": "시작 마나 +1라운드 시작: 손에 일회용 책략 1장을 생성합니다.",
     "name": "재미있는 장난",
@@ -1400,8 +1490,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0001.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0001-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0001.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0001-full.png",
     "description": "나의 주문과 스킬이 추가로 <nobr>피해를 2 입힙니다.</nobr>",
     "descriptionRaw": "나의 주문과 스킬이 추가로 피해를 2 입힙니다.",
     "name": "방화광 II",
@@ -1410,8 +1500,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0000.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0000-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0000.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0000-full.png",
     "description": "나의 주문과 스킬이 추가로 <nobr>피해를 1 입힙니다.</nobr>",
     "descriptionRaw": "나의 주문과 스킬이 추가로 피해를 1 입힙니다.",
     "name": "방화광",
@@ -1420,8 +1510,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0302.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0302-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0302.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0302-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: <link=vocab.Foe><style=Vocab>적</style></link>이 비용이 1인 무작위 포로 하나를 소환합니다.",
     "descriptionRaw": "라운드 시작: 적이 비용이 1인 무작위 포로 하나를 소환합니다.",
     "name": "작은 친구들",
@@ -1430,8 +1520,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0268.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0268-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0268.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0268-full.png",
     "description": "<link=vocab.Foe><style=Vocab>적</style></link>의 유닛이 <link=vocab.Strike><style=Vocab>타격</style></link>하면 <nobr>해당 유닛에게</nobr> +1|+1을 부여합니다.",
     "descriptionRaw": "적의 유닛이 타격하면 해당 유닛에게 +1|+1을 부여합니다.",
     "name": "데마시아의 힘",
@@ -1440,8 +1530,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0118.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0118-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0118.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0118-full.png",
     "description": "아군에게 단일 대상 주문을 사용하면 <link=keyword.Weakest><style=Keyword>최약</style></link>인 아군에게도 똑같이 적용됩니다.",
     "descriptionRaw": "아군에게 단일 대상 주문을 사용하면 최약인 아군에게도 똑같이 적용됩니다.",
     "name": "혜택 공유",
@@ -1450,8 +1540,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0082.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0082-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0082.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0082-full.png",
     "description": "아군이 ''공격: 공격력이 체력과 같은 수치까지 증가합니다.'' 키워드를 가집니다.",
     "descriptionRaw": "아군이 ''공격: 공격력이 체력과 같은 수치까지 증가합니다.'' 키워드를 가집니다.",
     "name": "투지",
@@ -1460,8 +1550,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0037.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0037-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0037.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0037-full.png",
     "description": "<link=vocab.RoundEnd><style=Vocab>라운드 종료</style></link>: 모든 유닛에게 +2|+0을 부여합니다.",
     "descriptionRaw": "라운드 종료: 모든 유닛에게 +2|+0을 부여합니다.",
     "name": "제국 우선주의",
@@ -1470,8 +1560,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0038.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0038-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0038.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0038-full.png",
     "description": "아군이 +3|+3, <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>압도</style></link>, <link=keyword.Reckless><sprite name=Reckless><style=Keyword>공격 전용</style></link> 효과를 가집니다.",
     "descriptionRaw": "아군이 +3|+3, 압도, 공격 전용 효과를 가집니다.",
     "name": "멈출 수 없는 힘",
@@ -1480,8 +1570,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0231.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0231-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0231.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0231-full.png",
     "description": "어떤 플레이어든 유닛을 소환하면 해당 유닛의 체력을 1로 만듭니다.",
     "descriptionRaw": "어떤 플레이어든 유닛을 소환하면 해당 유닛의 체력을 1로 만듭니다.",
     "name": "필멸의 표식",
@@ -1490,8 +1580,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0045.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0045-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0045.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0045-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: <link=card.self><style=AssociatedCard>부식성 물질</style></link> 하나를 소환합니다.",
     "descriptionRaw": "라운드 시작: 부식성 물질 하나를 소환합니다.",
     "name": "지속 공급",
@@ -1500,8 +1590,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0040.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0040-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0040.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0040-full.png",
     "description": "모든 주문의 비용이 6이 됩니다.",
     "descriptionRaw": "모든 주문의 비용이 6이 됩니다.",
     "name": "페트리사이트의 존재감",
@@ -1510,8 +1600,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0044.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0044-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0044.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0044-full.png",
     "description": "<link=vocab.RoundEnd><style=Vocab>라운드 종료</style></link>: 피해를 입은 모든 유닛을 처치합니다.",
     "descriptionRaw": "라운드 종료: 피해를 입은 모든 유닛을 처치합니다.",
     "name": "자비로운 처치",
@@ -1520,8 +1610,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0046.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0046-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0046.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0046-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 모든 유닛을 <link=vocab.Silence><style=Vocab>침묵</style></link>시킵니다.",
     "descriptionRaw": "라운드 시작: 모든 유닛을 침묵시킵니다.",
     "name": "이단 심문",
@@ -1530,8 +1620,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0229.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0229-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0229.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0229-full.png",
     "description": "라운드 1: 임시 마나 보석 하나를 얻습니다.",
     "descriptionRaw": "라운드 1: 임시 마나 보석 하나를 얻습니다.",
     "name": "공격력",
@@ -1540,8 +1630,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0035.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0035-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0035.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0035-full.png",
     "description": "아군이 +2|+2를 가집니다.<br><link=vocab.RoundEnd><style=Vocab>라운드 종료</style></link>: 모든 아군에게 피해를 2 입힙니다.",
     "descriptionRaw": "아군이 +2|+2를 가집니다.라운드 종료: 모든 아군에게 피해를 2 입힙니다.",
     "name": "광란의 전투",
@@ -1550,8 +1640,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0042.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0042-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0042.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0042-full.png",
     "description": "모든 유닛이 <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>약점 노출</style></link> 효과를 가집니다.",
     "descriptionRaw": "모든 유닛이 약점 노출 효과를 가집니다.",
     "name": "근심의 물결",
@@ -1560,8 +1650,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0233.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0233-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0233.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0233-full.png",
     "description": "게임 시작: 모든 플레이어의 덱에 <link=card.self><style=AssociatedCard>대몰락</style></link> 카드의 복사본 3장을 섞어 넣습니다. 복사본의 비용은 0입니다.",
     "descriptionRaw": "게임 시작: 모든 플레이어의 덱에 대몰락 카드의 복사본 3장을 섞어 넣습니다. 복사본의 비용은 0입니다.",
     "name": "섬의 기억",
@@ -1570,8 +1660,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0049.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0049-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0049.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0049-full.png",
     "description": "게임 시작: 양쪽 플레이어 모두 <link=card.self><style=AssociatedCard>해안 수비병</style></link> 둘을 소환합니다.",
     "descriptionRaw": "게임 시작: 양쪽 플레이어 모두 해안 수비병 둘을 소환합니다.",
     "name": "혼돈의 해안",
@@ -1580,8 +1670,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0225.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0225-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0225.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0225-full.png",
     "description": "모든 유닛이 <link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>공포</style></link> 효과와 -1|-0을 가집니다.",
     "descriptionRaw": "모든 유닛이 공포 효과와 -1|-0을 가집니다.",
     "name": "바카이 저지력",
@@ -1590,8 +1680,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0039.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0039-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0039.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0039-full.png",
     "description": "모든 유닛이 <link=keyword.Formidable><sprite name=Formidable><style=Keyword>위엄</style></link> 효과를 가집니다.",
     "descriptionRaw": "모든 유닛이 위엄 효과를 가집니다.",
     "name": "살아있는 갑옷",
@@ -1600,8 +1690,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0232.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0232-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0232.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0232-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 손에 무작위 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> <link=keyword.Countdown><style=Keyword>초읽기</style></link> 명소 하나를 생성합니다. <link=keyword.Countdown><style=Keyword>초읽기</style></link> 효과를 지닌 명소 하나를 소환하면 명소를 2라운드만큼 <link=vocab.Advance><style=Vocab>진행</style></link>시킵니다.",
     "descriptionRaw": "라운드 시작: 손에 무작위 일회용 초읽기 명소 하나를 생성합니다. 초읽기 효과를 지닌 명소 하나를 소환하면 명소를 2라운드만큼 진행시킵니다.",
     "name": "초월체의 분노",
@@ -1610,8 +1700,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0228.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0228-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0228.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0228-full.png",
     "description": "최대 체력을 5 증가시킵니다.",
     "descriptionRaw": "최대 체력을 5 증가시킵니다.",
     "name": "체력",
@@ -1620,8 +1710,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0052.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0052-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0052.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0052-full.png",
     "description": "게임 시작: 양쪽 플레이어 모두 <link=card.self><style=AssociatedCard>유쾌한 무기 장인</style></link> 둘을 소환합니다.",
     "descriptionRaw": "게임 시작: 양쪽 플레이어 모두 유쾌한 무기 장인 둘을 소환합니다.",
     "name": "군비 경쟁",
@@ -1630,8 +1720,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0048.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0048-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0048.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0048-full.png",
     "description": "주문의 비용이 2 감소하고 유닛의 비용이 1 증가합니다.",
     "descriptionRaw": "주문의 비용이 2 감소하고 유닛의 비용이 1 증가합니다.",
     "name": "진보의 대가",
@@ -1640,8 +1730,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0226.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0226-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0226.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0226-full.png",
     "description": "게임 시작: <link=card.self><style=AssociatedCard>매몰된 태양 원판</style></link> 하나를 소환하고 손에 레넥톤, 아지르, 나서스 중 하나를 생성합니다.",
     "descriptionRaw": "게임 시작: 매몰된 태양 원판 하나를 소환하고 손에 레넥톤, 아지르, 나서스 중 하나를 생성합니다.",
     "name": "사막의 인내",
@@ -1650,8 +1740,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0230.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0230-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0230.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0230-full.png",
     "description": "게임 시작: 카드 1장을 뽑습니다.",
     "descriptionRaw": "게임 시작: 카드 1장을 뽑습니다.",
     "name": "지식",
@@ -1660,8 +1750,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0041.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0041-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0041.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0041-full.png",
     "description": "모든 카드의 비용이 2 감소합니다.",
     "descriptionRaw": "모든 카드의 비용이 2 감소합니다.",
     "name": "자연의 마법",
@@ -1670,8 +1760,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0043.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0043-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0043.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0043-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 손에 있는 무작위 카드에 무작위 아이템을 부여합니다.",
     "descriptionRaw": "라운드 시작: 손에 있는 무작위 카드에 무작위 아이템을 부여합니다.",
     "name": "내규",
@@ -1680,8 +1770,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0047.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0047-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0047.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0047-full.png",
     "description": "나의 주문이 모두 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link>입니다. <link=card.self><style=AssociatedCard>최후의 섬광</style></link> 이외의 주문을 <nobr>사용할 때</nobr> 손에 <link=card.self><style=AssociatedCard>최후의 섬광</style></link> 1장을 생성합니다.",
     "descriptionRaw": "나의 주문이 모두 일회용입니다. 최후의 섬광 이외의 주문을 사용할 때 손에 최후의 섬광 1장을 생성합니다.",
     "name": "마력척결관의 승인",
@@ -1690,8 +1780,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0235.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0235-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0235.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0235-full.png",
     "description": "게임 시작: 양쪽 플레이어 모두 0|10 <link=card.self><style=AssociatedCard>장난꾸러기 망령</style></link> 하나를 소환합니다.",
     "descriptionRaw": "게임 시작: 양쪽 플레이어 모두 0|10 장난꾸러기 망령 하나를 소환합니다.",
     "name": "포복절도",
@@ -1700,8 +1790,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0050.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0050-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0050.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0050-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: <link=vocab.Strongest><style=Vocab>최강</style></link> 및 <link=keyword.Weakest><style=Keyword>최약</style></link>인 유닛을 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시킵니다.",
     "descriptionRaw": "라운드 시작: 최강 및 최약인 유닛을 기절시킵니다.",
     "name": "어림없다",
@@ -1710,8 +1800,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0227.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0227-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0227.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0227-full.png",
     "description": "챔피언 하나를 레벨 업하면 <nobr>모든 플레이어가</nobr> 손에 든 카드를 버립니다.",
     "descriptionRaw": "챔피언 하나를 레벨 업하면 모든 플레이어가 손에 든 카드를 버립니다.",
     "name": "초월의 대가",
@@ -1720,8 +1810,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0051.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0051-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0051.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0051-full.png",
     "description": "게임 시작: 양쪽 플레이어 모두 <link=card.self><style=AssociatedCard>황금 외뿔고래</style></link> 셋을 소환합니다.",
     "descriptionRaw": "게임 시작: 양쪽 플레이어 모두 황금 외뿔고래 셋을 소환합니다.",
     "name": "외뿔고래의 축복",
@@ -1730,8 +1820,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0234.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0234-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0234.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0234-full.png",
     "description": "모든 주문의 비용이 1 감소합니다. 모든 유닛이 <link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>주문 방어막</style></link>을 가집니다.",
     "descriptionRaw": "모든 주문의 비용이 1 감소합니다. 모든 유닛이 주문 방어막을 가집니다.",
     "name": "헬리아의 잔재",
@@ -1740,8 +1830,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0061.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0061-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0061.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0061-full.png",
     "description": "게임 시작: <link=card.self><style=AssociatedCard>잠복 집행관</style></link> 하나를 소환합니다.",
     "descriptionRaw": "게임 시작: 잠복 집행관 하나를 소환합니다.",
     "name": "집행관의 지원",
@@ -1750,8 +1840,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0055.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0055-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0055.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0055-full.png",
     "description": "모든 적이 <nobr>-1|-0</nobr>을 가집니다.",
     "descriptionRaw": "모든 적이 -1|-0을 가집니다.",
     "name": "무장 해제",
@@ -1760,8 +1850,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0063.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0063-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0063.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0063-full.png",
     "description": "아군을 소환하면 적 넥서스에 피해를 1 입힙니다.",
     "descriptionRaw": "아군을 소환하면 적 넥서스에 피해를 1 입힙니다.",
     "name": "폭발적 등장",
@@ -1770,8 +1860,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0062.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0062-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0062.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0062-full.png",
     "description": "챔피언을 소환하면 해당 챔피언과 똑같은 <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>하루살이</style></link> 복사본 하나를 소환합니다.",
     "descriptionRaw": "챔피언을 소환하면 해당 챔피언과 똑같은 하루살이 복사본 하나를 소환합니다.",
     "name": "안정화",
@@ -1780,8 +1870,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0064.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0064-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0064.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0064-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 최강인 적을 <link=keyword.Stun><sprite name=Stunned><style=Keyword>기절</style></link>시킵니다.",
     "descriptionRaw": "라운드 시작: 최강인 적을 기절시킵니다.",
     "name": "붙잡아!",
@@ -1790,8 +1880,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0059.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0059-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0059.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0059-full.png",
     "description": "주문을 사용하면 적 넥서스에 피해를 1 입힙니다.",
     "descriptionRaw": "주문을 사용하면 적 넥서스에 피해를 1 입힙니다.",
     "name": "주문으로 불태우기",
@@ -1800,8 +1890,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0056.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0056-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0056.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0056-full.png",
     "description": "이 라운드에 뽑는 카드의 비용이 1 감소합니다.",
     "descriptionRaw": "이 라운드에 뽑는 카드의 비용이 1 감소합니다.",
     "name": "빨리 뽑기",
@@ -1810,8 +1900,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0065.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0065-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0065.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0065-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 이 라운드에 최약인 적에게 <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>약점 노출</style></link> 효과를 일시 부여합니다.",
     "descriptionRaw": "라운드 시작: 이 라운드에 최약인 적에게 약점 노출 효과를 일시 부여합니다.",
     "name": "포착 완료",
@@ -1820,8 +1910,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0053.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0053-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0053.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0053-full.png",
     "description": "게임 시작: <link=card.self><style=AssociatedCard>무장한 기계광</style></link> 둘을 소환합니다.",
     "descriptionRaw": "게임 시작: 무장한 기계광 둘을 소환합니다.",
     "name": "무장 시작",
@@ -1830,8 +1920,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0058.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0058-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0058.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0058-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 이 라운드에 <nobr><link=keyword.Weakest><style=Keyword>최약</style></link>인 아군에게</nobr> +3|+3을 <nobr>일시 부여합니다.</nobr>",
     "descriptionRaw": "라운드 시작: 이 라운드에 최약인 아군에게 +3|+3을 일시 부여합니다.",
     "name": "하자 보수",
@@ -1840,8 +1930,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0054.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0054-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0054.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0054-full.png",
     "description": "모든 아군이 +1|+0을 가집니다.",
     "descriptionRaw": "모든 아군이 +1|+0을 가집니다.",
     "name": "재단결",
@@ -1850,8 +1940,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0060.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0060-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0060.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0060-full.png",
     "description": "게임 시작: 내 덱에 <link=card.self><style=AssociatedCard>시공간 붕괴</style></link> 3장을 생성합니다.",
     "descriptionRaw": "게임 시작: 내 덱에 시공간 붕괴 3장을 생성합니다.",
     "name": "초기화",
@@ -1860,8 +1950,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0057.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0057-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0057.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0057-full.png",
     "description": "게임 시작: <link=card.self><style=AssociatedCard>마법공학 관측소</style></link> 하나를 소환합니다.",
     "descriptionRaw": "게임 시작: 마법공학 관측소 하나를 소환합니다.",
     "name": "대안적 동력원",
@@ -1870,8 +1960,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0113.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0113-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0113.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0113-full.png",
     "description": "주문의 비용이 1 감소합니다.",
     "descriptionRaw": "주문의 비용이 1 감소합니다.",
     "name": "주문술사",
@@ -1880,8 +1970,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0081.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0081-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0081.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0081-full.png",
     "description": "아군이 소환될 때마다 이 라운드에 <link=keyword.Challenger><sprite name=Challenger><style=Keyword>도전자</style></link> 효과를 일시 부여합니다.",
     "descriptionRaw": "아군이 소환될 때마다 이 라운드에 도전자 효과를 일시 부여합니다.",
     "name": "결투가",
@@ -1890,8 +1980,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0109.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0109-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0109.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0109-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 비용이 1인 무작위 포로 하나를 소환합니다.",
     "descriptionRaw": "라운드 시작: 비용이 1인 무작위 포로 하나를 소환합니다.",
     "name": "작은 친구들",
@@ -1900,8 +1990,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0067.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0067-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0067.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0067-full.png",
     "description": "게임 시작: 마나 보석 하나를 얻습니다.",
     "descriptionRaw": "게임 시작: 마나 보석 하나를 얻습니다.",
     "name": "마나순환",
@@ -1910,8 +2000,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0100.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0100-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0100.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0100-full.png",
     "description": "게임 시작: <link=card.self><style=AssociatedCard>선봉대 감시병</style></link> 둘을 소환합니다.",
     "descriptionRaw": "게임 시작: 선봉대 감시병 둘을 소환합니다.",
     "name": "선봉대 감시병",
@@ -1920,8 +2010,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0076.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0076-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0076.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0076-full.png",
     "description": "게임 시작: 내 덱에 2레벨 챔피언 10장을 섞어 넣습니다. <nobr>이 카드들은</nobr> 비용이 1 감소합니다.",
     "descriptionRaw": "게임 시작: 내 덱에 2레벨 챔피언 10장을 섞어 넣습니다. 이 카드들은 비용이 1 감소합니다.",
     "name": "레벨 업",
@@ -1930,8 +2020,8 @@
     "rarityRef": "Legendary"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0084.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0084-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0084.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0084-full.png",
     "description": "생성된 카드의 비용이 1 감소합니다.",
     "descriptionRaw": "생성된 카드의 비용이 1 감소합니다.",
     "name": "엉뚱한 영감",
@@ -1940,8 +2030,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0103.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0103-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0103.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0103-full.png",
     "description": "게임 시작: 내 덱에 <link=card.self><style=AssociatedCard>시한 폭탄</style></link> 4장을 생성합니다.",
     "descriptionRaw": "게임 시작: 내 덱에 시한 폭탄 4장을 생성합니다.",
     "name": "시간 설정",
@@ -1950,8 +2040,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0086.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0086-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0086.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0086-full.png",
     "description": "아군이 ''공격: 체력이 공격력과 같은 수치까지 증가합니다.'' 키워드를 가집니다.",
     "descriptionRaw": "아군이 ''공격: 체력이 공격력과 같은 수치까지 증가합니다.'' 키워드를 가집니다.",
     "name": "최고의 방어는...",
@@ -1960,8 +2050,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0327.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0327-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0327.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0327-full.png",
     "description": "공격력, 체력 또는 비용이 8인 유닛을 소환하면 +8|+8을 부여합니다.",
     "descriptionRaw": "공격력, 체력 또는 비용이 8인 유닛을 소환하면 +8|+8을 부여합니다.",
     "name": "거대한 반향",
@@ -1970,8 +2060,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0326.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0326-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0326.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0326-full.png",
     "description": "내 주문과 스킬이 추가로 <nobr>피해를 2 입힙니다.</nobr>",
     "descriptionRaw": "내 주문과 스킬이 추가로 피해를 2 입힙니다.",
     "name": "원소의 바람",
@@ -1980,8 +2070,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0324.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0324-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0324.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0324-full.png",
     "description": "주문을 사용하면 체력을 1 회복합니다. 원소 주문의 경우, 체력을 2 회복합니다.",
     "descriptionRaw": "주문을 사용하면 체력을 1 회복합니다. 원소 주문의 경우, 체력을 2 회복합니다.",
     "name": "우루미 방패",
@@ -1990,8 +2080,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0325.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0325-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0325.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0325-full.png",
     "description": "라운드 시작: 손에 든 주문의 비용을 1 감소시킵니다.",
     "descriptionRaw": "라운드 시작: 손에 든 주문의 비용을 1 감소시킵니다.",
     "name": "신비한 명상",
@@ -2000,8 +2090,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0108.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0108-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0108.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0108-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 손에 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> <link=card.self><style=AssociatedCard>야생의 혜안</style></link> 1장을 생성합니다.",
     "descriptionRaw": "라운드 시작: 손에 일회용 야생의 혜안 1장을 생성합니다.",
     "name": "야생의 감각",
@@ -2010,8 +2100,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0085.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0085-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0085.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0085-full.png",
     "description": "적 넥서스에 피해를 입히면 내 덱의 맨 위에 있는 아군에게 +1|+1을 부여합니다.",
     "descriptionRaw": "적 넥서스에 피해를 입히면 내 덱의 맨 위에 있는 아군에게 +1|+1을 부여합니다.",
     "name": "습격대",
@@ -2020,8 +2110,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0105.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0105-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0105.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0105-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 카드 1장을 뽑고 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> 상태를 부여합니다. 카드를 버리면 내 덱에 해당 카드의 복사본 1장을 생성합니다.",
     "descriptionRaw": "라운드 시작: 카드 1장을 뽑고 일회용 상태를 부여합니다. 카드를 버리면 내 덱에 해당 카드의 복사본 1장을 생성합니다.",
     "name": "신속 거래",
@@ -2030,8 +2120,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0072.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0072-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0072.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0072-full.png",
     "description": "비용이 3 이하인 아군이 <link=vocab.Everywhere><style=Vocab>어디에 있든</style></link> 모두 잠복자가 되고 <link=keyword.Lurker><sprite name=Lurker><style=Keyword>잠복</style></link> 효과를 가집니다.",
     "descriptionRaw": "비용이 3 이하인 아군이 어디에 있든 모두 잠복자가 되고 잠복 효과를 가집니다.",
     "name": "호시탐탐",
@@ -2040,8 +2130,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0087.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0087-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0087.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0087-full.png",
     "description": "카드 1장을 뽑으면 이 라운드에 모든 아군에게 +1|+0을 <nobr>일시 부여합니다.</nobr>",
     "descriptionRaw": "카드 1장을 뽑으면 이 라운드에 모든 아군에게 +1|+0을 일시 부여합니다.",
     "name": "상급 교육",
@@ -2050,8 +2140,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0099.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0099-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0099.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0099-full.png",
     "description": "게임 시작: 넥서스의 체력을 10 회복시킵니다.",
     "descriptionRaw": "게임 시작: 넥서스의 체력을 10 회복시킵니다.",
     "name": "불멸",
@@ -2060,8 +2150,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0069.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0069-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0069.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0069-full.png",
     "description": "공격력이 5 이상인 유닛을 소환하면 해당 유닛이 <link=keyword.Weakest><style=Keyword>최약</style></link>인 적을 <link=vocab.Strike><style=Vocab>타격</style></link>합니다.",
     "descriptionRaw": "공격력이 5 이상인 유닛을 소환하면 해당 유닛이 최약인 적을 타격합니다.",
     "name": "트리파르의 힘",
@@ -2070,8 +2160,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0221.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0221-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0221.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0221-full.png",
     "description": "게임 시작: <link=card.self><style=AssociatedCard>얼음 노예</style></link> 하나를 소환합니다. <link=keyword.Countdown><style=Keyword>초읽기</style></link>를 5로 설정합니다.",
     "descriptionRaw": "게임 시작: 얼음 노예 하나를 소환합니다. 초읽기를 5로 설정합니다.",
     "name": "냉정한 예언",
@@ -2080,8 +2170,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0078.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0078-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0078.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0078-full.png",
     "description": "<link=vocab.RoundEnd><style=Vocab>라운드 종료</style></link>: 모든 아군에게 +1|+1을 부여합니다.",
     "descriptionRaw": "라운드 종료: 모든 아군에게 +1|+1을 부여합니다.",
     "name": "압도적인 힘",
@@ -2090,8 +2180,8 @@
     "rarityRef": "Legendary"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0117.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0117-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0117.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0117-full.png",
     "description": "아군을 소환하면 해당 아군에게 이 라운드에 +1|+1을 일시 부여합니다.",
     "descriptionRaw": "아군을 소환하면 해당 아군에게 이 라운드에 +1|+1을 일시 부여합니다.",
     "name": "쇄도",
@@ -2100,8 +2190,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0074.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0074-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0074.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0074-full.png",
     "description": "매 턴 처음으로 사용하는 카드를 복사합니다.",
     "descriptionRaw": "매 턴 처음으로 사용하는 카드를 복사합니다.",
     "name": "복제",
@@ -2110,8 +2200,8 @@
     "rarityRef": "Legendary"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0077.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0077-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0077.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0077-full.png",
     "description": "게임 시작: 이 게임에서 내 덱의 <nobr>각 카드에</nobr> 무작위 아이템을 하나씩 추가합니다.",
     "descriptionRaw": "게임 시작: 이 게임에서 내 덱의 각 카드에 무작위 아이템을 하나씩 추가합니다.",
     "name": "불안정한 재고품",
@@ -2120,8 +2210,8 @@
     "rarityRef": "Legendary"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0222.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0222-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0222.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0222-full.png",
     "description": "라운드마다 처음으로 사용한 카드의 비용이 게임 시작 시 <nobr>내 덱에 있던</nobr> 카드 20장당 <nobr>1 감소합니다.</nobr>",
     "descriptionRaw": "라운드마다 처음으로 사용한 카드의 비용이 게임 시작 시 내 덱에 있던 카드 20장당 1 감소합니다.",
     "name": "정교한 계략",
@@ -2130,8 +2220,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0101.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0101-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0101.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0101-full.png",
     "description": "게임 시작: 내 덱에서 비용이 2인 유닛 하나를 소환합니다.",
     "descriptionRaw": "게임 시작: 내 덱에서 비용이 2인 유닛 하나를 소환합니다.",
     "name": "기선 제압",
@@ -2140,8 +2230,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0091.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0091-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0091.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0091-full.png",
     "description": "아군을 소환하면 해당 유닛에게 <link=keyword.Fury><sprite name=Fury><style=Keyword>분노</style></link> 효과를 부여하고 해당 유닛을 용으로 간주합니다.",
     "descriptionRaw": "아군을 소환하면 해당 유닛에게 분노 효과를 부여하고 해당 유닛을 용으로 간주합니다.",
     "name": "용의 분노",
@@ -2150,8 +2240,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0106.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0106-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0106.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0106-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 손에 비용이 0인 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> <link=card.self><style=AssociatedCard>모조품</style></link> 1장을 생성합니다.",
     "descriptionRaw": "라운드 시작: 손에 비용이 0인 일회용 모조품 1장을 생성합니다.",
     "name": "모조품 제작",
@@ -2160,8 +2250,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0114.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0114-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0114.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0114-full.png",
     "description": "집중 주문을 사용하면 같은 주문을 한 번 더 사용합니다.",
     "descriptionRaw": "집중 주문을 사용하면 같은 주문을 한 번 더 사용합니다.",
     "name": "차근차근",
@@ -2170,8 +2260,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0079.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0079-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0079.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0079-full.png",
     "description": "아군이 공격 시 카드 1장을 <link=keyword.Nab><style=Keyword>슬쩍</style></link>합니다.",
     "descriptionRaw": "아군이 공격 시 카드 1장을 슬쩍합니다.",
     "name": "도벽",
@@ -2180,8 +2270,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0102.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0102-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0102.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0102-full.png",
     "description": "<link=vocab.RoundEnd><style=Vocab>라운드 종료</style></link>: 손에서 가장 비용이 높은 카드의 비용을 1 감소시킵니다.",
     "descriptionRaw": "라운드 종료: 손에서 가장 비용이 높은 카드의 비용을 1 감소시킵니다.",
     "name": "비밀 할인",
@@ -2190,8 +2280,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0098.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0098-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0098.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0098-full.png",
     "description": "게임 시작: <link=card.self><style=AssociatedCard>대련하는 제자</style></link> 하나를 소환합니다.",
     "descriptionRaw": "게임 시작: 대련하는 제자 하나를 소환합니다.",
     "name": "신입 제자",
@@ -2200,8 +2290,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0104.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0104-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0104.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0104-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 손에 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> <link=card.self><style=AssociatedCard>단검</style></link> 1장을 생성합니다.",
     "descriptionRaw": "라운드 시작: 손에 일회용 단검 1장을 생성합니다.",
     "name": "단검 투척",
@@ -2210,8 +2300,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0097.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0097-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0097.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0097-full.png",
     "description": "게임 시작: 카드 2장을 뽑습니다.",
     "descriptionRaw": "게임 시작: 카드 2장을 뽑습니다.",
     "name": "유연한 전략",
@@ -2220,8 +2310,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0093.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0093-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0093.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0093-full.png",
     "description": "보호막을 제외하고 아군의 이로운 효과를 영구 유지합니다.",
     "descriptionRaw": "보호막을 제외하고 아군의 이로운 효과를 영구 유지합니다.",
     "name": "멈출 수 없는, 멈추지 않을",
@@ -2230,8 +2320,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0071.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0071-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0071.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0071-full.png",
     "description": "아군이 <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>압도</style></link> 효과를 가집니다.",
     "descriptionRaw": "아군이 압도 효과를 가집니다.",
     "name": "파괴",
@@ -2240,8 +2330,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0112.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0112-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0112.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0112-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: <link=vocab.Rally><style=Vocab>결집</style></link>합니다.",
     "descriptionRaw": "라운드 시작: 결집합니다.",
     "name": "지배",
@@ -2250,8 +2340,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0073.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0073-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0073.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0073-full.png",
     "description": "전투가 끝날 때마다 200골드를 추가로 얻습니다.",
     "descriptionRaw": "전투가 끝날 때마다 200골드를 추가로 얻습니다.",
     "name": "끝없는 재물",
@@ -2260,8 +2350,8 @@
     "rarityRef": "Legendary"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0083.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0083-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0083.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0083-full.png",
     "description": "적에게 피해를 입히면 피해량만큼<br>해당 적의 공격력을 감소시킵니다.",
     "descriptionRaw": "적에게 피해를 입히면 피해량만큼해당 적의 공격력을 감소시킵니다.",
     "name": "약화의 일격",
@@ -2270,8 +2360,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0119.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0119-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0119.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0119-full.png",
     "description": "공격 토큰을 얻으면 <link=card.self><style=AssociatedCard>묘목</style></link> 하나를 소환합니다.",
     "descriptionRaw": "공격 토큰을 얻으면 묘목 하나를 소환합니다.",
     "name": "자연의 복수",
@@ -2280,8 +2370,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0224.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0224-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0224.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0224-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 손에 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> <link=card.self><style=AssociatedCard>시간과 헌신</style></link> 1장을 생성합니다.",
     "descriptionRaw": "라운드 시작: 손에 일회용 시간과 헌신 1장을 생성합니다.",
     "name": "장인의 호의",
@@ -2290,8 +2380,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0096.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0096-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0096.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0096-full.png",
     "description": "게임 시작: <link=card.self><style=AssociatedCard>황제의 연단</style></link> 하나를 소환합니다.",
     "descriptionRaw": "게임 시작: 황제의 연단 하나를 소환합니다.",
     "name": "권좌",
@@ -2300,8 +2390,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0094.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0094-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0094.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0094-full.png",
     "description": "최대 체력을 10 증가시킵니다.",
     "descriptionRaw": "최대 체력을 10 증가시킵니다.",
     "name": "활력",
@@ -2310,8 +2400,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0111.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0111-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0111.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0111-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 주문 마나를 회복합니다.",
     "descriptionRaw": "라운드 시작: 주문 마나를 회복합니다.",
     "name": "마법",
@@ -2320,8 +2410,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0223.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0223-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0223.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0223-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 마지막으로 사용한 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link>이 아닌 카드의 <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>일회용</style></link> 복사본 1장을 손에 생성합니다.",
     "descriptionRaw": "라운드 시작: 마지막으로 사용한 일회용이 아닌 카드의 일회용 복사본 1장을 손에 생성합니다.",
     "name": "기억력 게임",
@@ -2330,8 +2420,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0080.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0080-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0080.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0080-full.png",
     "description": "매 게임에서 처음으로 내 넥서스의 체력이 전부 떨어지면, 내 넥서스가 체력을 30 회복하고 모든 아군에게 <link=vocab.Everywhere><style=Vocab>어디에 있든</style></link> +1|+1을 부여합니다.",
     "descriptionRaw": "매 게임에서 처음으로 내 넥서스의 체력이 전부 떨어지면, 내 넥서스가 체력을 30 회복하고 모든 아군에게 어디에 있든 +1|+1을 부여합니다.",
     "name": "물러서지 않는 투지",
@@ -2340,8 +2430,8 @@
     "rarityRef": "Legendary"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0070.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0070-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0070.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0070-full.png",
     "description": "(첫 전투 3회 동안) 게임 시작: 마나 보석 하나를 얻습니다.",
     "descriptionRaw": "(첫 전투 3회 동안) 게임 시작: 마나 보석 하나를 얻습니다.",
     "name": "불안정한 마나순환",
@@ -2350,8 +2440,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0110.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0110-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0110.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0110-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: <link=keyword.Weakest><style=Keyword>최약</style></link>인 아군에게 +1|+1을 부여합니다. ",
     "descriptionRaw": "라운드 시작: 최약인 아군에게 +1|+1을 부여합니다. ",
     "name": "전투 훈련",
@@ -2360,8 +2450,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0090.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0090-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0090.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0090-full.png",
     "description": "아군이 키워드당 +1|+1을 가집니다.",
     "descriptionRaw": "아군이 키워드당 +1|+1을 가집니다.",
     "name": "진화",
@@ -2370,8 +2460,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0075.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0075-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0075.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0075-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 마나 보석 하나를 얻습니다.",
     "descriptionRaw": "라운드 시작: 마나 보석 하나를 얻습니다.",
     "name": "완벽한 마나순환",
@@ -2380,8 +2470,8 @@
     "rarityRef": "Legendary"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0115.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0115-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0115.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0115-full.png",
     "description": "아군을 소환하면 그 아군이 보유한 키워드를 전장의 모든 아군에게 부여합니다.",
     "descriptionRaw": "아군을 소환하면 그 아군이 보유한 키워드를 전장의 모든 아군에게 부여합니다.",
     "name": "나눔의 힘",
@@ -2390,8 +2480,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0220.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0220-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0220.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0220-full.png",
     "description": "게임 시작: 손에 무작위 장비 1장을 생성합니다. 비용이 2 감소합니다.",
     "descriptionRaw": "게임 시작: 손에 무작위 장비 1장을 생성합니다. 비용이 2 감소합니다.",
     "name": "과도한 준비",
@@ -2400,8 +2490,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0089.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0089-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0089.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0089-full.png",
     "description": "아군이 피해를 버티고 생존하면 <nobr>해당 아군에게</nobr> +1|+1을 부여합니다.",
     "descriptionRaw": "아군이 피해를 버티고 생존하면 해당 아군에게 +1|+1을 부여합니다.",
     "name": "인내력",
@@ -2410,8 +2500,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0219.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0219-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0219.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0219-full.png",
     "description": "처음으로 아군이 사망하면 <nobr><link=card.self><style=AssociatedCard>귀신 들린 무덤</style></link></nobr> 하나를 소환합니다.",
     "descriptionRaw": "처음으로 아군이 사망하면 귀신 들린 무덤 하나를 소환합니다.",
     "name": "금지된 사후 세계",
@@ -2420,8 +2510,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0107.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0107-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0107.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0107-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 이 라운드에 최강인 적을 <link=keyword.Frostbite><sprite name=Frostbite><style=Keyword>동상</style></link>에 걸리게 합니다.",
     "descriptionRaw": "라운드 시작: 이 라운드에 최강인 적을 동상에 걸리게 합니다.",
     "name": "저지",
@@ -2430,8 +2520,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0068.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0068-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0068.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0068-full.png",
     "description": "비용이 1인 아군을 소환하면 해당 아군에게 +2|+2를 부여합니다.",
     "descriptionRaw": "비용이 1인 아군을 소환하면 해당 아군에게 +2|+2를 부여합니다.",
     "name": "이프의 천재성",
@@ -2440,8 +2530,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0116.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_11_0/adventure/ko_kr/img/powers/P0116-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0116.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/4_12_0/adventure/ko_kr/img/powers/P0116-full.png",
     "description": "아군을 소환하면 해당 아군에게 <nobr>무작위 키워드</nobr> 하나를 부여합니다.",
     "descriptionRaw": "아군을 소환하면 해당 아군에게 무작위 키워드 하나를 부여합니다.",
     "name": "환영 선물",
