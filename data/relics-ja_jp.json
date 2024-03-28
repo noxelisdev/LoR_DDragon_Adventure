@@ -1,7 +1,7 @@
 [
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0003.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0003-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0003.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0003-full.png",
     "description": "+2|+1",
     "descriptionRaw": "+2|+1",
     "name": "コールフィールド・ウォーハンマー",
@@ -10,8 +10,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0016.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0016-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0016.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0016-full.png",
     "description": "召喚時、すべての敵に1ダメージを与える。",
     "descriptionRaw": "召喚時、すべての敵に1ダメージを与える。",
     "name": "ラヴァナス ハイドラ",
@@ -20,8 +20,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0014.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0014-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0014.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0014-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>ラウンド開始時</style></link>: カードを1枚引き、それに<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>フリーティング</style></link>を付与する。",
     "descriptionRaw": "ラウンド開始時: カードを1枚引き、それにフリーティングを付与する。",
     "name": "墓掘りのシャベル",
@@ -30,8 +30,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0062.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0062-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0062.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0062-full.png",
     "description": "<link=vocab.Play><style=Vocab>プレイ</style></link>: このユニットの基本コスト未満のカードのうち、コストが最も高いカードを1枚引き、それにエピックアイテムを付与してコストを0にする。",
     "descriptionRaw": "プレイ: このユニットの基本コスト未満のカードのうち、コストが最も高いカードを1枚引き、それにエピックアイテムを付与してコストを0にする。",
     "name": "見出された幸運",
@@ -40,8 +40,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0058.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0058-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0058.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0058-full.png",
     "description": "<link=keyword.Fated><sprite name=Fated><style=Keyword>フェイト</style></link>、<link=keyword.Augment><sprite name=Augment><style=Keyword>オーグメント</style></link>。<br><link=vocab.Empowered><style=Vocab>エンパワー</style></link> 10: <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>オーバーパワー</style></link>、<link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>リジェネレーション</style></link>、<link=keyword.Challenger><sprite name=Challenger><style=Keyword>チャレンジャー</style></link>。",
     "descriptionRaw": "フェイト、オーグメント。エンパワー 10: オーバーパワー、リジェネレーション、チャレンジャー。",
     "name": "星に選ばれし者",
@@ -50,8 +50,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0082.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0082-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0082.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0082-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>パワー</style></link>: 自身が<link=vocab.Titanic><style=Vocab>タイタン</style></link>の場合、ゲーム開始時にマナジェムを1個獲得する。<link=keyword.Invoke><style=Keyword>招来</style></link>または<link=vocab.Manifest><style=Vocab>選定</style></link>時、レベル2のチャンピオンが提示対象になる。",
     "descriptionRaw": "パワー: 自身がタイタンの場合、ゲーム開始時にマナジェムを1個獲得する。招来または選定時、レベル2のチャンピオンが提示対象になる。",
     "name": "スターフォージガントレット",
@@ -60,8 +60,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0035.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0035-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0035.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0035-full.png",
     "description": "+1|+1<br>ネクサスへのダメージを受けずに勝利すると、1回分のリロールを獲得する。",
     "descriptionRaw": "+1|+1ネクサスへのダメージを受けずに勝利すると、1回分のリロールを獲得する。",
     "name": "イカサマ師の策略",
@@ -70,8 +70,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0084.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0084-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0084.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0084-full.png",
     "description": "+1|+1<br><color=#FAD65A>クエスト:</color> マップを1つクリアする<br><color=#FAD65A>リワード:</color> チャンピオンXPを通常の5倍獲得",
     "descriptionRaw": "+1|+1クエスト: マップを1つクリアするリワード: チャンピオンXPを通常の5倍獲得",
     "name": "宇宙の祝福(消費型レリック)",
@@ -80,8 +80,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0083.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0083-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0083.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0083-full.png",
     "description": "+1|+1<br><color=#FAD65A>クエスト:</color> マップを1つクリアする<br><color=#FAD65A>リワード:</color> チャンピオンXPを通常の10倍獲得",
     "descriptionRaw": "+1|+1クエスト: マップを1つクリアするリワード: チャンピオンXPを通常の10倍獲得",
     "name": "大いなる宇宙の祝福(消費型レリック)",
@@ -90,8 +90,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0080.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0080-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0080.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0080-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>パワー</style></link>: 味方は<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>オーバーパワー</style></link>を持つ。サブタイプを持つ味方はさらに+1|+1を持つ。",
     "descriptionRaw": "パワー: 味方はオーバーパワーを持つ。サブタイプを持つ味方はさらに+1|+1を持つ。",
     "name": "内なる獣",
@@ -100,8 +100,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0017.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0017-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0017.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0017-full.png",
     "description": "あなたがスペルまたはスキルで与えるダメージはすべて1増加する。",
     "descriptionRaw": "あなたがスペルまたはスキルで与えるダメージはすべて1増加する。",
     "name": "ルーデン テンペスト",
@@ -110,8 +110,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0081.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0081-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0081.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0081-full.png",
     "description": "<link=keyword.Support><style=Keyword>サポート</style></link>: このユニットがサポートする味方を、コストが3多いランダムなフォロワーに変化させる。",
     "descriptionRaw": "サポート: このユニットがサポートする味方を、コストが3多いランダムなフォロワーに変化させる。",
     "name": "トランスモギュレーター",
@@ -120,8 +120,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0010.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0010-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0010.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0010-full.png",
     "description": "獲得ゴールドが50%増加する。",
     "descriptionRaw": "獲得ゴールドが50%増加する。",
     "name": "黄金の心",
@@ -130,8 +130,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0084.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0084-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0084.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0084-full.png",
     "description": "ゲーム開始時にマナジェムを1個獲得する。<br><color=#FAD65A>クエスト:</color> マップを1つクリアする<br><color=#FAD65A>リワード:</color> チャンピオンXPを通常の5倍獲得",
     "descriptionRaw": "ゲーム開始時にマナジェムを1個獲得する。クエスト: マップを1つクリアするリワード: チャンピオンXPを通常の5倍獲得",
     "name": "宇宙の真珠(消費型レリック)",
@@ -140,8 +140,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0090.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0090-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0090.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0090-full.png",
     "description": "<link=vocab.Play><style=Vocab>プレイ</style></link>: 他のユニットすべてに3ダメージを与える。",
     "descriptionRaw": "プレイ: 他のユニットすべてに3ダメージを与える。",
     "name": "邪悪なる収獲",
@@ -150,8 +150,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0021.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0021-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0021.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0021-full.png",
     "description": "召喚時、手札に<link=card.self><style=AssociatedCard>鉛の忠告</style></link>を2枚生成する。",
     "descriptionRaw": "召喚時、手札に鉛の忠告を2枚生成する。",
     "name": "ドレッドウェイの船首砲",
@@ -160,8 +160,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0033.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0033-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0033.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0033-full.png",
     "description": "あなたのネクサスは<link=keyword.Tough><sprite name=Tough><style=Keyword>タフ</style></link>を持つ。",
     "descriptionRaw": "あなたのネクサスはタフを持つ。",
     "name": "タワープレート",
@@ -170,8 +170,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0002.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0002-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0002.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0002-full.png",
     "description": "<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>オーバーパワー</style></link>",
     "descriptionRaw": "オーバーパワー",
     "name": "トロールキング・クラッシャー",
@@ -180,8 +180,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0024.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0024-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0024.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0024-full.png",
     "description": "<link=vocab.Attack><style=Vocab>アタック</style></link>: このユニットに+1|+1を付与する。",
     "descriptionRaw": "アタック: このユニットに+1|+1を付与する。",
     "name": "グインソー レイジブレード",
@@ -190,8 +190,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0079.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0079-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0079.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0079-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>パワー</style></link>: コスト1以下の味方は<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>オーバーパワー</style></link>、<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>クイックアタック</style></link>、<link=keyword.Fury><sprite name=Fury><style=Keyword>フューリー</style></link>を持つ。",
     "descriptionRaw": "パワー: コスト1以下の味方はオーバーパワー、クイックアタック、フューリーを持つ。",
     "name": "ブールの魂",
@@ -200,8 +200,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0000.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0000-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0000.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0000-full.png",
     "description": "<link=keyword.Challenger><sprite name=Challenger><style=Keyword>チャレンジャー</style></link>",
     "descriptionRaw": "チャレンジャー",
     "name": "高潔なるデュエリストの刃",
@@ -210,8 +210,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0004.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0004-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0004.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0004-full.png",
     "description": "+1|+2",
     "descriptionRaw": "+1|+2",
     "name": "ジャウリム フィスト",
@@ -220,18 +220,18 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0026.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0026-full.png",
-    "description": "+0|+3<br>このユニットは<link=keyword.Elusive><sprite name=Elusive><style=Keyword>イルーシブ</style></link>を持つユニットをブロックできる。",
-    "descriptionRaw": "+0|+3このユニットはイルーシブを持つユニットをブロックできる。",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0026.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0026-full.png",
+    "description": "+0|+3&<link=keyword.Sharpsight><sprite name=BlockElusive><style=Keyword>警戒網</style></link>",
+    "descriptionRaw": "+0|+3&警戒網",
     "name": "光のオーブ",
     "relicCode": "R0026",
     "rarity": "レア",
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0011.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0011-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0011.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0011-full.png",
     "description": "レベルアップ時、このカードのチャンピオンスペルのコピーを手札に1枚生成する。このラウンド中、そのコストは0になる。",
     "descriptionRaw": "レベルアップ時、このカードのチャンピオンスペルのコピーを手札に1枚生成する。このラウンド中、そのコストは0になる。",
     "name": "幻惑の奇術師の紋章",
@@ -240,8 +240,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0092.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0092-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0092.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0092-full.png",
     "description": "+2|+0。<link=keyword.Support><style=Keyword>サポート</style></link>: このユニットがサポートする味方に<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>エフェメラル</style></link>を付与し、そのユニットとまったく同じコピーをアタック状態で1体召喚する。",
     "descriptionRaw": "+2|+0。サポート: このユニットがサポートする味方にエフェメラルを付与し、そのユニットとまったく同じコピーをアタック状態で1体召喚する。",
     "name": "亡霊のハサミ",
@@ -250,8 +250,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0022.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0022-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0022.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0022-full.png",
     "description": "ゲーム開始時: ネクサスの体力を5回復する。",
     "descriptionRaw": "ゲーム開始時: ネクサスの体力を5回復する。",
     "name": "星の子の杖",
@@ -260,8 +260,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0045.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0045-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0045.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0045-full.png",
     "description": "<link=keyword.Support><style=Keyword>サポート</style></link>: このユニットがサポートする味方をキルして、そのキーワードとステータスをこのユニットに付与する。",
     "descriptionRaw": "サポート: このユニットがサポートする味方をキルして、そのキーワードとステータスをこのユニットに付与する。",
     "name": "穢れた星のかけら",
@@ -270,8 +270,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0038.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0038-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0038.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0038-full.png",
     "description": "-1|-0<br><link=vocab.Play><style=Vocab>プレイ</style></link>: このユニットが敵のネクサスを<link=vocab.Strike><style=Vocab>ストライク</style></link>する。",
     "descriptionRaw": "-1|-0プレイ: このユニットが敵のネクサスをストライクする。",
     "name": "門破り",
@@ -280,8 +280,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0005.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0005-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0005.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0005-full.png",
     "description": "<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>クイックアタック</style></link>",
     "descriptionRaw": "クイックアタック",
     "name": "ストームレイザー",
@@ -290,8 +290,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0043.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0043-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0043.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0043-full.png",
     "description": "すべての味方チャンピオンは+1|+1を持ち、コストが2減少する。",
     "descriptionRaw": "すべての味方チャンピオンは+1|+1を持ち、コストが2減少する。",
     "name": "スタージェム",
@@ -300,8 +300,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0052.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0052-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0052.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0052-full.png",
     "description": "召喚時、デッキのランダムなカード3枚にエピックアイテムを付与する。",
     "descriptionRaw": "召喚時、デッキのランダムなカード3枚にエピックアイテムを付与する。",
     "name": "ガーディアン オーブ",
@@ -310,8 +310,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0051.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0051-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0051.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0051-full.png",
     "description": "召喚時、ゲーム開始時のデッキの枚数30枚につき、このユニットに+1|+1とランダムなキーワードを1つ付与する。",
     "descriptionRaw": "召喚時、ゲーム開始時のデッキの枚数30枚につき、このユニットに+1|+1とランダムなキーワードを1つ付与する。",
     "name": "金のへら",
@@ -320,8 +320,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0027.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0027-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0027.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0027-full.png",
     "description": "所持金200ゴールドにつき、このユニットは+1|+1を持つ。",
     "descriptionRaw": "所持金200ゴールドにつき、このユニットは+1|+1を持つ。",
     "name": "賞金稼ぎの名声",
@@ -330,8 +330,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0075.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0075-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0075.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0075-full.png",
     "description": "<link=keyword.Support><style=Keyword>サポート</style></link>: このユニットがサポートする味方のコスト1、1|1のコピーを手札に1枚生成する。",
     "descriptionRaw": "サポート: このユニットがサポートする味方のコスト1、1|1のコピーを手札に1枚生成する。",
     "name": "コンデンサー",
@@ -340,8 +340,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0013.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0013-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0013.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0013-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>ラウンド開始時</style></link>: スペルマナを全回復する。",
     "descriptionRaw": "ラウンド開始時: スペルマナを全回復する。",
     "name": "アークエンジェル スタッフ",
@@ -350,8 +350,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0065.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0065-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0065.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0065-full.png",
     "description": "<link=keyword.Plunder><style=Keyword>追撃</style></link>: コストが2減少する。<br>このユニットは、あなたが敵のネクサスにダメージを与えたラウンド1回につき+1|+1を持つ。",
     "descriptionRaw": "追撃: コストが2減少する。このユニットは、あなたが敵のネクサスにダメージを与えたラウンド1回につき+1|+1を持つ。",
     "name": "パック詰め火薬",
@@ -360,8 +360,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0028.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0028-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0028.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0028-full.png",
     "description": "ゲーム開始時: デッキにこのカードのコピーを2枚生成する。",
     "descriptionRaw": "ゲーム開始時: デッキにこのカードのコピーを2枚生成する。",
     "name": "カメレオンの首飾り",
@@ -370,8 +370,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0040.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0040-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0040.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0040-full.png",
     "description": "召喚時、このユニットが<link=keyword.Weakest><style=Keyword>最も弱い</style></link>敵を<link=vocab.Strike><style=Vocab>ストライク</style></link>する。",
     "descriptionRaw": "召喚時、このユニットが最も弱い敵をストライクする。",
     "name": "ストーカーブレード",
@@ -380,8 +380,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0044.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0044-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0044.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0044-full.png",
     "description": "マップ開始時: ランダムなチャンピオン1種をデッキに2枚追加する。それにランダムなエピックアイテムを1つ装備させる。",
     "descriptionRaw": "マップ開始時: ランダムなチャンピオン1種をデッキに2枚追加する。それにランダムなエピックアイテムを1つ装備させる。",
     "name": "守護者の装具",
@@ -390,8 +390,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0012.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0012-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0012.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0012-full.png",
     "description": "<link=keyword.Plunder><style=Keyword>追撃</style></link>: このカードのコストが2減少する。",
     "descriptionRaw": "追撃: このカードのコストが2減少する。",
     "name": "略奪王の隠し財宝",
@@ -400,8 +400,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0029.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0029-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0029.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0029-full.png",
     "description": "+1|+1<br>このユニットが敵をキルした時、50ゴールドを獲得する(各エンカウントにつき2回まで)。",
     "descriptionRaw": "+1|+1このユニットが敵をキルした時、50ゴールドを獲得する(各エンカウントにつき2回まで)。",
     "name": "コレクター",
@@ -410,8 +410,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0091.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0091-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0091.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0091-full.png",
     "description": "+0|+2<br><link=vocab.PathPower><style=Vocab>パワー</style></link>: 味方を召喚する時、それに+0|+1と<link=keyword.Formidable><sprite name=Formidable><style=Keyword>フォーミダブル</style></link>を付与する。",
     "descriptionRaw": "+0|+2パワー: 味方を召喚する時、それに+0|+1とフォーミダブルを付与する。",
     "name": "石の力",
@@ -420,8 +420,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0054.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0054-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0054.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0054-full.png",
     "description": "<link=vocab.RoundEnd><style=Vocab>ラウンド終了時</style></link>: このカードが手札にある場合、このユニットに<link=keyword.Impact><sprite name=Impact><style=Keyword>インパクト</style></link>を2回付与する(最大<link=keyword.Impact><sprite name=Impact><style=Keyword>インパクト</style></link> 10)。",
     "descriptionRaw": "ラウンド終了時: このカードが手札にある場合、このユニットにインパクトを2回付与する(最大インパクト 10)。",
     "name": "リグルのランタン",
@@ -430,8 +430,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0018.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0018-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0018.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0018-full.png",
     "description": "召喚時、<link=vocab.Strongest><style=Vocab>最も強い</style></link>敵を<link=keyword.Stun><sprite name=Stunned><style=Keyword>スタン</style></link>させる。",
     "descriptionRaw": "召喚時、最も強い敵をスタンさせる。",
     "name": "エバーフロスト",
@@ -440,8 +440,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0030.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0030-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0030.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0030-full.png",
     "description": "+0|+1&<link=keyword.Tough><sprite name=Tough><style=Keyword>タフ</style></link>",
     "descriptionRaw": "+0|+1&タフ",
     "name": "アルマジロの鱗甲",
@@ -450,8 +450,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0061.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0061-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0061.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0061-full.png",
     "description": "ゲーム開始時: デッキにこのカードのコピーを7枚生成する。チャンピオンスペルのコストが1減少する。",
     "descriptionRaw": "ゲーム開始時: デッキにこのカードのコピーを7枚生成する。チャンピオンスペルのコストが1減少する。",
     "name": "こだまする精霊",
@@ -460,8 +460,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0083.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0083-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0083.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0083-full.png",
     "description": "ゲーム開始時にマナジェムを1個獲得する。<br><color=#FAD65A>クエスト:</color> マップを1つクリアする<br><color=#FAD65A>リワード:</color> チャンピオンXPを通常の10倍獲得",
     "descriptionRaw": "ゲーム開始時にマナジェムを1個獲得する。クエスト: マップを1つクリアするリワード: チャンピオンXPを通常の10倍獲得",
     "name": "大いなる宇宙の真珠(消費型レリック)",
@@ -470,8 +470,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0006.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0006-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0006.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0006-full.png",
     "description": "<link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>リジェネレーション</style></link>",
     "descriptionRaw": "リジェネレーション",
     "name": "ワーモグ アーマー",
@@ -480,8 +480,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0015.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0015-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0015.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0015-full.png",
     "description": "<link=vocab.Play><style=Vocab>プレイ</style></link>: スペルマナを全回復する。",
     "descriptionRaw": "プレイ: スペルマナを全回復する。",
     "name": "ロスト チャプター",
@@ -490,8 +490,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0039.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0039-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0039.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0039-full.png",
     "description": "召喚時、すべての敵にこのラウンド中<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>無防備</style></link>を付与する。",
     "descriptionRaw": "召喚時、すべての敵にこのラウンド中無防備を付与する。",
     "name": "真なる氷のフレイル",
@@ -500,8 +500,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0019.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0019-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0019.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0019-full.png",
     "description": "このユニットがダメージを受けて生き残った時、このユニットに+2|+2を付与する。",
     "descriptionRaw": "このユニットがダメージを受けて生き残った時、このユニットに+2|+2を付与する。",
     "name": "狂戦士のバックル",
@@ -510,8 +510,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0036.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0036-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0036.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0036-full.png",
     "description": "召喚時、手札をすべて破棄して同じ枚数の<link=card.self><style=AssociatedCard>パウパウガン</style></link>を手札に生成する。",
     "descriptionRaw": "召喚時、手札をすべて破棄して同じ枚数のパウパウガンを手札に生成する。",
     "name": "暴走パンクキャノン",
@@ -520,8 +520,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0086.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0086-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0086.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0086-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>パワー</style></link>: アタックトークンを獲得する時、あなたの地域のコスト2のランダムなスペルを手札に1枚生成する。そのコストは0になり、<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>フリーティング</style></link>を持つ。",
     "descriptionRaw": "パワー: アタックトークンを獲得する時、あなたの地域のコスト2のランダムなスペルを手札に1枚生成する。そのコストは0になり、フリーティングを持つ。",
     "name": "スペルウィーバーの交響曲",
@@ -530,8 +530,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0020.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0020-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0020.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0020-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>ラウンド開始時</style></link>: <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>フリーティング</style></link>を持つこのユニットのコピーを手札に1枚生成する。",
     "descriptionRaw": "ラウンド開始時: フリーティングを持つこのユニットのコピーを手札に1枚生成する。",
     "name": "元帥の対抗策",
@@ -540,8 +540,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0059.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0059-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0059.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0059-full.png",
     "description": "+1|+0<br>アタック中、このユニットはダメージを受けることも力尽きることもない。",
     "descriptionRaw": "+1|+0アタック中、このユニットはダメージを受けることも力尽きることもない。",
     "name": "死への拒絶",
@@ -550,8 +550,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0094.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0094-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0094.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0094-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>パワー</style></link>: ゲーム開始時: このユニットが<link=card.self><style=AssociatedCard>ノラ</style></link>の場合、ゲーム開始時にマナジェムを1個獲得する。生成された味方を召喚する時、それに<link=keyword.Impact><sprite name=Impact><style=Keyword>インパクト</style></link>を付与する。",
     "descriptionRaw": "パワー: ゲーム開始時: このユニットがノラの場合、ゲーム開始時にマナジェムを1個獲得する。生成された味方を召喚する時、それにインパクトを付与する。",
     "name": "ノラのポータル加速装置",
@@ -560,8 +560,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0069.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0069-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0069.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0069-full.png",
     "description": "<color=#FAD65A>クエスト:</color> 難易度★3以上のマップをクリア<br><color=#FAD65A>リワード: </color>装備しているチャンピオンのレアレリックスロットをエピックにアップグレード",
     "descriptionRaw": "クエスト: 難易度★3以上のマップをクリアリワード: 装備しているチャンピオンのレアレリックスロットをエピックにアップグレード",
     "name": "スピリットフォージ(消費型レリック)",
@@ -570,8 +570,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0001.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0001-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0001.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0001-full.png",
     "description": "レベルアップ時、<link=vocab.Rally><style=Vocab>奮起</style></link>する。",
     "descriptionRaw": "レベルアップ時、奮起する。",
     "name": "クラウンガードの家宝",
@@ -580,8 +580,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0008.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0008-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0008.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0008-full.png",
     "description": "リロールが2回分増加した状態でスタートする。",
     "descriptionRaw": "リロールが2回分増加した状態でスタートする。",
     "name": "ゼロ・ドライブ プロトタイプ",
@@ -590,8 +590,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0034.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0034-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0034.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0034-full.png",
     "description": "<link=keyword.Plunder><style=Keyword>追撃</style></link>: このカードのコストに等しい回数、<link=card.self><style=AssociatedCard>一斉砲撃</style></link>をプレイする。",
     "descriptionRaw": "追撃: このカードのコストに等しい回数、一斉砲撃をプレイする。",
     "name": "荒波の砲台",
@@ -600,8 +600,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0037.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0037-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0037.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0037-full.png",
     "description": "召喚時、手札に<link=card.self><style=AssociatedCard>高揚</style></link>を1枚生成する。そのコストは3になる。",
     "descriptionRaw": "召喚時、手札に高揚を1枚生成する。そのコストは3になる。",
     "name": "ヒム・オブ・ヴァロー",
@@ -610,8 +610,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0048.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0048-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0048.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0048-full.png",
     "description": "スペルをプレイする時、マナジェムを6つ以上持っている場合、同じ対象にそのスペルをコピーする。",
     "descriptionRaw": "スペルをプレイする時、マナジェムを6つ以上持っている場合、同じ対象にそのスペルをコピーする。",
     "name": "ケミテック・デュプリケーター",
@@ -620,8 +620,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0046.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0046-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0046.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0046-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>ラウンド開始時</style></link>: <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>フリーティング</style></link>を持つ<link=card.self><style=AssociatedCard>ほうき星</style></link>を手札に1枚生成する。",
     "descriptionRaw": "ラウンド開始時: フリーティングを持つほうき星を手札に1枚生成する。",
     "name": "秘儀の彗星",
@@ -630,8 +630,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0085.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0085-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0085.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0085-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>パワー</style></link>: 味方がスペルでステータスを獲得する時、代わりにその2倍を獲得する。",
     "descriptionRaw": "パワー: 味方がスペルでステータスを獲得する時、代わりにその2倍を獲得する。",
     "name": "秘術",
@@ -640,8 +640,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0041.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0041-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0041.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0041-full.png",
     "description": "<link=keyword.Support><style=Keyword>サポート</style></link>: このユニットがサポートする味方に<link=keyword.Elusive><sprite name=Elusive><style=Keyword>イルーシブ</style></link>を付与する。",
     "descriptionRaw": "サポート: このユニットがサポートする味方にイルーシブを付与する。",
     "name": "グリーングレイドの陰葉",
@@ -650,8 +650,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0025.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0025-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0025.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0025-full.png",
     "description": "すべての味方は<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>オーバーパワー</style></link>を持つ。",
     "descriptionRaw": "すべての味方はオーバーパワーを持つ。",
     "name": "トロールキングの冠",
@@ -660,8 +660,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0047.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0047-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0047.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0047-full.png",
     "description": "+1|+1<br><color=#FAD65A>クエスト:</color> 難易度★1以下のマップをクリア<br><color=#FAD65A>リワード:</color> チャンピオンXPを通常の10倍獲得",
     "descriptionRaw": "+1|+1クエスト: 難易度★1以下のマップをクリアリワード: チャンピオンXPを通常の10倍獲得",
     "name": "知恵のクエスト",
@@ -670,8 +670,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0089.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0089-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0089.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0089-full.png",
     "description": "<link=keyword.Challenger><sprite name=Challenger><style=Keyword>チャレンジャー</style></link>、<link=keyword.Tough><sprite name=Tough><style=Keyword>タフ</style></link>、<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>オーバーパワー</style></link>",
     "descriptionRaw": "チャレンジャー、タフ、オーバーパワー",
     "name": "フルビルド",
@@ -680,8 +680,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0064.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0064-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0064.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0064-full.png",
     "description": "<link=vocab.Play><style=Vocab>プレイ</style></link>: レベル2のチャンピオンを5枚デッキに混ぜ、それらのステータスを2倍して、その後そのうちの1枚を引く。",
     "descriptionRaw": "プレイ: レベル2のチャンピオンを5枚デッキに混ぜ、それらのステータスを2倍して、その後そのうちの1枚を引く。",
     "name": "守護者の誓い",
@@ -690,18 +690,18 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0066.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0066-full.png",
-    "description": "召喚時、あなたの地域からコスト7以上のユニットをランダムに2枚生成し、そのコストをこのユニットの基本コスト分減らす。",
-    "descriptionRaw": "召喚時、あなたの地域からコスト7以上のユニットをランダムに2枚生成し、そのコストをこのユニットの基本コスト分減らす。",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0066.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0066-full.png",
+    "description": "召喚時、あなたの地域からコスト7以上のユニットをランダムに2枚生成し、そのコストをこのユニットの基本コスト分減少させる。",
+    "descriptionRaw": "召喚時、あなたの地域からコスト7以上のユニットをランダムに2枚生成し、そのコストをこのユニットの基本コスト分減少させる。",
     "name": "ポータルフレンド",
     "relicCode": "R0066",
     "rarity": "エピック",
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0009.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0009-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0009.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0009-full.png",
     "description": "<link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>スペルシールド</style></link>",
     "descriptionRaw": "スペルシールド",
     "name": "バンシー ヴェール",
@@ -710,8 +710,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0023.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0023-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0023.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0023-full.png",
     "description": "すべての味方は<link=keyword.Challenger><sprite name=Challenger><style=Keyword>チャレンジャー</style></link>を持つ。",
     "descriptionRaw": "すべての味方はチャレンジャーを持つ。",
     "name": "ローラン家の剣掛け",
@@ -720,8 +720,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0031.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0031-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0031.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0031-full.png",
     "description": "レベルアップ時、すべての敵を<link=keyword.Stun><sprite name=Stunned><style=Keyword>スタン</style></link>させる。",
     "descriptionRaw": "レベルアップ時、すべての敵をスタンさせる。",
     "name": "テンペストブレード",
@@ -730,8 +730,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0060.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0060-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0060.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0060-full.png",
     "description": "場にいる味方1体につき、コストが1減少する。<br><link=vocab.Play><style=Vocab>プレイ</style></link>: 他の味方すべてに3ダメージを与える。",
     "descriptionRaw": "場にいる味方1体につき、コストが1減少する。プレイ: 他の味方すべてに3ダメージを与える。",
     "name": "影の門弟",
@@ -740,8 +740,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0007.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0007-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0007.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0007-full.png",
     "description": "蘇生回数が1回分増加した状態でスタートする。<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>ラストブレス</style></link>: このゲーム中にこのユニットが<link=vocab.Slay><style=Vocab>撃破</style></link>されたのが初めてである場合、このユニットを体力が1の状態で蘇生させる。",
     "descriptionRaw": "蘇生回数が1回分増加した状態でスタートする。ラストブレス: このゲーム中にこのユニットが撃破されたのが初めてである場合、このユニットを体力が1の状態で蘇生させる。",
     "name": "ガーディアン エンジェル",
@@ -750,8 +750,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0032.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_2_0/adventure/ja_jp/img/relics/R0032-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0032.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/ja_jp/img/relics/R0032-full.png",
     "description": "+1|+0&<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>フィアサム</style></link>",
     "descriptionRaw": "+1|+0&フィアサム",
     "name": "ソウルスピア",
