@@ -1,7 +1,7 @@
 [
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0003.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0003-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0003.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0003-full.png",
     "description": "+2|+1",
     "descriptionRaw": "+2|+1",
     "name": "Martillo de guerra de Caulfield",
@@ -10,8 +10,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0016.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0016-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0016.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0016-full.png",
     "description": "Cuando se me invoca, inflige 1 de daño a todos los enemigos.",
     "descriptionRaw": "Cuando se me invoca, inflige 1 de daño a todos los enemigos.",
     "name": "Hidra voraz",
@@ -20,8 +20,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0014.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0014-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0014.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0014-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Roba 1 y obtiene <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link>.",
     "descriptionRaw": "Comienzo de ronda: Roba 1 y obtiene Fugaz.",
     "name": "Pala del Sepulturero",
@@ -30,8 +30,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0062.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0062-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0062.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0062-full.png",
     "description": "<link=vocab.Play><style=Vocab>Jugar</style></link>: Roba la carta de mayor coste posible que sea inferior a mi coste básico, otórgale un objeto épico y reduce su coste a 0.",
     "descriptionRaw": "Jugar: Roba la carta de mayor coste posible que sea inferior a mi coste básico, otórgale un objeto épico y reduce su coste a 0.",
     "name": "Fortuna bienhallada",
@@ -40,8 +40,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0058.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0058-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0058.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0058-full.png",
     "description": "<link=keyword.Fated><sprite name=Fated><style=Keyword>Destino</style></link>, <link=keyword.Augment><sprite name=Augment><style=Keyword>Mejora</style></link><br><link=vocab.Empowered><style=Vocab>Potenciación</style></link> 10: <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Abrumar</style></link>, <link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>Regeneración</style></link> y <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Contendiente</style></link>.",
     "descriptionRaw": "Destino, MejoraPotenciación 10: Abrumar, Regeneración y Contendiente.",
     "name": "Elegidos por las estrellas",
@@ -50,8 +50,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0082.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0082-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0082.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0082-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Poder:</style></link> Si soy <link=vocab.Titanic><style=Vocab>titánico</style></link>, obtienes +1 de maná inicial. Puedes encontrar a campeones de nivel 2 al <link=keyword.Invoke><style=Keyword>convocar</style></link> o <link=vocab.Manifest><style=Vocab>manifestar</style></link>.",
     "descriptionRaw": "Poder: Si soy titánico, obtienes +1 de maná inicial. Puedes encontrar a campeones de nivel 2 al convocar o manifestar.",
     "name": "Guanteletes estelares",
@@ -60,8 +60,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0035.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0035-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0035.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0035-full.png",
     "description": "+1|+1 y cuando ganas un encuentro sin que tu nexo reciba daño, ganas 1 tirada adicional.",
     "descriptionRaw": "+1|+1 y cuando ganas un encuentro sin que tu nexo reciba daño, ganas 1 tirada adicional.",
     "name": "El truco del Maestro de las Cartas",
@@ -70,8 +70,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0084.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0084-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0084.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0084-full.png",
     "description": "+1|+1.<br><color=#FAD65A>Misión:</color> Gana una aventura.<br><color=#FAD65A>Recompensa:</color> x5 de la experiencia de campeón habitual.",
     "descriptionRaw": "+1|+1.Misión: Gana una aventura.Recompensa: x5 de la experiencia de campeón habitual.",
     "name": "Bendición cósmica (consumible)",
@@ -80,8 +80,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0083.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0083-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0083.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0083-full.png",
     "description": "+1|+1.<br><color=#FAD65A>Misión:</color> Gana una aventura.<br><color=#FAD65A>Recompensa:</color> x10 de la experiencia de campeón habitual.",
     "descriptionRaw": "+1|+1.Misión: Gana una aventura.Recompensa: x10 de la experiencia de campeón habitual.",
     "name": "Gran bendición cósmica (consumible)",
@@ -90,8 +90,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0080.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0080-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0080.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0080-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Poder:</style></link> Los aliados tienen <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Abrumar</style></link> y, si tienen un subtipo, obtienen +1|+1.",
     "descriptionRaw": "Poder: Los aliados tienen Abrumar y, si tienen un subtipo, obtienen +1|+1.",
     "name": "La bestia interior",
@@ -100,8 +100,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0017.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0017-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0017.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0017-full.png",
     "description": "Todos tus hechizos y habilidades infligen 1 de daño adicional.",
     "descriptionRaw": "Todos tus hechizos y habilidades infligen 1 de daño adicional.",
     "name": "Tempestad de Luden",
@@ -110,8 +110,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0081.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0081-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0081.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0081-full.png",
     "description": "<link=keyword.Support><style=Keyword>Apoyo</style></link>: Transforma al aliado al que apoye en un adepto aleatorio que cueste 3 más.",
     "descriptionRaw": "Apoyo: Transforma al aliado al que apoye en un adepto aleatorio que cueste 3 más.",
     "name": "Transmodulador",
@@ -120,8 +120,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0010.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0010-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0010.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0010-full.png",
     "description": "Obtienes un 50% de oro adicional durante las aventuras.",
     "descriptionRaw": "Obtienes un 50% de oro adicional durante las aventuras.",
     "name": "Corazón de oro",
@@ -130,8 +130,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0084.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0084-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0084.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0084-full.png",
     "description": "+1 de maná inicial.<br><color=#FAD65A>Misión:</color> Gana una aventura.<br><color=#FAD65A>Recompensa:</color> x5 de la experiencia de campeón habitual.",
     "descriptionRaw": "+1 de maná inicial.Misión: Gana una aventura.Recompensa: x5 de la experiencia de campeón habitual.",
     "name": "Perla cósmica (consumible)",
@@ -140,8 +140,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0090.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0090-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0090.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0090-full.png",
     "description": "<link=vocab.Play><style=Vocab>Jugar</style></link>: Inflige 3 de daño a todas las demás unidades.",
     "descriptionRaw": "Jugar: Inflige 3 de daño a todas las demás unidades.",
     "name": "Cosecha maligna",
@@ -150,8 +150,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0021.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0021-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0021.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0021-full.png",
     "description": "Cuando se me invoca, se crean 2 <link=card.self><style=AssociatedCard>Disparos de advertencia</style></link> en la mano.",
     "descriptionRaw": "Cuando se me invoca, se crean 2 Disparos de advertencia en la mano.",
     "name": "Cañón de persecución del Heraldo",
@@ -160,8 +160,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0033.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0033-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0033.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0033-full.png",
     "description": "Tu nexo obtiene <link=keyword.Tough><sprite name=Tough><style=Keyword>Aguante</style></link>.",
     "descriptionRaw": "Tu nexo obtiene Aguante.",
     "name": "Placas de torreta",
@@ -170,8 +170,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0002.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0002-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0002.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0002-full.png",
     "description": "<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Abrumar</style></link>.",
     "descriptionRaw": "Abrumar.",
     "name": "Machacador del Rey Trol",
@@ -180,8 +180,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0024.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0024-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0024.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0024-full.png",
     "description": "<link=vocab.Attack><style=Vocab>Atacar</style></link>: Consigo +1|+1.",
     "descriptionRaw": "Atacar: Consigo +1|+1.",
     "name": "Hoja de furia de Guinsoo",
@@ -190,8 +190,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0079.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0079-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0079.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0079-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Poder:</style></link> Los aliados de coste 1 o menos tienen <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Abrumar</style></link>, <link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>Ataque rápido</style></link> y <link=keyword.Fury><sprite name=Fury><style=Keyword>Furia</style></link>.",
     "descriptionRaw": "Poder: Los aliados de coste 1 o menos tienen Abrumar, Ataque rápido y Furia.",
     "name": "Espíritu de los buhru",
@@ -200,8 +200,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0000.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0000-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0000.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0000-full.png",
     "description": "<link=keyword.Challenger><sprite name=Challenger><style=Keyword>Contendiente</style></link>.",
     "descriptionRaw": "Contendiente.",
     "name": "Filo de la Estocada Excelsa",
@@ -210,8 +210,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0004.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0004-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0004.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0004-full.png",
     "description": "+1|+2",
     "descriptionRaw": "+1|+2",
     "name": "Puño de Jaurim",
@@ -220,8 +220,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0026.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0026-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0026.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0026-full.png",
     "description": "+0|+3 y <link=keyword.Sharpsight><sprite name=BlockElusive><style=Keyword>Visión aguda</style></link>.",
     "descriptionRaw": "+0|+3 y Visión aguda.",
     "name": "Orbe luminoso",
@@ -230,8 +230,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0011.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0011-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0011.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0011-full.png",
     "description": "Cuando subo de nivel, crea una copia de mi hechizo de campeón en la mano. Cuesta 0 esta ronda.",
     "descriptionRaw": "Cuando subo de nivel, crea una copia de mi hechizo de campeón en la mano. Cuesta 0 esta ronda.",
     "name": "Emblema de la Embaucadora",
@@ -240,8 +240,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0092.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0092-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0092.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0092-full.png",
     "description": "+2|+0.<br><link=keyword.Support><style=Keyword>Apoyo</style></link>: Otorga <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Endeble</style></link> al aliado al que apoye e invoca una copia exacta de él en ataque.",
     "descriptionRaw": "+2|+0.Apoyo: Otorga Endeble al aliado al que apoye e invoca una copia exacta de él en ataque.",
     "name": "Tijeras espectrales",
@@ -250,8 +250,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0022.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0022-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0022.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0022-full.png",
     "description": "Comienzo de partida: Cura 5 de vida a tu nexo.",
     "descriptionRaw": "Comienzo de partida: Cura 5 de vida a tu nexo.",
     "name": "El báculo de la hija de las estrellas",
@@ -260,8 +260,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0045.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0045-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0045.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0045-full.png",
     "description": "<link=keyword.Support><style=Keyword>Apoyo</style></link>: Mata al aliado al que apoye y recibo sus estadísticas y palabras clave.",
     "descriptionRaw": "Apoyo: Mata al aliado al que apoye y recibo sus estadísticas y palabras clave.",
     "name": "Fragmento estelar corrupto",
@@ -270,8 +270,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0038.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0038-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0038.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0038-full.png",
     "description": "-1|-0<br><link=vocab.Play><style=Vocab>Jugar</style></link>: <link=vocab.Strike><style=Vocab>Golpeo</style></link> el nexo enemigo.",
     "descriptionRaw": "-1|-0Jugar: Golpeo el nexo enemigo.",
     "name": "El ariete del Guardián",
@@ -280,8 +280,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0005.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0005-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0005.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0005-full.png",
     "description": "<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>Ataque rápido</style></link>.",
     "descriptionRaw": "Ataque rápido.",
     "name": "Navaja de asalto",
@@ -290,8 +290,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0043.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0043-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0043.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0043-full.png",
     "description": "Los campeones aliados obtienen +1|+1 y cuestan 2 menos.",
     "descriptionRaw": "Los campeones aliados obtienen +1|+1 y cuestan 2 menos.",
     "name": "Gema estelar",
@@ -300,8 +300,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0052.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0052-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0052.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0052-full.png",
     "description": "Cuando se me invoca, otorga objetos épicos a 3 cartas aleatorias de tu mazo.",
     "descriptionRaw": "Cuando se me invoca, otorga objetos épicos a 3 cartas aleatorias de tu mazo.",
     "name": "Orbe del guardián",
@@ -310,8 +310,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0051.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0051-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0051.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0051-full.png",
     "description": "Cuando se me invoca, consigo +1|+1 y una palabra clave aleatoria por cada 30 cartas que tuviera tu mazo inicial.",
     "descriptionRaw": "Cuando se me invoca, consigo +1|+1 y una palabra clave aleatoria por cada 30 cartas que tuviera tu mazo inicial.",
     "name": "Espátula dorada",
@@ -320,8 +320,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0027.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0027-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0027.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0027-full.png",
     "description": "Tengo +1|+1 por cada 200 de oro que tengas.",
     "descriptionRaw": "Tengo +1|+1 por cada 200 de oro que tengas.",
     "name": "El renombre de la Cazarrecompensas",
@@ -330,8 +330,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0075.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0075-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0075.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0075-full.png",
     "description": "<link=keyword.Support><style=Keyword>Apoyo</style></link>: Crea una copia 1|1 de coste 1 del aliado al que apoye en la mano.",
     "descriptionRaw": "Apoyo: Crea una copia 1|1 de coste 1 del aliado al que apoye en la mano.",
     "name": "Condensador",
@@ -340,8 +340,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0013.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0013-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0013.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0013-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Recarga tu maná de hechizos.",
     "descriptionRaw": "Comienzo de ronda: Recarga tu maná de hechizos.",
     "name": "Bastón del arcángel",
@@ -350,8 +350,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0065.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0065-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0065.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0065-full.png",
     "description": "<link=keyword.Plunder><style=Keyword>Asalto</style></link>: Cuesto 2 menos.<br>Consigo +1|+1 por cada ronda en la que has infligido daño al nexo enemigo.",
     "descriptionRaw": "Asalto: Cuesto 2 menos.Consigo +1|+1 por cada ronda en la que has infligido daño al nexo enemigo.",
     "name": "Dosis de pólvora",
@@ -360,8 +360,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0028.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0028-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0028.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0028-full.png",
     "description": "Comienzo de partida: Crea 2 copias de mí en tu mazo.",
     "descriptionRaw": "Comienzo de partida: Crea 2 copias de mí en tu mazo.",
     "name": "El collar camaleónico",
@@ -370,8 +370,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0040.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0040-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0040.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0040-full.png",
     "description": "Cuando se me invoca, <link=vocab.Strike><style=Vocab>golpeo</style></link> al enemigo <link=keyword.Weakest><style=Keyword>más débil</style></link>.",
     "descriptionRaw": "Cuando se me invoca, golpeo al enemigo más débil.",
     "name": "Espada del acechador",
@@ -380,8 +380,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0044.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0044-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0044.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0044-full.png",
     "description": "Comienzo de la aventura: Añade 2 copias de un campeón aleatorio a tu mazo. Equípalo con un objeto épico aleatorio.",
     "descriptionRaw": "Comienzo de la aventura: Añade 2 copias de un campeón aleatorio a tu mazo. Equípalo con un objeto épico aleatorio.",
     "name": "Talismán del guardián",
@@ -390,8 +390,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0012.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0012-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0012.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0012-full.png",
     "description": "<link=keyword.Plunder><style=Keyword>Asalto</style></link>: Cuesto 2 menos.",
     "descriptionRaw": "Asalto: Cuesto 2 menos.",
     "name": "Alijo de la Plaga",
@@ -400,8 +400,18 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0029.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0029-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0097.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0097-full.png",
+    "description": "<link=keyword.Spirit><sprite name=Spirit><style=Keyword>Optimismo</style></link>\r\n<link=vocab.Attack><style=Vocab>Atacar</style></link>: <link=vocab.Boost><style=Vocab>Acrecienta</style></link> a todas las unidades.",
+    "descriptionRaw": "Optimismo\r\nAtacar: Acrecienta a todas las unidades.",
+    "name": "Hacha hendetemores",
+    "relicCode": "R0097",
+    "rarity": "ÉPICA",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0029.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0029-full.png",
     "description": "+1|+1 y cuando mato a un enemigo, obtienes 50 de oro. (Máximo 2 muertes por encuentro).",
     "descriptionRaw": "+1|+1 y cuando mato a un enemigo, obtienes 50 de oro. (Máximo 2 muertes por encuentro).",
     "name": "Recaudadora",
@@ -410,8 +420,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0091.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0091-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0091.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0091-full.png",
     "description": "+0|+2.<br><link=vocab.PathPower><style=Vocab>Poder</style></link>: Cuando invocas a un aliado, obtiene +0|+1 y <link=keyword.Formidable><sprite name=Formidable><style=Keyword>Formidable</style></link>.",
     "descriptionRaw": "+0|+2.Poder: Cuando invocas a un aliado, obtiene +0|+1 y Formidable.",
     "name": "Fuerza de piedra",
@@ -420,8 +430,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0054.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0054-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0054.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0054-full.png",
     "description": "<link=vocab.RoundEnd><style=Vocab>Fin de ronda</style></link>: Consigo <link=keyword.Impact><sprite name=Impact><style=Keyword>Impacto</style></link> dos veces si estoy en la mano (10 de <link=keyword.Impact><sprite name=Impact><style=Keyword>impacto</style></link> como máximo).",
     "descriptionRaw": "Fin de ronda: Consigo Impacto dos veces si estoy en la mano (10 de impacto como máximo).",
     "name": "Farol inquieto",
@@ -430,8 +440,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0018.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0018-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0018.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0018-full.png",
     "description": "Cuando se me invoca, <link=keyword.Stun><sprite name=Stunned><style=Keyword>aturde</style></link> al enemigo <link=vocab.Strongest><style=Vocab>más fuerte</style></link>.",
     "descriptionRaw": "Cuando se me invoca, aturde al enemigo más fuerte.",
     "name": "Escarcha eterna",
@@ -440,8 +450,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0030.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0030-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0030.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0030-full.png",
     "description": "+0|+1 y <link=keyword.Tough><sprite name=Tough><style=Keyword>Aguante</style></link>.",
     "descriptionRaw": "+0|+1 y Aguante.",
     "name": "Coraza de armadurillo",
@@ -450,8 +460,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0061.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0061-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0061.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0061-full.png",
     "description": "Comienzo de partida: Crea 7 copias de mí en el mazo. Tus hechizos de campeón cuestan 1 menos.",
     "descriptionRaw": "Comienzo de partida: Crea 7 copias de mí en el mazo. Tus hechizos de campeón cuestan 1 menos.",
     "name": "Espíritu resonante",
@@ -460,8 +470,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0083.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0083-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0083.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0083-full.png",
     "description": "+1 de maná inicial.<br><color=#FAD65A>Misión:</color> Gana una aventura.<br><color=#FAD65A>Recompensa:</color> x10 de la experiencia de campeón habitual.",
     "descriptionRaw": "+1 de maná inicial.Misión: Gana una aventura.Recompensa: x10 de la experiencia de campeón habitual.",
     "name": "Gran perla cósmica (consumible)",
@@ -470,8 +480,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0006.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0006-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0006.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0006-full.png",
     "description": "<link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>Regeneración</style></link>.",
     "descriptionRaw": "Regeneración.",
     "name": "Armadura de Warmog",
@@ -480,8 +490,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0015.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0015-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0015.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0015-full.png",
     "description": "<link=vocab.Play><style=Vocab>Jugar</style></link>: Recarga el maná de hechizos.",
     "descriptionRaw": "Jugar: Recarga el maná de hechizos.",
     "name": "Capítulo perdido",
@@ -490,8 +500,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0039.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0039-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0039.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0039-full.png",
     "description": "Cuando se me invoca, aplica <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Vulnerable</style></link> a los enemigos esta ronda.",
     "descriptionRaw": "Cuando se me invoca, aplica Vulnerable a los enemigos esta ronda.",
     "name": "Mayal de hielo puro",
@@ -500,8 +510,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0019.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0019-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0019.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0019-full.png",
     "description": "Cuando sobrevivo al daño, consigo +2|+2.",
     "descriptionRaw": "Cuando sobrevivo al daño, consigo +2|+2.",
     "name": "Hebilla del Berserker",
@@ -510,8 +520,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0036.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0036-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0036.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0036-full.png",
     "description": "Cuando se me invoca, descarta la mano y crea esa cantidad de <link=card.self><style=AssociatedCard>Pium Piums</style></link> en tu mano.",
     "descriptionRaw": "Cuando se me invoca, descarta la mano y crea esa cantidad de Pium Piums en tu mano.",
     "name": "La carga explosiva de la Bala Perdida",
@@ -520,8 +530,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0086.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0086-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0086.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0086-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Poder</style></link>: Cuando consigues la ficha de ataque, crea un hechizo aleatorio de coste 2 de tus regiones en la mano. Cuesta 0 y es <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link>.",
     "descriptionRaw": "Poder: Cuando consigues la ficha de ataque, crea un hechizo aleatorio de coste 2 de tus regiones en la mano. Cuesta 0 y es Fugaz.",
     "name": "Sinfonía de la tejehechizos",
@@ -530,8 +540,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0020.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0020-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0020.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0020-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Crea 1 copia <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> de mí en la mano.",
     "descriptionRaw": "Comienzo de ronda: Crea 1 copia Fugaz de mí en la mano.",
     "name": "Plan de contraataque del Gran General",
@@ -540,8 +550,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0059.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0059-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0059.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0059-full.png",
     "description": "+1|+0<br>Mientras estoy atacando, no puedo recibir daño ni morir.",
     "descriptionRaw": "+1|+0Mientras estoy atacando, no puedo recibir daño ni morir.",
     "name": "Burla a la muerte",
@@ -550,8 +560,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0094.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0094-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0094.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0094-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Poder</style></link>: Comienzo de partida: Si soy <link=card.self><style=AssociatedCard>Norra</style></link>, obtienes +1 de maná inicial.<br>Cuando invocas a un aliado creado, le otorgas <link=keyword.Impact><sprite name=Impact><style=Keyword>Impacto</style></link>.",
     "descriptionRaw": "Poder: Comienzo de partida: Si soy Norra, obtienes +1 de maná inicial.Cuando invocas a un aliado creado, le otorgas Impacto.",
     "name": "Acelerador de portales de Norra",
@@ -560,8 +570,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0069.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0069-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0069.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0069-full.png",
     "description": "<color=#FAD65A>Misión:</color> Gana una aventura de 3 o más estrellas.<br><color=#FAD65A>Recompensa:</color> ¡Mejora una ranura de reliquia rara de este campeón a épica!",
     "descriptionRaw": "Misión: Gana una aventura de 3 o más estrellas.Recompensa: ¡Mejora una ranura de reliquia rara de este campeón a épica!",
     "name": "Forja espiritual (consumible)",
@@ -570,8 +580,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0001.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0001-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0001.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0001-full.png",
     "description": "Cuando subo de nivel, <link=vocab.Rally><style=Vocab>prepara el ataque</style></link>.",
     "descriptionRaw": "Cuando subo de nivel, prepara el ataque.",
     "name": "Herencia de los Crownguard",
@@ -580,8 +590,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0008.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0008-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0008.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0008-full.png",
     "description": "Comienza las aventuras con +2 tiradas.",
     "descriptionRaw": "Comienza las aventuras con +2 tiradas.",
     "name": "Prototipo Z",
@@ -590,8 +600,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0034.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0034-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0034.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0034-full.png",
     "description": "<link=keyword.Plunder><style=Keyword>Asalto</style></link>: Lanza <link=card.self><style=AssociatedCard>Andanada de cañón</style></link> tantas veces como mi coste.",
     "descriptionRaw": "Asalto: Lanza Andanada de cañón tantas veces como mi coste.",
     "name": "Batería de Aguas revueltas",
@@ -600,8 +610,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0037.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0037-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0037.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0037-full.png",
     "description": "Cuando se me invoca, crea 1 <link=card.self><style=AssociatedCard>Valor duplicado</style></link> en la mano. Cuesta 3.",
     "descriptionRaw": "Cuando se me invoca, crea 1 Valor duplicado en la mano. Cuesta 3.",
     "name": "Himno del valor",
@@ -610,8 +620,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0048.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0048-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0048.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0048-full.png",
     "description": "Cuando juegas un hechizo, si tienes 6 o más gemas de maná, lo copias con los mismos objetivos.",
     "descriptionRaw": "Cuando juegas un hechizo, si tienes 6 o más gemas de maná, lo copias con los mismos objetivos.",
     "name": "Duplicador tecnoquímico",
@@ -620,8 +630,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0046.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0046-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0046.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0046-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>Comienzo de ronda</style></link>: Crea 1 <link=card.self><style=AssociatedCard>Cometa fugaz</style></link> <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugaz</style></link> en la mano.",
     "descriptionRaw": "Comienzo de ronda: Crea 1 Cometa fugaz Fugaz en la mano.",
     "name": "Cometa arcano",
@@ -630,8 +640,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0085.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0085-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0085.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0085-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Poder</style></link>: Cuando un aliado obtiene estadísticas con un hechizo, consigue el doble.",
     "descriptionRaw": "Poder: Cuando un aliado obtiene estadísticas con un hechizo, consigue el doble.",
     "name": "Técnica secreta",
@@ -640,8 +650,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0041.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0041-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0041.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0041-full.png",
     "description": "<link=keyword.Support><style=Keyword>Apoyo</style></link>: Otorga <link=keyword.Elusive><sprite name=Elusive><style=Keyword>Elusión</style></link> al aliado al que apoye.",
     "descriptionRaw": "Apoyo: Otorga Elusión al aliado al que apoye.",
     "name": "Hojasombra de Greenglade",
@@ -650,8 +660,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0025.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0025-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0025.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0025-full.png",
     "description": "Los aliados obtienen <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Abrumar</style></link>.",
     "descriptionRaw": "Los aliados obtienen Abrumar.",
     "name": "Corona del Rey Trol",
@@ -660,8 +670,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0047.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0047-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0047.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0047-full.png",
     "description": "+1|+1.<br><color=#FAD65A>Misión:</color> Gana una aventura de 1 estrella o menos de dificultad.<br><color=#FAD65A>Recompensa:</color> x10 de la experiencia de campeón habitual.",
     "descriptionRaw": "+1|+1.Misión: Gana una aventura de 1 estrella o menos de dificultad.Recompensa: x10 de la experiencia de campeón habitual.",
     "name": "Búsqueda de la sabiduría",
@@ -670,8 +680,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0089.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0089-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0089.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0089-full.png",
     "description": "<link=keyword.Challenger><sprite name=Challenger><style=Keyword>Contendiente</style></link>, <link=keyword.Tough><sprite name=Tough><style=Keyword>Aguante</style></link> y <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Abrumar</style></link>.",
     "descriptionRaw": "Contendiente, Aguante y Abrumar.",
     "name": "Con todo",
@@ -680,8 +690,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0064.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0064-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0064.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0064-full.png",
     "description": "<link=vocab.Play><style=Vocab>Jugar</style></link>: Coloca 5 campeones de nivel 2 de forma aleatoria en tu mazo y duplica sus estadísticas. Luego, roba uno de ellos.",
     "descriptionRaw": "Jugar: Coloca 5 campeones de nivel 2 de forma aleatoria en tu mazo y duplica sus estadísticas. Luego, roba uno de ellos.",
     "name": "Juramento de los guardianes",
@@ -690,8 +700,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0066.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0066-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0066.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0066-full.png",
     "description": "Cuando se me invoca, crea dos unidades aleatorias de coste 7 o más de tus regiones y reduce su coste la misma cantidad que mi coste básico.",
     "descriptionRaw": "Cuando se me invoca, crea dos unidades aleatorias de coste 7 o más de tus regiones y reduce su coste la misma cantidad que mi coste básico.",
     "name": "Coleguis de portal",
@@ -700,8 +710,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0009.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0009-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0009.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0009-full.png",
     "description": "<link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>Escudo de hechizos</style></link>.",
     "descriptionRaw": "Escudo de hechizos.",
     "name": "Velo del hada de la muerte",
@@ -710,8 +720,18 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0023.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0023-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0096.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0096-full.png",
+    "description": "<link=keyword.Spirit><sprite name=Spirit><style=Keyword>Optimismo</style></link> <link=keyword.Impact><sprite name=Impact><style=Keyword>Impacto</style></link>",
+    "descriptionRaw": "Optimismo Impacto",
+    "name": "Sueño de yordles",
+    "relicCode": "R0096",
+    "rarity": "COMÚN",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0023.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0023-full.png",
     "description": "Los aliados obtienen <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Contendiente</style></link>.",
     "descriptionRaw": "Los aliados obtienen Contendiente.",
     "name": "Armazón Laurent",
@@ -720,8 +740,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0031.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0031-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0031.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0031-full.png",
     "description": "Cuando subo de nivel, <link=keyword.Stun><sprite name=Stunned><style=Keyword>aturde</style></link> a todos los enemigos.",
     "descriptionRaw": "Cuando subo de nivel, aturde a todos los enemigos.",
     "name": "Filo de la tempestad",
@@ -730,8 +750,18 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0060.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0060-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0095.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0095-full.png",
+    "description": "<link=vocab.Play><style=Vocab>Jugar</style></link>: Otorga <link=keyword.Gloom><sprite name=Gloom><style=Keyword>Pesimismo</style></link> a los enemigos.",
+    "descriptionRaw": "Jugar: Otorga Pesimismo a los enemigos.",
+    "name": "Desesperación asoladora",
+    "relicCode": "R0095",
+    "rarity": "RARA",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0060.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0060-full.png",
     "description": "Cuesto 1 menos por cada aliado en juego.<br><link=vocab.Play><style=Vocab>Jugar</style></link>: Inflige 3 de daño a todos los demás aliados.",
     "descriptionRaw": "Cuesto 1 menos por cada aliado en juego.Jugar: Inflige 3 de daño a todos los demás aliados.",
     "name": "Discípulo de las sombras",
@@ -740,8 +770,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0007.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0007-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0007.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0007-full.png",
     "description": "Comienza la aventura con 1 reintento.<br><link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>Último aliento</style></link>: Si es la primera vez que me <link=vocab.Slay><style=Vocab>asesinan</style></link> esta partida, revivo con 1 de vida.",
     "descriptionRaw": "Comienza la aventura con 1 reintento.Último aliento: Si es la primera vez que me asesinan esta partida, revivo con 1 de vida.",
     "name": "Ángel de la guarda",
@@ -750,8 +780,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0032.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_3_0/adventure/es_es/img/relics/R0032-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0032.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/es_es/img/relics/R0032-full.png",
     "description": "+1|+0 y <link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>Temible</style></link>.",
     "descriptionRaw": "+1|+0 y Temible.",
     "name": "Lanza del alma",
