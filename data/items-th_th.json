@@ -1,7 +1,7 @@
 [
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0070.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0070-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0070.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0070-full.png",
     "description": "<link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>โล่เวท</style></link>",
     "descriptionRaw": "โล่เวท",
     "name": "Warding Charm",
@@ -10,8 +10,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0108.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0108-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0108.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0108-full.png",
     "description": "<link=keyword.Burst><sprite name=Burst><style=Keyword>ฉับพลัน</style></link>",
     "descriptionRaw": "ฉับพลัน",
     "name": "Stopwatch",
@@ -20,8 +20,8 @@
     "rarityRef": "Special"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0018.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0018-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0018.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0018-full.png",
     "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ <link=vocab.Advance><style=Vocab>เร่งเวลา</style></link>ของการ์ดใบนี้ 1 รอบ",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ เร่งเวลาของการ์ดใบนี้ 1 รอบ",
     "name": "Stopwatch",
@@ -30,8 +30,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0068.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0068-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0068.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0068-full.png",
     "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ การ์ดใบนี้<link=keyword.Capture><sprite name=Capture><style=Keyword>จับกุม</style></link>ศัตรูที่<link=vocab.Strongest><style=Vocab>แข็งแกร่งที่สุด</style></link>",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ การ์ดใบนี้จับกุมศัตรูที่แข็งแกร่งที่สุด",
     "name": "Iceborn Gauntlet",
@@ -40,8 +40,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0062.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0062-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0062.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0062-full.png",
     "description": "ฮีลเน็กซัสของคุณเท่ากับค่าร่ายของการ์ดใบนี้",
     "descriptionRaw": "ฮีลเน็กซัสของคุณเท่ากับค่าร่ายของการ์ดใบนี้",
     "name": "Health Potion",
@@ -50,8 +50,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0079.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0079-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0079.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0079-full.png",
     "description": "ค่าร่าย -2 หน่วย",
     "descriptionRaw": "ค่าร่าย -2 หน่วย",
     "name": "Nomad's Medallion",
@@ -60,8 +60,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0006.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0006-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0006.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0006-full.png",
     "description": "เริ่มเกม: จั่วการ์ดใบนี้หากไม่มีอยู่<zwsp>ในมือ",
     "descriptionRaw": "เริ่มเกม: จั่วการ์ดใบนี้หากไม่มีอยู่ในมือ",
     "name": "Farsight Alteration",
@@ -70,8 +70,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0126.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0126-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0126.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0126-full.png",
     "description": "<link=keyword.Fated><sprite name=Fated><style=Keyword>โชคชะตา</style></link>และกลายเป็น<zwsp>การ์ดแฟรี่",
     "descriptionRaw": "โชคชะตาและกลายเป็นการ์ดแฟรี่",
     "name": "Fae's Favor",
@@ -80,8 +80,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0034.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0034-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0034.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0034-full.png",
     "description": "<link=vocab.Attack><style=Vocab>โจมตี</style></link>: ติด <link=card.self><style=AssociatedCard>Poison Puffcap</style></link> 5 ใบในเด็คของศัตรู",
     "descriptionRaw": "โจมตี: ติด Poison Puffcap 5 ใบในเด็คของศัตรู",
     "name": "Special Delivery",
@@ -90,8 +90,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0136.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0136-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0136.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0136-full.png",
     "description": "พันธมิตรทั้งหมดได้รับ +1|+1",
     "descriptionRaw": "พันธมิตรทั้งหมดได้รับ +1|+1",
     "name": "Heroes' Reward",
@@ -100,8 +100,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0115.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0115-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0115.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0115-full.png",
     "description": "ค่าร่าย -2 และ<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link>",
     "descriptionRaw": "ค่าร่าย -2 และชั่วคราว",
     "name": "Ante Up",
@@ -110,8 +110,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0121.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0121-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0121.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0121-full.png",
     "description": "ก่อกำเนิดยูนิต<link=vocab.Titanic><style=Vocab>มหึมา</style></link>หนึ่งใบ และอัญเชิญ <link=card.self><style=AssociatedCard>Sigil of the Storm</style></link> 2 ใบ",
     "descriptionRaw": "ก่อกำเนิดยูนิตมหึมาหนึ่งใบ และอัญเชิญ Sigil of the Storm 2 ใบ",
     "name": "Stormcalling",
@@ -120,8 +120,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0118.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0118-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0118.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0118-full.png",
     "description": "ค่าร่ายลดลง 1 หน่วยตามจำนวนการ์ดที่คุณจั่วไปในรอบนี้",
     "descriptionRaw": "ค่าร่ายลดลง 1 หน่วยตามจำนวนการ์ดที่คุณจั่วไปในรอบนี้",
     "name": "Power Riff",
@@ -130,8 +130,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0113.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0113-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0113.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0113-full.png",
     "description": "+1|+0 และ<link=keyword.Brash><sprite name=Brash><style=Keyword>บ้าระห่ำ</style></link>",
     "descriptionRaw": "+1|+0 และบ้าระห่ำ",
     "name": "Coralcrush Gauntlets",
@@ -140,8 +140,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0116.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0116-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0116.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0116-full.png",
     "description": "สร้างความเสียหาย 3 หน่วยแก่เน็กซัสของศัตรู",
     "descriptionRaw": "สร้างความเสียหาย 3 หน่วยแก่เน็กซัสของศัตรู",
     "name": "Pyromantic Wake",
@@ -150,8 +150,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0124.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0124-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0124.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0124-full.png",
     "description": "เมื่อคุณเล่นการ์ด มอบ +1|+1 ให้กับการ์ดใบนี้ในรอบนี้",
     "descriptionRaw": "เมื่อคุณเล่นการ์ด มอบ +1|+1 ให้กับการ์ดใบนี้ในรอบนี้",
     "name": "Excavator's Charge",
@@ -160,8 +160,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0122.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0122-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0122.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0122-full.png",
     "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ เพิ่มพลังการ์ดใบนี้เป็น 8|8",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ เพิ่มพลังการ์ดใบนี้เป็น 8|8",
     "name": "Titanify",
@@ -170,8 +170,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0120.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0120-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0120.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0120-full.png",
     "description": "จั่วยูนิตหนึ่งใบ",
     "descriptionRaw": "จั่วยูนิตหนึ่งใบ",
     "name": "Heroes Call",
@@ -180,8 +180,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0119.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0119-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0119.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0119-full.png",
     "description": "สร้าง Slipstream หนึ่งใบในมือ",
     "descriptionRaw": "สร้าง Slipstream หนึ่งใบในมือ",
     "name": "Urumi",
@@ -190,8 +190,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0125.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0125-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0125.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0125-full.png",
     "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ จั่วเวทหนึ่งใบ",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ จั่วเวทหนึ่งใบ",
     "name": "Arcane Knowledge",
@@ -200,8 +200,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0112.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0112-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0112.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0112-full.png",
     "description": "<link=keyword.Augment><sprite name=Augment><style=Keyword>แต่งเติม</style></link> และกลายเป็น<zwsp>การ์ด<zwsp>เทคโนโลยี",
     "descriptionRaw": "แต่งเติม และกลายเป็นการ์ดเทคโนโลยี",
     "name": "Tech Evolution",
@@ -210,8 +210,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0087.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0087-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0087.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0087-full.png",
     "description": "มอบไอเทมระดับอีปิค<zwsp>หนึ่งชิ้นแบบสุ่มให้กับ<zwsp>พันธมิตร<zwsp>ที่<link=vocab.Strongest><style=Vocab>แข็งแกร่งที่สุด</style></link><zwsp>ของคุณ<zwsp>ใน<zwsp>เกมนี้",
     "descriptionRaw": "มอบไอเทมระดับอีปิคหนึ่งชิ้นแบบสุ่มให้กับพันธมิตรที่แข็งแกร่งที่สุดของคุณในเกมนี้",
     "name": "Hextech Fabricator III",
@@ -220,8 +220,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0035.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0035-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0035.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0035-full.png",
     "description": "+1|+1, <link=keyword.Lurker><sprite name=Lurker><style=Keyword>ดักซุ่ม</style></link> และการ์ดใบนี้้เป็นผู้ดักซุ่ม",
     "descriptionRaw": "+1|+1, ดักซุ่ม และการ์ดใบนี้้เป็นผู้ดักซุ่ม",
     "name": "Mariner's Ruse",
@@ -230,8 +230,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0138.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0138-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0138.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0138-full.png",
     "description": "เริ่มเกม: อัญเชิญการ์ดใบนี้หนึ่งใบ<zwsp>จากเด็คของคุณ",
     "descriptionRaw": "เริ่มเกม: อัญเชิญการ์ดใบนี้หนึ่งใบจากเด็คของคุณ",
     "name": "Home Turf",
@@ -240,8 +240,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0064.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0064-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0064.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0064-full.png",
     "description": "สับการ์ดเสมือนของการ์ด<zwsp>ใบนี้ 2 ใบเข้าในเด็คของ<zwsp>คุณ<br>พวกมันมีค่าร่าย 1 หน่วย",
     "descriptionRaw": "สับการ์ดเสมือนของการ์ดใบนี้ 2 ใบเข้าในเด็คของคุณพวกมันมีค่าร่าย 1 หน่วย",
     "name": "Grifter's Deck",
@@ -250,8 +250,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0088.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0088-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0088.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0088-full.png",
     "description": "ความเสียหาย +1",
     "descriptionRaw": "ความเสียหาย +1",
     "name": "Charging Sigil I",
@@ -260,8 +260,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0095.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0095-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0095.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0095-full.png",
     "description": "เริ่มเกม: ติด <link=card.self><style=AssociatedCard>Mysterious Portal</style></link> หนึ่งใบบนการ์ดใบนี้",
     "descriptionRaw": "เริ่มเกม: ติด Mysterious Portal หนึ่งใบบนการ์ดใบนี้",
     "name": "Norra's Tea",
@@ -270,8 +270,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0047.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0047-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0047.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0047-full.png",
     "description": "<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>โจมตีก่อน</style></link>",
     "descriptionRaw": "โจมตีก่อน",
     "name": "Speed Wraps",
@@ -280,8 +280,18 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0111.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0111-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0142.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0142-full.png",
+    "description": "ในขณะที่อยู่ในมือ การ์ดใบนี้จะมีคีย์เวิร์ดแบบ<zwsp>สุ่มที่จะเปลี่ยนไปในแต่ละ<zwsp>รอบ เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญเชิญ มอบ<zwsp>คีย์เวิร์ด<zwsp>นี้<zwsp>ให้<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้",
+    "descriptionRaw": "ในขณะที่อยู่ในมือ การ์ดใบนี้จะมีคีย์เวิร์ดแบบสุ่มที่จะเปลี่ยนไปในแต่ละรอบ เมื่อการ์ดใบนี้ถูกอัญเชิญ มอบคีย์เวิร์ดนี้ให้การ์ดใบนี้",
+    "name": "Voidling Shell",
+    "itemCode": "I0142",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0111.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0111-full.png",
     "description": "จู่โจม: จั่วการ์ด 1 ใบ",
     "descriptionRaw": "จู่โจม: จั่วการ์ด 1 ใบ",
     "name": "Entrancing Lure",
@@ -290,8 +300,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0132.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0132-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0132.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0132-full.png",
     "description": "คู่ต่อสู้ทิ้งการ์ดหนึ่งใบ<zwsp>แบบ<zwsp>สุ่ม",
     "descriptionRaw": "คู่ต่อสู้ทิ้งการ์ดหนึ่งใบแบบสุ่ม",
     "name": "Brain Worm",
@@ -300,8 +310,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0045.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0045-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0045.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0045-full.png",
     "description": "+3|+1",
     "descriptionRaw": "+3|+1",
     "name": "Colossal Hammer",
@@ -310,8 +320,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0106.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0106-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0106.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0106-full.png",
     "description": "<link=keyword.Scout><sprite name=Scout><style=Keyword>สอดแนม</style></link>",
     "descriptionRaw": "สอดแนม",
     "name": "Phantom Dancer",
@@ -320,8 +330,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0011.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0011-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0011.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0011-full.png",
     "description": "ลดค่าร่ายของการ์ดใบนี้เท่ากับค่าร่ายของแชมเปี้ยนพันธมิตรที่มีค่าร่ายสูงสุดของคุณ",
     "descriptionRaw": "ลดค่าร่ายของการ์ดใบนี้เท่ากับค่าร่ายของแชมเปี้ยนพันธมิตรที่มีค่าร่ายสูงสุดของคุณ",
     "name": "Hextech Protobelt-01",
@@ -330,8 +340,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0090.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0090-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0090.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0090-full.png",
     "description": "ความเสียหาย +4",
     "descriptionRaw": "ความเสียหาย +4",
     "name": "Charging Sigil III",
@@ -340,8 +350,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0014.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0014-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0014.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0014-full.png",
     "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ เพิ่มพลังโจมตีและ<zwsp>พลังชีวิตของการ์ดใบนี้<zwsp>เป็นสองเท่า",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ เพิ่มพลังโจมตีและพลังชีวิตของการ์ดใบนี้เป็นสองเท่า",
     "name": "Black Cleaver",
@@ -350,8 +360,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0093.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0093-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0093.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0093-full.png",
     "description": "อัญเชิญแชมเปี้ยนหนึ่งใบ<zwsp>แบบสุ่มตามค่าร่าย<zwsp>ของ<zwsp>การ์ดใบนี้",
     "descriptionRaw": "อัญเชิญแชมเปี้ยนหนึ่งใบแบบสุ่มตามค่าร่ายของการ์ดใบนี้",
     "name": "Summoner's Stone",
@@ -360,8 +370,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0082.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0082-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0082.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0082-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>: ได้รับอัญมณีมานาเพิ่มหนึ่งเม็ดในรอบนี้",
     "descriptionRaw": "เริ่มรอบ: ได้รับอัญมณีมานาเพิ่มหนึ่งเม็ดในรอบนี้",
     "name": "Crystal Carrier",
@@ -370,8 +380,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0038.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0038-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0038.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0038-full.png",
     "description": "+0|+2",
     "descriptionRaw": "+0|+2",
     "name": "Giant's Belt",
@@ -380,8 +390,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0037.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0037-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0037.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0037-full.png",
     "description": "+1|+1",
     "descriptionRaw": "+1|+1",
     "name": "Studded Leather",
@@ -390,8 +400,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0080.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0080-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0080.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0080-full.png",
     "description": "<link=vocab.RoundEnd><style=Vocab>จบรอบ</style></link>: สร้างความเสียหาย 1 หน่วยแก่การ์ดใบนี้และมอบ +2|+0 ให้การ์ดใบนี้",
     "descriptionRaw": "จบรอบ: สร้างความเสียหาย 1 หน่วยแก่การ์ดใบนี้และมอบ +2|+0 ให้การ์ดใบนี้",
     "name": "Bloodletter's Veil",
@@ -400,8 +410,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0109.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0109-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0109.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0109-full.png",
     "description": "สร้างการ์ดจากเด็คของ<zwsp>จักรพรรดิหนึ่งใบ<zwsp>แบบสุ่ม<zwsp>ในมือ",
     "descriptionRaw": "สร้างการ์ดจากเด็คของจักรพรรดิหนึ่งใบแบบสุ่มในมือ",
     "name": "Emperor's Favor",
@@ -410,8 +420,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0133.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0133-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0133.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0133-full.png",
     "description": "+4|+0 และ<link=keyword.Reckless><sprite name=Reckless><style=Keyword>บล็อกไม่ได้</style></link>",
     "descriptionRaw": "+4|+0 และบล็อกไม่ได้",
     "name": "Consuming Wrath",
@@ -420,8 +430,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0076.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0076-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0076.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0076-full.png",
     "description": "<link=keyword.Tough><sprite name=Tough><style=Keyword>ทนทาน</style></link>",
     "descriptionRaw": "ทนทาน",
     "name": "Chain Vest",
@@ -430,8 +440,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0015.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0015-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0015.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0015-full.png",
     "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ สร้างการ์ดเสมือน <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link> ของการ์ดใบนี้หนึ่งใบในมือ",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ สร้างการ์ดเสมือน ชั่วคราว ของการ์ดใบนี้หนึ่งใบในมือ",
     "name": "Spirit Stone",
@@ -440,8 +450,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0042.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0042-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0042.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0042-full.png",
     "description": "+1|+3",
     "descriptionRaw": "+1|+3",
     "name": "Savage Shield",
@@ -450,8 +460,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0009.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0009-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0009.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0009-full.png",
     "description": "<link=vocab.Attack><style=Vocab>โจมตี</style></link>: <link=keyword.Nab><style=Keyword>ฉกฉวย</style></link><br>1 ใบ",
     "descriptionRaw": "โจมตี: ฉกฉวย1 ใบ",
     "name": "Thieves' Tools",
@@ -460,8 +470,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0056.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0056-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0056.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0056-full.png",
     "description": "ค่าร่าย -3 หน่วย",
     "descriptionRaw": "ค่าร่าย -3 หน่วย",
     "name": "Chalice of Harmony",
@@ -470,8 +480,18 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0067.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0067-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0144.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0144-full.png",
+    "description": "<link=keyword.Spirit><sprite name=Spirit><style=Keyword>ฮึกเหิม</style></link>",
+    "descriptionRaw": "ฮึกเหิม",
+    "name": "Bright Staff",
+    "itemCode": "I0144",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0067.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0067-full.png",
     "description": "เมื่อคุณเล่นเวท มอบ +1|+1 ให้กับการ์ดใบนี้",
     "descriptionRaw": "เมื่อคุณเล่นเวท มอบ +1|+1 ให้กับการ์ดใบนี้",
     "name": "Focusing Crystal",
@@ -480,8 +500,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0033.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0033-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0033.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0033-full.png",
     "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ อัญเชิญการ์ดเสมือนของการ์ดใบนี้",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ อัญเชิญการ์ดเสมือนของการ์ดใบนี้",
     "name": "Zz'Rot Portal",
@@ -490,8 +510,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0096.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0096-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0096.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0096-full.png",
     "description": "<link=vocab.Attack><style=Vocab>โจมตี:</style></link> มอบ +1|+1 ให้กับการ์ดที่ติดตั้งการ์ดใบนี้",
     "descriptionRaw": "โจมตี: มอบ +1|+1 ให้กับการ์ดที่ติดตั้งการ์ดใบนี้",
     "name": "Sheen",
@@ -500,8 +520,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0052.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0052-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0052.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0052-full.png",
     "description": "มีโอกาส 50% ที่จะสร้างการ์ดเสมือนของ<zwsp>การ์ดใบนี้ที่มีค่าร่าย 0 หน่วยในรอบนี้หนึ่งใบในมือ",
     "descriptionRaw": "มีโอกาส 50% ที่จะสร้างการ์ดเสมือนของการ์ดใบนี้ที่มีค่าร่าย 0 หน่วยในรอบนี้หนึ่งใบในมือ",
     "name": "Doubling Dice",
@@ -510,8 +530,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0110.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0110-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0110.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0110-full.png",
     "description": "การ์ดใบนี้มีค่าร่าย 1 หน่วย<zwsp>และ<zwsp>ค่าพลัง<zwsp>พื้นฐาน<zwsp>กลายเป็น 1|1 การ์ด<zwsp>ใบนี้<zwsp>เป็น<zwsp>โปโร",
     "descriptionRaw": "การ์ดใบนี้มีค่าร่าย 1 หน่วยและค่าพลังพื้นฐานกลายเป็น 1|1 การ์ดใบนี้เป็นโปโร",
     "name": "Poro Fluft",
@@ -520,8 +540,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0071.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0071-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0071.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0071-full.png",
     "description": "<link=keyword.Support><style=Keyword>สนับสนุน</style></link>: มอบ +1|+1 ให้<zwsp>กับ<zwsp>พันธมิตร<zwsp>ที่<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>สนับสนุน",
     "descriptionRaw": "สนับสนุน: มอบ +1|+1 ให้กับพันธมิตรที่การ์ดใบนี้สนับสนุน",
     "name": "Targon's Brace",
@@ -530,8 +550,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0091.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0091-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0091.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0091-full.png",
     "description": "ความเสียหาย +2",
     "descriptionRaw": "ความเสียหาย +2",
     "name": "Charging Sigil II",
@@ -540,8 +560,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0027.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0027-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0027.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0027-full.png",
     "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ<zwsp>หรือถูกทำลาย ฮีลเน็กซัสของคุณเท่ากับ<zwsp>ค่าร่ายของการ์ดใบนี้",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญหรือถูกทำลาย ฮีลเน็กซัสของคุณเท่ากับค่าร่ายของการ์ดใบนี้",
     "name": "Crystalline Bracer",
@@ -550,8 +570,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0039.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0039-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0039.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0039-full.png",
     "description": "<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>ทะลวง</style></link>",
     "descriptionRaw": "ทะลวง",
     "name": "Greatclub",
@@ -560,8 +580,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0013.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0013-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0013.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0013-full.png",
     "description": "<link=keyword.Elusive><sprite name=Elusive><style=Keyword>ว่องไว</style></link>",
     "descriptionRaw": "ว่องไว",
     "name": "Ninja Tabi",
@@ -570,8 +590,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0036.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0036-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0036.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0036-full.png",
     "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>สิ้นลม</style></link>: <link=vocab.Rally><style=Vocab>ปลุกระดม</style></link>",
     "descriptionRaw": "สิ้นลม: ปลุกระดม",
     "name": "Rally Banner",
@@ -580,8 +600,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0021.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0021-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0021.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0021-full.png",
     "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ การ์ดใบนี้<link=keyword.Capture><sprite name=Capture><style=Keyword>จับกุม</style></link>ศัตรูที่<link=vocab.Strongest><style=Vocab>แข็งแกร่งที่สุด</style></link>",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ การ์ดใบนี้จับกุมศัตรูที่แข็งแกร่งที่สุด",
     "name": "Trapped Treasure",
@@ -590,8 +610,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0072.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0072-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0072.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0072-full.png",
     "description": "<link=keyword.Support><style=Keyword>สนับสนุน</style></link>: มอบ +1|+1 และคีย์เวิร์ดของการ์ดใบนี้<zwsp>แก่พันธมิตรที่ได้รับ<zwsp>การสนับสนุนในรอบนี้",
     "descriptionRaw": "สนับสนุน: มอบ +1|+1 และคีย์เวิร์ดของการ์ดใบนี้แก่พันธมิตรที่ได้รับการสนับสนุนในรอบนี้",
     "name": "Bonded Bucklers",
@@ -600,8 +620,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0130.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0130-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0130.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0130-full.png",
     "description": "<link=keyword.Double Strike><sprite name=DoubleStrike><style=Keyword>โจมตีสองครั้ง</style></link>",
     "descriptionRaw": "โจมตีสองครั้ง",
     "name": "Heavy Hands",
@@ -610,8 +630,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0084.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0084-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0084.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0084-full.png",
     "description": "มอบ +1|+1 ให้กับพันธมิตรทุกใบในรอบนี้",
     "descriptionRaw": "มอบ +1|+1 ให้กับพันธมิตรทุกใบในรอบนี้",
     "name": "Battle Banner",
@@ -620,8 +640,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0065.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0065-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0065.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0065-full.png",
     "description": "<link=vocab.Predict><style=Vocab>พยากรณ์</style></link>",
     "descriptionRaw": "พยากรณ์",
     "name": "Oracle's Lens",
@@ -630,8 +650,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0074.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0074-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0074.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0074-full.png",
     "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ ฮีลเน็กซัสของคุณเท่ากับ<zwsp>ค่าร่ายของการ์ดใบนี้",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ ฮีลเน็กซัสของคุณเท่ากับค่าร่ายของการ์ดใบนี้",
     "name": "Vampiric Scepter",
@@ -640,8 +660,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0097.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0097-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0097.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0097-full.png",
     "description": "<link=keyword.Challenger><sprite name=Challenger><style=Keyword>ผู้ท้าชิง</style></link>",
     "descriptionRaw": "ผู้ท้าชิง",
     "name": "Bilgewater Cutlass",
@@ -650,8 +670,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0000.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0000-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0000.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0000-full.png",
     "description": "มอบ +3|+3 ให้พันธมิตรใบบนสุดในเด็ค<zwsp>ของคุณ",
     "descriptionRaw": "มอบ +3|+3 ให้พันธมิตรใบบนสุดในเด็คของคุณ",
     "name": "Ardent Censer",
@@ -660,8 +680,18 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0086.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0086-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0146.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0146-full.png",
+    "description": "<link=keyword.Hallowed><sprite name=Hallowed><style=Keyword>พลังศักดิ์สิทธิ์</style></link>",
+    "descriptionRaw": "พลังศักดิ์สิทธิ์",
+    "name": "Miraculous Melody",
+    "itemCode": "I0146",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0086.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0086-full.png",
     "description": "มอบไอเทมระดับแรร์หนึ่งชิ้นแบบสุ่มให้กับพันธมิตรที่<link=vocab.Strongest><style=Vocab>แข็งแกร่งที่สุด</style></link>ของคุณในเกมนี้",
     "descriptionRaw": "มอบไอเทมระดับแรร์หนึ่งชิ้นแบบสุ่มให้กับพันธมิตรที่แข็งแกร่งที่สุดของคุณในเกมนี้",
     "name": "Hextech Fabricator II",
@@ -670,8 +700,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0012.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0012-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0012.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0012-full.png",
     "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ อัญเชิญการ์ดเสมือน <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>ไร้ตัวตน</style></link> ของการ์ดใบนี้หนึ่งใบ",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ อัญเชิญการ์ดเสมือน ไร้ตัวตน ของการ์ดใบนี้หนึ่งใบ",
     "name": "Shadow Totem",
@@ -680,8 +710,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0054.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0054-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0054.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0054-full.png",
     "description": "การ์ดใบนี้มีค่าร่าย 0 หน่วย สร้างความเสียหายแก่<zwsp>เน็กซัสของคุณเท่ากับ<zwsp>ค่าร่ายดั้งเดิมของการ์ด<zwsp>ใบนี้",
     "descriptionRaw": "การ์ดใบนี้มีค่าร่าย 0 หน่วย สร้างความเสียหายแก่เน็กซัสของคุณเท่ากับค่าร่ายดั้งเดิมของการ์ดใบนี้",
     "name": "Bloodprice Prism",
@@ -690,8 +720,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0002.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0002-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0002.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0002-full.png",
     "description": "<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link>",
     "descriptionRaw": "ชั่วคราว",
     "name": "Cursed Stone",
@@ -700,8 +730,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0001.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0001-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0001.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0001-full.png",
     "description": "บล็อกไม่ได้",
     "descriptionRaw": "บล็อกไม่ได้",
     "name": "Rusty Armor",
@@ -710,8 +740,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0005.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0005-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0005.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0005-full.png",
     "description": "-1|-0",
     "descriptionRaw": "-1|-0",
     "name": "Rusty Sword",
@@ -720,8 +750,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0003.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0003-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0003.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0003-full.png",
     "description": "<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>ไร้ตัวตน</style></link>",
     "descriptionRaw": "ไร้ตัวตน",
     "name": "Cursed Cloak",
@@ -730,8 +760,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0004.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0004-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0004.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0004-full.png",
     "description": "ค่าร่าย +1",
     "descriptionRaw": "ค่าร่าย +1",
     "name": "Expired Mana Potion",
@@ -740,8 +770,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0089.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0089-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0089.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0089-full.png",
     "description": "มอบ +6|+6 ให้พันธมิตรใบบนสุดในเด็ค<zwsp>ของคุณ",
     "descriptionRaw": "มอบ +6|+6 ให้พันธมิตรใบบนสุดในเด็คของคุณ",
     "name": "Titanic Censer",
@@ -750,8 +780,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0140.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0140-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0140.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0140-full.png",
     "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ ติด <link=card.self><style=AssociatedCard>Chime</style></link> 6 ใบไว้บนการ์ดในเด็คของคุณแบบสุ่ม",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ ติด Chime 6 ใบไว้บนการ์ดในเด็คของคุณแบบสุ่ม",
     "name": "Wanderer's Blessing",
@@ -760,8 +790,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0049.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0049-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0049.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0049-full.png",
     "description": "เมื่อคุณเล่นเวท ลดค่าร่ายการ์ดใบนี้ลง 1 หน่วย",
     "descriptionRaw": "เมื่อคุณเล่นเวท ลดค่าร่ายการ์ดใบนี้ลง 1 หน่วย",
     "name": "Mage's Handbook",
@@ -770,8 +800,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0060.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0060-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0060.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0060-full.png",
     "description": "อัญเชิญผู้ติดตามจาก<zwsp>ภูมิภาคของคุณที่มีค่าร่าย<zwsp>เท่ากับการ์ดใบนี้หนึ่งใบ",
     "descriptionRaw": "อัญเชิญผู้ติดตามจากภูมิภาคของคุณที่มีค่าร่ายเท่ากับการ์ดใบนี้หนึ่งใบ",
     "name": "Summoning Beacon",
@@ -780,8 +810,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0078.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0078-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0078.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0078-full.png",
     "description": "เมื่อการ์ดใบนี้ถูก<zwsp>อัญเชิญ จั่วการ์ด 1 ใบ",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ จั่วการ์ด 1 ใบ",
     "name": "Philosopher's Stone",
@@ -790,8 +820,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0044.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0044-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0044.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0044-full.png",
     "description": "+3|+3",
     "descriptionRaw": "+3|+3",
     "name": "Titan's Axe",
@@ -800,8 +830,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0019.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0019-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0019.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0019-full.png",
     "description": "+1|+1, <link=keyword.Fury><sprite name=Fury><style=Keyword>โทสะ</style></link> และการ์ดใบนี้เป็นมังกร",
     "descriptionRaw": "+1|+1, โทสะ และการ์ดใบนี้เป็นมังกร",
     "name": "Dragon Tooth",
@@ -810,8 +840,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0007.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0007-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0007.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0007-full.png",
     "description": "<link=keyword.Challenger><sprite name=Challenger><style=Keyword>ผู้ท้าชิง</style></link>",
     "descriptionRaw": "ผู้ท้าชิง",
     "name": "Skirmisher's Sabre",
@@ -820,8 +850,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0026.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0026-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0026.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0026-full.png",
     "description": "การ์ดใบนี้มี<link=vocab.Countdown><style=Vocab>นับถอยหลัง</style></link> 3: สร้างความเสียหายแก่เน็กซัส<zwsp>ของศัตรูเท่ากับค่าร่ายของการ์ดใบนี้<zwsp>คูณสอง",
     "descriptionRaw": "การ์ดใบนี้มีนับถอยหลัง 3: สร้างความเสียหายแก่เน็กซัสของศัตรูเท่ากับค่าร่ายของการ์ดใบนี้คูณสอง",
     "name": "Alchemist's Incendiary",
@@ -830,8 +860,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0061.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0061-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0061.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0061-full.png",
     "description": "<link=keyword.Plunder><style=Keyword>ปล้น</style></link>: การ์ดใบนี้มีค่าร่ายลดลง 3 หน่วย",
     "descriptionRaw": "ปล้น: การ์ดใบนี้มีค่าร่ายลดลง 3 หน่วย",
     "name": "Forbidden Idol",
@@ -840,8 +870,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0092.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0092-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0092.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0092-full.png",
     "description": "อัญเชิญ <link=card.self><style=AssociatedCard>Mighty Poro</style></link> หนึ่งใบ",
     "descriptionRaw": "อัญเชิญ Mighty Poro หนึ่งใบ",
     "name": "Mighty Moustache",
@@ -850,8 +880,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0048.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0048-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0048.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0048-full.png",
     "description": "ได้รับ +3|+3 แต่มีค่าร่ายเพิ่มขึ้น 1 หน่วย",
     "descriptionRaw": "ได้รับ +3|+3 แต่มีค่าร่ายเพิ่มขึ้น 1 หน่วย",
     "name": "Radiant Plate Armor",
@@ -860,8 +890,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0024.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0024-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0024.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0024-full.png",
     "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ จั่วการ์ด 1 ใบ",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ จั่วการ์ด 1 ใบ",
     "name": "Elixir Of Skill",
@@ -870,8 +900,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0075.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0075-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0075.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0075-full.png",
     "description": "ค่าร่าย -1 หน่วย",
     "descriptionRaw": "ค่าร่าย -1 หน่วย",
     "name": "Ancient Coin",
@@ -880,8 +910,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0073.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0073-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0073.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0073-full.png",
     "description": "'+2|+2 และเมื่อการ์ดใบนี้ถูก<zwsp>อัญเชิญ ศัตรูที่<link=vocab.Strongest><style=Vocab>แข็งแกร่งที่สุด</style></link>และ<zwsp>การ์ดใบนี้<link=vocab.Strike><style=Vocab>จู่โจม</style></link><zwsp>กันและกัน",
     "descriptionRaw": "'+2|+2 และเมื่อการ์ดใบนี้ถูกอัญเชิญ ศัตรูที่แข็งแกร่งที่สุดและการ์ดใบนี้จู่โจมกันและกัน",
     "name": "Reckoner Mark",
@@ -890,8 +920,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0050.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0050-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0050.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0050-full.png",
     "description": "<link=keyword.Scout><sprite name=Scout><style=Keyword>สอดแนม</style></link>",
     "descriptionRaw": "สอดแนม",
     "name": "Hunter's Machete",
@@ -900,8 +930,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0017.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0017-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0017.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0017-full.png",
     "description": "<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>น่าสะพรึง</style></link>",
     "descriptionRaw": "น่าสะพรึง",
     "name": "Serrated Dirk",
@@ -910,8 +940,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0094.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0094-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0094.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0094-full.png",
     "description": "ได้รับอัญมณีมานา<zwsp>ว่างเปล่า<zwsp>หนึ่งเม็ด",
     "descriptionRaw": "ได้รับอัญมณีมานาว่างเปล่าหนึ่งเม็ด",
     "name": "Sapphire Crystal",
@@ -920,8 +950,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0041.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0041-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0041.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0041-full.png",
     "description": "+2|+0",
     "descriptionRaw": "+2|+0",
     "name": "Pickaxe",
@@ -930,8 +960,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0058.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0058-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0058.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0058-full.png",
     "description": "จั่วการ์ด 1 ใบ",
     "descriptionRaw": "จั่วการ์ด 1 ใบ",
     "name": "Elixir Of Skill",
@@ -940,8 +970,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0081.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0081-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0081.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0081-full.png",
     "description": "จบรอบ: ลดค่าร่ายของการ์ดใบนี้ลง 1 หน่วย",
     "descriptionRaw": "จบรอบ: ลดค่าร่ายของการ์ดใบนี้ลง 1 หน่วย",
     "name": "Double Time Watch",
@@ -950,8 +980,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0016.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0016-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0016.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0016-full.png",
     "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ ติด <link=card.self><style=AssociatedCard>Flashbomb Trap</style></link> 4 ใบบนการ์ด 8 ใบบนสุดในเด็คของศัตรู",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ ติด Flashbomb Trap 4 ใบบนการ์ด 8 ใบบนสุดในเด็คของศัตรู",
     "name": "Flashbomb Satchel",
@@ -960,8 +990,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0104.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0104-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0104.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0104-full.png",
     "description": "<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>โจมตีก่อน</style></link>",
     "descriptionRaw": "โจมตีก่อน",
     "name": "Zeal",
@@ -970,8 +1000,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0077.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0077-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0077.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0077-full.png",
     "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ เติมมานาของคุณเท่ากับค่าร่ายของการ์ดใบนี้",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ เติมมานาของคุณเท่ากับค่าร่ายของการ์ดใบนี้",
     "name": "Mana Deposit",
@@ -980,8 +1010,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0069.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0069-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0069.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0069-full.png",
     "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: การ์ดใบนี้เริ่มการโจมตีฟรี",
     "descriptionRaw": "เล่น: การ์ดใบนี้เริ่มการโจมตีฟรี",
     "name": "Quickstrike Blade",
@@ -990,8 +1020,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0066.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0066-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0066.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0066-full.png",
     "description": "อัญเชิญโปโรค่าร่าย 1 หน่วยแบบสุ่มหนึ่งใบ",
     "descriptionRaw": "อัญเชิญโปโรค่าร่าย 1 หน่วยแบบสุ่มหนึ่งใบ",
     "name": "Poro Snax",
@@ -1000,8 +1030,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0028.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0028-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0028.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0028-full.png",
     "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญหรือ<zwsp>ถูกทำลาย อัญเชิญผู้ติดตามจากภูมิภาคของคุณที่มีค่าร่ายเท่ากับการ์ดใบนี้<zwsp>หนึ่งใบ",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญหรือถูกทำลาย อัญเชิญผู้ติดตามจากภูมิภาคของคุณที่มีค่าร่ายเท่ากับการ์ดใบนี้หนึ่งใบ",
     "name": "Eye of the Watchers",
@@ -1010,8 +1040,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0137.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0137-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0137.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0137-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>: เติมมานาเวทของคุณ",
     "descriptionRaw": "เริ่มรอบ: เติมมานาเวทของคุณ",
     "name": "Sorcerer's Tower",
@@ -1020,8 +1050,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0085.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0085-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0085.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0085-full.png",
     "description": "มอบ +1|+1 ให้พันธมิตรใบบนสุดในเด็ค<zwsp>ของคุณ",
     "descriptionRaw": "มอบ +1|+1 ให้พันธมิตรใบบนสุดในเด็คของคุณ",
     "name": "Hand Censer",
@@ -1030,8 +1060,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0010.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0010-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0010.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0010-full.png",
     "description": "<link=keyword.Deep><sprite name=Deep><style=Keyword>ดำดิ่ง</style></link> และการ์ดใบนี้เป็นสัตว์ใต้ท้องทะเล",
     "descriptionRaw": "ดำดิ่ง และการ์ดใบนี้เป็นสัตว์ใต้ท้องทะเล",
     "name": "Diving Helmet",
@@ -1040,8 +1070,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0008.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0008-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0008.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0008-full.png",
     "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ มอบ<link=keyword.Barrier><sprite name=Barrier><style=Keyword>บาเรีย</style></link>ให้กับการ์ด<zwsp>ใบนี้",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ มอบบาเรียให้กับการ์ดใบนี้",
     "name": "Locket of the Iron Solari",
@@ -1050,8 +1080,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0053.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0053-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0053.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0053-full.png",
     "description": "จั่วแชมเปี้ยน 1 ใบ",
     "descriptionRaw": "จั่วแชมเปี้ยน 1 ใบ",
     "name": "Hero's Horn",
@@ -1060,8 +1090,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0107.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0107-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0107.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0107-full.png",
     "description": "เมื่อคุณเล่นเวท มอบ +1|+1 ให้กับการ์ดที่ติดตั้งการ์ดใบนี้",
     "descriptionRaw": "เมื่อคุณเล่นเวท มอบ +1|+1 ให้กับการ์ดที่ติดตั้งการ์ดใบนี้",
     "name": "Essence Reaver",
@@ -1070,8 +1100,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0083.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0083-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0083.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0083-full.png",
     "description": "มอบไอเทมระดับคอมมอน<zwsp>หนึ่งชิ้นแบบสุ่มให้กับ<zwsp>พันธมิตรที่<zwsp><link=vocab.Strongest><style=Vocab>แข็งแกร่งที่สุด</style></link><zwsp>ของคุณ<zwsp>ในเกมนี้",
     "descriptionRaw": "มอบไอเทมระดับคอมมอนหนึ่งชิ้นแบบสุ่มให้กับพันธมิตรที่แข็งแกร่งที่สุดของคุณในเกมนี้",
     "name": "Hextech Fabricator I",
@@ -1080,8 +1110,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0105.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0105-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0105.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0105-full.png",
     "description": "<link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>ฟื้นฟู</style></link>",
     "descriptionRaw": "ฟื้นฟู",
     "name": "Rejuvenation Bead",
@@ -1090,8 +1120,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0031.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0031-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0031.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0031-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>: ได้รับอัญมณีมานาเพิ่มหนึ่งเม็ด<zwsp>ในรอบนี้",
     "descriptionRaw": "เริ่มรอบ: ได้รับอัญมณีมานาเพิ่มหนึ่งเม็ดในรอบนี้",
     "name": "Equinox Crystal",
@@ -1100,8 +1130,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0040.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0040-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0040.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0040-full.png",
     "description": "+2|+2",
     "descriptionRaw": "+2|+2",
     "name": "Phage",
@@ -1110,8 +1140,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0046.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0046-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0046.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0046-full.png",
     "description": "<link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>ฟื้นฟู</style></link>",
     "descriptionRaw": "ฟื้นฟู",
     "name": "Hearty Rations",
@@ -1120,8 +1150,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0043.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0043-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0043.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0043-full.png",
     "description": "+3|+3 แต่<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>ไร้ตัวตน</style></link>",
     "descriptionRaw": "+3|+3 แต่ไร้ตัวตน",
     "name": "Cursed Symbol",
@@ -1130,8 +1160,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0025.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0025-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0025.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0025-full.png",
     "description": "เมื่อการ์ดใบนี้ถูกทำลาย สร้างการ์ดเสมือนของการ์ดใบนี้<zwsp>หนึ่งใบในมือ",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกทำลาย สร้างการ์ดเสมือนของการ์ดใบนี้หนึ่งใบในมือ",
     "name": "Eye of the Aspect",
@@ -1140,8 +1170,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0131.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0131-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0131.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0131-full.png",
     "description": "<link=vocab.Rally><style=Vocab>ปลุกระดม</style></link>",
     "descriptionRaw": "ปลุกระดม",
     "name": "Rallying Standard",
@@ -1150,8 +1180,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0063.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0063-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0063.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0063-full.png",
     "description": "<link=vocab.Manifest><style=Vocab>ก่อกำเนิด</style></link>การ์ด<zwsp>จาก<nobr>ภูมิ<zwsp>ภาค</nobr>ของ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>หนึ่ง<zwsp>ใบ",
     "descriptionRaw": "ก่อกำเนิดการ์ดจากภูมิภาคของการ์ดใบนี้หนึ่งใบ",
     "name": "Yordle Portal",
@@ -1160,8 +1190,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0032.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0032-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0032.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0032-full.png",
     "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ อัญเชิญ Poro ค่าร่าย 1 หน่วยแบบสุ่มหนึ่งใบ",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ อัญเชิญ Poro ค่าร่าย 1 หน่วยแบบสุ่มหนึ่งใบ",
     "name": "Poro Snax",
@@ -1170,8 +1200,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0059.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0059-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0059.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0059-full.png",
     "description": "<link=keyword.Invoke><style=Keyword>อ้อนวอน</style></link>",
     "descriptionRaw": "อ้อนวอน",
     "name": "Standard Starchart",
@@ -1180,8 +1210,18 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0051.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0051-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0143.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0143-full.png",
+    "description": "ส่งผล<link=keyword.Gloom><sprite name=Gloom><style=Keyword>หดหู่</style></link><zwsp>แทนที่<zwsp>จะ<zwsp>สร้าง<zwsp>ความเสียหาย",
+    "descriptionRaw": "ส่งผลหดหู่แทนที่จะสร้างความเสียหาย",
+    "name": "Morellonomicon",
+    "itemCode": "I0143",
+    "rarity": "คอมมอน",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0051.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0051-full.png",
     "description": "คัดลอกการ์ดนี้และใช้<zwsp>อีกครั้งบนเป้าหมาย<zwsp>เดิม",
     "descriptionRaw": "คัดลอกการ์ดนี้และใช้อีกครั้งบนเป้าหมายเดิม",
     "name": "Elixir of Sorcery",
@@ -1190,8 +1230,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0057.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0057-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0057.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0057-full.png",
     "description": "ค่าร่าย -2 หน่วย",
     "descriptionRaw": "ค่าร่าย -2 หน่วย",
     "name": "Tear of the Goddess",
@@ -1200,8 +1240,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0030.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0030-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0030.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0030-full.png",
     "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญหรือ<zwsp>ถูกทำลาย มอบ +1|+1 ให้กับพันธมิตรที่<link=vocab.Strongest><style=Vocab>แข็งแกร่งที่สุด</style></link>",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญหรือถูกทำลาย มอบ +1|+1 ให้กับพันธมิตรที่แข็งแกร่งที่สุด",
     "name": "Symbol of Strength",
@@ -1210,8 +1250,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0129.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0129-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0129.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0129-full.png",
     "description": "<link=keyword.Attune><sprite name=Attune><style=Keyword>ชำนาญเวท</style></link>\r\nเมื่อการ์ดใบนี้ถูกอัญเชิญ สร้าง <link=card.self><style=AssociatedCard>Prank</style></link> หนึ่งใบในมือ",
     "descriptionRaw": "ชำนาญเวท\r\nเมื่อการ์ดใบนี้ถูกอัญเชิญ สร้าง Prank หนึ่งใบในมือ",
     "name": "Mischievous Spirit",
@@ -1220,8 +1260,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0055.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0055-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0055.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0055-full.png",
     "description": "ค่าร่าย -1 หน่วย",
     "descriptionRaw": "ค่าร่าย -1 หน่วย",
     "name": "Mana Potion",
@@ -1230,8 +1270,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0135.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0135-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0135.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0135-full.png",
     "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ<zwsp>และ<link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>: อัญเชิญ <link=card.self><style=AssociatedCard>Encroaching Mist</style></link> หนึ่งใบ",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญและเริ่มรอบ: อัญเชิญ Encroaching Mist หนึ่งใบ",
     "name": "The Mist",
@@ -1240,8 +1280,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0134.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0134-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0134.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0134-full.png",
     "description": "อัญเชิญ <link=card.self><style=AssociatedCard>Preservarium</style></link> หนึ่งใบ",
     "descriptionRaw": "อัญเชิญ Preservarium หนึ่งใบ",
     "name": "Chronomancy",
@@ -1250,8 +1290,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0029.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_4_0/adventure/th_th/img/items/I0029-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0029.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_5_0/adventure/th_th/img/items/I0029-full.png",
     "description": "ศัตรูได้รับ <nobr>-1|-0</nobr>",
     "descriptionRaw": "ศัตรูได้รับ -1|-0",
     "name": "Haunting Trophy",
