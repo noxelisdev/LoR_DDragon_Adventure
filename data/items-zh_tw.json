@@ -1,7 +1,7 @@
 [
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0070.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0070-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0070.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0070-full.png",
     "description": "<link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>法盾</style></link>",
     "descriptionRaw": "法盾",
     "name": "守衛護符",
@@ -10,8 +10,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0108.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0108-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0108.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0108-full.png",
     "description": "<link=keyword.Burst><sprite name=Burst><style=Keyword>疾速</style></link>",
     "descriptionRaw": "疾速",
     "name": "停滯鐘錶",
@@ -20,8 +20,8 @@
     "rarityRef": "Special"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0018.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0018-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0018.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0018-full.png",
     "description": "召喚此牌時，<link=vocab.Advance><style=Vocab>快轉</style></link>此牌1回合。",
     "descriptionRaw": "召喚此牌時，快轉此牌1回合。",
     "name": "停滯鐘錶",
@@ -30,8 +30,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0068.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0068-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0068.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0068-full.png",
     "description": "召喚此牌時，此牌<nobr><link=keyword.Capture><sprite name=Capture><style=Keyword>俘虜</style></link></nobr><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。",
     "descriptionRaw": "召喚此牌時，此牌俘虜最強敵軍單位。",
     "name": "寒冰霸拳",
@@ -40,8 +40,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0062.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0062-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0062.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0062-full.png",
     "description": "治療我方主堡等同於此牌魔耗值的生命值。",
     "descriptionRaw": "治療我方主堡等同於此牌魔耗值的生命值。",
     "name": "生命藥水",
@@ -50,8 +50,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0079.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0079-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0079.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0079-full.png",
     "description": "魔耗值-2",
     "descriptionRaw": "魔耗值-2",
     "name": "流浪者徽章",
@@ -60,8 +60,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0006.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0006-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0006.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0006-full.png",
     "description": "牌局開始：若此牌不在我方手牌中，則抽出此牌。",
     "descriptionRaw": "牌局開始：若此牌不在我方手牌中，則抽出此牌。",
     "name": "鷹眼晶球",
@@ -70,8 +70,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0126.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0126-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0126.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0126-full.png",
     "description": "<link=keyword.Fated><sprite name=Fated><style=Keyword>命定</style></link>並化為妖精",
     "descriptionRaw": "命定並化為妖精",
     "name": "妖精眷顧",
@@ -80,8 +80,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0034.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0034-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0034.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0034-full.png",
     "description": "<link=vocab.Attack><style=Vocab>攻擊</style></link>：將5張<link=card.self><style=AssociatedCard>劇毒膨菇</style></link>植入敵方牌組。",
     "descriptionRaw": "攻擊：將5張劇毒膨菇植入敵方牌組。",
     "name": "炸彈快遞",
@@ -90,8 +90,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0136.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0136-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0136.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0136-full.png",
     "description": "使友軍單位擁有+1|+1",
     "descriptionRaw": "使友軍單位擁有+1|+1",
     "name": "英雄之禮",
@@ -100,8 +100,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0115.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0115-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0115.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0115-full.png",
     "description": "魔耗值-2與<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>",
     "descriptionRaw": "魔耗值-2與飛逝",
     "name": "下注",
@@ -110,8 +110,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0121.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0121-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0121.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0121-full.png",
     "description": "顯化1個<link=vocab.Titanic><style=Vocab>泰坦</style></link>單位並召喚2個<link=card.self><style=AssociatedCard>風暴之紋</style></link>。",
     "descriptionRaw": "顯化1個泰坦單位並召喚2個風暴之紋。",
     "name": "風暴呼喚",
@@ -120,8 +120,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0118.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0118-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0118.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0118-full.png",
     "description": "本回合每抽1張牌，此牌魔耗值便-1。",
     "descriptionRaw": "本回合每抽1張牌，此牌魔耗值便-1。",
     "name": "力量和弦",
@@ -130,8 +130,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0113.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0113-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0113.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0113-full.png",
     "description": "+1|+0與<link=keyword.Brash><sprite name=Brash><style=Keyword>硬派</style></link>",
     "descriptionRaw": "+1|+0與硬派",
     "name": "碎瑚拳套",
@@ -140,8 +140,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0116.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0116-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0116.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0116-full.png",
     "description": "對敵方主堡造成3點傷害。",
     "descriptionRaw": "對敵方主堡造成3點傷害。",
     "name": "喚醒烈焰",
@@ -150,8 +150,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0124.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0124-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0124.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0124-full.png",
     "description": "我方打出卡牌時，本回合給予此牌+1|+1。",
     "descriptionRaw": "我方打出卡牌時，本回合給予此牌+1|+1。",
     "name": "鑽探衝鋒",
@@ -160,8 +160,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0122.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0122-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0122.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0122-full.png",
     "description": "召喚此牌時，使其成長到8|8。",
     "descriptionRaw": "召喚此牌時，使其成長到8|8。",
     "name": "泰坦化",
@@ -170,8 +170,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0120.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0120-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0120.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0120-full.png",
     "description": "抽1個單位。",
     "descriptionRaw": "抽1個單位。",
     "name": "英雄呼喚",
@@ -180,8 +180,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0119.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0119-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0119.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0119-full.png",
     "description": "在手牌生成1張湍流淩步。",
     "descriptionRaw": "在手牌生成1張湍流淩步。",
     "name": "軟鞭劍",
@@ -190,8 +190,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0125.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0125-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0125.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0125-full.png",
     "description": "召喚此牌時，抽1張法術牌。",
     "descriptionRaw": "召喚此牌時，抽1張法術牌。",
     "name": "奧術知識",
@@ -200,8 +200,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0112.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0112-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0112.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0112-full.png",
     "description": "<link=keyword.Augment><sprite name=Augment><style=Keyword>擴增</style></link>並化為機械",
     "descriptionRaw": "擴增並化為機械",
     "name": "機械進化",
@@ -210,8 +210,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0087.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0087-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0087.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0087-full.png",
     "description": "本牌局隨機賦予我方<link=vocab.Strongest><style=Vocab>最強友軍單位</style></link>1個史詩道具。",
     "descriptionRaw": "本牌局隨機賦予我方最強友軍單位1個史詩道具。",
     "name": "海克斯科技生成器III",
@@ -220,8 +220,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0035.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0035-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0035.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0035-full.png",
     "description": "+1|+1、<link=keyword.Lurker><sprite name=Lurker><style=Keyword>潛伏</style></link>，且此牌為潛伏者牌。",
     "descriptionRaw": "+1|+1、潛伏，且此牌為潛伏者牌。",
     "name": "水手的詭計",
@@ -230,8 +230,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0138.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0138-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0138.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0138-full.png",
     "description": "牌局開始：從牌組中召喚1張此牌。",
     "descriptionRaw": "牌局開始：從牌組中召喚1張此牌。",
     "name": "主場優勢",
@@ -240,8 +240,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0064.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0064-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0064.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0064-full.png",
     "description": "將2張此牌的複製牌洗入我方牌組，並使其魔耗值為1。",
     "descriptionRaw": "將2張此牌的複製牌洗入我方牌組，並使其魔耗值為1。",
     "name": "騙徒撲克牌",
@@ -250,8 +250,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0088.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0088-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0088.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0088-full.png",
     "description": "+1點傷害",
     "descriptionRaw": "+1點傷害",
     "name": "充能印記I",
@@ -260,8 +260,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0095.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0095-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0095.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0095-full.png",
     "description": "牌局開始：將1張<link=card.self><style=AssociatedCard>神祕傳送門</style></link>植入此牌。",
     "descriptionRaw": "牌局開始：將1張神祕傳送門植入此牌。",
     "name": "諾拉的午茶",
@@ -270,8 +270,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0047.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0047-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0047.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0047-full.png",
     "description": "<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>",
     "descriptionRaw": "快速攻擊",
     "name": "輕便拳套",
@@ -280,8 +280,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0142.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0142-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0142.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0142-full.png",
     "description": "在手牌中時，此牌會擁有1項隨機特性（每回合會改變）。召喚此牌時，賦予此牌該特性。",
     "descriptionRaw": "在手牌中時，此牌會擁有1項隨機特性（每回合會改變）。召喚此牌時，賦予此牌該特性。",
     "name": "虛空幼獸殼",
@@ -290,8 +290,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0111.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0111-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0111.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0111-full.png",
     "description": "打擊：抽1張牌",
     "descriptionRaw": "打擊：抽1張牌",
     "name": "迷人誘餌",
@@ -300,8 +300,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0132.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0132-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0132.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0132-full.png",
     "description": "對手棄置1張隨機卡牌。",
     "descriptionRaw": "對手棄置1張隨機卡牌。",
     "name": "腦蟲",
@@ -310,8 +310,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0045.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0045-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0045.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0045-full.png",
     "description": "+3|+1",
     "descriptionRaw": "+3|+1",
     "name": "轟天巨鎚",
@@ -320,8 +320,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0106.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0106-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0106.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0106-full.png",
     "description": "<link=keyword.Scout><sprite name=Scout><style=Keyword>先遣</style></link>",
     "descriptionRaw": "先遣",
     "name": "幻影之舞",
@@ -330,8 +330,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0011.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0011-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0011.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0011-full.png",
     "description": "減少此牌的魔耗值，減少量等同我方最高費英雄的魔耗值。",
     "descriptionRaw": "減少此牌的魔耗值，減少量等同我方最高費英雄的魔耗值。",
     "name": "海克斯科技腰帶-01",
@@ -340,8 +340,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0090.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0090-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0090.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0090-full.png",
     "description": "+4點傷害",
     "descriptionRaw": "+4點傷害",
     "name": "充能印記III",
@@ -350,8 +350,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0014.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0014-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0014.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0014-full.png",
     "description": "召喚此牌時，使此牌的力量值與生命值加倍。",
     "descriptionRaw": "召喚此牌時，使此牌的力量值與生命值加倍。",
     "name": "黑色切割者",
@@ -360,8 +360,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0093.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0093-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0093.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0093-full.png",
     "description": "隨機召喚1個魔耗值與此牌相同的英雄。",
     "descriptionRaw": "隨機召喚1個魔耗值與此牌相同的英雄。",
     "name": "召喚石",
@@ -370,8 +370,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0082.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0082-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0082.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0082-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：本回合額外獲得1顆魔力寶石。",
     "descriptionRaw": "回合開始：本回合額外獲得1顆魔力寶石。",
     "name": "水晶運輸機",
@@ -380,8 +380,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0038.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0038-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0038.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0038-full.png",
     "description": "+0|+2",
     "descriptionRaw": "+0|+2",
     "name": "巨人腰帶",
@@ -390,8 +390,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0037.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0037-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0037.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0037-full.png",
     "description": "+1|+1",
     "descriptionRaw": "+1|+1",
     "name": "刺釘皮甲",
@@ -400,8 +400,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0080.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0080-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0080.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0080-full.png",
     "description": "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：對此牌造成1點傷害並賦予此牌+2|+0。",
     "descriptionRaw": "回合結束：對此牌造成1點傷害並賦予此牌+2|+0。",
     "name": "噬血面紗",
@@ -410,8 +410,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0109.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0109-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0109.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0109-full.png",
     "description": "在手牌隨機生成1張神皇牌組卡牌。",
     "descriptionRaw": "在手牌隨機生成1張神皇牌組卡牌。",
     "name": "帝王的恩賜",
@@ -420,8 +420,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0133.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0133-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0133.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0133-full.png",
     "description": "+4|+0與<link=keyword.Reckless><sprite name=Reckless><style=Keyword>無法進行格擋</style></link>。",
     "descriptionRaw": "+4|+0與無法進行格擋。",
     "name": "吞噬之怒",
@@ -430,8 +430,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0076.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0076-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0076.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0076-full.png",
     "description": "<link=keyword.Tough><sprite name=Tough><style=Keyword>堅忍</style></link>",
     "descriptionRaw": "堅忍",
     "name": "鎖子甲",
@@ -440,8 +440,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0015.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0015-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0015.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0015-full.png",
     "description": "召喚此牌時，在手牌生成1張此牌的<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>複製牌。",
     "descriptionRaw": "召喚此牌時，在手牌生成1張此牌的飛逝複製牌。",
     "name": "精靈石",
@@ -450,8 +450,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0042.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0042-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0042.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0042-full.png",
     "description": "+1|+3",
     "descriptionRaw": "+1|+3",
     "name": "狂野護盾",
@@ -460,8 +460,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0009.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0009-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0009.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0009-full.png",
     "description": "<link=vocab.Attack><style=Vocab>攻擊</style></link>：<link=keyword.Nab><style=Keyword>奪取</style></link>1張牌。",
     "descriptionRaw": "攻擊：奪取1張牌。",
     "name": "盜竊工具",
@@ -470,8 +470,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0056.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0056-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0056.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0056-full.png",
     "description": "魔耗值-3",
     "descriptionRaw": "魔耗值-3",
     "name": "聖杯",
@@ -480,8 +480,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0144.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0144-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0144.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0144-full.png",
     "description": "<link=keyword.Spirit><sprite name=Spirit><style=Keyword>活力</style></link>",
     "descriptionRaw": "活力",
     "name": "光明之杖",
@@ -490,8 +490,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0067.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0067-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0067.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0067-full.png",
     "description": "我方打出法術時，賦予此牌+1|+1。",
     "descriptionRaw": "我方打出法術時，賦予此牌+1|+1。",
     "name": "聚焦水晶",
@@ -500,8 +500,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0033.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0033-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0033.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0033-full.png",
     "description": "召喚此牌時，召喚1張此牌的複製牌。",
     "descriptionRaw": "召喚此牌時，召喚1張此牌的複製牌。",
     "name": "虛空之門",
@@ -510,8 +510,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0096.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0096-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0096.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0096-full.png",
     "description": "<link=vocab.Attack><style=Vocab>攻擊：</style></link>賦予此牌的裝備者+1|+1。",
     "descriptionRaw": "攻擊：賦予此牌的裝備者+1|+1。",
     "name": "閃耀劍",
@@ -520,8 +520,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0052.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0052-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0052.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0052-full.png",
     "description": "有50%機率可以在手牌生成1張本回合魔耗值為0的複製牌。",
     "descriptionRaw": "有50%機率可以在手牌生成1張本回合魔耗值為0的複製牌。",
     "name": "倍數骰子",
@@ -530,8 +530,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0110.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0110-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0110.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0110-full.png",
     "description": "此牌為普羅牌。魔耗值為1，基礎能力值為1|1。",
     "descriptionRaw": "此牌為普羅牌。魔耗值為1，基礎能力值為1|1。",
     "name": "普羅毛茸",
@@ -540,8 +540,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0071.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0071-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0071.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0071-full.png",
     "description": "<link=keyword.Support><style=Keyword>支援</style></link>：賦予受此牌支援的友軍單位+1|+1。",
     "descriptionRaw": "支援：賦予受此牌支援的友軍單位+1|+1。",
     "name": "巨石盾甲",
@@ -550,8 +550,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0091.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0091-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0091.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0091-full.png",
     "description": "+2點傷害",
     "descriptionRaw": "+2點傷害",
     "name": "充能印記II",
@@ -560,8 +560,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0027.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0027-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0027.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0027-full.png",
     "description": "召喚此牌及此牌被摧毀時，治療我方主堡等同於此牌魔耗值的生命值。",
     "descriptionRaw": "召喚此牌及此牌被摧毀時，治療我方主堡等同於此牌魔耗值的生命值。",
     "name": "水晶護腕",
@@ -570,8 +570,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0039.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0039-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0039.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0039-full.png",
     "description": "<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>蠻力</style></link>",
     "descriptionRaw": "蠻力",
     "name": "大木棒",
@@ -580,8 +580,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0013.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0013-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0013.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0013-full.png",
     "description": "<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>",
     "descriptionRaw": "隱密",
     "name": "忍者足具",
@@ -590,8 +590,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0036.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0036-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0036.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0036-full.png",
     "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：進行<link=vocab.Rally><style=Vocab>備戰</style></link>",
     "descriptionRaw": "遺願：進行備戰",
     "name": "備戰旗幟",
@@ -600,8 +600,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0021.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0021-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0021.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0021-full.png",
     "description": "召喚此牌時，此牌<link=keyword.Capture><sprite name=Capture><style=Keyword>俘虜</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。",
     "descriptionRaw": "召喚此牌時，此牌俘虜最強敵軍單位。",
     "name": "埋藏寶藏",
@@ -610,8 +610,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0072.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0072-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0072.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0072-full.png",
     "description": "<link=keyword.Support><style=Keyword>支援</style></link>：本回合給予受此牌支援的友軍單位+1|+1及此牌的特性。",
     "descriptionRaw": "支援：本回合給予受此牌支援的友軍單位+1|+1及此牌的特性。",
     "name": "黏合圓盾",
@@ -620,8 +620,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0130.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0130-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0130.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0130-full.png",
     "description": "<link=keyword.Double Strike><sprite name=DoubleStrike><style=Keyword>雙重攻擊</style></link>",
     "descriptionRaw": "雙重攻擊",
     "name": "重拳出擊",
@@ -630,8 +630,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0084.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0084-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0084.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0084-full.png",
     "description": "本回合給予所有友軍單位+1|+1。",
     "descriptionRaw": "本回合給予所有友軍單位+1|+1。",
     "name": "戰旗",
@@ -640,8 +640,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0065.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0065-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0065.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0065-full.png",
     "description": "<link=vocab.Predict><style=Vocab>預言</style></link>",
     "descriptionRaw": "預言",
     "name": "先知透視鏡",
@@ -650,8 +650,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0074.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0074-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0074.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0074-full.png",
     "description": "召喚此牌時，治療我方主堡等同於此牌魔耗值的生命值。",
     "descriptionRaw": "召喚此牌時，治療我方主堡等同於此牌魔耗值的生命值。",
     "name": "吸血鬼權杖",
@@ -660,8 +660,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0097.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0097-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0097.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0097-full.png",
     "description": "<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>",
     "descriptionRaw": "挑戰者",
     "name": "比爾吉沃特彎刀",
@@ -670,8 +670,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0000.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0000-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0000.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0000-full.png",
     "description": "賦予牌組最上方的友軍單位+3|+3。",
     "descriptionRaw": "賦予牌組最上方的友軍單位+3|+3。",
     "name": "熾灼魔器",
@@ -680,8 +680,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0146.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0146-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0146.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0146-full.png",
     "description": "<link=keyword.Hallowed><sprite name=Hallowed><style=Keyword>聖化</style></link>",
     "descriptionRaw": "聖化",
     "name": "奇跡旋律",
@@ -690,8 +690,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0086.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0086-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0086.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0086-full.png",
     "description": "本牌局隨機賦予我方<link=vocab.Strongest><style=Vocab>最強友軍單位</style></link>1個稀有道具。",
     "descriptionRaw": "本牌局隨機賦予我方最強友軍單位1個稀有道具。",
     "name": "海克斯科技生成器II",
@@ -700,8 +700,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0012.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0012-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0012.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0012-full.png",
     "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：召喚1個此牌的<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>複製單位。",
     "descriptionRaw": "出牌：召喚1個此牌的閃靈複製單位。",
     "name": "闇影圖騰",
@@ -710,8 +710,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0054.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0054-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0054.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0054-full.png",
     "description": "此牌魔耗值為0。對我方主堡造成等同於此牌原本魔耗值的傷害。",
     "descriptionRaw": "此牌魔耗值為0。對我方主堡造成等同於此牌原本魔耗值的傷害。",
     "name": "血債稜晶",
@@ -720,8 +720,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0002.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0002-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0002.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0002-full.png",
     "description": "<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>",
     "descriptionRaw": "飛逝",
     "name": "詛咒之石",
@@ -730,8 +730,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0001.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0001-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0001.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0001-full.png",
     "description": "無法進行格擋",
     "descriptionRaw": "無法進行格擋",
     "name": "生鏽盔甲",
@@ -740,8 +740,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0005.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0005-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0005.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0005-full.png",
     "description": "-1|-0",
     "descriptionRaw": "-1|-0",
     "name": "生鏽刀劍",
@@ -750,8 +750,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0003.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0003-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0003.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0003-full.png",
     "description": "<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>",
     "descriptionRaw": "閃靈",
     "name": "詛咒之袍",
@@ -760,8 +760,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0004.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0004-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0004.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0004-full.png",
     "description": "魔耗值+1",
     "descriptionRaw": "魔耗值+1",
     "name": "過期魔法藥水",
@@ -770,8 +770,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0089.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0089-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0089.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0089-full.png",
     "description": "賦予牌組最上方的友軍單位+6|+6。",
     "descriptionRaw": "賦予牌組最上方的友軍單位+6|+6。",
     "name": "巨型香爐",
@@ -780,8 +780,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0140.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0140-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0140.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0140-full.png",
     "description": "召喚此牌時，將6張<link=card.self><style=AssociatedCard>編鐘</style></link>隨機植入我方牌組。",
     "descriptionRaw": "召喚此牌時，將6張編鐘隨機植入我方牌組。",
     "name": "漫遊者之祝福",
@@ -790,8 +790,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0049.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0049-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0049.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0049-full.png",
     "description": "我方打出法術時，此牌魔耗值-1。",
     "descriptionRaw": "我方打出法術時，此牌魔耗值-1。",
     "name": "法師手帳",
@@ -800,8 +800,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0060.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0060-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0060.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0060-full.png",
     "description": "召喚1個魔耗值和此牌相同、我方區域的侍從單位。",
     "descriptionRaw": "召喚1個魔耗值和此牌相同、我方區域的侍從單位。",
     "name": "召喚信標",
@@ -810,8 +810,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0078.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0078-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0078.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0078-full.png",
     "description": "召喚此牌時，抽1張牌。",
     "descriptionRaw": "召喚此牌時，抽1張牌。",
     "name": "賢者之石",
@@ -820,8 +820,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0044.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0044-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0044.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0044-full.png",
     "description": "+3|+3",
     "descriptionRaw": "+3|+3",
     "name": "巨人之斧",
@@ -830,8 +830,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0019.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0019-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0019.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0019-full.png",
     "description": "+1|+1、<link=keyword.Fury><sprite name=Fury><style=Keyword>血怒</style></link>，且此牌為龍族牌。",
     "descriptionRaw": "+1|+1、血怒，且此牌為龍族牌。",
     "name": "巨龍之牙",
@@ -840,8 +840,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0007.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0007-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0007.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0007-full.png",
     "description": "<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>",
     "descriptionRaw": "挑戰者",
     "name": "軍隊長劍",
@@ -850,8 +850,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0147.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0147-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0147.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0147-full.png",
     "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：隨機召喚1個魔耗值為1、我方區域的單位。",
     "descriptionRaw": "遺願：隨機召喚1個魔耗值為1、我方區域的單位。",
     "name": "懸賞告示板",
@@ -860,8 +860,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0026.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0026-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0026.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0026-full.png",
     "description": "此牌擁有<link=vocab.Countdown><style=Vocab>倒數</style></link>3：對敵方主堡造成此牌魔耗值2倍的傷害。",
     "descriptionRaw": "此牌擁有倒數3：對敵方主堡造成此牌魔耗值2倍的傷害。",
     "name": "煉金術士之焰",
@@ -870,8 +870,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0061.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0061-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0061.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0061-full.png",
     "description": "<link=keyword.Plunder><style=Keyword>洗劫</style></link>：此牌魔耗值-3。",
     "descriptionRaw": "洗劫：此牌魔耗值-3。",
     "name": "禁忌之像",
@@ -880,8 +880,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0092.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0092-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0092.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0092-full.png",
     "description": "召喚1個<link=card.self><style=AssociatedCard>大力普羅</style></link>。",
     "descriptionRaw": "召喚1個大力普羅。",
     "name": "超強鬍鬚",
@@ -890,8 +890,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0048.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0048-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0048.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0048-full.png",
     "description": "+3|+3，但是魔耗值+1",
     "descriptionRaw": "+3|+3，但是魔耗值+1",
     "name": "光輝板甲",
@@ -900,8 +900,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0024.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0024-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0024.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0024-full.png",
     "description": "召喚此牌時，抽1張牌。",
     "descriptionRaw": "召喚此牌時，抽1張牌。",
     "name": "精通藥劑",
@@ -910,8 +910,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0075.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0075-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0075.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0075-full.png",
     "description": "魔耗值-1",
     "descriptionRaw": "魔耗值-1",
     "name": "賢者古幣",
@@ -920,8 +920,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0073.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0073-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0073.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0073-full.png",
     "description": "+2|+2且召喚此牌時，使<link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位與此牌互相<link=vocab.Strike><style=Vocab>打擊</style></link>。",
     "descriptionRaw": "+2|+2且召喚此牌時，使最強敵軍單位與此牌互相打擊。",
     "name": "角鬥士印記",
@@ -930,8 +930,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0050.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0050-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0050.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0050-full.png",
     "description": "<link=keyword.Scout><sprite name=Scout><style=Keyword>先遣</style></link>",
     "descriptionRaw": "先遣",
     "name": "狩獵者彎刀",
@@ -940,8 +940,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0017.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0017-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0017.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0017-full.png",
     "description": "<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>",
     "descriptionRaw": "威嚇",
     "name": "殘暴之力",
@@ -950,8 +950,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0094.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0094-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0094.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0094-full.png",
     "description": "獲得1個魔力寶石槽位。",
     "descriptionRaw": "獲得1個魔力寶石槽位。",
     "name": "藍水晶",
@@ -960,8 +960,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0041.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0041-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0041.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0041-full.png",
     "description": "+2|+0",
     "descriptionRaw": "+2|+0",
     "name": "十字鎬",
@@ -970,8 +970,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0058.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0058-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0058.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0058-full.png",
     "description": "抽1張牌。",
     "descriptionRaw": "抽1張牌。",
     "name": "精通藥劑",
@@ -980,8 +980,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0081.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0081-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0081.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0081-full.png",
     "description": "回合結束：<br>此牌魔耗值-1。",
     "descriptionRaw": "回合結束：此牌魔耗值-1。",
     "name": "雙時手錶",
@@ -990,8 +990,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0016.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0016-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0016.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0016-full.png",
     "description": "召喚此牌時，將4張<link=card.self><style=AssociatedCard>閃光炸彈陷阱</style></link>植入敵方牌組最上方8張牌中。",
     "descriptionRaw": "召喚此牌時，將4張閃光炸彈陷阱植入敵方牌組最上方8張牌中。",
     "name": "閃光炸彈包",
@@ -1000,8 +1000,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0104.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0104-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0104.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0104-full.png",
     "description": "<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>",
     "descriptionRaw": "快速攻擊",
     "name": "狂熱雙刀",
@@ -1010,8 +1010,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0077.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0077-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0077.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0077-full.png",
     "description": "召喚此牌時，恢復等同於其魔耗值的魔力。",
     "descriptionRaw": "召喚此牌時，恢復等同於其魔耗值的魔力。",
     "name": "魔力沉積",
@@ -1020,8 +1020,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0069.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0069-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0069.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0069-full.png",
     "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：此牌發動額外攻擊。",
     "descriptionRaw": "出牌：此牌發動額外攻擊。",
     "name": "迅擊之刃",
@@ -1030,8 +1030,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0066.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0066-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0066.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0066-full.png",
     "description": "隨機召喚1個魔耗值為1的普羅。",
     "descriptionRaw": "隨機召喚1個魔耗值為1的普羅。",
     "name": "普羅點心",
@@ -1040,8 +1040,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0028.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0028-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0028.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0028-full.png",
     "description": "召喚此牌及此牌被摧毀時，召喚1個魔耗值和此牌相同、我方區域的侍從單位。",
     "descriptionRaw": "召喚此牌及此牌被摧毀時，召喚1個魔耗值和此牌相同、我方區域的侍從單位。",
     "name": "守望之眼",
@@ -1050,8 +1050,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0137.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0137-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0137.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0137-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：恢復我方所有法術魔力。",
     "descriptionRaw": "回合開始：恢復我方所有法術魔力。",
     "name": "法師高塔",
@@ -1060,8 +1060,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0085.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0085-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0085.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0085-full.png",
     "description": "賦予牌組最上方的友軍單位+1|+1。",
     "descriptionRaw": "賦予牌組最上方的友軍單位+1|+1。",
     "name": "手持香爐",
@@ -1070,8 +1070,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0010.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0010-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0010.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0010-full.png",
     "description": "<link=keyword.Deep><sprite name=Deep><style=Keyword>探底</style></link>且此牌為海怪牌。",
     "descriptionRaw": "探底且此牌為海怪牌。",
     "name": "潛水頭盔",
@@ -1080,8 +1080,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0008.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0008-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0008.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0008-full.png",
     "description": "召喚此牌時，給予此牌<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
     "descriptionRaw": "召喚此牌時，給予此牌光盾。",
     "name": "日輪的加冕",
@@ -1090,8 +1090,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0053.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0053-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0053.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0053-full.png",
     "description": "抽1張英雄牌。",
     "descriptionRaw": "抽1張英雄牌。",
     "name": "英雄號角",
@@ -1100,8 +1100,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0107.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0107-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0107.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0107-full.png",
     "description": "我方打出法術時，賦予此牌的裝備者+1|+1。",
     "descriptionRaw": "我方打出法術時，賦予此牌的裝備者+1|+1。",
     "name": "奪魄之鐮",
@@ -1110,8 +1110,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0083.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0083-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0083.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0083-full.png",
     "description": "本牌局隨機賦予我方<link=vocab.Strongest><style=Vocab>最強友軍單位</style></link>1個普通道具。",
     "descriptionRaw": "本牌局隨機賦予我方最強友軍單位1個普通道具。",
     "name": "海克斯科技生成器I",
@@ -1120,8 +1120,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0105.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0105-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0105.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0105-full.png",
     "description": "<link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>再生</style></link>",
     "descriptionRaw": "再生",
     "name": "治療寶珠",
@@ -1130,8 +1130,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0031.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0031-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0031.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0031-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：本回合額外獲得1顆魔力寶石。",
     "descriptionRaw": "回合開始：本回合額外獲得1顆魔力寶石。",
     "name": "均衡水晶",
@@ -1140,8 +1140,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0040.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0040-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0040.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0040-full.png",
     "description": "+2|+2",
     "descriptionRaw": "+2|+2",
     "name": "淨蝕之槌",
@@ -1150,8 +1150,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0046.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0046-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0046.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0046-full.png",
     "description": "<link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>再生</style></link>",
     "descriptionRaw": "再生",
     "name": "豐盛口糧",
@@ -1160,8 +1160,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0043.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0043-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0043.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0043-full.png",
     "description": "+3|+3，但是給予<br><link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>",
     "descriptionRaw": "+3|+3，但是給予閃靈",
     "name": "詛咒象徵",
@@ -1170,8 +1170,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0025.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0025-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0025.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0025-full.png",
     "description": "此牌被摧毀時，在手牌生成1張此牌的複製牌。",
     "descriptionRaw": "此牌被摧毀時，在手牌生成1張此牌的複製牌。",
     "name": "星靈之眼",
@@ -1180,8 +1180,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0131.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0131-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0131.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0131-full.png",
     "description": "進行<link=vocab.Rally><style=Vocab>備戰</style></link>",
     "descriptionRaw": "進行備戰",
     "name": "戰旗之下",
@@ -1190,8 +1190,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0063.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0063-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0063.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0063-full.png",
     "description": "<link=vocab.Manifest><style=Vocab>顯化</style></link>1張我方區域的卡牌。",
     "descriptionRaw": "顯化1張我方區域的卡牌。",
     "name": "約德爾傳送門",
@@ -1200,8 +1200,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0032.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0032-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0032.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0032-full.png",
     "description": "召喚此牌時，隨機召喚1張魔耗值為1的普羅牌。",
     "descriptionRaw": "召喚此牌時，隨機召喚1張魔耗值為1的普羅牌。",
     "name": "普羅點心",
@@ -1210,8 +1210,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0059.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0059-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0059.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0059-full.png",
     "description": "<link=keyword.Invoke><style=Keyword>祈望</style></link>",
     "descriptionRaw": "祈望",
     "name": "精準星圖",
@@ -1220,8 +1220,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0143.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0143-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0143.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0143-full.png",
     "description": "對敵軍單位造成傷害時，該傷害無效，改為附加<link=keyword.Gloom><sprite name=Gloom><style=Keyword>無望</style></link>。",
     "descriptionRaw": "對敵軍單位造成傷害時，該傷害無效，改為附加無望。",
     "name": "黑魔禁書",
@@ -1230,8 +1230,18 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0051.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0051-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0151.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0151-full.png",
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：此牌<link=vocab.Strike><style=Vocab>打擊</style></link>敵方主堡。",
+    "descriptionRaw": "出牌：此牌打擊敵方主堡。",
+    "name": "墮落攻城槌",
+    "itemCode": "I0151",
+    "rarity": "稀有",
+    "rarityRef": "Rare"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0051.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0051-full.png",
     "description": "對相同目標再複製一次。",
     "descriptionRaw": "對相同目標再複製一次。",
     "name": "巫魔藥劑",
@@ -1240,8 +1250,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0057.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0057-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0057.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0057-full.png",
     "description": "魔耗值-2",
     "descriptionRaw": "魔耗值-2",
     "name": "女神之淚",
@@ -1250,8 +1260,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0030.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0030-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0030.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0030-full.png",
     "description": "召喚此牌或此牌被摧毀時：賦予<link=vocab.Strongest><style=Vocab>最強</style></link>友軍單位+1|+1。",
     "descriptionRaw": "召喚此牌或此牌被摧毀時：賦予最強友軍單位+1|+1。",
     "name": "力量象徵",
@@ -1260,8 +1270,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0129.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0129-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0129.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0129-full.png",
     "description": "<link=keyword.Attune><sprite name=Attune><style=Keyword>調節</style></link>。\r\n召喚此牌時，在手牌生成1張<link=card.self><style=AssociatedCard>惡搞</style></link>。",
     "descriptionRaw": "調節。\r\n召喚此牌時，在手牌生成1張惡搞。",
     "name": "調皮精",
@@ -1270,8 +1280,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0055.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0055-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0055.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0055-full.png",
     "description": "魔耗值-1",
     "descriptionRaw": "魔耗值-1",
     "name": "魔法藥水",
@@ -1280,8 +1290,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0135.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0135-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0135.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0135-full.png",
     "description": "召喚此牌時及<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：召喚1個<link=card.self><style=AssociatedCard>幽侵黯霧</style></link>。",
     "descriptionRaw": "召喚此牌時及回合開始：召喚1個幽侵黯霧。",
     "name": "黯霧",
@@ -1290,8 +1300,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0134.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0134-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0134.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0134-full.png",
     "description": "召喚1個<link=card.self><style=AssociatedCard>珍存之所</style></link>。",
     "descriptionRaw": "召喚1個珍存之所。",
     "name": "時空術",
@@ -1300,8 +1310,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0029.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_9_0/adventure/zh_tw/img/items/I0029-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0029.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/5_10_0/adventure/zh_tw/img/items/I0029-full.png",
     "description": "所有敵軍單位受到<nobr>-1|-0。</nobr>",
     "descriptionRaw": "所有敵軍單位受到-1|-0。",
     "name": "咒魂戰利品",
