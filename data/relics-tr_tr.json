@@ -1,7 +1,7 @@
 [
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0003.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0003-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0003.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0003-full.png",
     "description": "+2|+1",
     "descriptionRaw": "+2|+1",
     "name": "Caulfield'ın Savaş Çekici",
@@ -10,8 +10,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0104.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0104-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0104.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0104-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: Oyun Başlangıcı: Rakibin Nexus'una 5 <link=keyword.Drain><style=Keyword>Sömürü</style></link> hasarı verirsin.<br><link=vocab.Play><style=Vocab>Oyna</style></link>: Swain kartıysam büyü manan dolar.\r\n\r\n",
     "descriptionRaw": "Güç: Oyun Başlangıcı: Rakibin Nexus'una 5 Sömürü hasarı verirsin.Oyna: Swain kartıysam büyü manan dolar.\r\n\r\n",
     "name": "Swain Kuzgun Ordusu",
@@ -20,8 +20,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0016.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0016-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0016.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0016-full.png",
     "description": "Çağrıldığımda tüm düşmanlara 1 hasar verirsin.",
     "descriptionRaw": "Çağrıldığımda tüm düşmanlara 1 hasar verirsin.",
     "name": "Vahşi Hydra",
@@ -30,8 +30,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0113.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0113-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0113.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0113-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: Bir şampiyon oynadığında ya da bir şampiyona seviye atlattığında büyü mananı doldurursun.",
     "descriptionRaw": "Güç: Bir şampiyon oynadığında ya da bir şampiyona seviye atlattığında büyü mananı doldurursun.",
     "name": "Gizli Cilt",
@@ -40,8 +40,18 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0014.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0014-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0126.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0126-full.png",
+    "description": "<link=vocab.Power><style=Vocab>Güç</style></link>: Taban bedeli 6+ olan bir birim oynadığında tüm düşmanlara ve rakibin Nexus'una 2 hasar verirsin.",
+    "descriptionRaw": "Güç: Taban bedeli 6+ olan bir birim oynadığında tüm düşmanlara ve rakibin Nexus'una 2 hasar verirsin.",
+    "name": "Koca Pençeler",
+    "relicCode": "R0126",
+    "rarity": "DESTANSI",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0014.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0014-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>Tur Başı</style></link>: 1 kart çekersin ve ona <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Geçici</style></link> verirsin.",
     "descriptionRaw": "Tur Başı: 1 kart çekersin ve ona Geçici verirsin.",
     "name": "Mezarcı'nın Küreği",
@@ -50,8 +60,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0062.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0062-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0062.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0062-full.png",
     "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: Bedeli benim taban bedelimden daha düşük olan en yüksek bedelli kartı çekersin. Bir destansı eşya kazanır ve bedeli 0 olur.",
     "descriptionRaw": "Oyna: Bedeli benim taban bedelimden daha düşük olan en yüksek bedelli kartı çekersin. Bir destansı eşya kazanır ve bedeli 0 olur.",
     "name": "Kısmet Kapısı",
@@ -60,8 +70,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0058.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0058-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0058.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0058-full.png",
     "description": "<link=keyword.Fated><sprite name=Fated><style=Keyword>Yazgılı</style></link>, <link=keyword.Augment><sprite name=Augment><style=Keyword>Eklenti</style></link><br><link=vocab.Empowered><style=Vocab>Potansiyel</style></link> - 10: <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Aban</style></link>, <link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>Yenilenme</style></link> ve <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Rakipçeker</style></link>.",
     "descriptionRaw": "Yazgılı, EklentiPotansiyel - 10: Aban, Yenilenme ve Rakipçeker.",
     "name": "Yıldızların Seçimi",
@@ -70,8 +80,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0082.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0082-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0082.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0082-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: Oyun Başlangıcı: Destede ya da elindeysem ve <link=vocab.Titanic><style=Vocab>Devasa</style></link>'ysam +1 başlangıç manası kazanırsın. <link=keyword.Invoke><style=Keyword>Yakardığında</style></link> ya da <link=vocab.Manifest><style=Vocab>Cisimlendirdiğinde</style></link> 2. seviye şampiyon kartları bulabilirsin.",
     "descriptionRaw": "Güç: Oyun Başlangıcı: Destede ya da elindeysem ve Devasa'ysam +1 başlangıç manası kazanırsın. Yakardığında ya da Cisimlendirdiğinde 2. seviye şampiyon kartları bulabilirsin.",
     "name": "Yaldızlı Eldiven",
@@ -80,8 +90,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0035.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0035-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0035.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0035-full.png",
     "description": "+1|+1 alırım ve bir karşılaşmada Nexus'un hiç hasar almadan galip gelirsen 1 Yeniden Deneme kazanırsın.",
     "descriptionRaw": "+1|+1 alırım ve bir karşılaşmada Nexus'un hiç hasar almadan galip gelirsen 1 Yeniden Deneme kazanırsın.",
     "name": "İskambil Ustası'nın Hamlesi",
@@ -90,8 +100,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0101.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0101-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0101.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0101-full.png",
     "description": "+1|+1.<br><color=#FAD65A>Görev:</color> Bir macera kazan.<br><color=#FAD65A>Ödül:</color> Normalde kazanacağın Şampiyon XP'sinin 5 katını kazanırsın.",
     "descriptionRaw": "+1|+1.Görev: Bir macera kazan.Ödül: Normalde kazanacağın Şampiyon XP'sinin 5 katını kazanırsın.",
     "name": "Kozmik Lütuf (Tek Kullanımlık)",
@@ -100,8 +110,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0102.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0102-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0102.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0102-full.png",
     "description": "+1|+1.<br><color=#FAD65A>Görev:</color> Bir macera kazan.<br><color=#FAD65A>Ödül:</color> Normalde kazanacağın Şampiyon XP'sinin 10 katını kazanırsın. ",
     "descriptionRaw": "+1|+1.Görev: Bir macera kazan.Ödül: Normalde kazanacağın Şampiyon XP'sinin 10 katını kazanırsın. ",
     "name": "Büyük Kozmik Lütuf (Tek Kullanımlık)",
@@ -110,8 +120,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0080.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0080-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0080.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0080-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: Dost birimler <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Aban</style></link> alır. Alt tipi olanlar ayrıca +1|+1 alır.",
     "descriptionRaw": "Güç: Dost birimler Aban alır. Alt tipi olanlar ayrıca +1|+1 alır.",
     "name": "İçindeki Canavar",
@@ -120,8 +130,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0017.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0017-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0017.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0017-full.png",
     "description": "Tüm büyülerin ve yeteneklerin fazladan 1 hasar verir.",
     "descriptionRaw": "Tüm büyülerin ve yeteneklerin fazladan 1 hasar verir.",
     "name": "Luden'in Çığlığı",
@@ -130,8 +140,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0081.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0081-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0081.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0081-full.png",
     "description": "<link=keyword.Support><style=Keyword>Destekle</style></link>: Desteklediğim dost birimi bedeli ondan 3 fazla olan rasgele bir takipçiye dönüştürürsün.",
     "descriptionRaw": "Destekle: Desteklediğim dost birimi bedeli ondan 3 fazla olan rasgele bir takipçiye dönüştürürsün.",
     "name": "Dönüştürücü",
@@ -140,8 +150,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0098.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0098-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0098.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0098-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: Lux kartıysam +1 başlangıç manası.<br>Oyun Başlangıcı: Bedeli 2 ya da daha az olan bir takipçi çekersin ve ona Targon'un Heybeti kazandırırsın.",
     "descriptionRaw": "Güç: Lux kartıysam +1 başlangıç manası.Oyun Başlangıcı: Bedeli 2 ya da daha az olan bir takipçi çekersin ve ona Targon'un Heybeti kazandırırsın.",
     "name": "Lux'ın Parlak Sopası",
@@ -150,8 +160,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0010.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0010-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0010.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0010-full.png",
     "description": "Macera sırasında fazladan %50 Altın kazanırsın.",
     "descriptionRaw": "Macera sırasında fazladan %50 Altın kazanırsın.",
     "name": "Altın Kalp",
@@ -160,8 +170,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0084.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0084-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0084.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0084-full.png",
     "description": "+1|+1.<br><color=#FAD65A>Görev:</color> Bir macera kazan.<br><color=#FAD65A>Ödül:</color> Normalde kazanacağın Şampiyon XP'sinin 5 katını kazanırsın.",
     "descriptionRaw": "+1|+1.Görev: Bir macera kazan.Ödül: Normalde kazanacağın Şampiyon XP'sinin 5 katını kazanırsın.",
     "name": "Kozmik İnci (Tek Kullanımlık)",
@@ -170,8 +180,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0090.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0090-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0090.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0090-full.png",
     "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: Diğer tüm birimlere 3 hasar verirsin.",
     "descriptionRaw": "Oyna: Diğer tüm birimlere 3 hasar verirsin.",
     "name": "Habis Hasat",
@@ -180,8 +190,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0021.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0021-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0021.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0021-full.png",
     "description": "Çağrıldığımda, elinde 2 <link=card.self><style=AssociatedCard>Uyarı Atışı</style></link> oluşur.",
     "descriptionRaw": "Çağrıldığımda, elinde 2 Uyarı Atışı oluşur.",
     "name": "Dehşet Yolu Kovalama Topu",
@@ -190,8 +200,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0033.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0033-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0033.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0033-full.png",
     "description": "Nexus'un <link=keyword.Tough><sprite name=Tough><style=Keyword>Dayanıklı</style></link> olur.",
     "descriptionRaw": "Nexus'un Dayanıklı olur.",
     "name": "Kule Barikatı",
@@ -200,8 +210,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0002.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0002-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0002.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0002-full.png",
     "description": "<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Aban</style></link>",
     "descriptionRaw": "Aban",
     "name": "Trol Kralı'nın Cılk Çıkaranı",
@@ -210,8 +220,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0114.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0114-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0114.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0114-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: Bir dost birim çağırdığında ona <link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>Büyü Kalkanı</style></link> kazandırırsın.",
     "descriptionRaw": "Güç: Bir dost birim çağırdığında ona Büyü Kalkanı kazandırırsın.",
     "name": "Kara Kalkan",
@@ -220,8 +230,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0049.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0049-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0049.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0049-full.png",
     "description": "<link=keyword.Evolve><sprite name=Evolve><style=Keyword>Evrilme</style></link><br>HERHANGİ BİR birim öldüğünde onun tesirlerini kazanırım.",
     "descriptionRaw": "EvrilmeHERHANGİ BİR birim öldüğünde onun tesirlerini kazanırım.",
     "name": "Hiçlikdoğan Kabuk",
@@ -230,8 +240,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0024.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0024-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0024.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0024-full.png",
     "description": "<link=vocab.Attack><style=Vocab>Saldır</style></link>: Bana +1|+1 kazandırırsın.",
     "descriptionRaw": "Saldır: Bana +1|+1 kazandırırsın.",
     "name": "Guinsoo'nun Hiddeti",
@@ -240,8 +250,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0079.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0079-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0079.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0079-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: Bedeli 1 ya da daha az olan dost birimler <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Aban</style></link>, <link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>İlk Saldırı</style></link> ve <link=keyword.Fury><sprite name=Fury><style=Keyword>Hiddet</style></link> alır.",
     "descriptionRaw": "Güç: Bedeli 1 ya da daha az olan dost birimler Aban, İlk Saldırı ve Hiddet alır.",
     "name": "Buhru Ruhu",
@@ -250,8 +260,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0000.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0000-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0000.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0000-full.png",
     "description": "<link=keyword.Challenger><sprite name=Challenger><style=Keyword>Rakipçeker</style></link>",
     "descriptionRaw": "Rakipçeker",
     "name": "Büyük Düellocu'nun Kılıcı",
@@ -260,8 +270,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0004.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0004-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0004.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0004-full.png",
     "description": "+1|+2",
     "descriptionRaw": "+1|+2",
     "name": "Jaurim'in Yumruğu",
@@ -270,8 +280,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0099.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0099-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0099.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0099-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: Elemental büyülerin ve <link=keyword.Elemental Skill><sprite name=ElementalSkill><style=Keyword>yeteneklerin</style></link> fazladan 2 hasar verir.",
     "descriptionRaw": "Güç: Elemental büyülerin ve yeteneklerin fazladan 2 hasar verir.",
     "name": "Valhir'in Simgesi",
@@ -280,8 +290,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0128.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0128-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0128.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0128-full.png",
     "description": "<link=keyword.Deep><sprite name=Deep><style=Keyword>Derin</style></link> ve Deniz Canavarı'yım.<br>Çağrıldığımda <link=keyword.Deep><sprite name=Deep><style=Keyword>Derin</style></link> değilsen bedelime eşit sayıda kartı <link=vocab.Toss><style=Vocab>Denize Atarsın</style></link>.",
     "descriptionRaw": "Derin ve Deniz Canavarı'yım.Çağrıldığımda Derin değilsen bedelime eşit sayıda kartı Denize Atarsın.",
     "name": "Derinlerin Hazineleri",
@@ -290,8 +300,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0026.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0026-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0026.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0026-full.png",
     "description": "+0|+3 ve <link=keyword.Sharpsight><sprite name=BlockElusive><style=Keyword>Keskin Görüş</style></link>.",
     "descriptionRaw": "+0|+3 ve Keskin Görüş.",
     "name": "Işıldak Küre",
@@ -300,8 +310,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0011.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0011-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0011.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0011-full.png",
     "description": "Seviye atladığımda elinde şampiyon büyümün bir kopyası oluşur. Bu tur bedeli 0 olur.",
     "descriptionRaw": "Seviye atladığımda elinde şampiyon büyümün bir kopyası oluşur. Bu tur bedeli 0 olur.",
     "name": "Hilekâr'ın Arması",
@@ -310,8 +320,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0092.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0092-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0092.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0092-full.png",
     "description": "+2|+0<br><link=keyword.Support><style=Keyword>Destekle</style></link>: Desteklediğim dost birim bir takipçiyse ona <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Hayali</style></link> kazandırırsın ve onun birebir saldıran bir kopyasını çağırırsın.",
     "descriptionRaw": "+2|+0Destekle: Desteklediğim dost birim bir takipçiyse ona Hayali kazandırırsın ve onun birebir saldıran bir kopyasını çağırırsın.",
     "name": "Hayalet Makası",
@@ -320,8 +330,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0120.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0120-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0120.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0120-full.png",
     "description": "<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Aban</style></link><br><link=vocab.Attack><style=Vocab>Saldır</style></link>: Rakibin Nexus'una 2 hasar verirsin. Bu turda zaten saldırdıysam, tüm düşmanlara da 2 hasar verirsin.",
     "descriptionRaw": "AbanSaldır: Rakibin Nexus'una 2 hasar verirsin. Bu turda zaten saldırdıysam, tüm düşmanlara da 2 hasar verirsin.",
     "name": "İkiz Ejderanlar",
@@ -330,8 +340,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0022.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0022-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0022.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0022-full.png",
     "description": "Maceralara +5 Yenilenme'yle başlarsın.",
     "descriptionRaw": "Maceralara +5 Yenilenme'yle başlarsın.",
     "name": "Yıldız Çocuk'un Asası",
@@ -340,8 +350,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0045.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0045-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0045.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0045-full.png",
     "description": "<link=keyword.Support><style=Keyword>Destekle</style></link>: Desteklediğim dost birimi öldürürsün, onun tesirlerini ve niteliklerini kazanırım.",
     "descriptionRaw": "Destekle: Desteklediğim dost birimi öldürürsün, onun tesirlerini ve niteliklerini kazanırım.",
     "name": "Yozlaşmış Yıldız Parçacığı",
@@ -350,8 +360,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0038.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0038-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0038.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0038-full.png",
     "description": "-1|-0<br><link=vocab.Play><style=Vocab>Oyna</style></link>: Rakibin Nexus'una <link=vocab.Strike><style=Vocab>vururum</style></link>.",
     "descriptionRaw": "-1|-0Oyna: Rakibin Nexus'una vururum.",
     "name": "Koleksiyoner Çekici",
@@ -360,8 +370,18 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0050.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0050-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0131.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0131-full.png",
+    "description": "+10 Nexus canı.<br><link=vocab.PathPower><style=Vocab>Güç</style></link>: <link=card.self><style=AssociatedCard>Tryndamere</style></link> kartıysam destendeki bir birime nitelik kazandırdığında iki katını kazandırırsın.<br>",
+    "descriptionRaw": "+10 Nexus canı.Güç: Tryndamere kartıysam destendeki bir birime nitelik kazandırdığında iki katını kazandırırsın.",
+    "name": "Savaş Beyinin Miğferi",
+    "relicCode": "R0131",
+    "rarity": "DESTANSI",
+    "rarityRef": "Epic"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0050.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0050-full.png",
     "description": "<link=keyword.Scout><sprite name=Scout><style=Keyword>Öncü</style></link><br><link=vocab.RoundEnd><style=Vocab>Tur Sonu</style></link>: Destene karışırım.",
     "descriptionRaw": "ÖncüTur Sonu: Destene karışırım.",
     "name": "Rüzgârın Hiddeti",
@@ -370,8 +390,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0111.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0111-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0111.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0111-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: Büyülerin ve <link=keyword.Skill><sprite name=SkillMark><style=Keyword>yeteneklerin</style></link> fazladan 1 hasar verir.",
     "descriptionRaw": "Güç: Büyülerin ve yeteneklerin fazladan 1 hasar verir.",
     "name": "Büyük Silahlar",
@@ -380,8 +400,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0100.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0100-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0100.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0100-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: Bedeli 1 veya daha düşük olan bir dost birim saldırdığında <link=keyword.AttackSkillMark><sprite name=SkillMark><style=Keyword></style></link> rakibin Nexus'una 1 hasar verirsin.",
     "descriptionRaw": "Güç: Bedeli 1 veya daha düşük olan bir dost birim saldırdığında  rakibin Nexus'una 1 hasar verirsin.",
     "name": "Şimşek ve Şok",
@@ -390,8 +410,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0005.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0005-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0005.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0005-full.png",
     "description": "<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>İlk Saldırı</style></link>",
     "descriptionRaw": "İlk Saldırı",
     "name": "Fırtınabiçen",
@@ -400,8 +420,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0127.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0127-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0127.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0127-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: Bir şampiyon oynadığında, bu şampiyon <link=keyword.Weakest><style=Keyword>En Güçsüz</style></link> düşmana <link=vocab.Strike><style=Vocab>vurur</style></link>. <link=card.self><style=AssociatedCard>Nasus</style></link> kartıysa <link=vocab.Strongest><style=Vocab>En Güçlü</style></link> düşmana da <link=vocab.Strike><style=Vocab>vurur</style></link>.",
     "descriptionRaw": "Güç: Bir şampiyon oynadığında, bu şampiyon En Güçsüz düşmana vurur. Nasus kartıysa En Güçlü düşmana da vurur.",
     "name": "Adaletin Terazisi",
@@ -410,8 +430,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0107.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0107-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0107.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0107-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: Oyun Başlangıcı: Rakibin destesinin en üstündeki 8 kart arasına 6 tane <link=card.self><style=AssociatedCard>Kör Edici Bomba Tuzağı</style></link> koyarsın. Bir tuzak ıskalarsa onu rakibin destesinin en üstündeki 8 kartın arasına geri koyarsın.",
     "descriptionRaw": "Güç: Oyun Başlangıcı: Rakibin destesinin en üstündeki 8 kart arasına 6 tane Kör Edici Bomba Tuzağı koyarsın. Bir tuzak ıskalarsa onu rakibin destesinin en üstündeki 8 kartın arasına geri koyarsın.",
     "name": "Hextech Tüfeği",
@@ -420,8 +440,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0043.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0043-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0043.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0043-full.png",
     "description": "Dost şampiyonlar +1|+1 alır ve bedelleri 2 azalır.",
     "descriptionRaw": "Dost şampiyonlar +1|+1 alır ve bedelleri 2 azalır.",
     "name": "Yıldız Cevheri",
@@ -430,8 +450,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0052.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0052-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0052.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0052-full.png",
     "description": "Çağrıldığımda destendeki 3 rasgele karta destansı eşyalar kazandırırsın.",
     "descriptionRaw": "Çağrıldığımda destendeki 3 rasgele karta destansı eşyalar kazandırırsın.",
     "name": "Muhafızın Küresi",
@@ -440,8 +460,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0051.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0051-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0051.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0051-full.png",
     "description": "Çağrıldığımda, destende başlamış her 30 kart için +1|+1 ve rasgele bir tesir kazanırım.",
     "descriptionRaw": "Çağrıldığımda, destende başlamış her 30 kart için +1|+1 ve rasgele bir tesir kazanırım.",
     "name": "Altın Spatula",
@@ -450,8 +470,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0027.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0027-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0027.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0027-full.png",
     "description": "Sahip olduğun her 200 Altın için +1|+1 alırım.",
     "descriptionRaw": "Sahip olduğun her 200 Altın için +1|+1 alırım.",
     "name": "Ödül Avcısının Namı",
@@ -460,8 +480,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0075.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0075-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0075.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0075-full.png",
     "description": "<link=keyword.Support><style=Keyword>Destekle</style></link>: Elinde desteklediğim dost birimin bedeli 1 olan 1|1'lik bir kopyası oluşur.",
     "descriptionRaw": "Destekle: Elinde desteklediğim dost birimin bedeli 1 olan 1|1'lik bir kopyası oluşur.",
     "name": "Küçültücü",
@@ -470,8 +490,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0013.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0013-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0013.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0013-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>Tur Başı</style></link>: Büyü manan tekrar dolar.",
     "descriptionRaw": "Tur Başı: Büyü manan tekrar dolar.",
     "name": "Başmelek Asası",
@@ -480,8 +500,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0065.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0065-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0065.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0065-full.png",
     "description": "<link=keyword.Plunder><style=Keyword>Yağma</style></link>: Bedelim 2 azalır.<br>Rakibin Nexus'una hasar verdiğin her farklı tur için +1|+1 alırım.",
     "descriptionRaw": "Yağma: Bedelim 2 azalır.Rakibin Nexus'una hasar verdiğin her farklı tur için +1|+1 alırım.",
     "name": "Barut Deposu",
@@ -490,8 +510,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0028.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0028-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0028.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0028-full.png",
     "description": "Oyun Başlangıcı: Destende 2 kopyam oluşur.",
     "descriptionRaw": "Oyun Başlangıcı: Destende 2 kopyam oluşur.",
     "name": "Bukalemunun Kolyesi",
@@ -500,8 +520,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0040.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0040-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0040.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0040-full.png",
     "description": "Çağrıldığımda <link=keyword.Weakest><style=Keyword>En Güçsüz</style></link> düşmana <link=vocab.Strike><style=Vocab>vururum</style></link>.",
     "descriptionRaw": "Çağrıldığımda En Güçsüz düşmana vururum.",
     "name": "Sinsi Kılıç",
@@ -510,8 +530,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0044.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0044-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0044.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0044-full.png",
     "description": "Macera Başlangıcı: Rasgele bir şampiyonun 2 kopyasını destene eklersin. Ona rasgele bir destansı eşya takarsın.",
     "descriptionRaw": "Macera Başlangıcı: Rasgele bir şampiyonun 2 kopyasını destene eklersin. Ona rasgele bir destansı eşya takarsın.",
     "name": "Muhafızın Tılsımı",
@@ -520,8 +540,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0012.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0012-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0012.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0012-full.png",
     "description": "<link=keyword.Plunder><style=Keyword>Yağma</style></link>: Bedelim 2 azalır.",
     "descriptionRaw": "Yağma: Bedelim 2 azalır.",
     "name": "Musibet'in Çantası",
@@ -530,8 +550,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0097.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0097-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0097.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0097-full.png",
     "description": "<link=keyword.Spirit><sprite name=Spirit><style=Keyword>Cesaret</style></link>\r\n<link=vocab.Attack><style=Vocab>Saldır</style></link>: Tüm birimleri <link=vocab.Boost><style=Vocab>Körüklersin</style></link>.",
     "descriptionRaw": "Cesaret\r\nSaldır: Tüm birimleri Körüklersin.",
     "name": "Korku Salan Balta",
@@ -540,8 +560,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0029.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0029-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0029.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0029-full.png",
     "description": "+1|+1 alırım ve bir düşmanı öldürdüğümde 50 Altın kazanırsın (Karşılaşma başına en fazla 2 öldürme).",
     "descriptionRaw": "+1|+1 alırım ve bir düşmanı öldürdüğümde 50 Altın kazanırsın (Karşılaşma başına en fazla 2 öldürme).",
     "name": "Tahsildar",
@@ -550,8 +570,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0091.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0091-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0091.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0091-full.png",
     "description": "+0|+2<br><link=vocab.PathPower><style=Vocab>Güç</style></link>: Bir dost birim çağırdığında ona +0|+1 ve <link=keyword.Formidable><sprite name=Formidable><style=Keyword>Çetin Ceviz</style></link> kazandırırsın.",
     "descriptionRaw": "+0|+2Güç: Bir dost birim çağırdığında ona +0|+1 ve Çetin Ceviz kazandırırsın.",
     "name": "Taşın Kudreti",
@@ -560,8 +580,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0103.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0103-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0103.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0103-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: <link=card.self><style=AssociatedCard>Yasuo</style></link> kartıysam, +1 başlangıç manası kazanırsın.<br>Bir düşmanı <link=keyword.Recall><style=Keyword>Geri Gönderdiğinde</style></link>, bedeli 2 artar.",
     "descriptionRaw": "Güç: Yasuo kartıysam, +1 başlangıç manası kazanırsın.Bir düşmanı Geri Gönderdiğinde, bedeli 2 artar.",
     "name": "Yasuo Rüzgâr Kılıcı",
@@ -570,8 +590,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0054.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0054-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0054.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0054-full.png",
     "description": "<link=vocab.RoundEnd><style=Vocab>Tur Sonu</style></link>: Elindeysem bana iki kez <link=keyword.Impact><sprite name=Impact><style=Keyword>Ağır Darbe</style></link> kazandırırsın (en fazla 10 <link=keyword.Impact><sprite name=Impact><style=Keyword>Ağır Darbe</style></link>).",
     "descriptionRaw": "Tur Sonu: Elindeysem bana iki kez Ağır Darbe kazandırırsın (en fazla 10 Ağır Darbe).",
     "name": "Wriggle'ın Feneri",
@@ -580,8 +600,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0053.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0053-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0053.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0053-full.png",
     "description": "+1|+1 alırım ve bir birim öldürdüğümde rasgele bir Kabuk çağırırsın.",
     "descriptionRaw": "+1|+1 alırım ve bir birim öldürdüğümde rasgele bir Kabuk çağırırsın.",
     "name": "İblis Damgası",
@@ -590,8 +610,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0018.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0018-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0018.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0018-full.png",
     "description": "Çağrıldığımda <link=vocab.Strongest><style=Vocab>En Güçlü</style></link> düşmanı <link=keyword.Stun><sprite name=Stunned><style=Keyword>Sersemletirsin</style></link>.",
     "descriptionRaw": "Çağrıldığımda En Güçlü düşmanı Sersemletirsin.",
     "name": "Hepbuz",
@@ -600,8 +620,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0109.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0109-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0109.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0109-full.png",
     "description": "Oyun Başlangıcı: Destede ya da elindeysem ''<link=vocab.Countdown><style=Vocab>Geri Sayım - 4</style></link>: Beni çağırırsın'' tesirine sahip bir <link=card.self><style=AssociatedCard>Fırtına Tepesi</style></link> çağırırsın.",
     "descriptionRaw": "Oyun Başlangıcı: Destede ya da elindeysem ''Geri Sayım - 4: Beni çağırırsın'' tesirine sahip bir Fırtına Tepesi çağırırsın.",
     "name": "Donmuş Mezar",
@@ -610,8 +630,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0030.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0030-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0030.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0030-full.png",
     "description": "+0|+1 ve <link=keyword.Tough><sprite name=Tough><style=Keyword>Dayanıklı</style></link>",
     "descriptionRaw": "+0|+1 ve Dayanıklı",
     "name": "Armadillo Zırhı",
@@ -620,8 +640,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0112.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0112-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0112.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0112-full.png",
     "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>, <link=vocab.Attack><style=Vocab>Saldır</style></link> ve <link=vocab.RoundStart><style=Vocab>Tur Başı</style></link>: Beni <link=vocab.Forge><style=Vocab>İşlersin</style></link>.",
     "descriptionRaw": "Oyna, Saldır ve Tur Başı: Beni İşlersin.",
     "name": "Canlı Silah",
@@ -630,8 +650,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0061.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0061-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0061.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0061-full.png",
     "description": "Oyun Başlangıcı: Destende 7 kopyam oluşur. Şampiyon büyülerinin bedeli 1 azalır.",
     "descriptionRaw": "Oyun Başlangıcı: Destende 7 kopyam oluşur. Şampiyon büyülerinin bedeli 1 azalır.",
     "name": "Yansıma Ruh",
@@ -640,8 +660,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0083.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0083-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0083.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0083-full.png",
     "description": "+1|+1.<br><color=#FAD65A>Görev:</color> Bir macera kazan.<br><color=#FAD65A>Ödül:</color> Normalde kazanacağın Şampiyon XP'sinin 10 katını kazanırsın.",
     "descriptionRaw": "+1|+1.Görev: Bir macera kazan.Ödül: Normalde kazanacağın Şampiyon XP'sinin 10 katını kazanırsın.",
     "name": "Büyük Kozmik İnci (Tek Kullanımlık)",
@@ -650,8 +670,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0006.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0006-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0006.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0006-full.png",
     "description": "<link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>Yenilenme</style></link>",
     "descriptionRaw": "Yenilenme",
     "name": "Warmog'un Zırhı",
@@ -660,8 +680,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0015.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0015-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0015.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0015-full.png",
     "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: Büyü manan dolar.",
     "descriptionRaw": "Oyna: Büyü manan dolar.",
     "name": "Kayıp Cilt",
@@ -670,8 +690,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0039.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0039-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0039.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0039-full.png",
     "description": "Çağrıldığımda düşmanlara bu tur <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Kırılganlık</style></link> verirsin.",
     "descriptionRaw": "Çağrıldığımda düşmanlara bu tur Kırılganlık verirsin.",
     "name": "Gerçek Buzdan Gürz",
@@ -680,8 +700,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0019.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0019-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0019.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0019-full.png",
     "description": "Hasar alıp sağ kalırsam +2|+2 kazanırım.",
     "descriptionRaw": "Hasar alıp sağ kalırsam +2|+2 kazanırım.",
     "name": "Başıbozuk'un Kemer Tokası",
@@ -690,8 +710,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0036.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0036-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0036.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0036-full.png",
     "description": "Çağrıldığımda elindeki tüm kartları atarsın, kaç kart attıysan elinde o kadar <link=card.self><style=AssociatedCard>Dan Dan</style></link> oluşur.",
     "descriptionRaw": "Çağrıldığımda elindeki tüm kartları atarsın, kaç kart attıysan elinde o kadar Dan Dan oluşur.",
     "name": "Delifişek'in Yükü",
@@ -700,8 +720,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0086.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0086-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0086.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0086-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: Saldırı hakkı sana geçtiğinde elinde bedeli 2 olan bölgelerine ait rasgele bir büyü oluşur. Bedeli 0 olur ve <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Geçici</style></link> alır.",
     "descriptionRaw": "Güç: Saldırı hakkı sana geçtiğinde elinde bedeli 2 olan bölgelerine ait rasgele bir büyü oluşur. Bedeli 0 olur ve Geçici alır.",
     "name": "Büyücünün Senfonisi",
@@ -710,8 +730,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0020.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0020-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0020.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0020-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>Tur Başı</style></link>: Elinde <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Geçici</style></link> bir kopyam oluşur.",
     "descriptionRaw": "Tur Başı: Elinde Geçici bir kopyam oluşur.",
     "name": "Yüce General'in Karşı Planı",
@@ -720,8 +740,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0059.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0059-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0059.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0059-full.png",
     "description": "+1|+0<br>Ben saldırırken, hasar alamam ya da ölemem.",
     "descriptionRaw": "+1|+0Ben saldırırken, hasar alamam ya da ölemem.",
     "name": "Ölümün Hezimeti",
@@ -730,8 +750,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0094.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0094-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0094.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0094-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: Oyun Başlangıcı: <link=card.self><style=AssociatedCard>Norra</style></link> kartıysam, +1 başlangıç manası kazanırsın.<br>Oluşturulmuş bir dost birim çağırdığında ona <link=keyword.Impact><sprite name=Impact><style=Keyword>Ağır Darbe</style></link> kazandırırsın.",
     "descriptionRaw": "Güç: Oyun Başlangıcı: Norra kartıysam, +1 başlangıç manası kazanırsın.Oluşturulmuş bir dost birim çağırdığında ona Ağır Darbe kazandırırsın.",
     "name": "Norra'nın Geçit Hızlandırıcısı",
@@ -740,8 +760,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0069.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0069-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0069.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0069-full.png",
     "description": "<color=#FAD65A>Görev:</color> Yıldız seviyesi 3+ olan bir macera kazan.<br><color=#FAD65A>Ödül:</color> Bu şampiyonun bir ender yadigâr yuvası destansıya yükselir!",
     "descriptionRaw": "Görev: Yıldız seviyesi 3+ olan bir macera kazan.Ödül: Bu şampiyonun bir ender yadigâr yuvası destansıya yükselir!",
     "name": "Ruh Ocağı (Tek Kullanımlık)",
@@ -750,8 +770,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0106.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0106-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0106.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0106-full.png",
     "description": "+2|+0 ve <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Rakipçeker</style></link>.<br><link=vocab.PathPower><style=Vocab>Güç</style></link>: Oyun Başlangıcı: Destene 2 <link=card.self><style=AssociatedCard>Derinlerin İntikamı</style></link> karışır ve <link=card.self><style=AssociatedCard>Derinlerin İntikamı</style></link> kartların rasgele bir destansı eşya kazanır.",
     "descriptionRaw": "+2|+0 ve Rakipçeker.Güç: Oyun Başlangıcı: Destene 2 Derinlerin İntikamı karışır ve Derinlerin İntikamı kartların rasgele bir destansı eşya kazanır.",
     "name": "Ölümcül Zıpkın",
@@ -760,8 +780,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0001.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0001-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0001.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0001-full.png",
     "description": "Seviye atladığımda <link=vocab.Rally><style=Vocab>Silahlanırsın</style></link>.",
     "descriptionRaw": "Seviye atladığımda Silahlanırsın.",
     "name": "Crownguard Mirası",
@@ -770,8 +790,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0118.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0118-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0118.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0118-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: Nexus'un <link=keyword.Tough><sprite name=Tough><style=Keyword>Dayanıklı</style></link> olur. <br>Ben Teknolojik kartım.<br>",
     "descriptionRaw": "Güç: Nexus'un Dayanıklı olur. Ben Teknolojik kartım.",
     "name": "Savunma Harcaması",
@@ -780,8 +800,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0008.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0008-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0008.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0008-full.png",
     "description": "Maceralara +2 Yeniden Deneme'yle başlarsın.",
     "descriptionRaw": "Maceralara +2 Yeniden Deneme'yle başlarsın.",
     "name": "Z-Kapsülü Prototipi",
@@ -790,8 +810,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0034.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0034-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0034.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0034-full.png",
     "description": "<link=keyword.Plunder><style=Keyword>Yağma</style></link>: Mana bedelime eşit sayıda <link=card.self><style=AssociatedCard>Top Salvosu</style></link> oynarsın.",
     "descriptionRaw": "Yağma: Mana bedelime eşit sayıda Top Salvosu oynarsın.",
     "name": "Girdap Akını",
@@ -800,8 +820,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0037.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0037-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0037.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0037-full.png",
     "description": "Çağrıldığımda, elinde bir <link=card.self><style=AssociatedCard>Pekişen Cesaret</style></link> oluşur. Bedeli 3 olur.",
     "descriptionRaw": "Çağrıldığımda, elinde bir Pekişen Cesaret oluşur. Bedeli 3 olur.",
     "name": "Cesaret İlahisi",
@@ -810,8 +830,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0116.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0116-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0116.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0116-full.png",
     "description": "+200 başlangıç altını.<br><link=vocab.PathPower><style=Vocab>Güç</style></link>: Dost birimler oyun başlangıcında destende bulunan 18 karttan sonraki her 12 kart için +1|+1 alır.",
     "descriptionRaw": "+200 başlangıç altını.Güç: Dost birimler oyun başlangıcında destende bulunan 18 karttan sonraki her 12 kart için +1|+1 alır.",
     "name": "Dolu Dolu Deste",
@@ -820,8 +840,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0048.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0048-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0048.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0048-full.png",
     "description": "Bir büyü oynadığında, 6+ mana taşın varsa büyüyü aynı hedeflere kopyalarsın.",
     "descriptionRaw": "Bir büyü oynadığında, 6+ mana taşın varsa büyüyü aynı hedeflere kopyalarsın.",
     "name": "Kimyasal Çoklayıcı",
@@ -830,8 +850,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0117.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0117-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0117.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0117-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: Oyun Başlangıcı: Elinde bir <link=card.self><style=AssociatedCard>Evelynn</style></link> oluşur. Bir Kabuk çağırdığında, <link=keyword.Immobile><sprite name=Immobile><sprite name=Reckless><style=Keyword>Hareketsiz</style></link> özelliğini kaybeder.",
     "descriptionRaw": "Güç: Oyun Başlangıcı: Elinde bir Evelynn oluşur. Bir Kabuk çağırdığında, Hareketsiz özelliğini kaybeder.",
     "name": "Sirenin Çağrısı",
@@ -840,8 +860,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0046.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0046-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0046.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0046-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>Tur Başı</style></link>: Elinde <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Geçici</style></link> bir <link=card.self><style=AssociatedCard>Düşen Kuyrukluyıldız</style></link> oluşur.",
     "descriptionRaw": "Tur Başı: Elinde Geçici bir Düşen Kuyrukluyıldız oluşur.",
     "name": "Sihirli Yıldız",
@@ -850,8 +870,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0085.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0085-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0085.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0085-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: Bir dost birim bir büyüyle nitelik kazandığı zaman nitelik miktarının iki katını kazanır.",
     "descriptionRaw": "Güç: Bir dost birim bir büyüyle nitelik kazandığı zaman nitelik miktarının iki katını kazanır.",
     "name": "Gizli Teknik",
@@ -860,8 +880,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0119.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0119-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0119.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0119-full.png",
     "description": "Başka bir birimi <link=keyword.Recall><style=Keyword>Geri Gönderdiğinde</style></link> +1|+0 kazanırım.<br><link=vocab.PathPower><style=Vocab>Güç</style></link>: Oyun Başlangıcı: Elinde bir <link=card.self><style=AssociatedCard>Evin Dönüşü</style></link> oluşur ve ona Çift Zamanlı Saat kazandırırsın.<br>",
     "descriptionRaw": "Başka bir birimi Geri Gönderdiğinde +1|+0 kazanırım.Güç: Oyun Başlangıcı: Elinde bir Evin Dönüşü oluşur ve ona Çift Zamanlı Saat kazandırırsın.",
     "name": "Öz Hırsızlığı",
@@ -870,8 +890,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0041.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0041-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0041.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0041-full.png",
     "description": "<link=keyword.Support><style=Keyword>Destekle</style></link>: Desteklediğim dost birim <link=keyword.Elusive><sprite name=Elusive><style=Keyword>Sıyrılgan</style></link> kazanır.",
     "descriptionRaw": "Destekle: Desteklediğim dost birim Sıyrılgan kazanır.",
     "name": "Yeşilkırlı Gölgeyaprak",
@@ -880,8 +900,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0025.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0025-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0025.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0025-full.png",
     "description": "Dost birimler <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Aban</style></link> alır.",
     "descriptionRaw": "Dost birimler Aban alır.",
     "name": "Trol Kralı'nın Tacı",
@@ -890,8 +910,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0047.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0047-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0047.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0047-full.png",
     "description": "+1|+1.<br><color=#FAD65A>Görev:</color> 1 ya da daha düşük yıldız zorluk seviyesine sahip bir macera kazan.<br><color=#FAD65A>Ödül:</color> Normalde kazanacağın Şampiyon XP'sinin 10 katını kazanırsın.",
     "descriptionRaw": "+1|+1.Görev: 1 ya da daha düşük yıldız zorluk seviyesine sahip bir macera kazan.Ödül: Normalde kazanacağın Şampiyon XP'sinin 10 katını kazanırsın.",
     "name": "Deneyim Peşinde",
@@ -900,8 +920,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0089.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0089-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0089.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0089-full.png",
     "description": "<link=keyword.Challenger><sprite name=Challenger><style=Keyword>Rakipçeker</style></link>, <link=keyword.Tough><sprite name=Tough><style=Keyword>Dayanıklı</style></link> ve <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Aban</style></link>",
     "descriptionRaw": "Rakipçeker, Dayanıklı ve Aban",
     "name": "Tamtakır",
@@ -910,8 +930,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0125.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0125-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0125.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0125-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: <link=vocab.RoundStart><style=Vocab>Tur Başı</style></link>: Elinde bir <link=card.self><style=AssociatedCard>Sihir Çekirdeği Güçlendirmesi</style></link> oluşur. <link=card.self><style=AssociatedCard>Hexçekirdek Güçlendirmesi</style></link> kartın Kronometre eşyasına sahip olur ve herhangi bir dost birimi geliştirebilir.<br>",
     "descriptionRaw": "Güç: Tur Başı: Elinde bir Sihir Çekirdeği Güçlendirmesi oluşur. Hexçekirdek Güçlendirmesi kartın Kronometre eşyasına sahip olur ve herhangi bir dost birimi geliştirebilir.",
     "name": "Kusursuz Hexçekirdek",
@@ -920,8 +940,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0064.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0064-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0064.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0064-full.png",
     "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: 5 adet 2. seviye şampiyon kartı destene karışır ve nitelikleri ikiye katlanır. Ardından o kartlardan birini çekersin.",
     "descriptionRaw": "Oyna: 5 adet 2. seviye şampiyon kartı destene karışır ve nitelikleri ikiye katlanır. Ardından o kartlardan birini çekersin.",
     "name": "Muhafızların Yemini",
@@ -930,8 +950,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0066.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0066-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0066.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0066-full.png",
     "description": "Çağrıldığımda, bölgelerine ait 7+ manalık rasgele 2 birim oluşturursun ve bedellerini benim taban bedelim kadar azaltırsın.",
     "descriptionRaw": "Çağrıldığımda, bölgelerine ait 7+ manalık rasgele 2 birim oluşturursun ve bedellerini benim taban bedelim kadar azaltırsın.",
     "name": "Geçirgen Geçit",
@@ -940,8 +960,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0009.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0009-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0009.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0009-full.png",
     "description": "<link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>Büyü Kalkanı</style></link>",
     "descriptionRaw": "Büyü Kalkanı",
     "name": "Banshee'nin Duvağı",
@@ -950,8 +970,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0096.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0096-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0096.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0096-full.png",
     "description": "<link=keyword.Spirit><sprite name=Spirit><style=Keyword>Cesaret</style></link> ve <link=keyword.Impact><sprite name=Impact><style=Keyword>Ağır Darbe</style></link>",
     "descriptionRaw": "Cesaret ve Ağır Darbe",
     "name": "Yordle Düşleri",
@@ -960,8 +980,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0124.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0124-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0124.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0124-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: <link=card.self><style=AssociatedCard>Kayle</style></link> kartıysam, +1 başlangıç manası kazanırsın.<br>Bu macerada kazandığın her karşılaşma için +1|+0 alırım.<br>",
     "descriptionRaw": "Güç: Kayle kartıysam, +1 başlangıç manası kazanırsın.Bu macerada kazandığın her karşılaşma için +1|+0 alırım.",
     "name": "Yıldızateşi Kılıcı",
@@ -970,8 +990,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0121.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0121-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0121.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0121-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: Bedeli 3+ olan bir kart oynadığında, 1 birime <link=vocab.Terrify><style=Vocab>Dehşet Salarsın</style></link>. Rakibin destesinde 15 veya daha az kart varken, dost birimler +2|+2 ve <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Aban</style></link> kazanır.",
     "descriptionRaw": "Güç: Bedeli 3+ olan bir kart oynadığında, 1 birime Dehşet Salarsın. Rakibin destesinde 15 veya daha az kart varken, dost birimler +2|+2 ve Aban kazanır.",
     "name": "Zararsız Korkuluk",
@@ -980,8 +1000,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0122.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0122-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0122.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0122-full.png",
     "description": "<link=vocab.PathPower><style=Vocab>Güç</style></link>: Can değeri 2+ olan bir dost birim oynadığında ona 1 hasar verirsin ve <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Aban</style></link> ile <link=keyword.Impact><sprite name=Impact><style=Keyword>Ağır Darbe</style></link> kazandırırsın.",
     "descriptionRaw": "Güç: Can değeri 2+ olan bir dost birim oynadığında ona 1 hasar verirsin ve Aban ile Ağır Darbe kazandırırsın.",
     "name": "Acımasız Deneyler",
@@ -990,8 +1010,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0108.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0108-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0108.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0108-full.png",
     "description": "3 <link=keyword.Impact><sprite name=Impact><style=Keyword>Ağır Darbe</style></link><br><link=vocab.Play><style=Vocab>Oyna</style></link>: 10+ Güç değerine sahipsem bana <link=keyword.Barrier><sprite name=Barrier><style=Keyword>Bariyer</style></link> verirsin ve <link=vocab.Strongest><style=Vocab>En Güçlü</style></link> rakibi <link=keyword.Challenger><sprite name=Challenger><style=Keyword>çekerek</style></link> bir fazladan saldırı başlatırım.",
     "descriptionRaw": "3 Ağır DarbeOyna: 10+ Güç değerine sahipsem bana Bariyer verirsin ve En Güçlü rakibi çekerek bir fazladan saldırı başlatırım.",
     "name": "Son Uyarı ",
@@ -1000,8 +1020,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0105.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0105-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0105.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0105-full.png",
     "description": "+1|+2<br>Seviye atladığımda 3 mana doldurursun. <link=card.self><style=AssociatedCard>Jayce</style></link> kartıysam bunun yerine 6 mana doldurursun.<br>",
     "descriptionRaw": "+1|+2Seviye atladığımda 3 mana doldurursun. Jayce kartıysam bunun yerine 6 mana doldurursun.",
     "name": "Jayce Hextech Pili",
@@ -1010,8 +1030,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0023.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0023-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0023.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0023-full.png",
     "description": "Dost birimler <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Rakipçeker</style></link> alır.",
     "descriptionRaw": "Dost birimler Rakipçeker alır.",
     "name": "Laurent Kılıçtutan",
@@ -1020,8 +1040,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0031.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0031-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0031.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0031-full.png",
     "description": "Seviye atladığımda tüm düşmanları <link=keyword.Stun><sprite name=Stunned><style=Keyword>Sersemletirsin</style></link>.",
     "descriptionRaw": "Seviye atladığımda tüm düşmanları Sersemletirsin.",
     "name": "Fırtına Kılıcı",
@@ -1030,8 +1050,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0095.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0095-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0095.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0095-full.png",
     "description": "<link=vocab.Play><style=Vocab>Oyna</style></link>: Düşmanlara <link=keyword.Gloom><sprite name=Gloom><style=Keyword>Kasvet</style></link> kazandırırsın.",
     "descriptionRaw": "Oyna: Düşmanlara Kasvet kazandırırsın.",
     "name": "Nihai Yeis",
@@ -1040,8 +1060,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0060.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0060-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0060.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0060-full.png",
     "description": "Oyundaki her dost birim için bedelim 1 azalır.<br><link=vocab.Play><style=Vocab>Oyna</style></link>: Tüm diğer dost birimlere 3 hasar verirsin.",
     "descriptionRaw": "Oyundaki her dost birim için bedelim 1 azalır.Oyna: Tüm diğer dost birimlere 3 hasar verirsin.",
     "name": "Gölgelerin Öğrencisi",
@@ -1050,8 +1070,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0007.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0007-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0007.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0007-full.png",
     "description": "Maceralara +1 Diriltme'yle başlarsın.<br><link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>Son Nefes</style></link>: Bu oyunda ilk defa <link=vocab.Slay><style=Vocab>katledildiysem</style></link>, 1 Canla dirilirim.",
     "descriptionRaw": "Maceralara +1 Diriltme'yle başlarsın.Son Nefes: Bu oyunda ilk defa katledildiysem, 1 Canla dirilirim.",
     "name": "Koruyucu Melek",
@@ -1060,8 +1080,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0115.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0115-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0115.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0115-full.png",
     "description": "+3 Yeniden Deneme<br>+%10 destansı güç ve eşya bulma ihtimali kazanır.",
     "descriptionRaw": "+3 Yeniden Deneme+%10 destansı güç ve eşya bulma ihtimali kazanır.",
     "name": "Hileli Zar",
@@ -1070,8 +1090,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0032.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_2_0/adventure/tr_tr/img/relics/R0032-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0032.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/tr_tr/img/relics/R0032-full.png",
     "description": "+1|+0 ve <link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>Korkunç</style></link>",
     "descriptionRaw": "+1|+0 ve Korkunç",
     "name": "Ruh Mızrağı",
