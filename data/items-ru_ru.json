@@ -1,7 +1,7 @@
 [
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0070.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0070-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0070.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0070-full.png",
     "description": "<link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>Щит от магии</style></link>",
     "descriptionRaw": "Щит от магии",
     "name": "Защитный амулет",
@@ -10,8 +10,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0108.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0108-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0108.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0108-full.png",
     "description": "<link=keyword.Burst><sprite name=Burst><style=Keyword>Взрывное</style></link>",
     "descriptionRaw": "Взрывное",
     "name": "Секундомер",
@@ -20,8 +20,8 @@
     "rarityRef": "Special"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0018.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0018-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0018.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0018-full.png",
     "description": "Призвав меня, <link=vocab.Advance><style=Vocab>продвиньте</style></link> мой счетчик на 1 раунд.",
     "descriptionRaw": "Призвав меня, продвиньте мой счетчик на 1 раунд.",
     "name": "Секундомер",
@@ -30,8 +30,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0068.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0068-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0068.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0068-full.png",
     "description": "Когда меня призывают, я <link=keyword.Capture><sprite name=Capture><style=Keyword>пленяю</style></link> <link=vocab.Strongest><style=Vocab>сильнейшего</style></link> врага.",
     "descriptionRaw": "Когда меня призывают, я пленяю сильнейшего врага.",
     "name": "Хладорожденная рукавица",
@@ -40,8 +40,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0062.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0062-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0062.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0062-full.png",
     "description": "Исцелите свой нексус на количество ед. здоровья, равное моей стоимости.",
     "descriptionRaw": "Исцелите свой нексус на количество ед. здоровья, равное моей стоимости.",
     "name": "Зелье здоровья",
@@ -50,8 +50,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0163.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0163-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0163.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0163-full.png",
     "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: призовите случайного дракона моей базовой стоимости или меньше.",
     "descriptionRaw": "Разыгрывая карту: призовите случайного дракона моей базовой стоимости или меньше.",
     "name": "Драконье яйцо",
@@ -60,8 +60,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0079.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0079-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0079.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0079-full.png",
     "description": "-2 от стоимости",
     "descriptionRaw": "-2 от стоимости",
     "name": "Медальон кочевника",
@@ -70,8 +70,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0006.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0006-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0006.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0006-full.png",
     "description": "Начало игры: вытяните меня, если я не в руке.",
     "descriptionRaw": "Начало игры: вытяните меня, если я не в руке.",
     "name": "Всевидящая альтернатива",
@@ -80,8 +80,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0123.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0123-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0123.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0123-full.png",
     "description": "<link=keyword.Deathless><sprite name=Deathless><style=Keyword>Посмертие</style></link>",
     "descriptionRaw": "Посмертие",
     "name": "Бессмертный",
@@ -90,8 +90,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0126.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0126-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0126.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0126-full.png",
     "description": "<link=keyword.Fated><sprite name=Fated><style=Keyword>Избранный</style></link>. Cтановится фаэ.",
     "descriptionRaw": "Избранный. Cтановится фаэ.",
     "name": "Милость фаэ",
@@ -100,8 +100,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0162.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0162-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0162.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0162-full.png",
     "description": "+5|+5",
     "descriptionRaw": "+5|+5",
     "name": "Титанический молот",
@@ -110,8 +110,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0160.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0160-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0160.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0160-full.png",
     "description": "Двойной урон, но +1 к стоимости",
     "descriptionRaw": "Двойной урон, но +1 к стоимости",
     "name": "Неисправный взрывной знак",
@@ -120,8 +120,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0034.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0034-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0034.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0034-full.png",
     "description": "<link=vocab.Attack><style=Vocab>Атака</style></link>: Прикрепите 5 <link=card.self><style=AssociatedCard>Ядовитых грибов</style></link> в колоде противника.",
     "descriptionRaw": "Атака: Прикрепите 5 Ядовитых грибов в колоде противника.",
     "name": "Спецпоставка",
@@ -130,8 +130,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0136.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0136-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0136.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0136-full.png",
     "description": "Союзники получают +1|+1",
     "descriptionRaw": "Союзники получают +1|+1",
     "name": "Награда героям",
@@ -140,8 +140,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0115.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0115-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0115.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0115-full.png",
     "description": "-2 от стоимости и <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Мимолетность</style></link>",
     "descriptionRaw": "-2 от стоимости и Мимолетность",
     "name": "Раскошелься",
@@ -150,8 +150,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0121.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0121-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0121.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0121-full.png",
     "description": "Воплотите <link=vocab.Titanic><style=Vocab>титанического</style></link> бойца и призовите 2 <link=card.self><style=AssociatedCard>Сигила Бури</style></link>.",
     "descriptionRaw": "Воплотите титанического бойца и призовите 2 Сигила Бури.",
     "name": "Призывание бури",
@@ -160,8 +160,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0118.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0118-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0118.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0118-full.png",
     "description": "Стоимость снижается на 1 за каждую вытянутую в этом раунде карту.",
     "descriptionRaw": "Стоимость снижается на 1 за каждую вытянутую в этом раунде карту.",
     "name": "Мощный рифф",
@@ -170,8 +170,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0113.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0113-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0113.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0113-full.png",
     "description": "+1|+0 и <link=keyword.Brash><sprite name=Brash><style=Keyword>Вспыльчивость</style></link>",
     "descriptionRaw": "+1|+0 и Вспыльчивость",
     "name": "Коралловые перчатки",
@@ -180,8 +180,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0116.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0116-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0116.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0116-full.png",
     "description": "Нанесите 3 ед. урона вражескому нексусу.",
     "descriptionRaw": "Нанесите 3 ед. урона вражескому нексусу.",
     "name": "Пробуждение пироманта",
@@ -190,8 +190,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0124.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0124-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0124.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0124-full.png",
     "description": "Разыгрывая карту, дайте мне +1|+1 до конца раунда.",
     "descriptionRaw": "Разыгрывая карту, дайте мне +1|+1 до конца раунда.",
     "name": "Атака экскаватора",
@@ -200,8 +200,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0122.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0122-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0122.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0122-full.png",
     "description": "Призвав меня, увеличьте мои характеристики до 8|8.",
     "descriptionRaw": "Призвав меня, увеличьте мои характеристики до 8|8.",
     "name": "Отитанивание",
@@ -210,8 +210,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0120.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0120-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0120.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0120-full.png",
     "description": "Вытяните бойца.",
     "descriptionRaw": "Вытяните бойца.",
     "name": "Зов героев",
@@ -220,8 +220,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0119.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0119-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0119.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0119-full.png",
     "description": "Создайте в руке карту Нырок. ",
     "descriptionRaw": "Создайте в руке карту Нырок. ",
     "name": "Уруми",
@@ -230,8 +230,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0125.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0125-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0125.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0125-full.png",
     "description": "Призвав меня, вытяните заклинание.",
     "descriptionRaw": "Призвав меня, вытяните заклинание.",
     "name": "Тайное знание",
@@ -240,8 +240,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0112.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0112-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0112.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0112-full.png",
     "description": "<link=keyword.Augment><sprite name=Augment><style=Keyword>Улучшение</style></link>. Cтановится Техникой.",
     "descriptionRaw": "Улучшение. Cтановится Техникой.",
     "name": "Техноэволюция",
@@ -250,8 +250,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0087.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0087-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0087.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0087-full.png",
     "description": "Даруйте <link=vocab.Strongest><style=Vocab>сильнейшему</style></link> союзнику случайный эпический предмет на этот матч.",
     "descriptionRaw": "Даруйте сильнейшему союзнику случайный эпический предмет на этот матч.",
     "name": "Фабрика хекстека III",
@@ -260,8 +260,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0035.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0035-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0035.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0035-full.png",
     "description": "+1|+1, <link=keyword.Lurker><sprite name=Lurker><style=Keyword>Охота</style></link>, я Охотник.",
     "descriptionRaw": "+1|+1, Охота, я Охотник.",
     "name": "Уловка моряка",
@@ -270,8 +270,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0138.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0138-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0138.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0138-full.png",
     "description": "Начало игры: призовите одну мою копию из колоды.",
     "descriptionRaw": "Начало игры: призовите одну мою копию из колоды.",
     "name": "Свое поле",
@@ -280,8 +280,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0064.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0064-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0064.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0064-full.png",
     "description": "Замешайте 2 мои копии в свою колоду. Их стоимость будет равна 1.",
     "descriptionRaw": "Замешайте 2 мои копии в свою колоду. Их стоимость будет равна 1.",
     "name": "Крапленая колода",
@@ -290,8 +290,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0088.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0088-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0088.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0088-full.png",
     "description": "+1 ед. урона",
     "descriptionRaw": "+1 ед. урона",
     "name": "Заряжающий знак I",
@@ -300,8 +300,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0095.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0095-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0095.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0095-full.png",
     "description": "Начало игры: прикрепите ко мне карту <link=card.self><style=AssociatedCard>Таинственный портал</style></link>.",
     "descriptionRaw": "Начало игры: прикрепите ко мне карту Таинственный портал.",
     "name": "Норрин чай",
@@ -310,8 +310,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0047.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0047-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0047.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0047-full.png",
     "description": "<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>Быстрая атака</style></link>",
     "descriptionRaw": "Быстрая атака",
     "name": "Боксерские бинты",
@@ -320,8 +320,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0142.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0142-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0142.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0142-full.png",
     "description": "Пока я в руке, мой навык каждый раунд меняется на случайный. Призвав меня, даруйте мне текущий навык.",
     "descriptionRaw": "Пока я в руке, мой навык каждый раунд меняется на случайный. Призвав меня, даруйте мне текущий навык.",
     "name": "Панцирь войдлинга",
@@ -330,8 +330,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0154.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0154-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0154.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0154-full.png",
     "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: примените ко мне два случайных драконьих поощрения.",
     "descriptionRaw": "Разыгрывая карту: примените ко мне два случайных драконьих поощрения.",
     "name": "Пылающая душа",
@@ -340,8 +340,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0111.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0111-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0111.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0111-full.png",
     "description": "Удар: вытяните 1 карту.",
     "descriptionRaw": "Удар: вытяните 1 карту.",
     "name": "Завораживающая приманка",
@@ -350,8 +350,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0132.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0132-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0132.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0132-full.png",
     "description": "Оппонент сбрасывает случайную карту.",
     "descriptionRaw": "Оппонент сбрасывает случайную карту.",
     "name": "Мозговой червь",
@@ -360,8 +360,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0045.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0045-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0045.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0045-full.png",
     "description": "+3|+1",
     "descriptionRaw": "+3|+1",
     "name": "Гигантский молот",
@@ -370,8 +370,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0106.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0106-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0106.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0106-full.png",
     "description": "<link=keyword.Scout><sprite name=Scout><style=Keyword>Разведка</style></link>",
     "descriptionRaw": "Разведка",
     "name": "Призрачный Танцор",
@@ -380,8 +380,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0011.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0011-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0011.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0011-full.png",
     "description": "Снизьте мою стоимость на значение, равное стоимости самого дорогого союзного чемпиона.",
     "descriptionRaw": "Снизьте мою стоимость на значение, равное стоимости самого дорогого союзного чемпиона.",
     "name": "Хекстековый проторемень-01",
@@ -390,8 +390,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0090.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0090-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0090.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0090-full.png",
     "description": "+4 ед. урона",
     "descriptionRaw": "+4 ед. урона",
     "name": "Заряжающий знак III",
@@ -400,8 +400,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0167.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0167-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0167.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0167-full.png",
     "description": "+7|+7, но +3 к стоимости",
     "descriptionRaw": "+7|+7, но +3 к стоимости",
     "name": "Великолепные доспехи ",
@@ -410,8 +410,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0014.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0014-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0014.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0014-full.png",
     "description": "Призвав меня, удвойте мою силу и здоровье.",
     "descriptionRaw": "Призвав меня, удвойте мою силу и здоровье.",
     "name": "Черная секира",
@@ -420,8 +420,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0093.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0093-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0093.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0093-full.png",
     "description": "Призовите случайного чемпиона, чья стоимость равна моей.",
     "descriptionRaw": "Призовите случайного чемпиона, чья стоимость равна моей.",
     "name": "Камень призывателя",
@@ -430,8 +430,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0082.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0082-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0082.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0082-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>Начало раунда</style></link>: получите дополнительный кристалл маны в этом раунде.",
     "descriptionRaw": "Начало раунда: получите дополнительный кристалл маны в этом раунде.",
     "name": "Кристаллоносец",
@@ -440,8 +440,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0038.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0038-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0038.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0038-full.png",
     "description": "+0|+2",
     "descriptionRaw": "+0|+2",
     "name": "Пояс великана",
@@ -450,8 +450,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0037.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0037-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0037.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0037-full.png",
     "description": "+1|+1",
     "descriptionRaw": "+1|+1",
     "name": "Клепаная кожа",
@@ -460,8 +460,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0080.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0080-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0080.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0080-full.png",
     "description": "<link=vocab.RoundEnd><style=Vocab>Конец раунда</style></link>: нанесите мне 1 ед. урона и даруйте мне +2|+0.",
     "descriptionRaw": "Конец раунда: нанесите мне 1 ед. урона и даруйте мне +2|+0.",
     "name": "Завеса кровопускателя",
@@ -470,8 +470,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0109.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0109-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0109.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0109-full.png",
     "description": "Создайте в руке случайную карту из Колоды императора.",
     "descriptionRaw": "Создайте в руке случайную карту из Колоды императора.",
     "name": "Милость императора",
@@ -480,8 +480,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0133.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0133-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0133.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0133-full.png",
     "description": "+4|+0 и <link=keyword.Reckless><sprite name=Reckless><style=Keyword>Не может блокировать</style></link>.",
     "descriptionRaw": "+4|+0 и Не может блокировать.",
     "name": "Всепоглощающая ярость",
@@ -490,8 +490,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0076.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0076-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0076.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0076-full.png",
     "description": "<link=keyword.Tough><sprite name=Tough><style=Keyword>Стойкость</style></link>",
     "descriptionRaw": "Стойкость",
     "name": "Кольчуга",
@@ -500,8 +500,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0171.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0171-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0171.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0171-full.png",
     "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: призовите мою точную копию.",
     "descriptionRaw": "Разыгрывая карту: призовите мою точную копию.",
     "name": "Истинное отражение",
@@ -510,8 +510,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0015.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0015-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0015.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0015-full.png",
     "description": "Когда меня призывают, создайте в руке мою <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>мимолетную</style></link> копию.",
     "descriptionRaw": "Когда меня призывают, создайте в руке мою мимолетную копию.",
     "name": "Духовный камень",
@@ -520,8 +520,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0042.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0042-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0042.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0042-full.png",
     "description": "+1|+3",
     "descriptionRaw": "+1|+3",
     "name": "Щит дикаря",
@@ -530,8 +530,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0009.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0009-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0009.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0009-full.png",
     "description": "<link=vocab.Attack><style=Vocab>Атака</style></link>: <link=keyword.Nab><style=Keyword>украдите</style></link> 1 карту.",
     "descriptionRaw": "Атака: украдите 1 карту.",
     "name": "Воровские инструменты",
@@ -540,8 +540,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0056.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0056-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0056.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0056-full.png",
     "description": "-3 от стоимости",
     "descriptionRaw": "-3 от стоимости",
     "name": "Чаша гармонии",
@@ -550,8 +550,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0144.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0144-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0144.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0144-full.png",
     "description": "<link=keyword.Spirit><sprite name=Spirit><style=Keyword>Мужество</style></link>",
     "descriptionRaw": "Мужество",
     "name": "Яркий посох",
@@ -560,8 +560,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0067.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0067-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0067.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0067-full.png",
     "description": "Разыграв заклинание, даруйте мне +1|+1.",
     "descriptionRaw": "Разыграв заклинание, даруйте мне +1|+1.",
     "name": "Фокусирующий кристалл",
@@ -570,8 +570,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0033.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0033-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0033.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0033-full.png",
     "description": "Когда призывают меня, призовите и мою копию.",
     "descriptionRaw": "Когда призывают меня, призовите и мою копию.",
     "name": "Портал Зз'Рота",
@@ -580,8 +580,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0096.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0096-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0096.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0096-full.png",
     "description": "<link=vocab.Attack><style=Vocab>Атака</style></link>: даруйте моему носителю +1|+1.",
     "descriptionRaw": "Атака: даруйте моему носителю +1|+1.",
     "name": "Сияние",
@@ -590,8 +590,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0052.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0052-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0052.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0052-full.png",
     "description": "Шанс в 50% создать в руке мою копию, которая будет стоить 0 в этом раунде.",
     "descriptionRaw": "Шанс в 50% создать в руке мою копию, которая будет стоить 0 в этом раунде.",
     "name": "Куб удвоения",
@@ -600,8 +600,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0110.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0110-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0110.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0110-full.png",
     "description": "Моя стоимость равна 1, а мои базовые характеристики равны 1|1. Я поро.",
     "descriptionRaw": "Моя стоимость равна 1, а мои базовые характеристики равны 1|1. Я поро.",
     "name": "Поро-фляф",
@@ -610,8 +610,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0071.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0071-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0071.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0071-full.png",
     "description": "<link=keyword.Support><style=Keyword>Поддержка</style></link>: даруйте союзнику, которого я поддерживаю, +1|+1.",
     "descriptionRaw": "Поддержка: даруйте союзнику, которого я поддерживаю, +1|+1.",
     "name": "Пояс Таргона",
@@ -620,8 +620,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0091.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0091-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0091.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0091-full.png",
     "description": "+2 ед. урона",
     "descriptionRaw": "+2 ед. урона",
     "name": "Заряжающий знак II",
@@ -630,8 +630,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0027.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0027-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0027.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0027-full.png",
     "description": "Когда меня призывают или разрушают, исцелите свой нексус на количество ед. здоровья, равное моей стоимости.",
     "descriptionRaw": "Когда меня призывают или разрушают, исцелите свой нексус на количество ед. здоровья, равное моей стоимости.",
     "name": "Кристаллические наручи",
@@ -640,8 +640,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0039.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0039-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0039.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0039-full.png",
     "description": "<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Пробивание</style></link>",
     "descriptionRaw": "Пробивание",
     "name": "Палица",
@@ -650,8 +650,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0013.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0013-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0013.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0013-full.png",
     "description": "<link=keyword.Elusive><sprite name=Elusive><style=Keyword>Изворотливость</style></link>",
     "descriptionRaw": "Изворотливость",
     "name": "Таби ниндзя",
@@ -660,8 +660,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0036.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0036-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0036.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0036-full.png",
     "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>Предсмертный вздох</style></link>: используйте <link=vocab.Rally><style=Vocab>Рвение</style></link>",
     "descriptionRaw": "Предсмертный вздох: используйте Рвение",
     "name": "Знамя сплочения",
@@ -670,8 +670,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0021.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0021-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0021.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0021-full.png",
     "description": "Когда меня призывают, я <link=keyword.Capture><sprite name=Capture><style=Keyword>пленяю</style></link> <link=vocab.Strongest><style=Vocab>сильнейшего</style></link> врага.",
     "descriptionRaw": "Когда меня призывают, я пленяю сильнейшего врага.",
     "name": "Скрытые сокровища",
@@ -680,8 +680,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0072.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0072-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0072.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0072-full.png",
     "description": "<link=keyword.Support><style=Keyword>Поддержка</style></link>: до конца раунда дайте союзнику, которого я поддерживаю, +1|+1 и мои навыки.",
     "descriptionRaw": "Поддержка: до конца раунда дайте союзнику, которого я поддерживаю, +1|+1 и мои навыки.",
     "name": "Соединенные щиты",
@@ -690,8 +690,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0130.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0130-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0130.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0130-full.png",
     "description": "<link=keyword.Double Strike><sprite name=DoubleStrike><style=Keyword>Двойная атака</style></link>",
     "descriptionRaw": "Двойная атака",
     "name": "Тяжелые руки",
@@ -700,8 +700,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0084.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0084-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0084.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0084-full.png",
     "description": "Дайте союзникам +1|+1 до конца раунда.",
     "descriptionRaw": "Дайте союзникам +1|+1 до конца раунда.",
     "name": "Боевой стяг",
@@ -710,8 +710,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0065.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0065-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0065.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0065-full.png",
     "description": "<link=vocab.Predict><style=Vocab>Предсказание</style></link>",
     "descriptionRaw": "Предсказание",
     "name": "Лупа оракула",
@@ -720,8 +720,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0074.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0074-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0074.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0074-full.png",
     "description": "Призвав меня, исцелите свой нексус на количество ед. здоровья, равное моей стоимости.",
     "descriptionRaw": "Призвав меня, исцелите свой нексус на количество ед. здоровья, равное моей стоимости.",
     "name": "Вампирский скипетр",
@@ -730,8 +730,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0179.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0179-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0179.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0179-full.png",
     "description": "+2|+1.<br>Разыгрывая карту: нанесите по 2 ед. урона обоим нексусам.",
     "descriptionRaw": "+2|+1.Разыгрывая карту: нанесите по 2 ед. урона обоим нексусам.",
     "name": "Злой поглотитель",
@@ -740,8 +740,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0097.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0097-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0097.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0097-full.png",
     "description": "<link=keyword.Challenger><sprite name=Challenger><style=Keyword>Выбор противника</style></link>",
     "descriptionRaw": "Выбор противника",
     "name": "Билджвотерская сабля",
@@ -750,8 +750,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0000.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0000-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0000.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0000-full.png",
     "description": "Даруйте верхнему союзнику в своей колоде +3|+3.",
     "descriptionRaw": "Даруйте верхнему союзнику в своей колоде +3|+3.",
     "name": "Пылающая кадильница",
@@ -760,8 +760,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0146.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0146-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0146.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0146-full.png",
     "description": "<link=keyword.Hallowed><sprite name=Hallowed><style=Keyword>Благой</style></link>",
     "descriptionRaw": "Благой",
     "name": "Чудесная мелодия",
@@ -770,8 +770,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0086.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0086-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0086.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0086-full.png",
     "description": "Даруйте <link=vocab.Strongest><style=Vocab>сильнейшему</style></link> союзнику случайный редкий предмет на этот матч.",
     "descriptionRaw": "Даруйте сильнейшему союзнику случайный редкий предмет на этот матч.",
     "name": "Фабрика хекстека II",
@@ -780,8 +780,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0012.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0012-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0012.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0012-full.png",
     "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: призовите мою точную <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>эфемерную</style></link> копию.",
     "descriptionRaw": "Разыгрывая карту: призовите мою точную эфемерную копию.",
     "name": "Тотем тени",
@@ -790,8 +790,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0054.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0054-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0054.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0054-full.png",
     "description": "Моя стоимость равна 0. Нанесите своему нексусу урон, равный моей изначальной стоимости.",
     "descriptionRaw": "Моя стоимость равна 0. Нанесите своему нексусу урон, равный моей изначальной стоимости.",
     "name": "Призма кровавой расплаты",
@@ -800,8 +800,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0002.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0002-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0002.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0002-full.png",
     "description": "<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Мимолетность</style></link>",
     "descriptionRaw": "Мимолетность",
     "name": "Проклятый камень",
@@ -810,8 +810,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0001.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0001-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0001.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0001-full.png",
     "description": "Не блокирует",
     "descriptionRaw": "Не блокирует",
     "name": "Ржавый доспех",
@@ -820,8 +820,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0005.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0005-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0005.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0005-full.png",
     "description": "-1|-0",
     "descriptionRaw": "-1|-0",
     "name": "Ржавый меч",
@@ -830,8 +830,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0003.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0003-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0003.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0003-full.png",
     "description": "<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Эфемерность</style></link>",
     "descriptionRaw": "Эфемерность",
     "name": "Проклятый плащ",
@@ -840,8 +840,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0004.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0004-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0004.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0004-full.png",
     "description": "+1 к стоимости",
     "descriptionRaw": "+1 к стоимости",
     "name": "Испорченное зелье маны",
@@ -850,8 +850,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0174.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0174-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0174.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0174-full.png",
     "description": "Восполните свою ману заклинаний.",
     "descriptionRaw": "Восполните свою ману заклинаний.",
     "name": "Искра гениальности",
@@ -860,8 +860,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0089.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0089-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0089.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0089-full.png",
     "description": "Даруйте верхнему союзнику в своей колоде +6|+6.",
     "descriptionRaw": "Даруйте верхнему союзнику в своей колоде +6|+6.",
     "name": "Огромная кадильница",
@@ -870,8 +870,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0169.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0169-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0169.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0169-full.png",
     "description": "+5|+0",
     "descriptionRaw": "+5|+0",
     "name": "Кирка титана",
@@ -880,8 +880,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0140.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0140-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0140.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0140-full.png",
     "description": "Призвав меня, прикрепите 6 <link=card.self><style=AssociatedCard>Колокольчиков</style></link> к случайным картам в вашей колоде.",
     "descriptionRaw": "Призвав меня, прикрепите 6 Колокольчиков к случайным картам в вашей колоде.",
     "name": "Благословение скитальца",
@@ -890,8 +890,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0049.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0049-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0049.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0049-full.png",
     "description": "Когда вы разыгрываете заклинание, моя стоимость уменьшается на 1.",
     "descriptionRaw": "Когда вы разыгрываете заклинание, моя стоимость уменьшается на 1.",
     "name": "Руководство по магии",
@@ -900,8 +900,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0060.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0060-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0060.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0060-full.png",
     "description": "Призовите сторонника из ваших регионов, чья стоимость равна моей.",
     "descriptionRaw": "Призовите сторонника из ваших регионов, чья стоимость равна моей.",
     "name": "Призывающий маячок",
@@ -910,8 +910,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0078.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0078-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0078.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0078-full.png",
     "description": "Призвав меня, вытяните 1 карту.",
     "descriptionRaw": "Призвав меня, вытяните 1 карту.",
     "name": "Философский камень",
@@ -920,8 +920,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0044.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0044-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0044.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0044-full.png",
     "description": "+3|+3",
     "descriptionRaw": "+3|+3",
     "name": "Топор титана",
@@ -930,8 +930,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0019.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0019-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0019.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0019-full.png",
     "description": "+1|+1, <link=keyword.Fury><sprite name=Fury><style=Keyword>Ярость</style></link>, я дракон.",
     "descriptionRaw": "+1|+1, Ярость, я дракон.",
     "name": "Драконий клык",
@@ -940,8 +940,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0007.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0007-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0007.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0007-full.png",
     "description": "<link=keyword.Challenger><sprite name=Challenger><style=Keyword>Выбор противника</style></link>",
     "descriptionRaw": "Выбор противника",
     "name": "Сабля задиры",
@@ -950,8 +950,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0147.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0147-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0147.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0147-full.png",
     "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>Предсмертный вздох</style></link>: призовите случайную карту бойца из ваших регионов стоимостью 1.",
     "descriptionRaw": "Предсмертный вздох: призовите случайную карту бойца из ваших регионов стоимостью 1.",
     "name": "Доска розыска",
@@ -960,8 +960,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0026.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0026-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0026.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0026-full.png",
     "description": "<link=vocab.Countdown><style=Vocab>Отсчитайте</style></link> 3 раунда и нанесите вражескому нексусу урон, равный моей стоимости, умноженной на 2.",
     "descriptionRaw": "Отсчитайте 3 раунда и нанесите вражескому нексусу урон, равный моей стоимости, умноженной на 2.",
     "name": "Алхимический розжиг",
@@ -970,8 +970,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0061.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0061-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0061.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0061-full.png",
     "description": "<link=keyword.Plunder><style=Keyword>Разграбление</style></link>: моя стоимость снижается на 3.",
     "descriptionRaw": "Разграбление: моя стоимость снижается на 3.",
     "name": "Запретный идол",
@@ -980,8 +980,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0092.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0092-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0092.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0092-full.png",
     "description": "Призовите карту <link=card.self><style=AssociatedCard>Могучий поро</style></link>.",
     "descriptionRaw": "Призовите карту Могучий поро.",
     "name": "Удивительные усы",
@@ -990,8 +990,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0048.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0048-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0048.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0048-full.png",
     "description": "+3|+3, но +1 к стоимости",
     "descriptionRaw": "+3|+3, но +1 к стоимости",
     "name": "Сияющие доспехи",
@@ -1000,8 +1000,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0024.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0024-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0024.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0024-full.png",
     "description": "Призвав меня, вытяните 1 карту.",
     "descriptionRaw": "Призвав меня, вытяните 1 карту.",
     "name": "Эликсир умения",
@@ -1010,8 +1010,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0075.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0075-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0075.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0075-full.png",
     "description": "-1 от стоимости",
     "descriptionRaw": "-1 от стоимости",
     "name": "Древняя монета",
@@ -1020,8 +1020,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0073.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0073-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0073.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0073-full.png",
     "description": "У меня +2|+2, а когда меня призывают, я и <link=vocab.Strongest><style=Vocab>сильнейший</style></link> враг наносим <link=vocab.Strike><style=Vocab>удар</style></link> друг другу.",
     "descriptionRaw": "У меня +2|+2, а когда меня призывают, я и сильнейший враг наносим удар друг другу.",
     "name": "Знак уравнителя",
@@ -1030,8 +1030,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0050.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0050-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0050.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0050-full.png",
     "description": "<link=keyword.Scout><sprite name=Scout><style=Keyword>Разведка</style></link>",
     "descriptionRaw": "Разведка",
     "name": "Мачете охотника",
@@ -1040,8 +1040,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0017.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0017-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0017.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0017-full.png",
     "description": "<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>Устрашение</style></link>",
     "descriptionRaw": "Устрашение",
     "name": "Зазубренный кинжал",
@@ -1050,8 +1050,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0164.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0164-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0164.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0164-full.png",
     "description": "+2|+2",
     "descriptionRaw": "+2|+2",
     "name": "Драконья кожа",
@@ -1060,8 +1060,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0094.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0094-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0094.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0094-full.png",
     "description": "Получите пустой кристалл маны.",
     "descriptionRaw": "Получите пустой кристалл маны.",
     "name": "Сапфировый кристалл",
@@ -1070,8 +1070,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0041.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0041-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0041.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0041-full.png",
     "description": "+2|+0",
     "descriptionRaw": "+2|+0",
     "name": "Кирка",
@@ -1080,8 +1080,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0173.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0173-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0173.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0173-full.png",
     "description": "Я не получаю урон и не умираю.",
     "descriptionRaw": "Я не получаю урон и не умираю.",
     "name": "Благословение Жони",
@@ -1090,8 +1090,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0058.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0058-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0058.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0058-full.png",
     "description": "Вытяните 1 карту.",
     "descriptionRaw": "Вытяните 1 карту.",
     "name": "Эликсир умения",
@@ -1100,8 +1100,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0081.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0081-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0081.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0081-full.png",
     "description": "Конец раунда: моя стоимость уменьшается на 1.",
     "descriptionRaw": "Конец раунда: моя стоимость уменьшается на 1.",
     "name": "Двойной дозор",
@@ -1110,8 +1110,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0168.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0168-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0168.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0168-full.png",
     "description": "+3|+3",
     "descriptionRaw": "+3|+3",
     "name": "Гигафаг",
@@ -1120,8 +1120,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0172.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0172-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0172.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0172-full.png",
     "description": "Наносите 8 ед. урона случайному врагу или, если таковых нет, вражескому нексусу.",
     "descriptionRaw": "Наносите 8 ед. урона случайному врагу или, если таковых нет, вражескому нексусу.",
     "name": "Нестабильная формула",
@@ -1130,8 +1130,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0016.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0016-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0016.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0016-full.png",
     "description": "Призвав меня, прикрепите 4 <link=card.self><style=AssociatedCard>Световые бомбы</style></link> среди 8 верхних карт в колоде противника.",
     "descriptionRaw": "Призвав меня, прикрепите 4 Световые бомбы среди 8 верхних карт в колоде противника.",
     "name": "Сумка с бомбами",
@@ -1140,8 +1140,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0104.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0104-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0104.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0104-full.png",
     "description": "<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>Быстрая атака</style></link>",
     "descriptionRaw": "Быстрая атака",
     "name": "Рвение",
@@ -1150,8 +1150,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0077.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0077-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0077.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0077-full.png",
     "description": "Призвав меня, восполните столько ед. маны, сколько я стоил.",
     "descriptionRaw": "Призвав меня, восполните столько ед. маны, сколько я стоил.",
     "name": "Запас маны",
@@ -1160,8 +1160,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0166.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0166-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0166.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0166-full.png",
     "description": "+0|+5",
     "descriptionRaw": "+0|+5",
     "name": "Пояс титана",
@@ -1170,8 +1170,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0069.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0069-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0069.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0069-full.png",
     "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: я отправляюсь в самостоятельную атаку.",
     "descriptionRaw": "Разыгрывая карту: я отправляюсь в самостоятельную атаку.",
     "name": "Быстрый клинок",
@@ -1180,8 +1180,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0066.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0066-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0066.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0066-full.png",
     "description": "Призовите случайного поро стоимостью 1.",
     "descriptionRaw": "Призовите случайного поро стоимостью 1.",
     "name": "Поро-снэк",
@@ -1190,8 +1190,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0158.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0158-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0158.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0158-full.png",
     "description": "Начало раунда: даруйте мне +1|+1, если я в игре или в руке.",
     "descriptionRaw": "Начало раунда: даруйте мне +1|+1, если я в игре или в руке.",
     "name": "Прогрессивный рост",
@@ -1200,8 +1200,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0028.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0028-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0028.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0028-full.png",
     "description": "Когда меня призывают или разрушают, призовите сторонника из своих регионов, чья стоимость равна моей.",
     "descriptionRaw": "Когда меня призывают или разрушают, призовите сторонника из своих регионов, чья стоимость равна моей.",
     "name": "Око Наблюдателей",
@@ -1210,8 +1210,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0137.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0137-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0137.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0137-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>Начало раунда</style></link>: восполните свою ману заклинаний.",
     "descriptionRaw": "Начало раунда: восполните свою ману заклинаний.",
     "name": "Башня колдуна",
@@ -1220,8 +1220,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0157.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0157-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0157.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0157-full.png",
     "description": "<link=keyword.Elemental Skill><sprite name=ElementalSkill><style=Keyword>Разыгрывая карту</style></link>: нанесите по 2 ед. урона всем врагам и вражескому нексусу.",
     "descriptionRaw": "Разыгрывая карту: нанесите по 2 ед. урона всем врагам и вражескому нексусу.",
     "name": "Порождение холода",
@@ -1230,8 +1230,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0085.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0085-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0085.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0085-full.png",
     "description": "Даруйте верхнему союзнику в своей колоде +1|+1.",
     "descriptionRaw": "Даруйте верхнему союзнику в своей колоде +1|+1.",
     "name": "Маленькая кадильница",
@@ -1240,8 +1240,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0010.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0010-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0010.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0010-full.png",
     "description": "<link=keyword.Deep><sprite name=Deep><style=Keyword>Глубина</style></link>, я морское чудовище.",
     "descriptionRaw": "Глубина, я морское чудовище.",
     "name": "Водолазный шлем",
@@ -1250,8 +1250,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0008.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0008-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0008.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0008-full.png",
     "description": "Призвав меня, дайте мне <link=keyword.Barrier><sprite name=Barrier><style=Keyword>Щит</style></link>.",
     "descriptionRaw": "Призвав меня, дайте мне Щит.",
     "name": "Медальон Железных Солари",
@@ -1260,8 +1260,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0053.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0053-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0053.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0053-full.png",
     "description": "Вытяните карту чемпиона.",
     "descriptionRaw": "Вытяните карту чемпиона.",
     "name": "Рог героя",
@@ -1270,8 +1270,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0107.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0107-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0107.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0107-full.png",
     "description": "Разыграв заклинание, даруйте моему носителю +1|+1.",
     "descriptionRaw": "Разыграв заклинание, даруйте моему носителю +1|+1.",
     "name": "Похититель сущности",
@@ -1280,8 +1280,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0170.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0170-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0170.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0170-full.png",
     "description": "-4 от стоимости, но <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>эфемерность</style></link>",
     "descriptionRaw": "-4 от стоимости, но эфемерность",
     "name": "Бледная имитация",
@@ -1290,8 +1290,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0083.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0083-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0083.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0083-full.png",
     "description": "Даруйте <link=vocab.Strongest><style=Vocab>сильнейшему</style></link> союзнику случайный обычный предмет на этот матч.",
     "descriptionRaw": "Даруйте сильнейшему союзнику случайный обычный предмет на этот матч.",
     "name": "Фабрика хекстека I",
@@ -1300,8 +1300,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0105.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0105-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0105.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0105-full.png",
     "description": "<link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>Восстановление</style></link>",
     "descriptionRaw": "Восстановление",
     "name": "Заживляющая бусина",
@@ -1310,8 +1310,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0031.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0031-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0031.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0031-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>Начало раунда</style></link>: получите дополнительный кристалл маны в этом раунде.",
     "descriptionRaw": "Начало раунда: получите дополнительный кристалл маны в этом раунде.",
     "name": "Кристалл Равноденствия",
@@ -1320,8 +1320,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0040.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0040-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0040.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0040-full.png",
     "description": "+2|+2",
     "descriptionRaw": "+2|+2",
     "name": "Поглотитель",
@@ -1330,8 +1330,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0046.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0046-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0046.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0046-full.png",
     "description": "<link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>Восстановление</style></link>",
     "descriptionRaw": "Восстановление",
     "name": "Сытная еда",
@@ -1340,8 +1340,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0043.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0043-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0043.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0043-full.png",
     "description": "+3|+3, но <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Эфемерность</style></link>",
     "descriptionRaw": "+3|+3, но Эфемерность",
     "name": "Проклятый символ",
@@ -1350,8 +1350,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0025.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0025-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0025.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0025-full.png",
     "description": "Когда меня разрушают, создайте в руке мою копию.",
     "descriptionRaw": "Когда меня разрушают, создайте в руке мою копию.",
     "name": "Око Сущности",
@@ -1360,8 +1360,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0131.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0131-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0131.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0131-full.png",
     "description": "<link=vocab.Rally><style=Vocab>Рвение</style></link>",
     "descriptionRaw": "Рвение",
     "name": "Сбор под штандартом",
@@ -1370,8 +1370,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0063.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0063-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0063.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0063-full.png",
     "description": "<link=vocab.Manifest><style=Vocab>Воплотите</style></link> карту из моих регионов.",
     "descriptionRaw": "Воплотите карту из моих регионов.",
     "name": "Портал йордлов",
@@ -1380,8 +1380,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0032.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0032-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0032.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0032-full.png",
     "description": "Когда меня призывают, призовите случайного поро стоимостью 1.",
     "descriptionRaw": "Когда меня призывают, призовите случайного поро стоимостью 1.",
     "name": "Поро-снэк",
@@ -1390,8 +1390,18 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0059.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0059-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0176.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0176-full.png",
+    "description": "<link=keyword.Daybreak><style=Keyword>День</style></link>: дайте мне +3|+3 до конца раунда.",
+    "descriptionRaw": "День: дайте мне +3|+3 до конца раунда.",
+    "name": "Солнечное копье Солари",
+    "itemCode": "I0176",
+    "rarity": "ОБЫЧНОЕ",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0059.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0059-full.png",
     "description": "<link=keyword.Invoke><style=Keyword>Зов</style></link>",
     "descriptionRaw": "Зов",
     "name": "Карта звездного неба",
@@ -1400,8 +1410,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0143.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0143-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0143.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0143-full.png",
     "description": "Вместо нанесения урона бойцам накладывает на них <link=keyword.Gloom><sprite name=Gloom><style=Keyword>Безысходность</style></link>.",
     "descriptionRaw": "Вместо нанесения урона бойцам накладывает на них Безысходность.",
     "name": "Мореллономикон",
@@ -1410,8 +1420,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0151.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0151-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0151.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0151-full.png",
     "description": "<link=vocab.Play><style=Vocab>Разыгрывая карту</style></link>: я <link=vocab.Strike><style=Vocab>наношу удар</style></link> по вражескому нексусу.",
     "descriptionRaw": "Разыгрывая карту: я наношу удар по вражескому нексусу.",
     "name": "Оскверненный таран",
@@ -1420,8 +1430,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0161.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0161-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0161.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0161-full.png",
     "description": "Двойной урон",
     "descriptionRaw": "Двойной урон",
     "name": "Взрывной знак",
@@ -1430,8 +1440,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0051.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0051-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0051.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0051-full.png",
     "description": "Повторно примените меня к тем же целям.",
     "descriptionRaw": "Повторно примените меня к тем же целям.",
     "name": "Эликсир волшебства",
@@ -1440,8 +1450,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0057.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0057-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0057.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0057-full.png",
     "description": "-2 от стоимости",
     "descriptionRaw": "-2 от стоимости",
     "name": "Слеза богини",
@@ -1450,8 +1460,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0159.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0159-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0159.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0159-full.png",
     "description": "+2|+2, но +1 к стоимости",
     "descriptionRaw": "+2|+2, но +1 к стоимости",
     "name": "Титанчик",
@@ -1460,8 +1470,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0030.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0030-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0030.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0030-full.png",
     "description": "Когда меня призывают или разрушают, даруйте вашему <link=vocab.Strongest><style=Vocab>сильнейшему</style></link> союзнику +1|+1.",
     "descriptionRaw": "Когда меня призывают или разрушают, даруйте вашему сильнейшему союзнику +1|+1.",
     "name": "Символ силы",
@@ -1470,8 +1480,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0129.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0129-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0129.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0129-full.png",
     "description": "<link=keyword.Attune><sprite name=Attune><style=Keyword>Эзотерика</style></link>.\r\nПризвав меня, создайте в руке карту <link=card.self><style=AssociatedCard>Шалость</style></link>.",
     "descriptionRaw": "Эзотерика.\r\nПризвав меня, создайте в руке карту Шалость.",
     "name": "Коварный дух",
@@ -1480,8 +1490,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0055.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0055-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0055.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0055-full.png",
     "description": "-1 от стоимости",
     "descriptionRaw": "-1 от стоимости",
     "name": "Зелье маны",
@@ -1490,8 +1500,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0135.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0135-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0135.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0135-full.png",
     "description": "Призвав меня и в <link=vocab.RoundStart><style=Vocab>начале раунда</style></link>: призовите карту <link=card.self><style=AssociatedCard>Подступающий туман</style></link>.",
     "descriptionRaw": "Призвав меня и в начале раунда: призовите карту Подступающий туман.",
     "name": "Туман",
@@ -1500,8 +1510,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0134.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0134-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0134.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0134-full.png",
     "description": "Призовите карту <link=card.self><style=AssociatedCard>Заповедник</style></link>.",
     "descriptionRaw": "Призовите карту Заповедник.",
     "name": "Хрономантия",
@@ -1510,8 +1520,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0029.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/ru_ru/img/items/I0029-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0029.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/ru_ru/img/items/I0029-full.png",
     "description": "У врагов <nobr>-1|-0.</nobr>",
     "descriptionRaw": "У врагов -1|-0.",
     "name": "Призрачный трофей",
