@@ -1,7 +1,7 @@
 [
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0070.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0070-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0070.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0070-full.png",
     "description": "<link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>Scudo magico</style></link>",
     "descriptionRaw": "Scudo magico",
     "name": "Amuleto protettivo",
@@ -10,8 +10,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0108.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0108-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0108.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0108-full.png",
     "description": "<link=keyword.Burst><sprite name=Burst><style=Keyword>Raffica</style></link>",
     "descriptionRaw": "Raffica",
     "name": "Cronografo",
@@ -20,8 +20,8 @@
     "rarityRef": "Special"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0018.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0018-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0018.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0018-full.png",
     "description": "Quando vengo evocato, fammi <link=vocab.Advance><style=Vocab>avanzare</style></link> di 1.",
     "descriptionRaw": "Quando vengo evocato, fammi avanzare di 1.",
     "name": "Cronografo",
@@ -30,8 +30,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0068.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0068-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0068.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0068-full.png",
     "description": "Quando vengo evocato, <link=keyword.Capture><sprite name=Capture><style=Keyword>catturo</style></link> il nemico <link=vocab.Strongest><style=Vocab>più forte</style></link>.",
     "descriptionRaw": "Quando vengo evocato, catturo il nemico più forte.",
     "name": "Guanto del gelo",
@@ -40,8 +40,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0062.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0062-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0062.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0062-full.png",
     "description": "Cura il tuo Nexus di una quantità di danni pari al mio costo.",
     "descriptionRaw": "Cura il tuo Nexus di una quantità di danni pari al mio costo.",
     "name": "Pozione di salute",
@@ -50,8 +50,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0163.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0163-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0163.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0163-full.png",
     "description": "<link=vocab.Play><style=Vocab>Gioca</style></link>: Evoca un Drago casuale del mio costo base o inferiore.",
     "descriptionRaw": "Gioca: Evoca un Drago casuale del mio costo base o inferiore.",
     "name": "Uovo di drago",
@@ -60,8 +60,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0079.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0079-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0079.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0079-full.png",
     "description": "-2 costo",
     "descriptionRaw": "-2 costo",
     "name": "Medaglione del nomade",
@@ -70,8 +70,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0006.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0006-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0006.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0006-full.png",
     "description": "Inizio partita: Pescami se non sono nella tua mano.",
     "descriptionRaw": "Inizio partita: Pescami se non sono nella tua mano.",
     "name": "Modifica lungavisione",
@@ -80,8 +80,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0123.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0123-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0123.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0123-full.png",
     "description": "<link=keyword.Deathless><sprite name=Deathless><style=Keyword>Senzafine</style></link>",
     "descriptionRaw": "Senzafine",
     "name": "Immortale",
@@ -90,8 +90,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0126.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0126-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0126.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0126-full.png",
     "description": "<link=keyword.Fated><sprite name=Fated><style=Keyword>Destino</style></link> e diventa Fatato",
     "descriptionRaw": "Destino e diventa Fatato",
     "name": "Favore dei Fatati",
@@ -100,8 +100,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0162.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0162-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0162.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0162-full.png",
     "description": "+5|+5",
     "descriptionRaw": "+5|+5",
     "name": "Collera titanica",
@@ -110,8 +110,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0160.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0160-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0160.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0160-full.png",
     "description": "Danni doppi, ma costa 1 in più",
     "descriptionRaw": "Danni doppi, ma costa 1 in più",
     "name": "Sigillo esplosivo difettoso",
@@ -120,8 +120,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0034.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0034-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0034.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0034-full.png",
     "description": "<link=vocab.Attack><style=Vocab>Attacca</style></link>: Piazza 5 <link=card.self><style=AssociatedCard>Scoppiettini velenosi</style></link> nel mazzo nemico.",
     "descriptionRaw": "Attacca: Piazza 5 Scoppiettini velenosi nel mazzo nemico.",
     "name": "Consegna speciale",
@@ -130,8 +130,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0136.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0136-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0136.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0136-full.png",
     "description": "Gli alleati hanno +1|+1",
     "descriptionRaw": "Gli alleati hanno +1|+1",
     "name": "Ricompense degli eroi",
@@ -140,8 +140,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0115.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0115-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0115.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0115-full.png",
     "description": "-2 costo e <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugace</style></link>",
     "descriptionRaw": "-2 costo e Fugace",
     "name": "Alziamo la posta",
@@ -150,8 +150,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0121.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0121-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0121.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0121-full.png",
     "description": "Manifesta un'unità <link=vocab.Titanic><style=Vocab>Titanica</style></link> ed evoca 2 <link=card.self><style=AssociatedCard>Sigilli della tempesta</style></link>.",
     "descriptionRaw": "Manifesta un'unità Titanica ed evoca 2 Sigilli della tempesta.",
     "name": "Invocazione della tempesta",
@@ -160,8 +160,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0118.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0118-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0118.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0118-full.png",
     "description": "Costa 1 in meno per ogni carta pescata in questo turno.",
     "descriptionRaw": "Costa 1 in meno per ogni carta pescata in questo turno.",
     "name": "Giro di potere",
@@ -170,8 +170,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0113.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0113-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0113.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0113-full.png",
     "description": "+1|+0 e <link=keyword.Brash><sprite name=Brash><style=Keyword>Insolente</style></link>",
     "descriptionRaw": "+1|+0 e Insolente",
     "name": "Guanti spaccacorallo",
@@ -180,8 +180,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0116.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0116-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0116.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0116-full.png",
     "description": "Infliggi 3 al Nexus nemico.",
     "descriptionRaw": "Infliggi 3 al Nexus nemico.",
     "name": "Scia piromantica",
@@ -190,8 +190,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0124.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0124-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0124.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0124-full.png",
     "description": "Quando giochi una carta, forniscimi +1|+1 per questo turno.",
     "descriptionRaw": "Quando giochi una carta, forniscimi +1|+1 per questo turno.",
     "name": "Carica dell'escavatore",
@@ -200,8 +200,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0122.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0122-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0122.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0122-full.png",
     "description": "Quando vengo evocato, portami a 8|8.",
     "descriptionRaw": "Quando vengo evocato, portami a 8|8.",
     "name": "Titanificazione",
@@ -210,8 +210,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0120.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0120-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0120.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0120-full.png",
     "description": "Pesca un'unità.",
     "descriptionRaw": "Pesca un'unità.",
     "name": "Chiamata degli eroi",
@@ -220,8 +220,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0119.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0119-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0119.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0119-full.png",
     "description": "Crea 1 Scia nella tua mano.",
     "descriptionRaw": "Crea 1 Scia nella tua mano.",
     "name": "Urumi",
@@ -230,8 +230,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0125.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0125-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0125.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0125-full.png",
     "description": "Quando vengo evocato, pesca 1 incantesimo.",
     "descriptionRaw": "Quando vengo evocato, pesca 1 incantesimo.",
     "name": "Sapere arcano",
@@ -240,8 +240,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0112.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0112-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0112.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0112-full.png",
     "description": "<link=keyword.Augment><sprite name=Augment><style=Keyword>Potenzia</style></link> e diventa il sottotipo Tecnologia",
     "descriptionRaw": "Potenzia e diventa il sottotipo Tecnologia",
     "name": "Evoluzione Tecnologica",
@@ -250,8 +250,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0087.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0087-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0087.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0087-full.png",
     "description": "Conferisci un oggetto epico casuale al tuo alleato <link=vocab.Strongest><style=Vocab>più forte</style></link> per questa partita.",
     "descriptionRaw": "Conferisci un oggetto epico casuale al tuo alleato più forte per questa partita.",
     "name": "Fabbricatore hextech III",
@@ -260,8 +260,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0035.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0035-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0035.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0035-full.png",
     "description": "Ho +1|+1, <link=keyword.Lurker><sprite name=Lurker><style=Keyword>Agguato</style></link> e sono in Agguato.",
     "descriptionRaw": "Ho +1|+1, Agguato e sono in Agguato.",
     "name": "Stratagemma marinaresco",
@@ -270,8 +270,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0138.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0138-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0138.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0138-full.png",
     "description": "Inizio partita: Evoca 1 di me dal mazzo.",
     "descriptionRaw": "Inizio partita: Evoca 1 di me dal mazzo.",
     "name": "Giocare in casa",
@@ -280,8 +280,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0064.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0064-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0064.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0064-full.png",
     "description": "Mescola 2 mie copie nel tuo mazzo. Costano 1.",
     "descriptionRaw": "Mescola 2 mie copie nel tuo mazzo. Costano 1.",
     "name": "Mazzo del baro",
@@ -290,8 +290,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0088.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0088-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0088.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0088-full.png",
     "description": "+1 danno",
     "descriptionRaw": "+1 danno",
     "name": "Sigillo accumulatore I",
@@ -300,8 +300,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0095.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0095-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0095.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0095-full.png",
     "description": "Inizio partita: Piazza <link=card.self><style=AssociatedCard>Portale misterioso</style></link> su di me.",
     "descriptionRaw": "Inizio partita: Piazza Portale misterioso su di me.",
     "name": "Tè di Norra",
@@ -310,8 +310,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0047.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0047-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0047.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0047-full.png",
     "description": "<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>Attacco rapido</style></link>",
     "descriptionRaw": "Attacco rapido",
     "name": "Rapidità battagliera",
@@ -320,8 +320,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0142.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0142-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0142.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0142-full.png",
     "description": "Quando sono nella tua mano, ho una parola chiave casuale che cambia ogni turno. Quando vengo evocato, conferiscimi quella parola chiave.",
     "descriptionRaw": "Quando sono nella tua mano, ho una parola chiave casuale che cambia ogni turno. Quando vengo evocato, conferiscimi quella parola chiave.",
     "name": "Guscio di Creatura del Vuoto",
@@ -330,8 +330,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0154.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0154-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0154.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0154-full.png",
     "description": "<link=vocab.Play><style=Vocab>Gioca</style></link>: Gioca due Doni del Drago casuali su di me.",
     "descriptionRaw": "Gioca: Gioca due Doni del Drago casuali su di me.",
     "name": "Anima fiammeggiante",
@@ -340,8 +340,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0111.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0111-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0111.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0111-full.png",
     "description": "Colpisci: Pesca 1 carta",
     "descriptionRaw": "Colpisci: Pesca 1 carta",
     "name": "Esca incantevole",
@@ -350,8 +350,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0132.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0132-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0132.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0132-full.png",
     "description": "L'avversario scarta una carta casuale.",
     "descriptionRaw": "L'avversario scarta una carta casuale.",
     "name": "Verme cerebrale",
@@ -360,8 +360,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0045.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0045-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0045.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0045-full.png",
     "description": "+3|+1",
     "descriptionRaw": "+3|+1",
     "name": "Martello colossale",
@@ -370,8 +370,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0106.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0106-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0106.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0106-full.png",
     "description": "<link=keyword.Scout><sprite name=Scout><style=Keyword>Esploratore</style></link>",
     "descriptionRaw": "Esploratore",
     "name": "Danzatore fantasma",
@@ -380,8 +380,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0011.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0011-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0011.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0011-full.png",
     "description": "Riduci il mio costo del costo del campione alleato più costoso.",
     "descriptionRaw": "Riduci il mio costo del costo del campione alleato più costoso.",
     "name": "Protocintura hextech 01",
@@ -390,8 +390,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0090.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0090-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0090.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0090-full.png",
     "description": "+4 danni",
     "descriptionRaw": "+4 danni",
     "name": "Sigillo accumulatore III",
@@ -400,8 +400,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0167.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0167-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0167.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0167-full.png",
     "description": "+7|+7, ma costa 3 in più",
     "descriptionRaw": "+7|+7, ma costa 3 in più",
     "name": "Corazza sgargiante ",
@@ -410,8 +410,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0014.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0014-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0014.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0014-full.png",
     "description": "Quando vengo evocato, raddoppia il mio Potere e la mia Salute.",
     "descriptionRaw": "Quando vengo evocato, raddoppia il mio Potere e la mia Salute.",
     "name": "Mannaia oscura",
@@ -420,8 +420,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0093.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0093-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0093.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0093-full.png",
     "description": "Evoca un campione casuale con il mio costo.",
     "descriptionRaw": "Evoca un campione casuale con il mio costo.",
     "name": "Pietra dell'evocatore",
@@ -430,8 +430,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0082.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0082-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0082.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0082-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>Inizio del turno</style></link>: Ottieni una gemma di mana extra per questo turno.",
     "descriptionRaw": "Inizio del turno: Ottieni una gemma di mana extra per questo turno.",
     "name": "Portacristallo",
@@ -440,8 +440,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0038.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0038-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0038.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0038-full.png",
     "description": "+0|+2",
     "descriptionRaw": "+0|+2",
     "name": "Cintura del gigante",
@@ -450,8 +450,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0037.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0037-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0037.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0037-full.png",
     "description": "+1|+1",
     "descriptionRaw": "+1|+1",
     "name": "Cuoio borchiato",
@@ -460,8 +460,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0080.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0080-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0080.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0080-full.png",
     "description": "<link=vocab.RoundEnd><style=Vocab>Fine del turno</style></link>: Infliggimi 1 e conferiscimi +2|+0.",
     "descriptionRaw": "Fine del turno: Infliggimi 1 e conferiscimi +2|+0.",
     "name": "Velo del sanguinario",
@@ -470,8 +470,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0109.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0109-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0109.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0109-full.png",
     "description": "Crea nella tua mano una carta casuale dal Mazzo dell'Imperatore.",
     "descriptionRaw": "Crea nella tua mano una carta casuale dal Mazzo dell'Imperatore.",
     "name": "Favore dell'imperatore",
@@ -480,8 +480,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0133.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0133-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0133.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0133-full.png",
     "description": "+4|+0 e <link=keyword.Reckless><sprite name=Reckless><style=Keyword>Non può bloccare</style></link>.",
     "descriptionRaw": "+4|+0 e Non può bloccare.",
     "name": "Ira funesta",
@@ -490,8 +490,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0076.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0076-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0076.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0076-full.png",
     "description": "<link=keyword.Tough><sprite name=Tough><style=Keyword>Tenacia</style></link>",
     "descriptionRaw": "Tenacia",
     "name": "Cotta di maglia",
@@ -500,8 +500,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0171.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0171-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0171.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0171-full.png",
     "description": "<link=vocab.Play><style=Vocab>Gioca</style></link>: Evoca una mia copia esatta.",
     "descriptionRaw": "Gioca: Evoca una mia copia esatta.",
     "name": "Vero riflesso",
@@ -510,8 +510,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0015.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0015-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0015.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0015-full.png",
     "description": "Quando vengo evocato, crea una mia copia <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugace</style></link> nella tua mano.",
     "descriptionRaw": "Quando vengo evocato, crea una mia copia Fugace nella tua mano.",
     "name": "Pietra spirituale",
@@ -520,8 +520,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0042.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0042-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0042.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0042-full.png",
     "description": "+1|+3",
     "descriptionRaw": "+1|+3",
     "name": "Scudo selvaggio",
@@ -530,8 +530,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0009.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0009-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0009.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0009-full.png",
     "description": "<link=vocab.Attack><style=Vocab>Attacca</style></link>: <link=keyword.Nab><style=Keyword>Sottrai</style></link> 1.",
     "descriptionRaw": "Attacca: Sottrai 1.",
     "name": "Arnesi da ladro",
@@ -540,8 +540,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0056.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0056-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0056.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0056-full.png",
     "description": "-3 costo",
     "descriptionRaw": "-3 costo",
     "name": "Calice dell'armonia",
@@ -550,8 +550,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0144.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0144-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0144.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0144-full.png",
     "description": "<link=keyword.Spirit><sprite name=Spirit><style=Keyword>Spirito</style></link>",
     "descriptionRaw": "Spirito",
     "name": "Bastone luminoso",
@@ -560,8 +560,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0067.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0067-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0067.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0067-full.png",
     "description": "Quando giochi un incantesimo, conferiscimi +1|+1.",
     "descriptionRaw": "Quando giochi un incantesimo, conferiscimi +1|+1.",
     "name": "Cristallo focalizzante",
@@ -570,8 +570,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0033.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0033-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0033.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0033-full.png",
     "description": "Quando vengo evocato, evoca una mia copia.",
     "descriptionRaw": "Quando vengo evocato, evoca una mia copia.",
     "name": "Portale Zz'Rot",
@@ -580,8 +580,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0096.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0096-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0096.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0096-full.png",
     "description": "<link=vocab.Attack><style=Vocab>Attacca:</style></link> Conferisci +1|+1 al mio portatore.",
     "descriptionRaw": "Attacca: Conferisci +1|+1 al mio portatore.",
     "name": "Fulgore",
@@ -590,8 +590,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0052.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0052-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0052.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0052-full.png",
     "description": "50% di probabilità di creare nella tua mano una mia copia di costo 0 per questo turno.",
     "descriptionRaw": "50% di probabilità di creare nella tua mano una mia copia di costo 0 per questo turno.",
     "name": "Dado raddoppiante",
@@ -600,8 +600,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0110.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0110-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0110.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0110-full.png",
     "description": "Costo 1 e le mie statistiche base sono 1|1. Sono un Poro.",
     "descriptionRaw": "Costo 1 e le mie statistiche base sono 1|1. Sono un Poro.",
     "name": "Branco di Poro",
@@ -610,8 +610,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0071.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0071-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0071.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0071-full.png",
     "description": "<link=keyword.Support><style=Keyword>Supporto</style></link>: Conferisci +1|+1 al mio alleato supportato.",
     "descriptionRaw": "Supporto: Conferisci +1|+1 al mio alleato supportato.",
     "name": "Difesa di Targon",
@@ -620,8 +620,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0091.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0091-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0091.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0091-full.png",
     "description": "+2 danni",
     "descriptionRaw": "+2 danni",
     "name": "Sigillo accumulatore II",
@@ -630,8 +630,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0027.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0027-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0027.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0027-full.png",
     "description": "Quando vengo evocato o distrutto, cura il tuo Nexus di una quantità di danni pari al mio costo.",
     "descriptionRaw": "Quando vengo evocato o distrutto, cura il tuo Nexus di una quantità di danni pari al mio costo.",
     "name": "Bracciale cristallino",
@@ -640,8 +640,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0039.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0039-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0039.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0039-full.png",
     "description": "<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Sopraffare</style></link>",
     "descriptionRaw": "Sopraffare",
     "name": "Mazza imponente",
@@ -650,8 +650,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0013.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0013-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0013.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0013-full.png",
     "description": "<link=keyword.Elusive><sprite name=Elusive><style=Keyword>Elusione</style></link>",
     "descriptionRaw": "Elusione",
     "name": "Calzari del ninja",
@@ -660,8 +660,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0036.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0036-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0036.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0036-full.png",
     "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>Ultimo respiro</style></link>: <link=vocab.Rally><style=Vocab>Prepara l'assalto</style></link>",
     "descriptionRaw": "Ultimo respiro: Prepara l'assalto",
     "name": "Stendardo dell'adunata",
@@ -670,8 +670,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0021.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0021-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0021.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0021-full.png",
     "description": "Quando vengo evocato, <link=keyword.Capture><sprite name=Capture><style=Keyword>catturo</style></link> il nemico <link=vocab.Strongest><style=Vocab>più forte</style></link>.",
     "descriptionRaw": "Quando vengo evocato, catturo il nemico più forte.",
     "name": "Tesoro intrappolato",
@@ -680,8 +680,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0072.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0072-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0072.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0072-full.png",
     "description": "<link=keyword.Support><style=Keyword>Supporto</style></link>: Fornisci +1|+1 e le mie parole chiave al mio alleato supportato per questo turno.",
     "descriptionRaw": "Supporto: Fornisci +1|+1 e le mie parole chiave al mio alleato supportato per questo turno.",
     "name": "Brocchieri",
@@ -690,8 +690,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0130.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0130-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0130.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0130-full.png",
     "description": "<link=keyword.Double Strike><sprite name=DoubleStrike><style=Keyword>Attacco doppio</style></link>",
     "descriptionRaw": "Attacco doppio",
     "name": "Mani pesanti",
@@ -700,8 +700,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0084.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0084-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0084.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0084-full.png",
     "description": "Fornisci +1|+1 agli alleati per questo turno.",
     "descriptionRaw": "Fornisci +1|+1 agli alleati per questo turno.",
     "name": "Stendardo da battaglia",
@@ -710,8 +710,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0065.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0065-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0065.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0065-full.png",
     "description": "<link=vocab.Predict><style=Vocab>Prevedi</style></link>",
     "descriptionRaw": "Prevedi",
     "name": "Lente dell'oracolo",
@@ -720,8 +720,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0074.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0074-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0074.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0074-full.png",
     "description": "Quando vengo evocato, cura il tuo Nexus di una quantità di danni pari al mio costo.",
     "descriptionRaw": "Quando vengo evocato, cura il tuo Nexus di una quantità di danni pari al mio costo.",
     "name": "Scettro vampirico",
@@ -730,8 +730,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0179.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0179-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0179.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0179-full.png",
     "description": "+2|+1.<br>Gioca: Infliggi 2 a entrambi i Nexus.",
     "descriptionRaw": "+2|+1.Gioca: Infliggi 2 a entrambi i Nexus.",
     "name": "Flagello del male",
@@ -740,8 +740,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0097.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0097-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0097.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0097-full.png",
     "description": "<link=keyword.Challenger><sprite name=Challenger><style=Keyword>Sfidante</style></link>",
     "descriptionRaw": "Sfidante",
     "name": "Sciabola di Bilgewater",
@@ -750,8 +750,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0000.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0000-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0000.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0000-full.png",
     "description": "Conferisci +3|+3 al primo alleato nel tuo mazzo.",
     "descriptionRaw": "Conferisci +3|+3 al primo alleato nel tuo mazzo.",
     "name": "Incensiere ardente",
@@ -760,8 +760,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0146.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0146-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0146.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0146-full.png",
     "description": "<link=keyword.Hallowed><sprite name=Hallowed><style=Keyword>Consacrazione</style></link>",
     "descriptionRaw": "Consacrazione",
     "name": "Melodia miracolosa",
@@ -770,8 +770,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0086.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0086-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0086.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0086-full.png",
     "description": "Conferisci un oggetto raro casuale al tuo alleato <link=vocab.Strongest><style=Vocab>più forte</style></link> per questa partita.",
     "descriptionRaw": "Conferisci un oggetto raro casuale al tuo alleato più forte per questa partita.",
     "name": "Fabbricatore hextech II",
@@ -780,8 +780,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0012.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0012-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0012.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0012-full.png",
     "description": "<link=vocab.Play><style=Vocab>Gioca</style></link>: Evoca una mia copia esatta ed <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Effimera</style></link>.",
     "descriptionRaw": "Gioca: Evoca una mia copia esatta ed Effimera.",
     "name": "Totem ombra",
@@ -790,8 +790,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0054.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0054-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0054.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0054-full.png",
     "description": "Costo 0. Infliggi al tuo Nexus una quantità di danni pari al mio costo originale.",
     "descriptionRaw": "Costo 0. Infliggi al tuo Nexus una quantità di danni pari al mio costo originale.",
     "name": "Prisma sanguigno",
@@ -800,8 +800,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0002.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0002-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0002.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0002-full.png",
     "description": "<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fugacia</style></link>",
     "descriptionRaw": "Fugacia",
     "name": "Pietra maledetta",
@@ -810,8 +810,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0001.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0001-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0001.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0001-full.png",
     "description": "Non può bloccare",
     "descriptionRaw": "Non può bloccare",
     "name": "Armatura arrugginita",
@@ -820,8 +820,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0005.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0005-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0005.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0005-full.png",
     "description": "-1|-0",
     "descriptionRaw": "-1|-0",
     "name": "Spada arrugginita",
@@ -830,8 +830,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0003.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0003-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0003.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0003-full.png",
     "description": "<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Effimero</style></link>",
     "descriptionRaw": "Effimero",
     "name": "Cappa maledetta",
@@ -840,8 +840,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0004.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0004-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0004.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0004-full.png",
     "description": "Costo +1",
     "descriptionRaw": "Costo +1",
     "name": "Pozione di mana scaduta",
@@ -850,8 +850,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0174.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0174-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0174.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0174-full.png",
     "description": "Ripristina il tuo mana incantesimo.",
     "descriptionRaw": "Ripristina il tuo mana incantesimo.",
     "name": "Scintilla geniale",
@@ -860,8 +860,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0089.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0089-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0089.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0089-full.png",
     "description": "Conferisci +6|+6 al primo alleato nel tuo mazzo.",
     "descriptionRaw": "Conferisci +6|+6 al primo alleato nel tuo mazzo.",
     "name": "Incensiere titanico",
@@ -870,8 +870,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0169.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0169-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0169.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0169-full.png",
     "description": "+5|+0",
     "descriptionRaw": "+5|+0",
     "name": "Piccone del Titano",
@@ -880,8 +880,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0140.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0140-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0140.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0140-full.png",
     "description": "Quando vengo evocato, piazza 6 <link=card.self><style=AssociatedCard>Campanelle</style></link> su carte casuali del tuo mazzo.",
     "descriptionRaw": "Quando vengo evocato, piazza 6 Campanelle su carte casuali del tuo mazzo.",
     "name": "Benedizione del viandante",
@@ -890,8 +890,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0049.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0049-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0049.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0049-full.png",
     "description": "Quando giochi un incantesimo, riduci di 1 il mio costo.",
     "descriptionRaw": "Quando giochi un incantesimo, riduci di 1 il mio costo.",
     "name": "Vademecum del mago",
@@ -900,8 +900,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0060.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0060-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0060.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0060-full.png",
     "description": "Evoca un seguace con il mio stesso costo dalle tue regioni.",
     "descriptionRaw": "Evoca un seguace con il mio stesso costo dalle tue regioni.",
     "name": "Faro dell'evocazione",
@@ -910,8 +910,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0078.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0078-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0078.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0078-full.png",
     "description": "Quando vengo evocata, pesca 1.",
     "descriptionRaw": "Quando vengo evocata, pesca 1.",
     "name": "Pietra filosofale",
@@ -920,8 +920,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0044.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0044-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0044.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0044-full.png",
     "description": "+3|+3",
     "descriptionRaw": "+3|+3",
     "name": "Ascia del Titano",
@@ -930,8 +930,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0019.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0019-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0019.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0019-full.png",
     "description": "Ho +1|+1, <link=keyword.Fury><sprite name=Fury><style=Keyword>Furia</style></link> e sono un Drago.",
     "descriptionRaw": "Ho +1|+1, Furia e sono un Drago.",
     "name": "Dente di drago",
@@ -940,8 +940,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0007.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0007-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0007.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0007-full.png",
     "description": "<link=keyword.Challenger><sprite name=Challenger><style=Keyword>Sfidante</style></link>",
     "descriptionRaw": "Sfidante",
     "name": "Sciabola del soldato",
@@ -950,8 +950,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0147.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0147-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0147.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0147-full.png",
     "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>Ultimo respiro</style></link>: Evoca un'unità casuale di costo 1 dalle tue regioni.",
     "descriptionRaw": "Ultimo respiro: Evoca un'unità casuale di costo 1 dalle tue regioni.",
     "name": "Bacheca delle taglie",
@@ -960,8 +960,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0026.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0026-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0026.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0026-full.png",
     "description": "Ho <link=vocab.Countdown><style=Vocab>Conto alla rovescia 3</style></link>: Infliggi al Nexus nemico una quantità di danni pari al doppio del mio costo.",
     "descriptionRaw": "Ho Conto alla rovescia 3: Infliggi al Nexus nemico una quantità di danni pari al doppio del mio costo.",
     "name": "Ordigno alchemico",
@@ -970,8 +970,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0061.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0061-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0061.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0061-full.png",
     "description": "<link=keyword.Plunder><style=Keyword>Saccheggio</style></link>: Costo 3 in meno.",
     "descriptionRaw": "Saccheggio: Costo 3 in meno.",
     "name": "Idolo proibito",
@@ -980,8 +980,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0092.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0092-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0092.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0092-full.png",
     "description": "Evoca 1 <link=card.self><style=AssociatedCard>Poro possente</style></link>.",
     "descriptionRaw": "Evoca 1 Poro possente.",
     "name": "Baffo possente",
@@ -990,8 +990,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0048.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0048-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0048.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0048-full.png",
     "description": "+3|+3, ma costa 1 in più",
     "descriptionRaw": "+3|+3, ma costa 1 in più",
     "name": "Corazza splendente",
@@ -1000,8 +1000,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0024.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0024-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0024.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0024-full.png",
     "description": "Quando vengo evocato, pesca 1.",
     "descriptionRaw": "Quando vengo evocato, pesca 1.",
     "name": "Elisir di abilità",
@@ -1010,8 +1010,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0075.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0075-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0075.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0075-full.png",
     "description": "-1 costo",
     "descriptionRaw": "-1 costo",
     "name": "Moneta antica",
@@ -1020,8 +1020,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0073.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0073-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0073.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0073-full.png",
     "description": "+2|+2 e quando vengo evocato io e il nemico <link=vocab.Strongest><style=Vocab>più forte</style></link> ci <link=vocab.Strike><style=Vocab>colpiamo</style></link> a vicenda.",
     "descriptionRaw": "+2|+2 e quando vengo evocato io e il nemico più forte ci colpiamo a vicenda.",
     "name": "Marchio del gladiatore",
@@ -1030,8 +1030,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0050.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0050-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0050.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0050-full.png",
     "description": "<link=keyword.Scout><sprite name=Scout><style=Keyword>Esploratore</style></link>",
     "descriptionRaw": "Esploratore",
     "name": "Machete del cacciatore",
@@ -1040,8 +1040,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0017.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0017-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0017.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0017-full.png",
     "description": "<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>Temibile</style></link>",
     "descriptionRaw": "Temibile",
     "name": "Lungo pugnale seghettato",
@@ -1050,8 +1050,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0164.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0164-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0164.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0164-full.png",
     "description": "+2|+2",
     "descriptionRaw": "+2|+2",
     "name": "Cuoio draconico",
@@ -1060,8 +1060,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0094.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0094-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0094.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0094-full.png",
     "description": "Ottieni una gemma di mana vuota.",
     "descriptionRaw": "Ottieni una gemma di mana vuota.",
     "name": "Cristallo di zaffiro",
@@ -1070,8 +1070,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0041.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0041-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0041.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0041-full.png",
     "description": "+2|+0",
     "descriptionRaw": "+2|+0",
     "name": "Piccone",
@@ -1080,8 +1080,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0173.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0173-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0173.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0173-full.png",
     "description": "Non posso subire danni o morire.",
     "descriptionRaw": "Non posso subire danni o morire.",
     "name": "Benedizione di Zhonya",
@@ -1090,8 +1090,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0058.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0058-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0058.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0058-full.png",
     "description": "Pesca 1 carta.",
     "descriptionRaw": "Pesca 1 carta.",
     "name": "Elisir di abilità",
@@ -1100,8 +1100,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0081.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0081-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0081.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0081-full.png",
     "description": "Fine del turno: Riduci il mio costo di 1.",
     "descriptionRaw": "Fine del turno: Riduci il mio costo di 1.",
     "name": "Orologio accelerato",
@@ -1110,8 +1110,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0168.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0168-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0168.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0168-full.png",
     "description": "+3|+3",
     "descriptionRaw": "+3|+3",
     "name": "Flagello gigante",
@@ -1120,8 +1120,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0172.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0172-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0172.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0172-full.png",
     "description": "Infliggi 8 danni a un nemico casuale o al Nexus nemico se non c'è nessun nemico.",
     "descriptionRaw": "Infliggi 8 danni a un nemico casuale o al Nexus nemico se non c'è nessun nemico.",
     "name": "Formula instabile",
@@ -1130,8 +1130,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0016.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0016-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0016.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0016-full.png",
     "description": "Quando vengo evocato, piazza 4 <link=card.self><style=AssociatedCard>Trappole Bombalampo</style></link> tra le prime 8 carte del mazzo nemico.",
     "descriptionRaw": "Quando vengo evocato, piazza 4 Trappole Bombalampo tra le prime 8 carte del mazzo nemico.",
     "name": "Sacca di bombelampo",
@@ -1140,8 +1140,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0104.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0104-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0104.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0104-full.png",
     "description": "<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>Attacco rapido</style></link>",
     "descriptionRaw": "Attacco rapido",
     "name": "Fervore",
@@ -1150,8 +1150,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0077.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0077-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0077.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0077-full.png",
     "description": "Quando vengo evocato, ripristina mana pari al mio costo.",
     "descriptionRaw": "Quando vengo evocato, ripristina mana pari al mio costo.",
     "name": "Deposito di mana",
@@ -1160,8 +1160,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0166.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0166-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0166.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0166-full.png",
     "description": "+0|+5",
     "descriptionRaw": "+0|+5",
     "name": "Cintura del Titano",
@@ -1170,8 +1170,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0069.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0069-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0069.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0069-full.png",
     "description": "<link=vocab.Play><style=Vocab>Gioca</style></link>: Avvio un attacco gratuito.",
     "descriptionRaw": "Gioca: Avvio un attacco gratuito.",
     "name": "Lama fulminea",
@@ -1180,8 +1180,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0066.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0066-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0066.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0066-full.png",
     "description": "Evoca un poro casuale di costo 1.",
     "descriptionRaw": "Evoca un poro casuale di costo 1.",
     "name": "Poro-Snax",
@@ -1190,8 +1190,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0158.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0158-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0158.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0158-full.png",
     "description": "Inizio del turno: Conferiscimi +1|+1 se sono in gioco o nella mano.",
     "descriptionRaw": "Inizio del turno: Conferiscimi +1|+1 se sono in gioco o nella mano.",
     "name": "Crescita progressiva",
@@ -1200,8 +1200,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0028.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0028-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0028.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0028-full.png",
     "description": "Quando vengo evocato o distrutto, evoca un seguace con il mio stesso costo dalle tue regioni.",
     "descriptionRaw": "Quando vengo evocato o distrutto, evoca un seguace con il mio stesso costo dalle tue regioni.",
     "name": "Occhio degli osservatori",
@@ -1210,8 +1210,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0137.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0137-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0137.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0137-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>Inizio del turno</style></link>: Ripristina il tuo mana incantesimo.",
     "descriptionRaw": "Inizio del turno: Ripristina il tuo mana incantesimo.",
     "name": "Torre dello stregone",
@@ -1220,8 +1220,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0157.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0157-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0157.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0157-full.png",
     "description": "<link=keyword.Elemental Skill><sprite name=ElementalSkill><style=Keyword>Gioca</style></link>: Infliggi 2 a tutti i nemici e al Nexus nemico.",
     "descriptionRaw": "Gioca: Infliggi 2 a tutti i nemici e al Nexus nemico.",
     "name": "Figli del gelo",
@@ -1230,8 +1230,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0085.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0085-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0085.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0085-full.png",
     "description": "Conferisci +1|+1 al primo alleato nel tuo mazzo.",
     "descriptionRaw": "Conferisci +1|+1 al primo alleato nel tuo mazzo.",
     "name": "Incensiere",
@@ -1240,8 +1240,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0010.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0010-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0010.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0010-full.png",
     "description": "Ho <link=keyword.Deep><sprite name=Deep><style=Keyword>Profondità</style></link> e sono un Mostro marino.",
     "descriptionRaw": "Ho Profondità e sono un Mostro marino.",
     "name": "Casco da palombaro",
@@ -1250,8 +1250,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0008.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0008-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0008.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0008-full.png",
     "description": "Quando vengo evocato, forniscimi <link=keyword.Barrier><sprite name=Barrier><style=Keyword>Barriera</style></link>.",
     "descriptionRaw": "Quando vengo evocato, forniscimi Barriera.",
     "name": "Medaglione dei Solari di ferro",
@@ -1260,8 +1260,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0053.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0053-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0053.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0053-full.png",
     "description": "Pesca un campione.",
     "descriptionRaw": "Pesca un campione.",
     "name": "Corno eroico",
@@ -1270,8 +1270,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0107.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0107-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0107.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0107-full.png",
     "description": "Quando giochi un incantesimo, conferisci +1|+1 al mio portatore.",
     "descriptionRaw": "Quando giochi un incantesimo, conferisci +1|+1 al mio portatore.",
     "name": "Predatore d'essenza",
@@ -1280,8 +1280,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0170.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0170-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0170.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0170-full.png",
     "description": "Costo 4 in meno, ma <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Effimero</style></link>",
     "descriptionRaw": "Costo 4 in meno, ma Effimero",
     "name": "Pallida imitazione",
@@ -1290,8 +1290,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0083.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0083-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0083.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0083-full.png",
     "description": "Conferisci un oggetto comune casuale al tuo alleato <link=vocab.Strongest><style=Vocab>più forte</style></link> per questa partita.",
     "descriptionRaw": "Conferisci un oggetto comune casuale al tuo alleato più forte per questa partita.",
     "name": "Fabbricatore hextech I",
@@ -1300,8 +1300,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0105.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0105-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0105.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0105-full.png",
     "description": "<link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>Rigenerazione</style></link>",
     "descriptionRaw": "Rigenerazione",
     "name": "Perla del rinvigorimento",
@@ -1310,8 +1310,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0031.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0031-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0031.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0031-full.png",
     "description": "<link=vocab.RoundStart><style=Vocab>Inizio del turno</style></link>: Ottieni una gemma di mana extra per questo turno.",
     "descriptionRaw": "Inizio del turno: Ottieni una gemma di mana extra per questo turno.",
     "name": "Cristallo dell'equinozio",
@@ -1320,8 +1320,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0040.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0040-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0040.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0040-full.png",
     "description": "+2|+2",
     "descriptionRaw": "+2|+2",
     "name": "Flagello",
@@ -1330,8 +1330,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0046.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0046-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0046.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0046-full.png",
     "description": "<link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>Rigenerazione</style></link>",
     "descriptionRaw": "Rigenerazione",
     "name": "Razione sostanziosa",
@@ -1340,8 +1340,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0043.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0043-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0043.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0043-full.png",
     "description": "+3|+3, ma <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Effimero</style></link>",
     "descriptionRaw": "+3|+3, ma Effimero",
     "name": "Simbolo maledetto",
@@ -1350,8 +1350,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0025.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0025-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0025.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0025-full.png",
     "description": "Quando vengo distrutto, crea una mia copia nella tua mano.",
     "descriptionRaw": "Quando vengo distrutto, crea una mia copia nella tua mano.",
     "name": "Occhio dell'incarnazione",
@@ -1360,8 +1360,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0131.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0131-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0131.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0131-full.png",
     "description": "<link=vocab.Rally><style=Vocab>Prepara l'assalto</style></link>",
     "descriptionRaw": "Prepara l'assalto",
     "name": "Stendardo dell'adunata",
@@ -1370,8 +1370,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0063.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0063-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0063.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0063-full.png",
     "description": "<link=vocab.Manifest><style=Vocab>Manifesta</style></link> una carta dalle mie regioni.",
     "descriptionRaw": "Manifesta una carta dalle mie regioni.",
     "name": "Portale yordle",
@@ -1380,8 +1380,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0032.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0032-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0032.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0032-full.png",
     "description": "Quando vengo evocato, evoca un poro casuale di costo 1.",
     "descriptionRaw": "Quando vengo evocato, evoca un poro casuale di costo 1.",
     "name": "Poro-Snax",
@@ -1390,8 +1390,18 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0059.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0059-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0176.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0176-full.png",
+    "description": "<link=keyword.Daybreak><style=Keyword>Alba</style></link>: Forniscimi +3|+3 per questo turno.",
+    "descriptionRaw": "Alba: Forniscimi +3|+3 per questo turno.",
+    "name": "Lanciasole Solari",
+    "itemCode": "I0176",
+    "rarity": "COMUNE",
+    "rarityRef": "Common"
+  },
+  {
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0059.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0059-full.png",
     "description": "<link=keyword.Invoke><style=Keyword>Invoca</style></link>",
     "descriptionRaw": "Invoca",
     "name": "Mappa stellare standard",
@@ -1400,8 +1410,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0143.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0143-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0143.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0143-full.png",
     "description": "Applica <link=keyword.Gloom><sprite name=Gloom><style=Keyword>Noia</style></link> alle unità invece di infliggere danni.",
     "descriptionRaw": "Applica Noia alle unità invece di infliggere danni.",
     "name": "Morellonomicon",
@@ -1410,8 +1420,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0151.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0151-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0151.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0151-full.png",
     "description": "<link=vocab.Play><style=Vocab>Gioca</style></link>: <link=vocab.Strike><style=Vocab>Colpisco</style></link> il Nexus nemico.",
     "descriptionRaw": "Gioca: Colpisco il Nexus nemico.",
     "name": "Ariete corrotto",
@@ -1420,8 +1430,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0161.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0161-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0161.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0161-full.png",
     "description": "Danni doppi",
     "descriptionRaw": "Danni doppi",
     "name": "Sigillo esplosivo",
@@ -1430,8 +1440,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0051.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0051-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0051.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0051-full.png",
     "description": "Giocami di nuovo sugli stessi bersagli.",
     "descriptionRaw": "Giocami di nuovo sugli stessi bersagli.",
     "name": "Elisir della stregoneria",
@@ -1440,8 +1450,8 @@
     "rarityRef": "Epic"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0057.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0057-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0057.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0057-full.png",
     "description": "-2 costo",
     "descriptionRaw": "-2 costo",
     "name": "Lacrima della dea",
@@ -1450,8 +1460,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0159.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0159-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0159.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0159-full.png",
     "description": "+2|+2, ma costa 1 in più",
     "descriptionRaw": "+2|+2, ma costa 1 in più",
     "name": "Piccolo Titano",
@@ -1460,8 +1470,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0030.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0030-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0030.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0030-full.png",
     "description": "Quando vengo evocato o distrutto, conferisci +1|+1 all'alleato <link=vocab.Strongest><style=Vocab>più forte</style></link>.",
     "descriptionRaw": "Quando vengo evocato o distrutto, conferisci +1|+1 all'alleato più forte.",
     "name": "Simbolo di forza",
@@ -1470,8 +1480,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0129.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0129-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0129.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0129-full.png",
     "description": "<link=keyword.Attune><sprite name=Attune><style=Keyword>Armonia</style></link>.\r\nQuando vengo evocato, crea 1 <link=card.self><style=AssociatedCard>Scherzo</style></link> nella tua mano.",
     "descriptionRaw": "Armonia.\r\nQuando vengo evocato, crea 1 Scherzo nella tua mano.",
     "name": "Spirito dispettoso",
@@ -1480,8 +1490,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0055.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0055-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0055.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0055-full.png",
     "description": "-1 costo",
     "descriptionRaw": "-1 costo",
     "name": "Pozione di mana",
@@ -1490,8 +1500,8 @@
     "rarityRef": "Common"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0135.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0135-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0135.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0135-full.png",
     "description": "Quando vengo evocata e all'<link=vocab.RoundStart><style=Vocab>Inizio del turno</style></link>: Evoca 1 <link=card.self><style=AssociatedCard>Nebbia invadente</style></link>.",
     "descriptionRaw": "Quando vengo evocata e all'Inizio del turno: Evoca 1 Nebbia invadente.",
     "name": "La nebbia",
@@ -1500,8 +1510,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0134.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0134-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0134.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0134-full.png",
     "description": "Evoca 1 <link=card.self><style=AssociatedCard>Preservarium</style></link>.",
     "descriptionRaw": "Evoca 1 Preservarium.",
     "name": "Cronomanzia",
@@ -1510,8 +1520,8 @@
     "rarityRef": "Rare"
   },
   {
-    "assetAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0029.png",
-    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_3_0/adventure/it_it/img/items/I0029-full.png",
+    "assetAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0029.png",
+    "assetFullAbsolutePath": "https://dd.b.pvp.net/6_4_0/adventure/it_it/img/items/I0029-full.png",
     "description": "I nemici hanno <nobr>-1|-0</nobr>.",
     "descriptionRaw": "I nemici hanno -1|-0.",
     "name": "Trofeo inquietante",
